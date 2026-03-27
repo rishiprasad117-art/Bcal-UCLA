@@ -1,0 +1,15 @@
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Data processing
+pandas>=2.0.0
+
+# API server
+flask>=2.3.0
+
+# Web UI
+streamlit>=1.28.0
+
+# Testing
+pytest>=7.4.0
