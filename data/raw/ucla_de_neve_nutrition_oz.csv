@@ -1,0 +1,115 @@
+Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium
+Breakfast,Bruin Scramble,Bruin Scramble,4.52,222,17.38g,4.1g,0.06g,298.85mg,402.05mg,3.47g,0.55g,1.57g,12.63g,78.46mg,1.47mg,156.01mg
+Breakfast,Vegetarian Bruin Scramble,Vegetarian Bruin Scramble,3.48,163,12.84g,3.19g,0.05g,238.84mg,241.42mg,2.66g,0.55g,1.1g,8.86g,69.38mg,1.21mg,136.24mg
+Breakfast,Potato O'Brien,Potato O'Brien,2.93,82,4.03g,0.32g,0.02g,0mg,101.21mg,10.73g,1.79g,1.18g,1.2g,7.4mg,0.38mg,284.36mg
+Breakfast,Scrambled Eggs,Scrambled Eggs,3.29,156,11.47g,3.24g,0.06g,337.42mg,129.71mg,0.92g,0g,0.22g,11.18g,56.31mg,1.58mg,122.68mg
+Breakfast,Smoked Polish Sausage,Smoked Polish Sausage,4,362,32.09g,11.02g,0g,70.19mg,932.47mg,5.01g,0g,0g,13.03g,0mg,0mg,0mg
+Breakfast,Buttery Hash Browns,Buttery Hash Browns,3.16,135,6.52g,4.01g,0g,17.06mg,310.99mg,17.56g,1.7g,0.83g,1.68g,8.6mg,0.47mg,390.98mg
+Breakfast,Fried Eggs,Fried Eggs,1.87,100,7.89g,1.79g,0.03g,185.01mg,70.62mg,0.36g,0g,0.19g,6.25g,27.85mg,0.87mg,68.63mg
+Breakfast,Tomatillo Salsa,Tomatillo Salsa,2.01,24,0.01g,0g,0g,0mg,1307.54mg,4.01g,1.94g,1.91g,1.94g,1.04mg,1.9mg,1103.4mg
+Breakfast,Belgian Waffles,Belgian Waffles,5.93,328,8.74g,2.74g,0g,0mg,908.81mg,57.83g,1.09g,13.09g,4.37g,144.35mg,2.45mg,76.37mg
+Breakfast,Maple Flavored Syrup,Maple Flavored Syrup,1,105,0g,0g,0g,0mg,89.3mg,26.32g,0g,15.04g,0g,0mg,0mg,0mg
+Breakfast,Bodega Egg & Bacon Roll,Bodega Egg & Bacon Roll,6.81,667,50.91g,11.39g,0.04g,249.8mg,971.37mg,31.86g,1.33g,4.28g,18.91g,68.21mg,2.51mg,252.71mg
+Breakfast,Tater Tots,Tater Tots,3.81,173,8.63g,2.16g,0g,0mg,356.07mg,20.5g,2.16g,1.08g,2.16g,0mg,0mg,345.28mg
+Breakfast,Egg Benedict Sandwich,Egg Benedict Sandwich,8.03,380,19.5g,8.26g,0.05g,408.73mg,677.47mg,27.53g,1.21g,2.07g,21.93g,68.16mg,3.41mg,381.52mg
+Breakfast,Oatmeal,Oatmeal,6.33,99,1.45g,0.29g,0g,0mg,1094.38mg,18.48g,2.89g,0.57g,2.89g,19.54mg,1.04mg,95.84mg
+Breakfast,Cream of Rice Cereal,Cream of Rice Cereal,6,70,0g,0g,0g,0mg,209.92mg,15.67g,0g,0g,1.31g,4.34mg,0mg,0mg
+Breakfast,Plain Bagel,Plain Bagel,4,292,1g,0g,0g,0mg,581.53mg,59.15g,2.01g,6.02g,11.02g,26.07mg,3.61mg,279.74mg
+Breakfast,Everything Bagel,Everything Bagel,4,311,2.5g,0g,0g,0mg,571.51mg,61.16g,3g,6.02g,11.02g,52.14mg,3.61mg,121.32mg
+Breakfast,Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,4,311,1.93g,0.31g,0g,0mg,389.75mg,62.54g,2.61g,6.78g,11.1g,21.53mg,4.31mg,167.68mg
+Breakfast,Cream Cheese,Cream Cheese,2,183,18.19g,12.13g,0g,60.64mg,192.04mg,4.04g,0g,2.02g,4.04g,52.56mg,0mg,0mg
+Breakfast,Strawberry Cream Cheese,Strawberry Cream Cheese,1.13,101,9.09g,6.05g,0g,30.24mg,97.25mg,4.29g,0.05g,3.28g,2.03g,26.22mg,0mg,0mg
+Breakfast,Avocado Pulp,Avocado Pulp,1,91,8.27g,1.2g,0g,0mg,3.95mg,4.81g,3.78g,0.37g,1.13g,6.77mg,0.31mg,273.54mg
+Breakfast,Black Forest Ham,Black Forest Ham,1,31,1.01g,0.25g,0g,12.59mg,327.32mg,0.5g,0g,0.5g,5.04g,0mg,0mg,95.68mg
+Breakfast,Sliced Swiss Cheese,Sliced Swiss Cheese,1,109,9.4g,5.37g,0g,26.86mg,53.72mg,0g,0g,0g,8.06g,261.86mg,0mg,20.14mg
+Breakfast,Sliced Tomatoes,Sliced Tomatoes,2,11,0.11g,0.02g,0g,0mg,2.83mg,2.2g,0.68g,1.49g,0.5g,5.66mg,0.15mg,134.14mg
+Breakfast,Julienne Red Onion,Julienne Red Onion,1,12,0.03g,0.01g,0g,0mg,1.13mg,2.63g,0.48g,1.2g,0.31g,6.49mg,0.06mg,41.17mg
+Breakfast,Capers,Capers,1,7,0.24g,0.06g,0g,0mg,662.15mg,1.38g,0.9g,0.12g,0.67g,11.28mg,0.47mg,11.28mg
+Breakfast,Spinach,Spinach,3,20,0.33g,0.05g,0g,0mg,67.07mg,3.08g,1.87g,0.36g,2.43g,84.05mg,2.3mg,473.74mg
+Breakfast,Cucumber,Cucumber,1,9,0.06g,0.02g,0g,0mg,1.13mg,2.05g,0.28g,0.94g,0.37g,9.02mg,0.16mg,82.91mg
+Breakfast,Watermelon,Watermelon,5,44,0.21g,0.03g,0g,0mg,1.42mg,10.69g,0.57g,8.78g,0.86g,9.91mg,0.34mg,158.59mg
+Breakfast,Pineapple,Pineapple,3,43,0.1g,0.01g,0g,0mg,0.85mg,11.14g,1.19g,8.36g,0.46g,11.04mg,0.25mg,92.54mg
+Breakfast,Cantaloupe,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg
+Breakfast,Apple Fritter,Apple Fritter,1.67,10,0.05g,0.01g,0g,0.12mg,2.25mg,2.25g,0.19g,1.61g,0.05g,2.86mg,0.03mg,1.32mg
+Breakfast,Mini Croissant,Mini Croissant,1.04,123,6.12g,3.68g,0g,18.38mg,128.63mg,14.7g,0.46g,2.45g,2.45g,0mg,0mg,31.85mg
+Breakfast,Mini Maple Pecan Danish,Mini Maple Pecan Danish,1.5,207,12.61g,4.01g,0g,5.73mg,57.3mg,19.48g,1.14g,9.17g,2.29g,0mg,0mg,29.79mg
+Breakfast,Vegan Banana Quickbread,Vegan Banana Quickbread,2.34,218,8.19g,0.62g,0.03g,0mg,113.69mg,33.35g,1.13g,16.22g,2.98g,2.04mg,0.95mg,58.22mg
+Lunch,Hawaiian Shrimp,Hawaiian Shrimp,3.2,156,11.13g,5.43g,0.02g,78.88mg,771.67mg,4.54g,0.51g,1.55g,6.79g,40.59mg,0.31mg,107.92mg
+Lunch,Steamed Rice,Steamed Rice,3,318,0.87g,0.25g,0g,0mg,35.63mg,68.62g,1.53g,0.28g,6.37g,60.23mg,2.83mg,147.61mg
+Lunch,Peppered Beyond Steak,Peppered Beyond Steak,4.59,133,6.02g,0.14g,0g,0mg,636.62mg,7.4g,2.04g,3.42g,13.33g,10.05mg,0.26mg,105.78mg
+Lunch,Huli Huli Roasted Chicken,Huli Huli Roasted Chicken,2.52,137,8.11g,2.38g,0g,40.46mg,306.46mg,5.22g,0.11g,4.04g,10.55g,3.71mg,0.07mg,112.43mg
+Lunch,Roasted Green Beans,Roasted Green Beans,2.04,27,1.14g,0.1g,0.01g,0mg,57.7mg,3.94g,1.53g,1.85g,1.03g,20.93mg,0.58mg,119.36mg
+Lunch,Coconut Crusted Tofu,Coconut Crusted Tofu,5.65,362,26.56g,9.3g,0g,0mg,829.54mg,26.5g,6.5g,11.32g,11.51g,29.6mg,3.43mg,293.35mg
+Lunch,Luau Pizza,Luau Pizza,4.14,315,17.81g,4.11g,0.05g,20.19mg,704.28mg,28.84g,1.83g,4.42g,10.51g,136.51mg,0.59mg,237.36mg
+Lunch,Cheese Pizza,Cheese Pizza,3.24,288,16.83g,3.7g,0.05g,12.19mg,543.42mg,26.52g,1.67g,2.8g,8.23g,133.67mg,0.38mg,197.45mg
+Lunch,Pepperoni Deluxe Pizza,Pepperoni Deluxe Pizza,4.14,336,20.81g,5.22g,0.05g,21.3mg,689.82mg,27.5g,1.92g,3.3g,10.04g,135.73mg,0.43mg,233.67mg
+Lunch,Bruin Burger,Bruin Burger,8.75,458,21.13g,7.86g,0g,101.95mg,751.96mg,32.39g,2.43g,5.01g,32.74g,78.24mg,5.13mg,577.59mg
+Lunch,Bruin Cheeseburger,Bruin Cheeseburger,9.28,510,25.56g,10.84g,0g,113.04mg,1465.67mg,33.14g,2.42g,5.02g,35.69g,78.24mg,5.13mg,577.57mg
+Lunch,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,9.31,585,27.07g,8.84g,0g,81.3mg,2136.75mg,65g,3.03g,17.75g,21.37g,58.77mg,2.66mg,155.27mg
+Lunch,Big Island Burger,Big Island Burger,9.75,703,43.68g,12.88g,0g,131.08mg,783.14mg,38.57g,2.02g,9.12g,36.58g,197.83mg,5.06mg,510.49mg
+Lunch,Chicken Katsu Sandwich,Chicken Katsu Sandwich,7.76,575,28.81g,6.16g,0g,74mg,1681.75mg,56.34g,2.48g,8.11g,21.35g,42mg,1.58mg,96.36mg
+Lunch,Beyond Burger,Beyond Burger,7.78,413,18.7g,4.28g,11.05g,24.76mg,689.33mg,36.29g,1.72g,4.3g,25.78g,113.25mg,6.77mg,447.77mg
+Lunch,Chicken Noodle Soup,Chicken Noodle Soup,6.02,55,1.55g,0.03g,0g,17.71mg,443.82mg,2.08g,0.49g,1.28g,6.77g,10.99mg,0.09mg,49.75mg
+Lunch,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,6.05,133,9.26g,6.05g,0g,37.55mg,32.99mg,10.11g,2.14g,5.45g,1.85g,21.36mg,2.01mg,494.76mg
+Lunch,Pineapple Marinated Chicken Thigh,Pineapple Marinated Chicken Thigh,2.92,101,3.41g,0.69g,0g,69.55mg,160.64mg,1.08g,0.12g,0.77g,14.65g,1.68mg,0.03mg,11.09mg
+Lunch,Cilantro Rice,Cilantro Rice,3.68,119,2.15g,0.76g,0g,0mg,162.32mg,21.92g,0.76g,0.48g,2.1g,26.11mg,0.92mg,83.31mg
+Lunch,Spicy Lentil,Spicy Lentil,2.32,101,1.54g,0.14g,0.01g,0mg,33.43mg,16.25g,2.78g,0.81g,6.13g,11.33mg,1.62mg,176.68mg
+Lunch,Flex Bar Special,Flex Bar Special,4,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg
+Lunch,Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,3.24,82,6.36g,0.5g,0.03g,0mg,212.91mg,5.21g,1.99g,1.25g,2.65g,45.4mg,0.79mg,281.24mg
+Lunch,Roasted Cauliflower w/ Chile & Lime,Roasted Cauliflower w/ Chile & Lime,2.67,39,2g,0.22g,0.01g,0mg,146mg,4.85g,1.55g,1.32g,1.56g,23.2mg,0.42mg,228.62mg
+Lunch,Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,2.8,35,1.51g,0.13g,0.01g,0mg,131.91mg,4.39g,1.05g,2.03g,2.07g,10.09mg,0.42mg,218.53mg
+Lunch,Ranch Dressing,Ranch Dressing,1.01,120,12.63g,1.78g,0g,11.89mg,202.9mg,0.62g,0g,0.62g,0.43g,15.09mg,0.01mg,19.65mg
+Lunch,Caesar Salad Dressing,Caesar Salad Dressing,2,320,34.05g,4.86g,0g,30.43mg,272.19mg,1.18g,0.07g,0.22g,1.25g,6.36mg,0.13mg,29.45mg
+Lunch,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,4,165,3.34g,0.03g,0g,65.1mg,89.69mg,0.27g,0.05g,0.05g,26.08g,1.56mg,0.02mg,3.67mg
+Lunch,Watermelon,Watermelon,1,9,0.04g,0.01g,0g,0mg,0.28mg,2.13g,0.11g,1.75g,0.17g,1.97mg,0.07mg,31.58mg
+Lunch,Pineapple,Pineapple,1,15,0.03g,0g,0g,0mg,0.28mg,3.7g,0.39g,2.78g,0.15g,3.67mg,0.08mg,30.74mg
+Lunch,Cantaloupe,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg
+Lunch,White Cupcake,White Cupcake,3.51,338,24.55g,12.65g,0.04g,40.1mg,139.62mg,28.09g,0.24g,16.1g,2.94g,46.21mg,0.65mg,43.14mg
+Lunch,White Chocolate Chip Cookie w/ Cranberries,White Chocolate Chip Cookie w/ Cranberries,1.3,158,7.46g,4.58g,0g,25.31mg,73.42mg,21.05g,0.44g,13.05g,1.86g,4.31mg,0.49mg,7.43mg
+Lunch,Dutch Apple Pie,Dutch Apple Pie,4.4,334,14.17g,4.67g,0g,0mg,246.47mg,49.57g,3.74g,20.52g,3.97g,19.84mg,1.48mg,107.49mg
+Lunch,Cranberry Crunch Bar,Cranberry Crunch Bar,1.92,213,9.39g,3.15g,0g,0mg,149.3mg,29.91g,2.45g,14.87g,2.8g,15mg,0.92mg,77.99mg
+Lunch,Oreo Mousse,Oreo Mousse,3.98,424,30.41g,18.74g,0g,109.24mg,156.01mg,28.11g,8.97g,20.33g,2.54g,14.64mg,0.89mg,53.81mg
+Lunch,Deep Dish Blackout Cake,Deep Dish Blackout Cake,3.42,272,17.92g,10.87g,0.02g,63.5mg,168.31mg,38.06g,3.52g,26.91g,4.7g,41.21mg,3.09mg,337.75mg
+Dinner,Mahi Mahi Seared Fish,Mahi Mahi Seared Fish,2,54,1.14g,0.16g,0.01g,40.24mg,99.63mg,0.05g,0.01g,0.01g,10.2g,8.43mg,0.63mg,230.28mg
+Dinner,Spicy Pineapple Salsa,Spicy Pineapple Salsa,1.15,27,1.13g,0.08g,0g,0mg,14.02mg,4.34g,0.34g,3.72g,0.18g,4.9mg,0.11mg,44.83mg
+Dinner,Coconut Rice,Coconut Rice,1.96,106,2.44g,2.06g,0g,0mg,92.94mg,18.55g,0.46g,0.66g,1.68g,17.34mg,0.79mg,68.48mg
+Dinner,Garlic Lemon Tofu,Garlic Lemon Tofu,2.33,89,5.46g,0.81g,0.01g,0mg,31.96mg,5.25g,1.92g,0.18g,6.36g,47.81mg,1.07mg,45.3mg
+Dinner,Hawaiian Roasted Pork,Hawaiian Roasted Pork,6.07,320,18.89g,6.64g,0.19g,94.58mg,611.92mg,8.17g,0.14g,6.67g,27.85g,30.19mg,1.79mg,500.43mg
+Dinner,Hawaiian Macaroni Salad,Hawaiian Macaroni Salad,2.89,283,21.28g,3.04g,0g,48.34mg,491.74mg,18.72g,1.42g,1.41g,4.05g,9.55mg,0.29mg,108.92mg
+Dinner,Beyond Chicken Tenders,Beyond Chicken Tenders,4,303,15.81g,1.97g,0g,0mg,645.55mg,18.45g,3.95g,2.64g,18.45g,26.35mg,1.31mg,276.67mg
+Dinner,Luau Pizza,Luau Pizza,4.14,315,17.81g,4.11g,0.05g,20.19mg,704.28mg,28.84g,1.83g,4.42g,10.51g,136.51mg,0.59mg,237.36mg
+Dinner,Cheese Pizza,Cheese Pizza,3.24,288,16.83g,3.7g,0.05g,12.19mg,543.42mg,26.52g,1.67g,2.8g,8.23g,133.67mg,0.38mg,197.45mg
+Dinner,Pepperoni Deluxe Pizza,Pepperoni Deluxe Pizza,4.14,336,20.81g,5.22g,0.05g,21.3mg,689.82mg,27.5g,1.92g,3.3g,10.04g,135.73mg,0.43mg,233.67mg
+Dinner,Bruin Burger,Bruin Burger,8.75,458,21.13g,7.86g,0g,101.95mg,751.96mg,32.39g,2.43g,5.01g,32.74g,78.24mg,5.13mg,577.59mg
+Dinner,Bruin Cheeseburger,Bruin Cheeseburger,9.28,510,25.56g,10.84g,0g,113.04mg,1465.67mg,33.14g,2.42g,5.02g,35.69g,78.24mg,5.13mg,577.57mg
+Dinner,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,9.31,585,27.07g,8.84g,0g,81.3mg,2136.75mg,65g,3.03g,17.75g,21.37g,58.77mg,2.66mg,155.27mg
+Dinner,Big Island Burger,Big Island Burger,9.75,703,43.68g,12.88g,0g,131.08mg,783.14mg,38.57g,2.02g,9.12g,36.58g,197.83mg,5.06mg,510.49mg
+Dinner,Chicken Katsu Sandwich,Chicken Katsu Sandwich,7.76,575,28.81g,6.16g,0g,74mg,1681.75mg,56.34g,2.48g,8.11g,21.35g,42mg,1.58mg,96.36mg
+Dinner,Beyond Burger,Beyond Burger,7.78,413,18.7g,4.28g,11.05g,24.76mg,689.33mg,36.29g,1.72g,4.3g,25.78g,113.25mg,6.77mg,447.77mg
+Dinner,Chicken Noodle Soup,Chicken Noodle Soup,6.02,55,1.55g,0.03g,0g,17.71mg,443.82mg,2.08g,0.49g,1.28g,6.77g,10.99mg,0.09mg,49.75mg
+Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,6.05,133,9.26g,6.05g,0g,37.55mg,32.99mg,10.11g,2.14g,5.45g,1.85g,21.36mg,2.01mg,494.76mg
+Dinner,Cilantro Rice,Cilantro Rice,3.68,119,2.15g,0.76g,0g,0mg,162.32mg,21.92g,0.76g,0.48g,2.1g,26.11mg,0.92mg,83.31mg
+Dinner,Beyond Meatballs in Brava Sauce,Beyond Meatballs in Brava Sauce,3.2,132,6.56g,0.94g,0g,0mg,334.79mg,11.27g,1.23g,1.33g,8g,15.39mg,1.99mg,199.73mg
+Dinner,Huli Huli Roasted Chicken,Huli Huli Roasted Chicken,2.52,137,8.11g,2.38g,0g,40.46mg,306.46mg,5.22g,0.11g,4.04g,10.55g,3.71mg,0.07mg,112.43mg
+Dinner,Garbanzo Picadillo,Garbanzo Picadillo,4.83,110,3.35g,0.4g,0g,0mg,225.32mg,16.72g,3.97g,5.7g,4.17g,33.22mg,0.89mg,271.85mg
+Dinner,Hawaiian Shrimp,Hawaiian Shrimp,3.2,156,11.13g,5.43g,0.02g,78.88mg,771.67mg,4.54g,0.51g,1.55g,6.79g,40.59mg,0.31mg,107.92mg
+Dinner,Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,3.24,82,6.36g,0.5g,0.03g,0mg,212.91mg,5.21g,1.99g,1.25g,2.65g,45.4mg,0.79mg,281.24mg
+Dinner,Roasted Cauliflower w/ Chile & Lime,Roasted Cauliflower w/ Chile & Lime,2.67,39,2g,0.22g,0.01g,0mg,146mg,4.85g,1.55g,1.32g,1.56g,23.2mg,0.42mg,228.62mg
+Dinner,Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,2.8,35,1.51g,0.13g,0.01g,0mg,131.91mg,4.39g,1.05g,2.03g,2.07g,10.09mg,0.42mg,218.53mg
+Dinner,Ranch Dressing,Ranch Dressing,1.01,120,12.63g,1.78g,0g,11.89mg,202.9mg,0.62g,0g,0.62g,0.43g,15.09mg,0.01mg,19.65mg
+Dinner,Caesar Salad Dressing,Caesar Salad Dressing,2,320,34.05g,4.86g,0g,30.43mg,272.19mg,1.18g,0.07g,0.22g,1.25g,6.36mg,0.13mg,29.45mg
+Dinner,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,4,165,3.34g,0.03g,0g,65.1mg,89.69mg,0.27g,0.05g,0.05g,26.08g,1.56mg,0.02mg,3.67mg
+Dinner,Watermelon,Watermelon,1,9,0.04g,0.01g,0g,0mg,0.28mg,2.13g,0.11g,1.75g,0.17g,1.97mg,0.07mg,31.58mg
+Dinner,Cantaloupe,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg
+Dinner,Pineapple,Pineapple,1,15,0.03g,0g,0g,0mg,0.28mg,3.7g,0.39g,2.78g,0.15g,3.67mg,0.08mg,30.74mg
+Dinner,"Cauliflower, Raisin, & Almond Salad w. Curry Vinaigrette","Cauliflower, Raisin, & Almond Salad w. Curry Vinaigrette",2,27,0.92g,0.12g,0g,0mg,98.25mg,4.17g,1.09g,2.28g,1.21g,13.24mg,0.24mg,158.51mg
+Dinner,Cole Slaw,Cole Slaw,2,151,14.52g,1.99g,0g,13.15mg,239.7mg,4.2g,1.17g,2.73g,0.61g,19.35mg,0.26mg,88.21mg
+Dinner,Country Potato Salad,Country Potato Salad,2,93,7.21g,0.99g,0g,6.51mg,238.34mg,5.84g,0.96g,1.21g,0.62g,6.41mg,0.19mg,147.6mg
+Dinner,White Cupcake,White Cupcake,3.51,338,24.55g,12.65g,0.04g,40.1mg,139.62mg,28.09g,0.24g,16.1g,2.94g,46.21mg,0.65mg,43.14mg
+Dinner,White Chocolate Chip Cookie w/ Cranberries,White Chocolate Chip Cookie w/ Cranberries,1.3,158,7.46g,4.58g,0g,25.31mg,73.42mg,21.05g,0.44g,13.05g,1.86g,4.31mg,0.49mg,7.43mg
+Dinner,Dutch Apple Pie,Dutch Apple Pie,4.4,334,14.17g,4.67g,0g,0mg,246.47mg,49.57g,3.74g,20.52g,3.97g,19.84mg,1.48mg,107.49mg
+Dinner,Cranberry Crunch Bar,Cranberry Crunch Bar,1.92,213,9.39g,3.15g,0g,0mg,149.3mg,29.91g,2.45g,14.87g,2.8g,15mg,0.92mg,77.99mg
+Dinner,Oreo Mousse,Oreo Mousse,3.98,424,30.41g,18.74g,0g,109.24mg,156.01mg,28.11g,8.97g,20.33g,2.54g,14.64mg,0.89mg,53.81mg
+Dinner,Deep Dish Blackout Cake,Deep Dish Blackout Cake,3.42,272,17.92g,10.87g,0.02g,63.5mg,168.31mg,38.06g,3.52g,26.91g,4.7g,41.21mg,3.09mg,337.75mg
+Dinner,Chipmunk Bar,Chipmunk Bar,1.76,190,10.27g,3.81g,0g,21.11mg,64.37mg,23.81g,1.82g,14.27g,4.08g,15.44mg,1.62mg,164.78mg
+Dinner,Maple Walnut Blondies,Maple Walnut Blondies,2.36,292,15.94g,8.59g,0.01g,53.49mg,74.8mg,33.85g,0.8g,23.33g,4.12g,10.84mg,0.88mg,44.15mg

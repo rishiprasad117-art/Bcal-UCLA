@@ -1,0 +1,50 @@
+Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium
+All Day,Latin Daily Special,Cheese Quesadilla,8.88,766,49.62g,27.53g,0g,119.51mg,1326.66mg,46.29g,4.25g,3.52g,36.86g,108.74mg,2.79mg,321.04mg
+All Day,Latin Daily Special,Chicken Quesadilla,12.72,902,53.21g,29.6g,0g,151.01mg,2934.9mg,52.74g,6.24g,3.89g,56.45g,123.62mg,3.32mg,614.87mg
+All Day,SUSHI BOWLS,California Roll,7.72,588,14.33g,2.1g,0g,16.13mg,499.67mg,101.76g,4.18g,4g,13.02g,20.9mg,0.7mg,351.52mg
+All Day,SUSHI BOWLS,Spicy Tuna Sushi Bowl,25.21,1477,24.8g,2.72g,0.07g,66.31mg,445.48mg,239.53g,10.43g,4.07g,72.25g,210.95mg,5.07mg,1469.65mg
+All Day,SUSHI BOWLS,Vegan Sushi Bowl,17.56,1223,18.27g,2.64g,0g,0mg,263.83mg,235.86g,8.86g,3.33g,28.87g,52.31mg,1.05mg,523.43mg
+All Day,Base,Brown Rice,2.99,162,1.19g,0.24g,0g,0mg,42.26mg,33.92g,1.52g,0g,3.34g,15.9mg,0.8mg,119.36mg
+All Day,Base,Sticky Rice,6,647,1.6g,0.26g,0g,0mg,17mg,139.94g,3.23g,0.09g,13.29g,37.4mg,10.71mg,45.9mg
+All Day,Base,Garlic Fried Rice,8.32,862,4.55g,0.64g,0.02g,0mg,737.65mg,182.77g,3.04g,0.31g,16.46g,71.68mg,9.86mg,278.93mg
+All Day,Base,Pilipino Style Bihon Stir-Fried Noodles,2.98,239,1.23g,0.11g,0.01g,0mg,599.7mg,55.62g,2.03g,1.02g,1.81g,19.72mg,0.28mg,82.86mg
+All Day,Entrée,Crispy Pork Belly,6,566,44.39g,15.25g,0g,69.34mg,1223.35mg,20.15g,0.02g,13.89g,22.42g,0.37mg,0.02mg,0.92mg
+All Day,Entrée,Chicken Adobo,4.07,349,25.99g,7.45g,0g,114.71mg,248.32mg,2.56g,0.05g,2.08g,23.92g,17.28mg,1.43mg,255.17mg
+All Day,Entrée,Kabocha & Coconut Milk Stew,4.45,208,13.23g,11.37g,0g,0mg,178.94mg,17.63g,2.6g,4.02g,4.59g,38.33mg,1.94mg,316.84mg
+All Day,Entrée,Vegetable Egg Roll (Chunjuan),3,141,4.49g,0.5g,0g,0mg,449.47mg,20.98g,2g,2g,3g,25.97mg,1.08mg,179.78mg
+All Day,Entrée,Vietnamese Spicy Eggplant w/ Basil,4.06,130,4.72g,0.56g,0g,0mg,572.29mg,18.61g,1.48g,13.35g,4.54g,27.74mg,1.14mg,117.36mg
+All Day,Entrée,Beef & Broccoli,3.63,96,4.81g,1.35g,0g,22.36mg,737.34mg,9.22g,1.16g,2.53g,8.53g,25.33mg,1.04mg,165.77mg
+All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,1.01,9,0.05g,0.01g,0g,0mg,35.86mg,1.96g,0.59g,1.1g,0.22g,7.83mg,0.09mg,74.63mg
+All Day,ASIAN TOPPING,Salted Cucumber,2.02,9,0.06g,0.02g,0g,0mg,152.5mg,2.06g,0.29g,0.95g,0.37g,9.1mg,0.16mg,83.62mg
+All Day,ASIAN TOPPING,Marinated Soy Sprouts,1.7,83,6.27g,0.88g,0g,0mg,142.37mg,4.21g,0.51g,0.04g,5.62g,29.84mg,0.92mg,211.42mg
+All Day,ASIAN TOPPING,Seasoned Blanched Spinach,1.06,19,1.48g,0.21g,0g,0mg,39.17mg,1.1g,0.63g,0.12g,0.83g,28.47mg,0.77mg,159.3mg
+All Day,ASIAN TOPPING,Vietnamese Pickled Daikon,1.18,9,0.03g,0.01g,0g,0mg,14.71mg,1.68g,0.45g,1.24g,0.19g,7.15mg,0.1mg,66.23mg
+All Day,ASIAN TOPPING,Vietnamese Shredded Green Papaya Salad,2.85,49,0.17g,0.05g,0g,0mg,257.3mg,12.05g,1.45g,9g,0.6g,18.13mg,0.26mg,168.76mg
+All Day,ASIAN TOPPING,Edamame,1,32,1.33g,0g,0g,0mg,1.69mg,2.15g,1.35g,0.7g,3.16g,16.92mg,0.6mg,135.92mg
+All Day,ASIAN TOPPING,Kimchi,1,6,0g,0g,0g,0mg,161.14mg,1.01g,0g,0g,1.01g,6.04mg,0mg,60.43mg
+All Day,ASIAN TOPPING,Seaweed Salad,1,20,0.71g,0.14g,0g,0mg,231.24mg,3.1g,1.41g,1.69g,0.28g,28.2mg,0.2mg,0mg
+All Day,ASIAN SAUCE,Green Sriracha,1.31,17,0.12g,0.03g,0g,0mg,227.94mg,3.44g,0.87g,2.1g,0.39g,7.1mg,0.11mg,81.1mg
+All Day,ASIAN SAUCE,Dumpling Dipping Sauce,0.85,10,0.02g,0g,0g,0mg,289.99mg,1.41g,0.11g,0.76g,0.54g,2.24mg,0.06mg,8.87mg
+All Day,ASIAN SAUCE,Red Sriracha,1.23,19,0.15g,0.01g,0g,0mg,229.92mg,4.29g,0.52g,2.55g,0.71g,7.97mg,0.36mg,109.3mg
+All Day,ASIAN SAUCE,Kickin' Mayo,1,148,16.17g,0.9g,0g,0mg,157.8mg,0.53g,0g,0.53g,0.53g,0mg,0mg,0mg
+All Day,ASIAN SAUCE,Thai Chilies w/ Vegan Fish Sauce,1.54,26,0.06g,0g,0g,0mg,2788.66mg,5.17g,0.21g,2.72g,2.23g,1.98mg,0.14mg,45.58mg
+All Day,ASIAN SAUCE,Chojang Korean Dipping Sauce,0.99,106,7.05g,1g,0g,0mg,335.18mg,9.7g,0.5g,8.5g,0.6g,1.06mg,1.33mg,2.35mg
+All Day,BOBA DRINKS,Milk Tea Boba,23.22,608,3.36g,3.36g,0g,22.44mg,43.7mg,149.08g,0.33g,108.87g,0.07g,23.5mg,0.59mg,121.57mg
+All Day,BOBA DRINKS,Thai Tea Boba,24.03,563,5.79g,3.13g,0.07g,19.34mg,80.3mg,124.85g,0.34g,88.27g,4.9g,190.57mg,0.68mg,165.37mg
+All Day,BOBA DRINKS,Taro Boba,23.55,535,5.47g,2.54g,0g,0mg,21.49mg,122.42g,0.33g,79.1g,0.07g,23.3mg,0.6mg,4.07mg
+All Day,BOBA DRINKS,Green Milk Tea Boba,21.18,540,2.58g,0g,0g,0mg,19.15mg,114.9g,0.24g,85.36g,0.06g,19.87mg,0.48mg,3.12mg
+All Day,BOBA DRINKS,Vietnamese Coffee Boba,24.7,736,7.77g,4.2g,0.07g,25.69mg,103.61mg,161.44g,0.35g,115.73g,7.91g,261.42mg,1.19mg,616.16mg
+All Day,BOBA DRINKS,Horchata Boba,22.26,291,0.76g,0.76g,0g,0mg,39.19mg,69.22g,0.57g,15.08g,0.5g,41.33mg,1.01mg,62.91mg
+All Day,BOBA DRINKS,Agua de Jamaica,14.94,145,0g,0g,0g,0mg,15.07mg,38.49g,0g,38.49g,0g,11.3mg,0mg,0mg
+All Day,BOBA DRINKS,Strawberry Lemonade Boba,28.64,566,0g,0g,0g,0mg,31.01mg,148.07g,0.49g,113.49g,0.16g,28.33mg,0.65mg,30.36mg
+All Day,BOBA DRINKS,Mango Boba,22,437,0.44g,0g,0g,0mg,16.71mg,111.31g,2g,76.08g,0.87g,20.14mg,0.62mg,198.68mg
+All Day,BOBA DRINKS,Cucumber & Lime Fresca Boba,15.82,159,0.04g,0g,0g,0mg,16.59mg,39.37g,0.58g,4.75g,0.36g,26.28mg,0.76mg,69.95mg
+All Day,DRINKS,Brewed Coffee,17.38,70,0.1g,0.05g,0g,0mg,26.16mg,14.73g,0g,0g,2.36g,41.77mg,0.89mg,691.31mg
+All Day,DRINKS,Fountain Beverage,1.04,0,0g,0g,0g,0mg,0.98mg,0g,0g,0g,0g,0.74mg,0mg,0mg
+All Day,CONDIMENTS,Nanami Togarashi Spice,1,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg
+All Day,CONDIMENTS,Fried Shallots,1,142,14.1g,0g,0g,0mg,14.1mg,14.1g,0g,0g,0g,28.2mg,0mg,197.4mg
+All Day,CONDIMENTS,Fried Garlic,1,227,28.2g,0g,0g,0mg,28.2mg,0g,0g,0g,0g,28.2mg,0mg,197.4mg
+All Day,CONDIMENTS,Sweet Chili Mae Ploy Sauce,1,76,0g,0g,0g,0mg,498.21mg,18.8g,0g,17.86g,0g,2.82mg,0.09mg,19.74mg
+All Day,CONDIMENTS,Sweet Chili Mayo,1,171,15.91g,2.17g,0g,14.46mg,267.3mg,6.27g,0g,5.95g,0g,0.94mg,0.03mg,6.58mg
+All Day,CONDIMENTS,Sweet and Sour Sauce,1,76,0g,0g,0g,0mg,498.21mg,18.8g,0g,17.86g,0g,2.82mg,0.09mg,19.74mg
+All Day,CONDIMENTS,Satay Dipping Sauce,1.48,72,4.94g,3.7g,0g,0mg,538.35mg,5.76g,0.86g,3.36g,0.6g,5.99mg,0.16mg,78.6mg

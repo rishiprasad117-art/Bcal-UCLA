@@ -1,0 +1,104 @@
+name: Daily Menu Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 6 AM UTC daily
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update-menu:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml pandas
+
+      # ── Scrapers ────────────────────────────────────────────────────────────
+      # Each step runs independently. A scraper failure (e.g. location closed,
+      # transient network error) does not abort the remaining scrapers or the
+      # pipeline steps that follow.
+
+      - name: Scrape Bruin Cafe
+        continue-on-error: true
+        run: python scrape_bruin_cafe.py
+
+      - name: Scrape Bruin Plate
+        continue-on-error: true
+        run: python scrape_bruin_plate.py
+
+      - name: Scrape Cafe 1919
+        continue-on-error: true
+        run: python scrape_cafe1919.py
+
+      - name: Scrape De Neve
+        continue-on-error: true
+        run: python scrape_deneve.py
+
+      - name: Scrape Epicuria at Ackerman
+        continue-on-error: true
+        run: python scrape_epic_ackerman.py
+
+      - name: Scrape Epicuria at Covel
+        continue-on-error: true
+        run: python scrape_epic_covel.py
+
+      - name: Scrape Feast at Rieber
+        continue-on-error: true
+        run: python scrape_fiest.py
+
+      - name: Scrape Rendezvous
+        continue-on-error: true
+        run: python scrape_rende.py
+
+      - name: Scrape The Study at Hedrick
+        continue-on-error: true
+        run: python scrape_thestudy.py
+
+      # ── Pipeline ────────────────────────────────────────────────────────────
+
+      - name: Run ingest pipeline
+        run: python pipeline/ingest.py
+
+      - name: Run autotag pipeline
+        run: python pipeline/autotag.py
+
+      # ── Commit ──────────────────────────────────────────────────────────────
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Daily menu update $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Create summary
+        run: |
+          echo "## Daily Menu Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.changes.outputs.changed }}" == "true" ]; then
+            echo "**Status:** Data updated and committed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "**Status:** No changes detected" >> $GITHUB_STEP_SUMMARY
+          fi

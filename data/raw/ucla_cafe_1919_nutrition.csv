@@ -1,0 +1,67 @@
+Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium
+Lunch / Dinner,Cheese Cake with Macerate Berries,Cheese Cake with Macerate Berries,11.57,988,63.19g,39.61g,0.03g,360.82mg,562.09mg,102.73g,4.39g,72.4g,18.76g,167.69mg,2.07mg,216.28mg
+Lunch / Dinner,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24.75g,282.72mg,2.78mg,561.47mg
+Lunch / Dinner,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,359.75mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.41mg
+Lunch / Dinner,Gamberett,Gamberett,9,413,31.03g,7.73g,0.1g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg
+Lunch / Dinner,Mediterranean Salad,Mediterranean Salad,12.01,176,8.14g,0.14g,0g,0mg,887.25mg,23.86g,7.11g,8.17g,6.74g,153.86mg,2.55mg,899.98mg
+Lunch / Dinner,Salmone Di Insalata,Salmone Di Insalata,11.51,254,13.9g,3.13g,0g,54.44mg,302.35mg,8.81g,3.69g,4.08g,23.98g,92.28mg,2.67mg,1072.02mg
+Lunch / Dinner,Pollo Verdura,Pollo Verdura,12.81,339,12.45g,4.94g,0g,69.1mg,407.54mg,21.46g,7.04g,7.84g,31.59g,262.96mg,2.4mg,623.84mg
+Lunch / Dinner,Tuscan Tagliata Salad,Tuscan Tagliata Salad,13,129,4.42g,0.55g,0g,0mg,1158.65mg,19.64g,9.06g,5.67g,5.6g,146.73mg,3.43mg,661.46mg
+Lunch / Dinner,Heirloom Tomato Caprese,Heirloom Tomato Caprese,7.18,346,9.17g,5.51g,0g,22.86mg,538.89mg,49.18g,2.2g,3.86g,15.28g,46.38mg,0.98mg,253.8mg
+Lunch / Dinner,Campania,Campania,10.84,393,11.09g,5.47g,0g,20.34mg,590.01mg,51.95g,4.58g,5.93g,21.23g,330.85mg,1.17mg,547.86mg
+Lunch / Dinner,Tacchino,Tacchino,15.75,1331,97.72g,23.12g,0g,146.78mg,2203.83mg,61.2g,5g,7.01g,49.33g,457.2mg,3.21mg,725.09mg
+Lunch / Dinner,Pollo Parma,Pollo Parma,11.78,683,29.72g,13.86g,0g,111.36mg,920.76mg,48.55g,2.57g,3.01g,51.09g,662.62mg,0.67mg,414.54mg
+Lunch / Dinner,Florentino,Florentino,12.25,1289,99.16g,17.36g,0g,156.34mg,1107.98mg,46.56g,2.22g,1.77g,43.71g,372.09mg,1.32mg,300.36mg
+Lunch / Dinner,Sundried Tomato & Goat Cheese,Sundried Tomato & Goat Cheese,12,937,46.63g,14.79g,0.1g,65.98mg,1497.43mg,96.86g,10.13g,48.91g,34.21g,478.55mg,1.56mg,949.73mg
+Lunch / Dinner,Formaggi,Formaggi,10.75,875,44.36g,14.08g,0.12g,54.85mg,1562.14mg,86.44g,6.98g,14.41g,39.03g,579.14mg,2.01mg,992.26mg
+Lunch / Dinner,Genova,Genova,12.5,863,37.63g,19.45g,0.04g,141.22mg,1029.17mg,71.04g,2.34g,1.98g,58.25g,581.83mg,2.48mg,307.82mg
+Lunch / Dinner,Carnivora,Carnivora,13,957,46.16g,20.52g,0.52g,141.02mg,2417.7mg,90.66g,7g,15.25g,45.42g,485.15mg,1.92mg,1004.55mg
+Lunch / Dinner,Margherita,Margherita,12.05,881,44.4g,14.07g,0.1g,54.81mg,1563.32mg,87.9g,7.38g,15.5g,39.24g,573.31mg,1.95mg,1076.13mg
+Lunch / Dinner,Pepperoni,Pepperoni,12,1086,64.04g,21.66g,0.1g,100.4mg,2290.51mg,86.25g,6.84g,14.39g,46.42g,566.57mg,1.8mg,971.29mg
+Lunch / Dinner,Ranch Dressing,Ranch Dressing,1.96,232,24.59g,3.46g,0g,23.16mg,395.12mg,1.22g,0g,1.22g,0.84g,29.39mg,0.01mg,38.26mg
+Lunch / Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,2.16,180,20.06g,0.01g,0g,0mg,488.42mg,5.25g,0.17g,3.38g,0.32g,10.41mg,0.15mg,79.5mg
+Lunch / Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,2,354,39.35g,2.9g,0.16g,0mg,447.65mg,1.25g,0.12g,0.93g,0.05g,2.08mg,0.05mg,6.18mg
+Lunch / Dinner,Red Wine Vinaigrette,Red Wine Vinaigrette,2.02,310,34.64g,2.56g,0.14g,0mg,372.78mg,0.35g,0.07g,0.06g,0.06g,1.66mg,0.03mg,5.95mg
+Lunch / Dinner,Salted,Salted,13.43,825,25.61g,10.35g,0.19g,39.35mg,1740.9mg,123.5g,5.21g,3.08g,21.5g,88.98mg,1.6mg,394.53mg
+Lunch / Dinner,Jalapeno,Jalapeno,13.42,790,24.88g,9.97g,0.19g,37.89mg,1863.01mg,117.51g,4.98g,3.04g,20.39g,95.86mg,1.52mg,384.77mg
+Lunch / Dinner,Pepperoni,Pepperoni,16.48,1167,56.57g,25.6g,0.19g,126.35mg,2893.22mg,113.79g,4.86g,3.04g,52.69g,311.65mg,2.62mg,522.12mg
+Lunch / Dinner,Marinara Sauce,Marinara Sauce,4,73,2.63g,0.2g,0.01g,0mg,149.09mg,9.39g,2.33g,4.83g,1.53g,8.16mg,0.18mg,452.43mg
+Lunch / Dinner,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,2.03,154,12.47g,7.81g,0.01g,45.33mg,357.55mg,3.42g,0.13g,1.27g,5.36g,183.44mg,0.1mg,55mg
+Lunch / Dinner,Vanilla Bean,Vanilla Bean,8,454,25.19g,15.12g,0g,100.75mg,138.54mg,52.89g,0g,50.37g,7.55g,491.19mg,0mg,0mg
+Lunch / Dinner,Purple Yam Ube,Purple Yam Ube,8,465,25.75g,15.46g,0g,90.16mg,141.69mg,54.09g,0g,51.53g,126.23g,502.34mg,0mg,0mg
+Lunch / Dinner,Caramel Sea Salt,Caramel Sea Salt,8,567,28.34g,11.34g,0g,56.68mg,198.36mg,70.84g,2.83g,73.68g,11.34g,294.71mg,0mg,382.56mg
+Lunch / Dinner,Chocolate Chip Coffee,Chocolate Chip Coffee,8,515,28.34g,20.61g,0g,90.16mg,141.69mg,54.09g,2.58g,51.53g,10.31g,291.11mg,2.58mg,2.58mg
+Lunch / Dinner,Cookies and Cream,Cookies and Cream,8,567,28.34g,15.46g,0g,77.28mg,257.62mg,64.41g,2.58g,54.09g,10.31g,334.9mg,0.93mg,0mg
+Lunch / Dinner,Dark Chocolate,Dark Chocolate,8,490,23.19g,12.88g,0g,167.44mg,128.81mg,64.41g,5.15g,59.26g,12.88g,265.35mg,2.58mg,324.59mg
+Lunch / Dinner,Mint Chocolate Chip,Mint Chocolate Chip,8,515,18.02g,0g,0g,90.16mg,128.81mg,59.26g,2.58g,56.68g,10.31g,334.9mg,0.93mg,0mg
+Lunch / Dinner,Spumoni,Spumoni,8,429,22.67g,12.6g,0g,100.75mg,125.95mg,50.37g,0g,45.34g,10.07g,261.97mg,0mg,0mg
+Lunch / Dinner,Strawberry Cheesecake,Strawberry Cheesecake,8,490,23.19g,12.88g,0g,90.16mg,167.44mg,59.26g,0g,56.68g,10.31g,293.69mg,0mg,0mg
+Lunch / Dinner,Banana Dulce de Leche,Banana Dulce de Leche,8,465,18.02g,11.58g,0g,77.28mg,141.69mg,59.26g,0g,7.73g,7.73g,298.84mg,2.58mg,113.35mg
+Lunch / Dinner,Birthday Cake,Birthday Cake,8,490,12.88g,12.88g,0g,77.28mg,180.34mg,66.99g,0g,66.99g,7.73g,334.9mg,0mg,0mg
+Lunch / Dinner,Peanut Butter Cup,Peanut Butter Cup,8,620,38.65g,18.02g,0g,77.28mg,283.38mg,54.09g,2.58g,48.94g,15.46g,334.9mg,0.93mg,0mg
+Lunch / Dinner,Pistachio,Pistachio,8,543,30.92g,15.46g,0g,90.16mg,270.5mg,51.53g,0g,48.94g,12.88g,334.9mg,0mg,0mg
+Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,8,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0
+Lunch / Dinner,Strawberry Pan Sorbet,Strawberry Pan Sorbet,8,0,0g,0g,0g,0mg,906.8mg,680.1g,63.48g,22.67g,0g,0mg,0mg,0mg
+Lunch / Dinner,Alphonso Mango Sorbet,Alphonso Mango Sorbet,8,232,0g,0g,0g,0mg,0mg,59.26g,2.58g,56.68g,0g,0mg,0mg,2.58mg
+Lunch / Dinner,Granola Clusters,Granola Clusters,2,219,2.72g,0g,0g,0mg,92.52mg,46.8g,4.35g,15.24g,4.35g,0mg,1.57mg,141.5mg
+Lunch / Dinner,Coconut Flakes,Coconut Flakes,1,132,7.05g,6.04g,0g,0mg,5.04mg,17.12g,4.03g,11.08g,0g,0mg,0mg,0mg
+Lunch / Dinner,Dried Cranberry,Dried Cranberry,1,65,0g,0g,0g,0mg,0mg,16.32g,0.99g,12.86g,0g,0mg,0mg,0mg
+Lunch / Dinner,Semi Sweet Chocolate Chips,Semi Sweet Chocolate Chips,2,265,15.1g,9.44g,0g,0mg,0mg,0g,3.78g,33.96g,3.78g,0mg,4.53mg,150.94mg
+Lunch / Dinner,Oreo Cookie Pieces,Oreo Cookie Pieces,1.5,205,7.85g,2.36g,0g,0mg,164.89mg,31.41g,17.27g,17.27g,1.57g,0mg,1.7mg,70.67mg
+Lunch / Dinner,M&M Milk Chocolate Chopped,M&M Milk Chocolate Chopped,2,285,13.22g,8.19g,0.1g,8.49mg,38.49mg,38.71g,1.53g,35.4g,2.71g,65.66mg,0.7mg,0mg
+Lunch / Dinner,Rainbow Sprinkles,Rainbow Sprinkles,2,272,11.26g,4.67g,3.96g,0mg,2.06mg,41.51g,0.2g,20.79g,0.93g,1.72mg,0.1mg,0mg
+Lunch / Dinner,Dark Chocolate Sauce,Dark Chocolate Sauce,1,105,0.94g,0g,0g,0mg,14.1mg,23.5g,0g,21.62g,0.94g,0mg,1.69mg,121.26mg
+Lunch / Dinner,Whipped Cream,Whipped Cream,1,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg
+Lunch / Dinner,Maraschino Cherry,Maraschino Cherry,0.03,2,0g,0g,0g,0mg,0mg,0.32g,0g,0.16g,0g,0mg,0mg,0mg
+Lunch / Dinner,Gummy Bears,Gummy Bears,2,57,0g,0g,0g,0mg,11.32mg,12.45g,0g,7.92g,0.57g,2.26mg,0mg,1.13mg
+Lunch / Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,3.99,453,17.82g,10.17g,0g,64.99mg,227.07mg,68.42g,3.75g,34.04g,7.22g,32.4mg,2.31mg,220.26mg
+Lunch / Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,4,471,22.65g,13.34g,0.01g,89.74mg,184.25mg,67.79g,2.98g,43.18g,7.4g,24.94mg,3.52mg,135.23mg
+Lunch / Dinner,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,1.5,243,15.14g,3.03g,0g,7.57mg,302.86mg,22.71g,3.03g,3.03g,4.54g,54.51mg,0.45mg,151.43mg
+Lunch / Dinner,Jalapeno Kettle Chips,Jalapeno Kettle Chips,1.5,319,10.6g,1.51g,0g,0mg,287.71mg,24.23g,1.51g,0g,3.03g,0mg,0.55mg,0mg
+Lunch / Dinner,Baked Lays Potato Chips,Baked Lays Potato Chips,1.13,140,3.99g,0.5g,0g,0mg,179.44mg,23.93g,1.99g,2.99g,1.99g,9.97mg,0.3mg,249.22mg
+Lunch / Dinner,Sea Salt Kettle Chips,Sea Salt Kettle Chips,1.52,231,13g,1.5g,0g,0mg,180mg,25g,2g,0g,3g,0mg,0mg,0mg
+Lunch / Dinner,BBQ Kettle Chips,BBQ Kettle Chips,1.5,213,12.11g,1.51g,0g,0mg,302.86mg,25.74g,1.51g,1.51g,3.03g,7.57mg,0.61mg,575.42mg
+Lunch / Dinner,Banana,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,7.08mg,0.37mg,506.93mg
+Lunch / Dinner,Oranges,Oranges,5,67,0.17g,0.03g,0g,0mg,0mg,16.64g,3.4g,13.24g,1.33g,56.64mg,0.14mg,256.3mg
+Lunch / Dinner,Fuji Apple,Fuji Apple,5.66,102,0.29g,0g,0g,0mg,1.6mg,24.41g,3.37g,18.73g,0.32g,11.23mg,0.16mg,174.84mg
+Lunch / Dinner,Granny Smith Apple,Granny Smith Apple,6.4,105,0.34g,0g,0g,0mg,1.81mg,24.67g,5.08g,17.39g,0.8g,9.07mg,0.27mg,217.56mg

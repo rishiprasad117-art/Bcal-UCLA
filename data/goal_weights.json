@@ -1,0 +1,82 @@
+{
+  "like_bonus": 2,
+  "cut": {
+    "tag_weights": {
+      "protein": 4,
+      "grilled": 3,
+      "high_volume_low_cal": 3,
+      "veg_protein": 2,
+      "veggies": 1,
+      "fried": -4,
+      "sugary": -3,
+      "creamy": -2,
+      "high_calorie": -3,
+      "carb": -1
+    },
+    "nutrition_weights": {
+      "calories": -0.01,
+      "protein_grams": 0.20
+    }
+  },
+  "bulk": {
+    "tag_weights": {
+      "protein": 4,
+      "carb": 2,
+      "starch": 2,
+      "high_calorie": 2,
+      "grilled": 1,
+      "fried": 0,
+      "sugary": -1
+    },
+    "nutrition_weights": {
+      "calories": 0.005,
+      "protein_grams": 0.15
+    }
+  },
+  "maintain": {
+    "tag_weights": {
+      "protein": 3,
+      "veggies": 2,
+      "grilled": 2,
+      "veg_protein": 1,
+      "high_volume_low_cal": 1,
+      "fried": -2,
+      "sugary": -2,
+      "high_calorie": -1
+    },
+    "nutrition_weights": {
+      "calories": -0.005,
+      "protein_grams": 0.10
+    }
+  },
+  "high_protein": {
+    "tag_weights": {
+      "protein": 5,
+      "veg_protein": 4,
+      "grilled": 2,
+      "fried": -1,
+      "sugary": -2,
+      "carb": -1
+    },
+    "nutrition_weights": {
+      "calories": -0.005,
+      "protein_grams": 0.30
+    }
+  },
+  "balanced": {
+    "tag_weights": {
+      "protein": 3,
+      "veggies": 2,
+      "carb": 1,
+      "grilled": 1,
+      "veg_protein": 1,
+      "fried": -1,
+      "sugary": -1,
+      "high_calorie": -1
+    },
+    "nutrition_weights": {
+      "calories": 0.0,
+      "protein_grams": 0.10
+    }
+  }
+}

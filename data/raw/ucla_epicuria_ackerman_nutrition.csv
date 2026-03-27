@@ -1,0 +1,27 @@
+Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium
+All Day,SALADS,Caesar Salad,12.1,594,45.64g,10.05g,0g,56.24mg,879.09mg,28.94g,4.83g,2.91g,17.87g,375.2mg,2.33mg,681.62mg
+All Day,SALADS,Antipasto Salad,15.91,676,58.48g,11.23g,0.18g,45.5mg,1618.6mg,23.22g,9.6g,6.9g,19.34g,399.77mg,2.98mg,966.82mg
+All Day,SALADS,Butternut Squash & Cranberry Salad,13.1,580,33.23g,3.34g,0.07g,0mg,1444.32mg,69.69g,9.47g,39.91g,7.28g,199.24mg,3.94mg,1210.22mg
+All Day,Salad Add-Ons,Grilled Chicken,4,163,5.39g,1.35g,0g,87.67mg,472.09mg,1.35g,0g,0g,26.98g,0mg,0.49mg,674.41mg
+All Day,Salad Add-Ons,Grilled Salmon,3.02,181,11.91g,2.55g,0g,44.44mg,474.06mg,0.61g,0.07g,0.03g,16.6g,10.71mg,0.32mg,302.03mg
+All Day,Salad Add-Ons,Roasted Seitan Skewer,4.28,328,21.74g,1.56g,0g,0mg,863.22mg,7.38g,0.12g,0.02g,27.31g,62.48mg,2.56mg,281.23mg
+All Day,NEAPOLITAN PIZZAS,Margherita Pizza,18.23,1135,31.52g,19.43g,0g,84.79mg,3499.82mg,156.97g,11.37g,20.2g,55.8g,762.08mg,1.81mg,1493.37mg
+All Day,NEAPOLITAN PIZZAS,Pepperoni Pizza,20.73,1150,31.5g,13.28g,0.65g,97.42mg,3909.07mg,165.06g,12.4g,24.86g,55.29g,730.03mg,2.06mg,1587.11mg
+All Day,NEAPOLITAN PIZZAS,Tre Funghi Pizza,17.75,1019,35.62g,15.7g,0.45g,87.94mg,2820.63mg,136.39g,6.39g,3.37g,37.78g,501.39mg,2.87mg,752.13mg
+All Day,NEAPOLITAN PIZZAS,Cauliflower Crust Zucchini Pizza,14.2,857,34.05g,15.38g,0g,106.62mg,1902.13mg,102.36g,7.61g,13g,32.44g,767.49mg,5.8mg,1317.83mg
+All Day,"""L.A."" PIZZA PIES",Chicken Pesto Pizza Pie,26.1,1820,93.07g,41.72g,0.67g,341.57mg,4054.03mg,134.72g,4.66g,3.99g,102.39g,1173.99mg,3.48mg,1582.21mg
+All Day,"""L.A."" PIZZA PIES",Mambo Italiano Pizza Pie,26.57,1599,71.62g,31.55g,1.05g,165.76mg,5165.89mg,173.44g,13.71g,26.36g,64.01g,975.26mg,3.46mg,1863.4mg
+All Day,PASTAS,Spaghetti Pomodoro,18.98,601,18.29g,10.38g,0g,46mg,3762.77mg,87.91g,19.58g,56.27g,30.45g,391.88mg,0.59mg,3228.65mg
+All Day,PASTAS,Chicken Fettuccine,21.63,827,58.06g,36.72g,0.06g,252.11mg,1783.32mg,34.89g,2.94g,5.89g,32.74g,418.56mg,2.88mg,649.95mg
+All Day,PASTAS,Ricotta Rosa Baked Pasta,20.04,863,40.5g,22.44g,0.28g,423.61mg,3169.95mg,67.93g,8.8g,22.66g,60.21g,1245.4mg,3.86mg,1573.42mg
+All Day,PASTAS,Spaghetti Bolognese,22.55,803,59.77g,25.25g,0.32g,193.1mg,1891.58mg,24.16g,3.9g,7.93g,36.88g,196.36mg,1.28mg,765.12mg
+All Day,PASTAS,Vegetarian Fettucine,20.45,740,54.95g,35.53g,0.06g,204.14mg,1525.57mg,35.01g,3.71g,6.03g,18.66g,424.61mg,3.25mg,349.85mg
+All Day,SANDWICHES,Mozzarella Di Bufala Sandwich,13.83,657,32.5g,16.07g,0g,67.93mg,1262.87mg,59.27g,3.06g,6.12g,30.81g,519.71mg,1.57mg,496.62mg
+All Day,SANDWICHES,Turkey Caprese Sandwich,16,715,29.79g,12.56g,0g,93.87mg,2033.09mg,63.49g,2.72g,10.57g,45.8g,417.36mg,2.95mg,408.47mg
+All Day,SANDWICHES,Pistachio Mortadella Sandwich,16,833,55.6g,42.4g,0g,78.91mg,1216.6mg,59.45g,2.72g,6.49g,43.45g,417.36mg,2.9mg,408.47mg
+All Day,SANDWICHES,Portobello Sandwich,15.52,512,26.7g,3.04g,0.04g,0.04mg,1161.03mg,58.42g,6.38g,7.79g,13.02g,144.29mg,3.52mg,989.07mg
+All Day,Sides,Oatmeal Raisin Cookie,3.99,453,17.82g,10.17g,0g,64.99mg,227.07mg,68.42g,3.75g,34.04g,7.22g,32.4mg,2.31mg,220.26mg
+All Day,Sides,Chocolate Chip Cookie,4,471,22.65g,13.34g,0.01g,89.74mg,184.25mg,67.79g,2.98g,43.18g,7.4g,24.94mg,3.52mg,135.23mg
+All Day,Sides,Fuji Apple,5.66,102,0.29g,0g,0g,0mg,1.6mg,24.41g,3.37g,18.73g,0.32g,11.23mg,0.16mg,174.84mg
+All Day,Sides,Oranges,5,67,0.17g,0.03g,0g,0mg,0mg,16.64g,3.4g,13.24g,1.33g,56.64mg,0.14mg,256.3mg
+All Day,Sides,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,7.08mg,0.37mg,506.93mg

@@ -1,0 +1,12 @@
+Meal,Category,Food Item,Calories (kcal),Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrate (g),Dietary Fiber (g),Sugars (g),Added Sugars (g),Protein (g),Calcium (mg),Iron (mg),Potassium (mg),Vitamin A (mcg),Vitamin B6 (mg),Vitamin B12 (mcg),Vitamin C (mg),Vitamin D (mcg)
+Breakfast,Breakfast Station,Scrambled Eggs,180kcal,12.0g,3.5g,0.0g,370mg,320mg,2.0g,0.0g,1.0g,0.0g,14.0g,60mg,1.8mg,140mg,120mcg,0.1mg,1.2mcg,0.0mg,1.0mcg
+Breakfast,Breakfast Station,Turkey Bacon,90kcal,5.0g,1.5g,0.0g,35mg,480mg,1.0g,0.0g,0.5g,0.0g,8.0g,5mg,0.5mg,95mg,0mcg,0.1mg,0.2mcg,0.0mg,0.0mcg
+Breakfast,Breakfast Station,Oatmeal,99kcal,1.45g,0.29g,0.0g,0mg,1094mg,18.48g,2.89g,0.57g,0.0g,2.89g,20mg,1.04mg,96mg,0mcg,0.0mg,0.0mcg,0.0mg,0.0mcg
+Breakfast,Breakfast Station,Whole Wheat Pancakes,210kcal,4.0g,1.0g,0.0g,35mg,420mg,38.0g,3.0g,6.0g,3.0g,7.0g,150mg,2.0mg,180mg,0mcg,0.1mg,0.2mcg,0.0mg,0.6mcg
+Lunch,The Hill,Roasted Chicken Thigh,310kcal,18.0g,5.0g,0.0g,115mg,520mg,0.0g,0.0g,0.0g,0.0g,32.0g,20mg,1.5mg,380mg,25mcg,0.5mg,0.7mcg,0.0mg,0.2mcg
+Lunch,The Hill,Pasta Primavera,410kcal,12.0g,3.0g,0.0g,10mg,580mg,62.0g,5.0g,8.0g,0.0g,14.0g,80mg,3.0mg,420mg,60mcg,0.2mg,0.1mcg,15.0mg,0.0mcg
+Lunch,The Hill,Caesar Salad,220kcal,16.0g,3.5g,0.0g,15mg,480mg,14.0g,2.0g,2.0g,0.0g,8.0g,120mg,1.5mg,300mg,90mcg,0.1mg,0.2mcg,10.0mg,0.0mcg
+Lunch,The Hill,Vegetarian Chili,240kcal,5.0g,0.5g,0.0g,0mg,640mg,38.0g,12.0g,6.0g,0.0g,14.0g,80mg,4.5mg,720mg,60mcg,0.2mg,0.0mcg,15.0mg,0.0mcg
+Dinner,The Hill,Beef Taco,480kcal,22.0g,8.0g,0.0g,70mg,780mg,42.0g,3.0g,4.0g,0.0g,24.0g,150mg,3.5mg,420mg,40mcg,0.3mg,1.2mcg,6.0mg,0.2mcg
+Dinner,The Hill,Garden Salad,60kcal,0.0g,0.0g,0.0g,0mg,50mg,12.0g,3.0g,5.0g,0.0g,2.0g,50mg,1.0mg,280mg,150mcg,0.1mg,0.0mcg,25.0mg,0.0mcg
+Dinner,The Hill,Grilled Salmon,280kcal,14.0g,3.0g,0.0g,90mg,380mg,0.0g,0.0g,0.0g,0.0g,34.0g,25mg,0.8mg,560mg,45mcg,0.9mg,3.5mcg,3.0mg,12.0mcg

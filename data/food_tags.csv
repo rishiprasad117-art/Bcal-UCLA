@@ -1,0 +1,530 @@
+canonical_name,category,tags,calories,protein_grams,fat_grams,carb_grams,vegetarian,vegan,halal,allergens,data_quality
+Grilled Chicken Breast,protein,"protein,grilled",180,28,4,0,False,False,True,,complete
+Chicken Sandwich,protein,"protein,fried,carb",520,30,22,48,False,False,True,gluten,complete
+Steamed Broccoli,veg,"veggies,high_volume_low_cal",55,4,0,10,True,True,True,,complete
+Brown Rice,starch,"starch,carb",220,4,1,48,True,True,True,,complete
+Caesar Salad,veg,"veggies,creamy",220,8,16,14,True,False,True,"dairy,gluten",complete
+Cheeseburger,protein,"protein,carb,high_calorie",680,34,36,52,False,False,False,"gluten,dairy",complete
+French Fries,starch,"starch,fried,carb,high_calorie",380,4,18,52,True,True,True,,complete
+Tofu Entree,protein,"protein,veg_protein,grilled",200,14,10,8,True,True,True,,complete
+Pasta Marinara,starch,"starch,carb",410,12,8,72,True,True,True,gluten,complete
+Greek Yogurt Parfait,dairy,"protein,sugary",310,14,4,54,True,False,True,dairy,complete
+Salmon Fillet,protein,"protein,grilled",280,34,14,0,False,False,True,fish,complete
+Veggie Burger,protein,"protein,carb,veg_protein",420,18,14,52,True,False,False,gluten,complete
+Scrambled Eggs,protein,protein,180,14,12,2,True,False,True,"eggs,dairy",complete
+Oatmeal,starch,"starch,carb",180,6,3,32,True,True,True,gluten,complete
+Turkey Sandwich,protein,"protein,carb",420,28,10,48,False,False,True,gluten,complete
+Spinach,veg,"veggies,high_volume_low_cal",10,1,0,1,True,True,True,,complete
+Cherry Tomatoes,veg,"veggies,high_volume_low_cal",20,1,0,4,True,True,True,,complete
+Turkey Bacon,protein,protein,90,8,5,1,False,False,True,,estimated
+Veggie Wrap,protein,"protein,veg_protein,carb",380,12,12,52,True,False,True,"gluten,dairy",estimated
+Beef Taco,protein,"protein,carb,high_calorie",480,24,22,42,False,False,False,"gluten,dairy",complete
+Garden Salad,veg,"veggies,high_volume_low_cal",60,2,0,12,True,True,True,,complete
+Chocolate Chip Cookie,dessert,"sugary,high_calorie",280,3,14,38,True,False,True,"gluten,dairy,eggs",complete
+Bruin Waffle Plate,starch,"carb,high_calorie,protein,starch,sugary",704.0,19.69,34.37,80.13,unknown,unknown,unknown,unknown,complete
+Parfait Fresh Berry,unknown,"protein,sugary",138.0,13.06,1.11,20.83,unknown,unknown,unknown,unknown,complete
+Parfait Oatmeal Blueberry & Apple,starch,"carb,high_calorie,starch,sugary",279.0,5.34,8.21,47.84,unknown,unknown,unknown,unknown,complete
+Fresh Fruit Cup,unknown,carb,137.0,2.1,0.48,35.0,unknown,unknown,unknown,unknown,complete
+Instant Oatmeal - Baked Apple,starch,"carb,starch",159.0,3.94,1.97,32.54,unknown,unknown,unknown,unknown,complete
+Multi Grain Cheerios,starch,"carb,starch",210.0,4.7,2.31,46.07,unknown,unknown,unknown,unknown,complete
+Cheerios Cereal,unknown,carb,153.0,5.44,2.72,31.53,unknown,unknown,unknown,unknown,complete
+Honey Nut Cheerios Cereal,unknown,carb,161.0,3.44,2.29,34.38,unknown,unknown,unknown,unknown,complete
+Lucky Charms Cereal,unknown,,108.0,2.16,1.42,22.81,unknown,unknown,unknown,unknown,complete
+Cinnamon Toast Crunch Cereal,unknown,carb,187.0,2.07,4.14,34.13,unknown,unknown,unknown,unknown,complete
+Cocoa Puffs,unknown,,109.0,1.58,1.47,23.6,unknown,unknown,unknown,unknown,complete
+Trix Cereal,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Rice Chex Cereal,starch,starch,114.0,2.12,0.71,24.68,unknown,unknown,unknown,unknown,complete
+Plain Chicken Wings,protein,"high_calorie,protein",562.0,46.99,40.14,1.46,unknown,unknown,unknown,unknown,complete
+Frank's RedHot® Chicken Wings,protein,"high_calorie,protein",670.0,56.05,47.9,1.44,unknown,unknown,unknown,unknown,complete
+Lemon Pepper Chicken Wings,protein,"high_calorie,protein",685.0,53.4,50.89,1.47,unknown,unknown,unknown,unknown,complete
+Szechuan Chicken Wings,protein,"high_calorie,protein",638.0,52.41,44.58,4.34,unknown,unknown,unknown,unknown,complete
+Wedge Cut Fries,unknown,"fried,starch",112.0,2.02,4.05,17.2,unknown,unknown,unknown,unknown,complete
+Ham & Swiss Sandwich,unknown,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Roasted Turkey & Provolone Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Smoky BBQ Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+BBQ Beef Brisket Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chicken Ranch & Swiss Sandwich,protein,"carb,creamy,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+The Cuban Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chipotle BBQ Turkey Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chicken Caesar Sandwich,protein,"carb,creamy,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Roasted Salmon Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Pastrami & Swiss Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chicken Pesto Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Roasted Portobello Mushroom Sandwich,unknown,"carb,veggies",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Buffalo Chicken Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Cheesesteak,dairy,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Vegan Chicken Caesar Sandwich,protein,"carb,creamy,protein,veg_protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chipotle BBQ Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Havana Press Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+"Roasted Garden ""Salmon"" Sandwich",protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Vegetarian Chicken Ranch & Swiss Sandwich,protein,"carb,creamy,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Vegetarian Pastrami & Swiss Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Vegetarian Ham & Swiss Sandwich,unknown,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chicken Parmesan Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Vegetarian Cobb Salad,veg,veggies,370.0,12.79,31.07,12.2,unknown,unknown,unknown,unknown,complete
+Mixed Green Salad,veg,"high_calorie,veggies",508.0,11.87,46.83,12.31,unknown,unknown,unknown,unknown,complete
+Asian Wonton Salad,veg,"carb,veggies",472.0,10.79,30.87,43.83,unknown,unknown,unknown,unknown,complete
+Chopped Mediterranean Salad,veg,"high_calorie,veggies",559.0,10.4,47.06,26.47,unknown,unknown,unknown,unknown,complete
+Chicken Noodle Soup,protein,"protein,starch",101.0,7.92,1.82,12.17,unknown,unknown,unknown,unknown,complete
+Creamy Tomato Basil Soup,veg,"creamy,veggies",133.0,1.85,9.26,10.11,unknown,unknown,unknown,unknown,complete
+Peanut Butter & Strawberry Preserves Sandwich,dairy,"carb,high_calorie,protein",959.0,31.84,46.55,102.89,unknown,unknown,unknown,unknown,complete
+Avocado BLT Sandwich,unknown,"carb,high_calorie",716.0,8.14,61.54,33.62,unknown,unknown,unknown,unknown,complete
+Tuna Salad Croissant Sandwich,protein,"carb,high_calorie,protein,starch,veggies",766.0,44.6,43.79,47.48,unknown,unknown,unknown,unknown,complete
+Turkey & Provolone Sandwich,protein,"carb,high_calorie,protein",974.0,31.06,76.04,41.48,unknown,unknown,unknown,unknown,complete
+Italian Sandwich,protein,"carb,high_calorie,protein",1113.0,52.33,85.06,48.8,unknown,unknown,unknown,unknown,complete
+Gluten Free Turkey & Provolone Sandwich,protein,"carb,high_calorie,protein",1074.0,7.54,55.95,135.41,unknown,unknown,unknown,unknown,complete
+Gluten Free Italian Sandwich,protein,"high_calorie,protein",878.0,45.07,82.2,4.74,unknown,unknown,unknown,unknown,complete
+Gluten Free Avocado BLT Sandwich,sauce,,575.0,3.76,59.78,7.18,unknown,unknown,unknown,unknown,complete
+1/2 Turkey & Provolone Sandwich,protein,"carb,high_calorie,protein",655.0,19.48,41.97,48.84,unknown,unknown,unknown,unknown,complete
+1/2 Ham & Swiss Sandwich,protein,"carb,high_calorie,protein",560.0,22.19,30.51,50.55,unknown,unknown,unknown,unknown,complete
+Chicken Caesar Salad,protein,"creamy,protein,veggies",314.0,46.18,13.2,5.15,unknown,unknown,unknown,unknown,complete
+Asian Chicken Salad,protein,"protein,veggies",463.0,30.18,25.3,26.22,unknown,unknown,unknown,unknown,complete
+Nut Free Asian Wonton Salad,veg,"carb,veggies",388.0,7.77,23.43,41.19,unknown,unknown,unknown,unknown,complete
+BBQ Chicken Salad,protein,"carb,high_calorie,protein,veggies",627.0,33.02,40.03,36.77,unknown,unknown,unknown,unknown,complete
+Forbidden Rice Grain Bowl with Shrimp,protein,"carb,high_calorie,protein,starch",744.0,25.01,42.33,74.86,unknown,unknown,unknown,unknown,complete
+Quinoa Grain Bowl with Chicken,protein,"carb,high_calorie,protein,starch",580.0,40.37,11.45,73.91,unknown,unknown,unknown,unknown,complete
+Peanut Butter and Egg Protein Box,protein,"carb,high_calorie,protein",688.0,33.54,47.59,34.25,unknown,unknown,unknown,unknown,complete
+Crudite Box,unknown,"carb,high_calorie,protein",505.0,12.09,29.25,55.34,unknown,unknown,unknown,unknown,complete
+Caesar Wrap,protein,"carb,creamy,high_calorie,protein",539.0,20.41,30.62,49.26,unknown,unknown,unknown,unknown,complete
+Chicken Caesar Wrap,protein,"carb,creamy,high_calorie,protein",620.0,38.66,31.96,42.66,unknown,unknown,unknown,unknown,complete
+Roasted Vegetable & Ricotta Cheese Wrap,dairy,protein,171.0,11.13,7.73,15.75,unknown,unknown,unknown,unknown,complete
+Vegan Caesar Dressing,sauce,creamy,180.0,0.32,20.06,5.25,unknown,unknown,unknown,unknown,complete
+Ranch Dressing,sauce,creamy,232.0,0.84,24.59,1.22,unknown,unknown,unknown,unknown,complete
+Balsamic Vinaigrette,sauce,,354.0,0.05,39.35,1.25,unknown,unknown,unknown,unknown,complete
+Red Wine Vinaigrette,sauce,,310.0,0.06,34.64,0.35,unknown,unknown,unknown,unknown,complete
+Asian Salad Dressing,veg,veggies,194.0,1.46,14.83,13.53,unknown,unknown,unknown,unknown,complete
+Strawberry Sensation Smoothie,beverage,"high_calorie,sugary",302.0,3.6,0.4,71.94,unknown,unknown,unknown,unknown,complete
+Mango Madness Smoothie,beverage,"high_calorie,sugary",568.0,1.13,2.83,139.57,unknown,unknown,unknown,unknown,complete
+Caribbean Island Smoothie,protein,"high_calorie,protein,sugary",488.0,1.65,1.94,122.55,unknown,unknown,unknown,unknown,complete
+Bruin Fresh Smoothie,beverage,"high_calorie,sugary",342.0,4.9,1.08,82.02,unknown,unknown,unknown,unknown,complete
+Smoothie #15: Chocolate Banana,beverage,high_calorie,575.0,15.7,4.2,123.64,unknown,unknown,unknown,unknown,complete
+Smoothie #06: Alooooha,beverage,"high_calorie,sugary",369.0,3.55,1.1,88.34,unknown,unknown,unknown,unknown,complete
+Café Latte,unknown,,117.0,11.49,0.28,17.05,unknown,unknown,unknown,unknown,complete
+Vanilla Latte,starch,starch,378.0,8.6,0.22,70.79,unknown,unknown,unknown,unknown,complete
+Mocha Latte,unknown,,119.0,10.7,0.31,18.32,unknown,unknown,unknown,unknown,complete
+Caramel Latte,starch,"high_calorie,starch,sugary",500.0,7.66,3.52,94.65,unknown,unknown,unknown,unknown,complete
+Chai Tea Latte,beverage,"high_calorie,sugary",300.0,0.95,0.04,59.21,unknown,unknown,unknown,unknown,complete
+Brewed Coffee,beverage,sugary,70.0,2.36,0.1,14.73,unknown,unknown,unknown,unknown,complete
+Espresso,unknown,,1.0,0.01,0.01,0.08,unknown,unknown,unknown,unknown,complete
+Café Caramel,starch,"carb,high_calorie,starch,sugary",480.0,2.63,3.41,95.07,unknown,unknown,unknown,unknown,complete
+Café Mocha,unknown,sugary,89.0,4.66,0.22,17.06,unknown,unknown,unknown,unknown,complete
+Café Vanilla,starch,"carb,starch",347.0,2.59,0.09,69.28,unknown,unknown,unknown,unknown,complete
+Brewed Tea,beverage,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+White Chocolate Latte,unknown,,307.0,13.46,0.2,65.84,unknown,unknown,unknown,unknown,complete
+Cappuccino,unknown,,73.0,3.72,3.84,5.83,unknown,unknown,unknown,unknown,complete
+Hot Chocolate,unknown,protein,156.0,14.44,0.39,23.71,unknown,unknown,unknown,unknown,complete
+Hot Vanilla,unknown,"carb,protein",415.0,12.37,0.3,76.18,unknown,unknown,unknown,unknown,complete
+Horchata Latte,unknown,sugary,31.0,0.23,0.5,5.76,unknown,unknown,unknown,unknown,complete
+Tea Latte,beverage,"high_calorie,sugary",299.0,0.9,0.0,59.09,unknown,unknown,unknown,unknown,complete
+Americano,unknown,,1.0,0.0,0.0,0.14,unknown,unknown,unknown,unknown,complete
+Oatmeal Raisin Cookie,starch,"carb,high_calorie,starch,sugary",453.0,7.22,17.82,68.42,unknown,unknown,unknown,unknown,complete
+Chocolate Croissant,starch,"carb,starch",310.0,3.99,16.96,32.92,unknown,unknown,unknown,unknown,complete
+Butter Croissant,starch,"carb,starch",350.0,8.73,16.22,43.65,unknown,unknown,unknown,unknown,complete
+Apple Turnover,unknown,carb,292.0,5.01,14.04,37.09,unknown,unknown,unknown,unknown,complete
+Cheese Danish,dairy,"carb,high_calorie,sugary",392.0,4.9,24.47,39.15,unknown,unknown,unknown,unknown,complete
+Red Velvet Cake,dessert,"carb,high_calorie,sugary",870.0,9.19,55.92,85.75,unknown,unknown,unknown,unknown,complete
+Banana Walnut Muffin,dessert,"carb,high_calorie,starch,sugary",795.0,14.59,57.7,58.87,unknown,unknown,unknown,unknown,complete
+Funfetti Butter Cream Cupcake,dairy,"carb,creamy,high_calorie,sugary",857.0,6.42,54.27,87.55,unknown,unknown,unknown,unknown,complete
+Mocha Muffin,dessert,"high_calorie,sugary",746.0,10.98,49.28,72.56,unknown,unknown,unknown,unknown,complete
+Blueberry Muffin,dessert,"carb,high_calorie,starch,sugary",669.0,9.55,44.57,59.39,unknown,unknown,unknown,unknown,complete
+Passion Fruit Chocolate Tart,dessert,"carb,high_calorie,sugary",282.0,4.07,16.26,31.8,unknown,unknown,unknown,unknown,complete
+Island Chia Pudding,starch,"carb,high_calorie,starch,sugary",311.0,2.41,16.03,42.48,unknown,unknown,unknown,unknown,complete
+Triple Chocolate Mousse Verrine,sauce,,714.0,3.72,66.78,31.82,unknown,unknown,unknown,unknown,complete
+Plain Bagel,starch,starch,97.0,3.66,0.33,19.63,unknown,unknown,unknown,unknown,complete
+Everything Bagels,starch,starch,104.0,3.66,0.83,20.3,unknown,unknown,unknown,unknown,complete
+Whole Wheat Bagel,starch,"carb,starch",211.0,7.51,1.88,42.82,unknown,unknown,unknown,unknown,complete
+Banana,unknown,carb,126.0,1.54,0.47,32.34,unknown,unknown,unknown,unknown,complete
+Fuji Apple,unknown,,102.0,0.32,0.29,24.41,unknown,unknown,unknown,unknown,complete
+Granny Smith Apple,unknown,,105.0,0.8,0.34,24.67,unknown,unknown,unknown,unknown,complete
+Oranges,unknown,,67.0,1.33,0.17,16.64,unknown,unknown,unknown,unknown,complete
+BBQ Kettle Chips,sauce,,213.0,3.03,12.11,25.74,unknown,unknown,unknown,unknown,complete
+Sea Salt Kettle Chips,sauce,,231.0,3.0,13.0,25.0,unknown,unknown,unknown,unknown,complete
+Smartfood White Cheddar Popcorn,veg,veggies,243.0,4.54,15.14,22.71,unknown,unknown,unknown,unknown,complete
+Original Lays Baked Chips,unknown,,140.0,1.99,3.99,23.93,unknown,unknown,unknown,unknown,complete
+Jalapeno Kettle Chips,sauce,,319.0,3.03,10.6,24.23,unknown,unknown,unknown,unknown,complete
+"Tri-Tip, Cardamom Brown Rice, & Poached Egg Bowl",protein,"carb,protein,starch",438.0,16.91,12.61,63.13,unknown,unknown,unknown,unknown,complete
+Tofu Benedict w/ Corn Hollandaise,protein,"creamy,protein,veg_protein",91.0,3.12,4.09,10.51,unknown,unknown,unknown,unknown,complete
+Scrambled Egg Whites,protein,protein,66.0,9.25,2.45,0.94,unknown,unknown,unknown,unknown,complete
+Vegan Scrambled Eggs,protein,protein,173.0,10.29,13.46,2.05,unknown,unknown,unknown,unknown,complete
+Roasted Red Breakfast Potato Wedges,starch,starch,69.0,1.44,2.05,11.61,unknown,unknown,unknown,unknown,complete
+Oat & Whole Wheat Waffle,starch,"starch,sugary",178.0,6.7,5.14,26.42,unknown,unknown,unknown,unknown,complete
+Pear-Date Compote,unknown,,55.0,0.36,0.08,14.05,unknown,unknown,unknown,unknown,complete
+Waffle,starch,"starch,sugary",70.0,1.49,1.49,12.43,unknown,unknown,unknown,unknown,complete
+Vegan Pancake,starch,"starch,sugary",149.0,5.92,1.76,29.31,unknown,unknown,unknown,unknown,complete
+Simply Grilled Special,unknown,grilled,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Cantaloupe,unknown,,10.0,0.24,0.05,2.3,unknown,unknown,unknown,unknown,complete
+Grapefruit,unknown,,24.0,0.44,0.08,6.03,unknown,unknown,unknown,unknown,complete
+Green Grapes,unknown,"high_volume_low_cal,veggies",20.0,0.2,0.05,5.1,unknown,unknown,unknown,unknown,complete
+Red Grapes,unknown,,20.0,0.2,0.05,5.1,unknown,unknown,unknown,unknown,complete
+Kiwi,unknown,,42.0,0.77,0.35,9.95,unknown,unknown,unknown,unknown,complete
+Blood Orange,unknown,,14.0,0.27,0.03,3.31,unknown,unknown,unknown,unknown,complete
+Cara Cara Orange,unknown,,15.0,0.26,0.04,3.54,unknown,unknown,unknown,unknown,complete
+Pineapple,unknown,,43.0,0.46,0.1,11.14,unknown,unknown,unknown,unknown,complete
+Multi-Grain Bread,starch,starch,96.0,3.37,1.07,18.22,unknown,unknown,unknown,unknown,complete
+Raisin Walnut Bread,starch,starch,86.0,2.58,0.4,18.57,unknown,unknown,unknown,unknown,complete
+Whole Wheat Sourdough Bread,starch,starch,132.0,4.52,0.71,27.06,unknown,unknown,unknown,unknown,complete
+Boston Brown Quickbread,starch,"carb,starch",183.0,4.53,1.26,39.97,unknown,unknown,unknown,unknown,complete
+Cranberry Orange Bread,starch,starch,227.0,3.06,14.43,21.61,unknown,unknown,unknown,unknown,complete
+Almond Cashew Butter,dairy,,167.0,5.12,14.09,7.24,unknown,unknown,unknown,unknown,complete
+Chocolate Peanut Butter,dairy,,104.0,3.6,6.91,7.59,unknown,unknown,unknown,unknown,complete
+Nopales & Vanilla Marmalade,unknown,,59.0,0.51,0.04,15.17,unknown,unknown,unknown,unknown,complete
+Passion Fruit & Orange Water,beverage,sugary,14.0,0.27,0.0,3.1,unknown,unknown,unknown,unknown,complete
+White Polenta,unknown,starch,57.0,0.95,1.96,9.29,unknown,unknown,unknown,unknown,complete
+Kale & Banana Smoothie,veg,"sugary,veggies",227.0,4.13,0.63,54.64,unknown,unknown,unknown,unknown,complete
+Peanut Butter & Oat Smoothie,starch,starch,453.0,11.28,13.47,75.16,unknown,unknown,unknown,unknown,complete
+Tropical Tofu Smoothie,protein,"high_calorie,protein,sugary,veg_protein",264.0,4.61,1.55,60.15,unknown,unknown,unknown,unknown,complete
+Chocolate Granola & Strawberry Parfait,protein,"carb,high_calorie,protein,sugary",636.0,28.2,6.64,123.0,unknown,unknown,unknown,unknown,complete
+"Granola, Oatmeal, & Apple Parfait",starch,"carb,high_calorie,protein,starch,sugary",465.0,17.57,5.6,90.03,unknown,unknown,unknown,unknown,complete
+"Berry, Pineapple, & Toasted Quinoa Parfait",starch,"carb,high_calorie,protein,starch,sugary",377.0,22.66,4.2,65.92,unknown,unknown,unknown,unknown,complete
+Turkey Bacon Cheddar Chive Scone,protein,"carb,protein",456.0,9.74,29.79,33.9,unknown,unknown,unknown,unknown,complete
+BYO Green Tea Frozen Yogurt,dairy,high_calorie,1058.0,23.93,25.59,188.92,unknown,unknown,unknown,unknown,complete
+BYO Green Tea Greek Yogurt,dairy,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Chicken Tortilla Soup,protein,"protein,starch",161.0,8.91,4.06,21.65,unknown,unknown,unknown,unknown,complete
+Tuscan Bean Soup,protein,protein,87.0,3.21,3.19,12.18,unknown,unknown,unknown,unknown,complete
+"Cajun Tofu, Polenta, & Spinach Bowl",protein,"protein,starch,veg_protein,veggies",100.0,2.52,5.26,11.49,unknown,unknown,unknown,unknown,complete
+"Plantain, White Bean, Quinoa, & Swiss Chard Bowl",protein,"carb,protein,starch,veggies",196.0,5.65,4.47,33.78,unknown,unknown,unknown,unknown,complete
+"Salmon, Dill Goat Cheese, & Cucumber Stacker",protein,"protein,veggies",156.0,10.37,6.82,12.71,unknown,unknown,unknown,unknown,complete
+Roasted Cauliflower & Veggie Wrap,protein,"carb,protein,veggies",260.0,7.02,8.22,40.23,unknown,unknown,unknown,unknown,complete
+Frijoles de la Olla,unknown,,89.0,4.75,1.54,14.05,unknown,unknown,unknown,unknown,complete
+Brown Calrose Rice,starch,starch,105.0,2.16,0.77,21.89,unknown,unknown,unknown,unknown,complete
+"Mixed Grains--Farro, Wheatberry, & Brown Rice",starch,starch,93.0,3.08,0.49,19.62,unknown,unknown,unknown,unknown,complete
+"Roasted Parsnips, Carrots, & Onions",veg,"high_volume_low_cal,veggies",37.0,0.61,0.99,6.8,unknown,unknown,unknown,unknown,complete
+Sauteed Bok Choy,unknown,"high_volume_low_cal,veggies",17.0,1.34,0.57,2.33,unknown,unknown,unknown,unknown,complete
+Spicy Pork Tortilla Pizza,protein,"protein,starch",173.0,12.42,9.43,9.58,unknown,unknown,unknown,unknown,complete
+Piquillo Pepper Flatbread w/ Eggplant & Goat Cheese,protein,"protein,veggies",98.0,3.39,2.1,16.55,unknown,unknown,unknown,unknown,complete
+Fennel Coriander Marinated Grilled Chicken Thigh,protein,"grilled,protein",60.0,8.04,2.3,1.66,unknown,unknown,unknown,unknown,complete
+Spinach & White Bean Stacker w/ Arugula,protein,"protein,veggies",156.0,5.96,7.04,18.25,unknown,unknown,unknown,unknown,complete
+Grilled Kennebec Potato,starch,"grilled,starch",41.0,0.99,0.06,9.26,unknown,unknown,unknown,unknown,complete
+Zucchini Chocolate Bar,veg,"carb,veggies",224.0,3.9,9.48,37.56,unknown,unknown,unknown,unknown,complete
+Citrus Marmalade,unknown,,53.0,0.09,0.04,13.51,unknown,unknown,unknown,unknown,complete
+Apple Spritzer,unknown,sugary,10.0,0.0,0.0,2.46,unknown,unknown,unknown,unknown,complete
+Cranberry Spritzer,unknown,sugary,10.0,0.0,0.0,2.7,unknown,unknown,unknown,unknown,complete
+Orange Spritzer,unknown,sugary,9.0,0.0,0.0,2.02,unknown,unknown,unknown,unknown,complete
+"Chickpea Panisse, Mixed Grains, & Rapini Bowl",unknown,"veg_protein,veggies",154.0,6.45,2.26,28.31,unknown,unknown,unknown,unknown,complete
+"Rotini, Pesto, & Kale Bowl",veg,veggies,151.0,5.61,6.3,21.4,unknown,unknown,unknown,unknown,complete
+Sherry Chicken with Pearl Onion,protein,protein,95.0,10.36,4.09,3.7,unknown,unknown,unknown,unknown,complete
+Quinoa-Mushroom Lasagna with Tofu Ricotta,protein,"protein,starch,veg_protein,veggies",168.0,4.69,13.84,7.94,unknown,unknown,unknown,unknown,complete
+Barley Pilaf,unknown,starch,97.0,2.57,1.06,19.84,unknown,unknown,unknown,unknown,complete
+Roasted Brussels Sprouts,unknown,"high_volume_low_cal,veggies",65.0,3.78,2.13,10.04,unknown,unknown,unknown,unknown,complete
+Sauteed Spinach & Kale,veg,"high_volume_low_cal,veggies",30.0,1.95,1.15,4.1,unknown,unknown,unknown,unknown,complete
+Grilled Santa Maria Tri-Tip,unknown,grilled,69.0,9.35,3.11,0.13,unknown,unknown,unknown,unknown,complete
+Housemade Steak Sauce,beverage,,72.0,0.68,1.19,15.21,unknown,unknown,unknown,unknown,complete
+Grilled Persian Style Tofu,protein,"grilled,protein,veg_protein",121.0,6.11,9.94,3.32,unknown,unknown,unknown,unknown,complete
+Roasted Garlic Mofongo,unknown,,150.0,1.31,3.51,28.34,unknown,unknown,unknown,unknown,complete
+Chocolate Budino w/ Basil Seed Caviar,sauce,,161.0,2.85,21.39,23.06,unknown,unknown,unknown,unknown,complete
+Almond Butter,dairy,,195.0,5.48,17.92,5.49,unknown,unknown,unknown,unknown,complete
+Orange Pomegranate Water,beverage,sugary,27.0,0.19,0.12,6.5,unknown,unknown,unknown,unknown,complete
+Cheese Cake with Macerate Berries,dairy,"carb,high_calorie,protein,sugary",988.0,18.76,63.19,102.73,unknown,unknown,unknown,unknown,complete
+Caesar,protein,"creamy,protein",143.0,24.75,6.17,5.59,unknown,unknown,unknown,unknown,complete
+Chicken Caesar,protein,"creamy,protein",257.0,43.64,8.52,3.94,unknown,unknown,unknown,unknown,complete
+Gamberett,protein,protein,413.0,35.88,31.03,5.87,unknown,unknown,unknown,unknown,complete
+Mediterranean Salad,veg,veggies,176.0,6.74,8.14,23.86,unknown,unknown,unknown,unknown,complete
+Salmone Di Insalata,protein,protein,254.0,23.98,13.9,8.81,unknown,unknown,unknown,unknown,complete
+Pollo Verdura,protein,protein,339.0,31.59,12.45,21.46,unknown,unknown,unknown,unknown,complete
+Tuscan Tagliata Salad,veg,veggies,129.0,5.6,4.42,19.64,unknown,unknown,unknown,unknown,complete
+Heirloom Tomato Caprese,veg,"carb,protein,veggies",346.0,15.28,9.17,49.18,unknown,unknown,unknown,unknown,complete
+Campania,protein,"carb,protein",393.0,21.23,11.09,51.95,unknown,unknown,unknown,unknown,complete
+Tacchino,protein,"carb,high_calorie,protein",1331.0,49.33,97.72,61.2,unknown,unknown,unknown,unknown,complete
+Pollo Parma,protein,"carb,high_calorie,protein",683.0,51.09,29.72,48.55,unknown,unknown,unknown,unknown,complete
+Florentino,protein,"carb,high_calorie,protein",1289.0,43.71,99.16,46.56,unknown,unknown,unknown,unknown,complete
+Sundried Tomato & Goat Cheese,starch,"carb,high_calorie,protein,starch,veggies",937.0,34.21,46.63,96.86,unknown,unknown,unknown,unknown,complete
+Formaggi,protein,"carb,high_calorie,protein",875.0,39.03,44.36,86.44,unknown,unknown,unknown,unknown,complete
+Genova,protein,"carb,high_calorie,protein",863.0,58.25,37.63,71.04,unknown,unknown,unknown,unknown,complete
+Carnivora,protein,"carb,high_calorie,protein",957.0,45.42,46.16,90.66,unknown,unknown,unknown,unknown,complete
+Margherita,protein,"carb,high_calorie,protein",881.0,39.24,44.4,87.9,unknown,unknown,unknown,unknown,complete
+Pepperoni,veg,"carb,high_calorie,protein,veggies",1086.0,46.42,64.04,86.25,unknown,unknown,unknown,unknown,complete
+Salted,protein,"carb,high_calorie,protein",825.0,21.5,25.61,123.5,unknown,unknown,unknown,unknown,complete
+Jalapeno,protein,"carb,high_calorie,protein",790.0,20.39,24.88,117.51,unknown,unknown,unknown,unknown,complete
+Marinara Sauce,sauce,,73.0,1.53,2.63,9.39,unknown,unknown,unknown,unknown,complete
+Jalapeño Cheese Sauce,dairy,creamy,154.0,5.36,12.47,3.42,unknown,unknown,unknown,unknown,complete
+Vanilla Bean,protein,"carb,protein",454.0,7.55,25.19,52.89,unknown,unknown,unknown,unknown,complete
+Purple Yam Ube,protein,"carb,protein",465.0,126.23,25.75,54.09,unknown,unknown,unknown,unknown,complete
+Caramel Sea Salt,unknown,"carb,high_calorie,protein,sugary",567.0,11.34,28.34,70.84,unknown,unknown,unknown,unknown,complete
+Chocolate Chip Coffee,beverage,"high_calorie,sugary",515.0,10.31,28.34,54.09,unknown,unknown,unknown,unknown,complete
+Cookies and Cream,dairy,"carb,creamy,high_calorie,protein,sugary",567.0,10.31,28.34,64.41,unknown,unknown,unknown,unknown,complete
+Dark Chocolate,unknown,"carb,protein",490.0,12.88,23.19,64.41,unknown,unknown,unknown,unknown,complete
+Mint Chocolate Chip,unknown,"carb,high_calorie,protein,sugary",515.0,10.31,18.02,59.26,unknown,unknown,unknown,unknown,complete
+Spumoni,unknown,"carb,protein",429.0,10.07,22.67,50.37,unknown,unknown,unknown,unknown,complete
+Strawberry Cheesecake,dairy,"carb,protein",490.0,10.31,23.19,59.26,unknown,unknown,unknown,unknown,complete
+Banana Dulce de Leche,starch,"carb,starch",465.0,7.73,18.02,59.26,unknown,unknown,unknown,unknown,complete
+Birthday Cake,dessert,"carb,high_calorie,sugary",490.0,7.73,12.88,66.99,unknown,unknown,unknown,unknown,complete
+Peanut Butter Cup,dairy,"carb,high_calorie,protein",620.0,15.46,38.65,54.09,unknown,unknown,unknown,unknown,complete
+Pistachio,unknown,"carb,high_calorie,protein",543.0,12.88,30.92,51.53,unknown,unknown,unknown,unknown,complete
+Raspberry Pan Sorbet,unknown,sugary,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Strawberry Pan Sorbet,starch,"carb,starch,sugary",0.0,0.0,0.0,680.1,unknown,unknown,unknown,unknown,missing
+Alphonso Mango Sorbet,starch,"carb,starch,sugary",232.0,0.0,0.0,59.26,unknown,unknown,unknown,unknown,complete
+Granola Clusters,starch,"carb,starch,sugary",219.0,4.35,2.72,46.8,unknown,unknown,unknown,unknown,complete
+Coconut Flakes,unknown,,132.0,0.0,7.05,17.12,unknown,unknown,unknown,unknown,complete
+Dried Cranberry,unknown,,65.0,0.0,0.0,16.32,unknown,unknown,unknown,unknown,complete
+Semi Sweet Chocolate Chips,sauce,,265.0,3.78,15.1,0.0,unknown,unknown,unknown,unknown,complete
+Oreo Cookie Pieces,dessert,"carb,sugary",205.0,1.57,7.85,31.41,unknown,unknown,unknown,unknown,complete
+M&M Milk Chocolate Chopped,dairy,carb,285.0,2.71,13.22,38.71,unknown,unknown,unknown,unknown,complete
+Rainbow Sprinkles,starch,"carb,starch",272.0,0.93,11.26,41.51,unknown,unknown,unknown,unknown,complete
+Dark Chocolate Sauce,sauce,,105.0,0.94,0.94,23.5,unknown,unknown,unknown,unknown,complete
+Whipped Cream,dairy,creamy,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Maraschino Cherry,unknown,,2.0,0.0,0.0,0.32,unknown,unknown,unknown,unknown,complete
+Gummy Bears,unknown,,57.0,0.57,0.0,12.45,unknown,unknown,unknown,unknown,complete
+Baked Lays Potato Chips,starch,starch,140.0,1.99,3.99,23.93,unknown,unknown,unknown,unknown,complete
+Bruin Scramble,unknown,protein,222.0,12.63,17.38,3.47,unknown,unknown,unknown,unknown,complete
+Vegetarian Bruin Scramble,unknown,,163.0,8.86,12.84,2.66,unknown,unknown,unknown,unknown,complete
+Potato O'Brien,starch,starch,82.0,1.2,4.03,10.73,unknown,unknown,unknown,unknown,complete
+Smoked Polish Sausage,unknown,protein,362.0,13.03,32.09,5.01,unknown,unknown,unknown,unknown,complete
+Buttery Hash Browns,dairy,,135.0,1.68,6.52,17.56,unknown,unknown,unknown,unknown,complete
+Fried Eggs,protein,"fried,protein",100.0,6.25,7.89,0.36,unknown,unknown,unknown,unknown,complete
+Tomatillo Salsa,sauce,,24.0,1.94,0.01,4.01,unknown,unknown,unknown,unknown,complete
+Belgian Waffles,starch,"carb,starch",328.0,4.37,8.74,57.83,unknown,unknown,unknown,unknown,complete
+Maple Flavored Syrup,unknown,,105.0,0.0,0.0,26.32,unknown,unknown,unknown,unknown,complete
+Bodega Egg & Bacon Roll,protein,"carb,high_calorie,protein,starch",667.0,18.91,50.91,31.86,unknown,unknown,unknown,unknown,complete
+Tater Tots,unknown,fried,173.0,2.16,8.63,20.5,unknown,unknown,unknown,unknown,complete
+Egg Benedict Sandwich,protein,protein,380.0,21.93,19.5,27.53,unknown,unknown,unknown,unknown,complete
+Cream of Rice Cereal,starch,"creamy,starch",70.0,1.31,0.0,15.67,unknown,unknown,unknown,unknown,complete
+Everything Bagel,starch,"carb,starch",311.0,11.02,2.5,61.16,unknown,unknown,unknown,unknown,complete
+Cinnamon Raisin Bagel,starch,"carb,starch",311.0,11.1,1.93,62.54,unknown,unknown,unknown,unknown,complete
+Cream Cheese,dairy,creamy,183.0,4.04,18.19,4.04,unknown,unknown,unknown,unknown,complete
+Strawberry Cream Cheese,dairy,creamy,101.0,2.03,9.09,4.29,unknown,unknown,unknown,unknown,complete
+Avocado Pulp,unknown,,91.0,1.13,8.27,4.81,unknown,unknown,unknown,unknown,complete
+Black Forest Ham,unknown,,31.0,5.04,1.01,0.5,unknown,unknown,unknown,unknown,complete
+Sliced Swiss Cheese,dairy,,109.0,8.06,9.4,0.0,unknown,unknown,unknown,unknown,complete
+Sliced Tomatoes,veg,"high_volume_low_cal,veggies",11.0,0.5,0.11,2.2,unknown,unknown,unknown,unknown,complete
+Julienne Red Onion,veg,"high_volume_low_cal,veggies",12.0,0.31,0.03,2.63,unknown,unknown,unknown,unknown,complete
+Capers,unknown,,7.0,0.67,0.24,1.38,unknown,unknown,unknown,unknown,complete
+Cucumber,veg,"high_volume_low_cal,veggies",9.0,0.37,0.06,2.05,unknown,unknown,unknown,unknown,complete
+Watermelon,beverage,sugary,44.0,0.86,0.21,10.69,unknown,unknown,unknown,unknown,complete
+Apple Fritter,unknown,fried,10.0,0.05,0.05,2.25,unknown,unknown,unknown,unknown,complete
+Mini Croissant,starch,starch,123.0,2.45,6.12,14.7,unknown,unknown,unknown,unknown,complete
+Mini Maple Pecan Danish,sauce,,207.0,2.29,12.61,19.48,unknown,unknown,unknown,unknown,complete
+Vegan Banana Quickbread,starch,"carb,starch",218.0,2.98,8.19,33.35,unknown,unknown,unknown,unknown,complete
+Hawaiian Shrimp,protein,protein,156.0,6.79,11.13,4.54,unknown,unknown,unknown,unknown,complete
+Steamed Rice,starch,"carb,starch",318.0,6.37,0.87,68.62,unknown,unknown,unknown,unknown,complete
+Peppered Beyond Steak,veg,"veg_protein,veggies",133.0,13.33,6.02,7.4,unknown,unknown,unknown,unknown,complete
+Huli Huli Roasted Chicken,protein,protein,137.0,10.55,8.11,5.22,unknown,unknown,unknown,unknown,complete
+Roasted Green Beans,protein,"high_volume_low_cal,protein,veggies",27.0,1.03,1.14,3.94,unknown,unknown,unknown,unknown,complete
+Coconut Crusted Tofu,protein,"protein,veg_protein",362.0,11.51,26.56,26.5,unknown,unknown,unknown,unknown,complete
+Luau Pizza,starch,starch,315.0,10.51,17.81,28.84,unknown,unknown,unknown,unknown,complete
+Cheese Pizza,starch,starch,288.0,8.23,16.83,26.52,unknown,unknown,unknown,unknown,complete
+Pepperoni Deluxe Pizza,starch,starch,336.0,10.04,20.81,27.5,unknown,unknown,unknown,unknown,complete
+Bruin Burger,protein,"carb,protein",458.0,32.74,21.13,32.39,unknown,unknown,unknown,unknown,complete
+Bruin Cheeseburger,dairy,"carb,high_calorie,protein",510.0,35.69,25.56,33.14,unknown,unknown,unknown,unknown,complete
+LA Hot Chicken Sandwich,protein,"carb,high_calorie,protein",585.0,21.37,27.07,65.0,unknown,unknown,unknown,unknown,complete
+Big Island Burger,protein,"carb,high_calorie,protein",703.0,36.58,43.68,38.57,unknown,unknown,unknown,unknown,complete
+Chicken Katsu Sandwich,protein,"carb,fried,high_calorie,protein",575.0,21.35,28.81,56.34,unknown,unknown,unknown,unknown,complete
+Beyond Burger,protein,"carb,protein,veg_protein",413.0,25.78,18.7,36.29,unknown,unknown,unknown,unknown,complete
+Pineapple Marinated Chicken Thigh,protein,protein,101.0,14.65,3.41,1.08,unknown,unknown,unknown,unknown,complete
+Cilantro Rice,starch,starch,119.0,2.1,2.15,21.92,unknown,unknown,unknown,unknown,complete
+Spicy Lentil,protein,"protein,veg_protein",101.0,6.13,1.54,16.25,unknown,unknown,unknown,unknown,complete
+Flex Bar Special,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Roasted Broccoli w/ Garlic,veg,veggies,82.0,2.65,6.36,5.21,unknown,unknown,unknown,unknown,complete
+Roasted Cauliflower w/ Chile & Lime,veg,"high_volume_low_cal,veggies",39.0,1.56,2.0,4.85,unknown,unknown,unknown,unknown,complete
+Pan Roasted Mushrooms with Onions,veg,"high_volume_low_cal,veggies",35.0,2.07,1.51,4.39,unknown,unknown,unknown,unknown,complete
+Caesar Salad Dressing,veg,"creamy,veggies",320.0,1.25,34.05,1.18,unknown,unknown,unknown,unknown,complete
+Grilled Rosemary Chicken Breast,protein,"grilled,protein",165.0,26.08,3.34,0.27,unknown,unknown,unknown,unknown,complete
+White Cupcake,dessert,"high_calorie,sugary",338.0,2.94,24.55,28.09,unknown,unknown,unknown,unknown,complete
+White Chocolate Chip Cookie w/ Cranberries,dessert,sugary,158.0,1.86,7.46,21.05,unknown,unknown,unknown,unknown,complete
+Dutch Apple Pie,dessert,"carb,high_calorie,sugary",334.0,3.97,14.17,49.57,unknown,unknown,unknown,unknown,complete
+Cranberry Crunch Bar,unknown,,213.0,2.8,9.39,29.91,unknown,unknown,unknown,unknown,complete
+Oreo Mousse,sauce,,424.0,2.54,30.41,28.11,unknown,unknown,unknown,unknown,complete
+Deep Dish Blackout Cake,dessert,"carb,high_calorie,sugary",272.0,4.7,17.92,38.06,unknown,unknown,unknown,unknown,complete
+Mahi Mahi Seared Fish,protein,protein,54.0,10.2,1.14,0.05,unknown,unknown,unknown,unknown,complete
+Spicy Pineapple Salsa,sauce,,27.0,0.18,1.13,4.34,unknown,unknown,unknown,unknown,complete
+Coconut Rice,starch,starch,106.0,1.68,2.44,18.55,unknown,unknown,unknown,unknown,complete
+Garlic Lemon Tofu,protein,"protein,veg_protein",89.0,6.36,5.46,5.25,unknown,unknown,unknown,unknown,complete
+Hawaiian Roasted Pork,protein,protein,320.0,27.85,18.89,8.17,unknown,unknown,unknown,unknown,complete
+Hawaiian Macaroni Salad,veg,veggies,283.0,4.05,21.28,18.72,unknown,unknown,unknown,unknown,complete
+Beyond Chicken Tenders,protein,"protein,veg_protein",303.0,18.45,15.81,18.45,unknown,unknown,unknown,unknown,complete
+Beyond Meatballs in Brava Sauce,sauce,veg_protein,132.0,8.0,6.56,11.27,unknown,unknown,unknown,unknown,complete
+Garbanzo Picadillo,unknown,veg_protein,110.0,4.17,3.35,16.72,unknown,unknown,unknown,unknown,complete
+"Cauliflower, Raisin, & Almond Salad w. Curry Vinaigrette",veg,"high_volume_low_cal,veggies",27.0,1.21,0.92,4.17,unknown,unknown,unknown,unknown,complete
+Cole Slaw,sauce,,151.0,0.61,14.52,4.2,unknown,unknown,unknown,unknown,complete
+Country Potato Salad,starch,"starch,veggies",93.0,0.62,7.21,5.84,unknown,unknown,unknown,unknown,complete
+Chipmunk Bar,sauce,,190.0,4.08,10.27,23.81,unknown,unknown,unknown,unknown,complete
+Maple Walnut Blondies,sauce,,292.0,4.12,15.94,33.85,unknown,unknown,unknown,unknown,complete
+Antipasto Salad,veg,"high_calorie,protein,veggies",676.0,19.34,58.48,23.22,unknown,unknown,unknown,unknown,complete
+Butternut Squash & Cranberry Salad,veg,"carb,high_calorie,veggies",580.0,7.28,33.23,69.69,unknown,unknown,unknown,unknown,complete
+Grilled Chicken,protein,"grilled,protein",163.0,26.98,5.39,1.35,unknown,unknown,unknown,unknown,complete
+Grilled Salmon,protein,"grilled,protein",181.0,16.6,11.91,0.61,unknown,unknown,unknown,unknown,complete
+Roasted Seitan Skewer,protein,"protein,veg_protein",328.0,27.31,21.74,7.38,unknown,unknown,unknown,unknown,complete
+Margherita Pizza,starch,"carb,high_calorie,protein,starch",1135.0,55.8,31.52,156.97,unknown,unknown,unknown,unknown,complete
+Pepperoni Pizza,starch,"carb,high_calorie,protein,starch",1150.0,55.29,31.5,165.06,unknown,unknown,unknown,unknown,complete
+Tre Funghi Pizza,starch,"carb,high_calorie,protein,starch",1019.0,37.78,35.62,136.39,unknown,unknown,unknown,unknown,complete
+Cauliflower Crust Zucchini Pizza,starch,"carb,high_calorie,protein,starch,veggies",857.0,32.44,34.05,102.36,unknown,unknown,unknown,unknown,complete
+Chicken Pesto Pizza Pie,protein,"carb,high_calorie,protein,starch",1820.0,102.39,93.07,134.72,unknown,unknown,unknown,unknown,complete
+Mambo Italiano Pizza Pie,starch,"carb,high_calorie,protein,starch",1599.0,64.01,71.62,173.44,unknown,unknown,unknown,unknown,complete
+Spaghetti Pomodoro,protein,"carb,high_calorie,protein",601.0,30.45,18.29,87.91,unknown,unknown,unknown,unknown,complete
+Chicken Fettuccine,protein,"carb,high_calorie,protein",827.0,32.74,58.06,34.89,unknown,unknown,unknown,unknown,complete
+Ricotta Rosa Baked Pasta,starch,"carb,high_calorie,protein,starch",863.0,60.21,40.5,67.93,unknown,unknown,unknown,unknown,complete
+Spaghetti Bolognese,protein,"high_calorie,protein",803.0,36.88,59.77,24.16,unknown,unknown,unknown,unknown,complete
+Vegetarian Fettucine,protein,"carb,high_calorie,protein",740.0,18.66,54.95,35.01,unknown,unknown,unknown,unknown,complete
+Mozzarella Di Bufala Sandwich,protein,"carb,high_calorie,protein",657.0,30.81,32.5,59.27,unknown,unknown,unknown,unknown,complete
+Turkey Caprese Sandwich,protein,"carb,high_calorie,protein",715.0,45.8,29.79,63.49,unknown,unknown,unknown,unknown,complete
+Pistachio Mortadella Sandwich,protein,"carb,high_calorie,protein",833.0,43.45,55.6,59.45,unknown,unknown,unknown,unknown,complete
+Portobello Sandwich,unknown,"carb,high_calorie,protein",512.0,13.02,26.7,58.42,unknown,unknown,unknown,unknown,complete
+Italian Burger,protein,"carb,high_calorie,protein",554.0,36.38,30.67,30.58,unknown,unknown,unknown,unknown,complete
+"Artichoke, Mushroom, & Fontina Grilled Sandwich",unknown,"grilled,protein,veggies",335.0,13.67,19.02,28.28,unknown,unknown,unknown,unknown,complete
+Spanish Seasoned Pomme Frites,unknown,fried,123.0,2.06,3.03,20.48,unknown,unknown,unknown,unknown,complete
+Moroccan Roasted Carrots,veg,"high_volume_low_cal,veggies",32.0,0.58,1.03,5.52,unknown,unknown,unknown,unknown,complete
+Grilled Kale w/ Orange & Crushed Red Chili,veg,"grilled,high_volume_low_cal,veggies",47.0,3.05,1.93,6.32,unknown,unknown,unknown,unknown,complete
+Vegetable Mix,unknown,,22.0,0.4,1.18,2.71,unknown,unknown,unknown,unknown,complete
+Moroccan Couscous Salad,veg,"starch,veggies",127.0,2.92,6.14,16.73,unknown,unknown,unknown,unknown,complete
+Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,veg,"high_volume_low_cal,veggies",40.0,0.92,1.38,6.67,unknown,unknown,unknown,unknown,complete
+Portuguese Roast Garlic Chicken,protein,protein,281.0,28.08,16.53,4.34,unknown,unknown,unknown,unknown,complete
+Mint Couscous,unknown,starch,87.0,3.15,0.4,18.1,unknown,unknown,unknown,unknown,complete
+Almond Crusted Tofu w/ Garlic Fennel,protein,"protein,veg_protein",238.0,9.23,18.49,12.53,unknown,unknown,unknown,unknown,complete
+Classic Chocolate Chip Cookie,dessert,sugary,162.0,2.31,7.38,22.79,unknown,unknown,unknown,unknown,complete
+Snickerdoodle Cookies,dessert,sugary,56.0,0.74,2.32,8.1,unknown,unknown,unknown,unknown,complete
+Tiramisu,unknown,,132.0,3.49,9.26,10.69,unknown,unknown,unknown,unknown,complete
+Pistachio Raspberry Tart,dessert,sugary,86.0,1.3,3.72,11.64,unknown,unknown,unknown,unknown,complete
+Focaccia,starch,"carb,starch",265.0,7.42,5.76,44.95,unknown,unknown,unknown,unknown,complete
+Lavash Chips,unknown,,82.0,2.0,2.91,10.51,unknown,unknown,unknown,unknown,complete
+Sun-Dried Tomato Pesto,veg,veggies,146.0,2.05,12.58,7.16,unknown,unknown,unknown,unknown,complete
+Garlic Oil,sauce,,262.0,0.9,27.25,4.67,unknown,unknown,unknown,unknown,complete
+Parsley Pesto,sauce,,152.0,4.86,14.78,2.09,unknown,unknown,unknown,unknown,complete
+Hummus,protein,protein,10.0,0.26,0.63,0.69,unknown,unknown,unknown,unknown,complete
+Tzatziki,sauce,,20.0,2.57,0.53,1.22,unknown,unknown,unknown,unknown,complete
+Muhammara (Spicy Roasted Pepper Dip),veg,veggies,94.0,1.68,8.38,3.5,unknown,unknown,unknown,unknown,complete
+Artichoke Spinach Dip,veg,veggies,122.0,2.8,10.3,5.35,unknown,unknown,unknown,unknown,complete
+Smoked Mozzarella Spread,sauce,,154.0,3.17,14.69,1.8,unknown,unknown,unknown,unknown,complete
+Morrocan Spicy Lentil Dip,protein,"protein,veg_protein",190.0,12.44,1.69,32.65,unknown,unknown,unknown,unknown,complete
+"White Bean, Feta, & Za'atar Spread",protein,protein,56.0,1.89,3.69,3.89,unknown,unknown,unknown,unknown,complete
+Zhug,sauce,,137.0,0.48,14.32,1.73,unknown,unknown,unknown,unknown,complete
+Garlic Lebneh,protein,protein,142.0,23.43,0.91,10.18,unknown,unknown,unknown,unknown,complete
+Htipiti,unknown,,57.0,2.07,4.44,2.25,unknown,unknown,unknown,unknown,complete
+Marinated Red Grape Tomatoes,veg,veggies,299.0,0.88,31.69,4.38,unknown,unknown,unknown,unknown,complete
+Pitted Kalamata Olives,unknown,,48.0,0.0,4.7,1.88,unknown,unknown,unknown,unknown,complete
+Pickled Vegetables,unknown,,15.0,0.31,0.06,2.44,unknown,unknown,unknown,unknown,complete
+Grated Parmesan Cheese,dairy,protein,114.0,11.28,8.46,0.0,unknown,unknown,unknown,unknown,complete
+Mushroom & Mozzarella Stromboli,unknown,veggies,169.0,9.17,4.94,22.85,unknown,unknown,unknown,unknown,complete
+Marinara & Meatballs,protein,"carb,high_calorie,protein",535.0,23.8,14.82,81.37,unknown,unknown,unknown,unknown,complete
+Spaghetti w/ Garlic Basil Tomato Sauce,veg,veggies,332.0,11.27,3.52,66.27,unknown,unknown,unknown,unknown,complete
+Grilled Chicken Parmesan Sandwich,protein,"grilled,high_calorie,protein",536.0,31.36,33.84,28.16,unknown,unknown,unknown,unknown,complete
+"Eggplant, Red Pepper &  Mozzarella Sandwich",protein,"protein,veggies",173.0,6.88,8.3,17.52,unknown,unknown,unknown,unknown,complete
+Turkish Spice Blend Chips,unknown,,161.0,2.13,6.97,19.36,unknown,unknown,unknown,unknown,complete
+Ancient Grain Pilaf w/ Burnt Wheat Pasta,starch,"carb,starch",205.0,8.07,2.38,39.2,unknown,unknown,unknown,unknown,complete
+Roasted Cumin & Coriander Carrots,veg,"high_volume_low_cal,veggies",14.0,0.18,0.75,1.81,unknown,unknown,unknown,unknown,complete
+Roasted Pork Loin,protein,protein,6.0,0.0,0.59,0.02,unknown,unknown,unknown,unknown,complete
+Risi & Bisi Garlic Rice,starch,starch,98.0,2.07,1.54,18.63,unknown,unknown,unknown,unknown,complete
+Gnocchi w/ Pesto,sauce,,447.0,8.43,29.64,31.45,unknown,unknown,unknown,unknown,complete
+Moroccan Spiced Chocolate Mousse,sauce,,405.0,2.91,33.24,17.38,unknown,unknown,unknown,unknown,complete
+Paprika Garlic Spread,sauce,,227.0,0.39,24.29,1.59,unknown,unknown,unknown,unknown,complete
+Cauliflower Skordalia Spread,veg,"high_volume_low_cal,veggies",50.0,1.59,3.45,3.93,unknown,unknown,unknown,unknown,complete
+Fava Bean Dip with Dill,protein,protein,58.0,2.91,2.45,7.02,unknown,unknown,unknown,unknown,complete
+Tunisian Vegetable Dip,unknown,,33.0,0.45,1.82,4.23,unknown,unknown,unknown,unknown,complete
+Spanikopita Pizza,starch,starch,218.0,10.42,8.34,24.6,unknown,unknown,unknown,unknown,complete
+Pizza Dough,starch,"carb,high_calorie,protein,starch",1094.0,36.28,5.2,219.39,unknown,unknown,unknown,unknown,complete
+White Hoagie Torpedo Roll,starch,"carb,high_calorie,starch",547.0,14.55,9.5,98.42,unknown,unknown,unknown,unknown,complete
+Panini Roll,starch,"carb,high_calorie,protein,starch",4251.0,137.74,27.59,840.81,unknown,unknown,unknown,unknown,complete
+Fluffy Potato Bun,starch,starch,168.0,5.26,3.85,26.66,unknown,unknown,unknown,unknown,complete
+Cheese Quesadilla,dairy,"carb,high_calorie,protein",766.0,36.86,49.62,46.29,unknown,unknown,unknown,unknown,complete
+Chicken Quesadilla,protein,"carb,high_calorie,protein",902.0,56.45,53.21,52.74,unknown,unknown,unknown,unknown,complete
+California Roll,starch,"carb,high_calorie,starch",588.0,13.02,14.33,101.76,unknown,unknown,unknown,unknown,complete
+Spicy Tuna Sushi Bowl,protein,"carb,high_calorie,protein",1477.0,72.25,24.8,239.53,unknown,unknown,unknown,unknown,complete
+Vegan Sushi Bowl,protein,"carb,high_calorie,protein",1223.0,28.87,18.27,235.86,unknown,unknown,unknown,unknown,complete
+Sticky Rice,starch,"carb,high_calorie,starch",647.0,13.29,1.6,139.94,unknown,unknown,unknown,unknown,complete
+Garlic Fried Rice,starch,"carb,fried,high_calorie,protein,starch",862.0,16.46,4.55,182.77,unknown,unknown,unknown,unknown,complete
+Pilipino Style Bihon Stir-Fried Noodles,starch,"carb,fried,starch",239.0,1.81,1.23,55.62,unknown,unknown,unknown,unknown,complete
+Crispy Pork Belly,protein,"fried,high_calorie,protein",566.0,22.42,44.39,20.15,unknown,unknown,unknown,unknown,complete
+Chicken Adobo,protein,protein,349.0,23.92,25.99,2.56,unknown,unknown,unknown,unknown,complete
+Kabocha & Coconut Milk Stew,dairy,,208.0,4.59,13.23,17.63,unknown,unknown,unknown,unknown,complete
+Vegetable Egg Roll (Chunjuan),protein,"protein,starch",141.0,3.0,4.49,20.98,unknown,unknown,unknown,unknown,complete
+Vietnamese Spicy Eggplant w/ Basil,protein,"protein,veggies",130.0,4.54,4.72,18.61,unknown,unknown,unknown,unknown,complete
+Beef & Broccoli,protein,"protein,veggies",96.0,8.53,4.81,9.22,unknown,unknown,unknown,unknown,complete
+Vietnamese Pickled Vegetables,unknown,,9.0,0.22,0.05,1.96,unknown,unknown,unknown,unknown,complete
+Salted Cucumber,veg,"high_volume_low_cal,veggies",9.0,0.37,0.06,2.06,unknown,unknown,unknown,unknown,complete
+Marinated Soy Sprouts,unknown,,83.0,5.62,6.27,4.21,unknown,unknown,unknown,unknown,complete
+Seasoned Blanched Spinach,veg,"high_volume_low_cal,veggies",19.0,0.83,1.48,1.1,unknown,unknown,unknown,unknown,complete
+Vietnamese Pickled Daikon,unknown,,9.0,0.19,0.03,1.68,unknown,unknown,unknown,unknown,complete
+Vietnamese Shredded Green Papaya Salad,veg,"high_volume_low_cal,veggies",49.0,0.6,0.17,12.05,unknown,unknown,unknown,unknown,complete
+Edamame,veg,"high_volume_low_cal,veg_protein,veggies",32.0,3.16,1.33,2.15,unknown,unknown,unknown,unknown,complete
+Kimchi,unknown,,6.0,1.01,0.0,1.01,unknown,unknown,unknown,unknown,complete
+Seaweed Salad,veg,"high_volume_low_cal,veggies",20.0,0.28,0.71,3.1,unknown,unknown,unknown,unknown,complete
+Green Sriracha,unknown,"high_volume_low_cal,veggies",17.0,0.39,0.12,3.44,unknown,unknown,unknown,unknown,complete
+Dumpling Dipping Sauce,sauce,,10.0,0.54,0.02,1.41,unknown,unknown,unknown,unknown,complete
+Red Sriracha,unknown,,19.0,0.71,0.15,4.29,unknown,unknown,unknown,unknown,complete
+Kickin' Mayo,sauce,,148.0,0.53,16.17,0.53,unknown,unknown,unknown,unknown,complete
+Thai Chilies w/ Vegan Fish Sauce,protein,protein,26.0,2.23,0.06,5.17,unknown,unknown,unknown,unknown,complete
+Chojang Korean Dipping Sauce,sauce,,106.0,0.6,7.05,9.7,unknown,unknown,unknown,unknown,complete
+Milk Tea Boba,dairy,"high_calorie,sugary",608.0,0.07,3.36,149.08,unknown,unknown,unknown,unknown,complete
+Thai Tea Boba,beverage,"high_calorie,sugary",563.0,4.9,5.79,124.85,unknown,unknown,unknown,unknown,complete
+Taro Boba,beverage,"high_calorie,sugary",535.0,0.07,5.47,122.42,unknown,unknown,unknown,unknown,complete
+Green Milk Tea Boba,dairy,"high_calorie,sugary",540.0,0.06,2.58,114.9,unknown,unknown,unknown,unknown,complete
+Vietnamese Coffee Boba,beverage,"high_calorie,sugary",736.0,7.91,7.77,161.44,unknown,unknown,unknown,unknown,complete
+Horchata Boba,beverage,"high_calorie,sugary",291.0,0.5,0.76,69.22,unknown,unknown,unknown,unknown,complete
+Agua de Jamaica,unknown,carb,145.0,0.0,0.0,38.49,unknown,unknown,unknown,unknown,complete
+Strawberry Lemonade Boba,beverage,"high_calorie,sugary",566.0,0.16,0.0,148.07,unknown,unknown,unknown,unknown,complete
+Mango Boba,beverage,"high_calorie,sugary",437.0,0.87,0.44,111.31,unknown,unknown,unknown,unknown,complete
+Cucumber & Lime Fresca Boba,veg,"sugary,veggies",159.0,0.36,0.04,39.37,unknown,unknown,unknown,unknown,complete
+Fountain Beverage,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Nanami Togarashi Spice,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Fried Shallots,sauce,fried,142.0,0.0,14.1,14.1,unknown,unknown,unknown,unknown,complete
+Fried Garlic,sauce,fried,227.0,0.0,28.2,0.0,unknown,unknown,unknown,unknown,complete
+Sweet Chili Mae Ploy Sauce,sauce,,76.0,0.0,0.0,18.8,unknown,unknown,unknown,unknown,complete
+Sweet Chili Mayo,sauce,,171.0,0.0,15.91,6.27,unknown,unknown,unknown,unknown,complete
+Sweet and Sour Sauce,sauce,,76.0,0.0,0.0,18.8,unknown,unknown,unknown,unknown,complete
+Satay Dipping Sauce,sauce,,72.0,0.6,4.94,5.76,unknown,unknown,unknown,unknown,complete
+Craft Your Own Breakfast Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Create Your Own Breakfast Croissant,starch,starch,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Craft Your Own Breakfast Skillet,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Irish Oatmeal,starch,"carb,high_calorie,starch",650.0,14.68,5.67,144.05,unknown,unknown,unknown,unknown,complete
+Espresso Decaf,unknown,sugary,17.0,0.56,0.01,3.66,unknown,unknown,unknown,unknown,complete
+Iced Brewed Coffee,beverage,,107.0,7.07,0.0,21.27,unknown,unknown,unknown,unknown,complete
+Nitro Cold Coffee,beverage,,214.0,14.19,0.0,42.54,unknown,unknown,unknown,unknown,complete
+Fudgy Brownie,dessert,sugary,149.0,2.26,8.61,18.32,unknown,unknown,unknown,unknown,complete
+Blackberry Fan,sauce,,331.0,4.7,15.29,38.83,unknown,unknown,unknown,unknown,complete
+Almond Croissant,starch,"carb,starch",375.0,7.7,17.6,45.1,unknown,unknown,unknown,unknown,complete
+Everything Cheese Bagel,starch,starch,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Everything Jalapeno Cheese Bagel,starch,starch,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Bacon Cheddar Chive Scone,unknown,"carb,protein",477.0,11.02,31.68,33.72,unknown,unknown,unknown,unknown,complete
+Ivan Croissant,starch,"carb,starch",385.0,6.24,23.82,36.83,unknown,unknown,unknown,unknown,complete
+Eclair,unknown,,67.0,0.62,5.52,8.41,unknown,unknown,unknown,unknown,complete
+Croque Monsieur,protein,"carb,high_calorie,protein",710.0,34.97,32.06,71.06,unknown,unknown,unknown,unknown,complete
+Croque Madame,protein,"carb,high_calorie,protein",754.0,39.09,36.66,67.04,unknown,unknown,unknown,unknown,complete
+Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,dessert,"carb,high_calorie,sugary",351.0,8.83,10.67,55.37,unknown,unknown,unknown,unknown,complete
+Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,starch,"carb,creamy,high_calorie,protein,starch,sugary",876.0,15.25,44.28,98.11,unknown,unknown,unknown,unknown,complete
+Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,starch,"carb,high_calorie,protein,starch,sugary",958.0,17.62,45.32,119.65,unknown,unknown,unknown,unknown,complete
+Waffle with Caramel & Seasonal Fresh Fruit,starch,"carb,high_calorie,protein,starch,sugary",849.0,15.01,35.28,114.26,unknown,unknown,unknown,unknown,complete
+Broccoli Cheddar Soup,veg,veggies,387.0,8.53,32.01,11.05,unknown,unknown,unknown,unknown,complete
+Pink Lady Apple Kombucha,beverage,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Pomegranate Kombucha,beverage,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Passion Fruit Tangerine Kombuncha,starch,starch,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Vegan Muesli,unknown,"carb,high_calorie,protein",730.0,10.2,36.23,94.99,unknown,unknown,unknown,unknown,complete
+Bircher Muesli w/ Nuts,protein,"carb,high_calorie,protein",533.0,20.94,13.33,87.76,unknown,unknown,unknown,unknown,complete
+Spiced Apple Caramel Parfait,protein,"carb,high_calorie,protein,sugary",841.0,22.8,21.38,141.28,unknown,unknown,unknown,unknown,complete
+Blueberry Strudel Parfait,protein,"carb,high_calorie,protein,sugary",434.0,22.94,11.64,62.45,unknown,unknown,unknown,unknown,complete
+Cheese & Cracker Protein Box,dairy,"carb,high_calorie,protein",881.0,35.28,53.33,75.46,unknown,unknown,unknown,unknown,complete
+Crudite Plate,sauce,,294.0,4.24,24.65,15.47,unknown,unknown,unknown,unknown,complete
+Apple & Peanut Butter Box,dairy,"carb,high_calorie,protein",846.0,32.23,60.54,42.14,unknown,unknown,unknown,unknown,complete
+Caprese Sandwich,protein,"carb,high_calorie,protein",758.0,32.12,36.65,75.0,unknown,unknown,unknown,unknown,complete
+Egg Salad Sandwich,protein,"carb,high_calorie,protein,veggies",500.0,19.45,24.86,48.7,unknown,unknown,unknown,unknown,complete
+Chicken Salad Sandwich,protein,"carb,protein,veggies",455.0,24.13,15.49,51.15,unknown,unknown,unknown,unknown,complete
+Chipotle Turkey Club Sandwich,protein,"carb,high_calorie,protein",1172.0,43.98,75.89,77.42,unknown,unknown,unknown,unknown,complete
+Ultimate BLT Sandwich,protein,"carb,high_calorie,protein",1008.0,52.18,61.77,55.58,unknown,unknown,unknown,unknown,complete
+Roast Beef Sandwich,protein,"carb,high_calorie,protein",509.0,42.41,15.58,50.37,unknown,unknown,unknown,unknown,complete
+The Study Sandwich,protein,"carb,protein",479.0,36.67,13.79,51.4,unknown,unknown,unknown,unknown,complete
+Ham & Swiss Croissant Sandwich,starch,"carb,high_calorie,protein,starch",809.0,29.37,53.94,55.82,unknown,unknown,unknown,unknown,complete
+Pesto Turkey Bacon Wrap,protein,"carb,high_calorie,protein",771.0,28.37,50.97,49.82,unknown,unknown,unknown,unknown,complete
+Vegan Chicken Caesar Wrap,protein,"carb,creamy,high_calorie,protein,veg_protein",753.0,26.26,43.18,68.14,unknown,unknown,unknown,unknown,complete
+Tarragon Chicken Salad,protein,"protein,veggies",416.0,25.82,21.37,28.89,unknown,unknown,unknown,unknown,complete
+Louie Shrimp & Avocado Salad,protein,"carb,high_calorie,protein,veggies",758.0,26.16,60.24,33.13,unknown,unknown,unknown,unknown,complete
+Cucumber Dill & Salmon Salad,protein,"high_calorie,protein,veggies",670.0,29.3,54.51,15.15,unknown,unknown,unknown,unknown,complete
+Tuna Salad,protein,"protein,veggies",433.0,2.3,26.91,6.16,unknown,unknown,unknown,unknown,complete
+Vegan Chicken Caesar Salad,protein,"carb,creamy,high_calorie,protein,veg_protein,veggies",544.0,21.1,33.86,31.2,unknown,unknown,unknown,unknown,complete
+Standard Beverage,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Premium Beverage,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
+Apple,unknown,,53.0,0.3,0.2,13.8,unknown,unknown,unknown,unknown,complete
+Bananas,unknown,,89.0,1.1,0.3,22.8,unknown,unknown,unknown,unknown,complete
+Orange Juice,beverage,sugary,48.0,0.9,0.1,11.8,unknown,unknown,unknown,unknown,complete
+Apple Juice,beverage,sugary,46.0,0.1,0.1,11.3,unknown,unknown,unknown,unknown,complete
+Nonfat Milk,dairy,,34.0,3.4,0.1,5.0,unknown,unknown,unknown,unknown,complete
+Lowfat Milk,dairy,,51.0,3.3,2.0,4.8,unknown,unknown,unknown,unknown,complete
+Chocolate Milk,dairy,,75.0,4.6,1.0,12.1,unknown,unknown,unknown,unknown,complete
+Soy Milk,dairy,,46.0,2.9,2.0,3.5,unknown,unknown,unknown,unknown,complete
+Assorted Cereal Cups,starch,"carb,starch",199.0,7.63,3.81,41.18,unknown,unknown,unknown,unknown,complete
+Swiss Fondue Frites,unknown,"carb,fried,high_calorie,protein",687.0,12.0,34.59,73.2,unknown,unknown,unknown,unknown,complete
+Fondue Frites w/ Rasher,protein,"carb,fried,high_calorie,protein",959.0,25.56,55.35,81.59,unknown,unknown,unknown,unknown,complete
+Bavarian Pretzel and Sausage Platter,protein,"carb,high_calorie,protein",1345.0,28.73,95.57,86.88,unknown,unknown,unknown,unknown,complete
+Beef Chili Fondue Fries,protein,"carb,high_calorie,protein",833.0,22.72,45.81,74.74,unknown,unknown,unknown,unknown,complete
+Beligian Waffle Batter,starch,"starch,sugary",138.0,2.97,5.72,17.86,unknown,unknown,unknown,unknown,complete
+White Sourdough Bread,starch,starch,133.0,4.49,0.67,26.75,unknown,unknown,unknown,unknown,complete
+Artisan Rye Bread,starch,starch,92.0,3.07,0.56,18.72,unknown,unknown,unknown,unknown,complete
+Whole Wheat Bread,starch,starch,105.0,3.51,1.48,19.34,unknown,unknown,unknown,unknown,complete
+White Hoagie Bread,starch,"carb,starch",415.0,11.2,9.05,70.57,unknown,unknown,unknown,unknown,complete
+Artisan Baguette,protein,"carb,high_calorie,protein",1001.0,33.16,4.8,200.72,unknown,unknown,unknown,unknown,complete

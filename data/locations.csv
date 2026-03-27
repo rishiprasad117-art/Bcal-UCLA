@@ -1,0 +1,10 @@
+location_id,name,type,meal_plan_accepted,available_meals
+de_neve,De Neve,dining_hall,True,"Breakfast,Lunch,Dinner"
+bruin_plate,Bruin Plate,dining_hall,True,"Breakfast,Lunch,Dinner"
+bruin_cafe,Bruin Cafe,dining_hall,True,"Breakfast,Lunch,Dinner"
+epicuria_covel,Epicuria at Covel,dining_hall,True,"Breakfast,Lunch,Dinner"
+epicuria_ackerman,Epicuria at Ackerman,cafe,True,"Lunch,Dinner"
+feast,Feast at Rieber,dining_hall,True,"Breakfast,Lunch,Dinner"
+cafe_1919,Cafe 1919,cafe,True,"Breakfast,Lunch,Dinner"
+rendezvous,Rendezvous,cafe,True,"Lunch,Dinner"
+the_study,The Study at Hedrick,cafe,True,"Breakfast,Lunch,Dinner"

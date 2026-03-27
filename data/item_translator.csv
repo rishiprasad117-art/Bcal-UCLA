@@ -1,0 +1,530 @@
+raw_item_name,canonical_name,category,translation_confidence
+Grilled Chicken Breast,Grilled Chicken Breast,protein,high
+DFC Classic,Chicken Sandwich,protein,high
+Steamed Broccoli,Steamed Broccoli,veg,high
+Brown Rice,Brown Rice,starch,high
+Caesar Salad,Caesar Salad,veg,high
+Cheeseburger,Cheeseburger,protein,high
+French Fries,French Fries,starch,high
+Citrus Herb Tofu,Tofu Entree,protein,medium
+Penne Pasta Marinara,Pasta Marinara,starch,high
+Greek Yogurt Parfait,Greek Yogurt Parfait,dairy,high
+Salmon Fillet,Salmon Fillet,protein,high
+Veggie Burger,Veggie Burger,protein,high
+Scrambled Eggs,Scrambled Eggs,protein,high
+Oatmeal,Oatmeal,starch,high
+Turkey Sandwich,Turkey Sandwich,protein,high
+Spinach,Spinach,veg,high
+Cherry Tomatoes,Cherry Tomatoes,veg,high
+Turkey Bacon,Turkey Bacon,protein,high
+Veggie Wrap,Veggie Wrap,protein,medium
+Beef Taco,Beef Taco,protein,high
+Garden Salad,Garden Salad,veg,high
+Chocolate Chip Cookie,Chocolate Chip Cookie,dessert,high
+Bruin Waffle Plate,Bruin Waffle Plate,starch,high
+Parfait Fresh Berry,Parfait Fresh Berry,unknown,high
+Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,starch,high
+Fresh Fruit Cup,Fresh Fruit Cup,unknown,high
+Instant Oatmeal - Baked Apple,Instant Oatmeal - Baked Apple,starch,high
+Multi Grain Cheerios,Multi Grain Cheerios,starch,high
+Cheerios Cereal,Cheerios Cereal,unknown,high
+Honey Nut Cheerios Cereal,Honey Nut Cheerios Cereal,unknown,high
+Lucky Charms Cereal,Lucky Charms Cereal,unknown,high
+Cinnamon Toast Crunch Cereal,Cinnamon Toast Crunch Cereal,unknown,high
+Cocoa Puffs,Cocoa Puffs,unknown,high
+Trix Cereal,Trix Cereal,unknown,low
+Rice Chex Cereal,Rice Chex Cereal,starch,high
+Plain Chicken Wings,Plain Chicken Wings,protein,high
+Frank's RedHot® Chicken Wings,Frank's RedHot® Chicken Wings,protein,high
+Lemon Pepper Chicken Wings,Lemon Pepper Chicken Wings,protein,high
+Szechuan Chicken Wings,Szechuan Chicken Wings,protein,high
+Wedge Cut Fries,Wedge Cut Fries,unknown,high
+Ham & Swiss Sandwich,Ham & Swiss Sandwich,unknown,low
+Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,protein,low
+Smoky BBQ Sandwich,Smoky BBQ Sandwich,unknown,low
+BBQ Beef Brisket Sandwich,BBQ Beef Brisket Sandwich,protein,low
+Chicken Ranch & Swiss Sandwich,Chicken Ranch & Swiss Sandwich,protein,low
+The Cuban Sandwich,The Cuban Sandwich,unknown,low
+Chipotle BBQ Turkey Sandwich,Chipotle BBQ Turkey Sandwich,protein,low
+Chicken Caesar Sandwich,Chicken Caesar Sandwich,protein,low
+Roasted Salmon Sandwich,Roasted Salmon Sandwich,protein,low
+Pastrami & Swiss Sandwich,Pastrami & Swiss Sandwich,unknown,low
+Chicken Pesto Sandwich,Chicken Pesto Sandwich,protein,low
+Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,unknown,low
+Buffalo Chicken Sandwich,Buffalo Chicken Sandwich,protein,low
+Cheesesteak,Cheesesteak,dairy,low
+Vegan Chicken Caesar Sandwich,Vegan Chicken Caesar Sandwich,protein,low
+Chipotle BBQ Sandwich,Chipotle BBQ Sandwich,unknown,low
+Havana Press Sandwich,Havana Press Sandwich,unknown,low
+"Roasted Garden ""Salmon"" Sandwich","Roasted Garden ""Salmon"" Sandwich",protein,low
+Vegetarian Chicken Ranch & Swiss Sandwich,Vegetarian Chicken Ranch & Swiss Sandwich,protein,low
+Vegetarian Pastrami & Swiss Sandwich,Vegetarian Pastrami & Swiss Sandwich,unknown,low
+Vegetarian Ham & Swiss Sandwich,Vegetarian Ham & Swiss Sandwich,unknown,low
+Chicken Parmesan Sandwich,Chicken Parmesan Sandwich,protein,low
+Vegetarian Cobb Salad,Vegetarian Cobb Salad,veg,high
+Mixed Green Salad,Mixed Green Salad,veg,high
+Asian Wonton Salad,Asian Wonton Salad,veg,high
+Chopped Mediterranean Salad,Chopped Mediterranean Salad,veg,high
+Chicken Noodle Soup,Chicken Noodle Soup,protein,high
+Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,veg,high
+Peanut Butter & Strawberry Preserves Sandwich,Peanut Butter & Strawberry Preserves Sandwich,dairy,high
+Avocado BLT Sandwich,Avocado BLT Sandwich,unknown,high
+Tuna Salad Croissant Sandwich,Tuna Salad Croissant Sandwich,protein,high
+Turkey & Provolone Sandwich,Turkey & Provolone Sandwich,protein,high
+Italian Sandwich,Italian Sandwich,protein,high
+Gluten Free Turkey & Provolone Sandwich,Gluten Free Turkey & Provolone Sandwich,protein,high
+Gluten Free Italian Sandwich,Gluten Free Italian Sandwich,protein,high
+Gluten Free Avocado BLT Sandwich,Gluten Free Avocado BLT Sandwich,sauce,high
+1/2 Turkey & Provolone Sandwich,1/2 Turkey & Provolone Sandwich,protein,high
+1/2 Ham & Swiss Sandwich,1/2 Ham & Swiss Sandwich,protein,high
+Chicken Caesar Salad,Chicken Caesar Salad,protein,high
+Asian Chicken Salad,Asian Chicken Salad,protein,high
+Nut Free Asian Wonton Salad,Nut Free Asian Wonton Salad,veg,high
+BBQ Chicken Salad,BBQ Chicken Salad,protein,high
+Forbidden Rice Grain Bowl with Shrimp,Forbidden Rice Grain Bowl with Shrimp,protein,high
+Quinoa Grain Bowl with Chicken,Quinoa Grain Bowl with Chicken,protein,high
+Peanut Butter and Egg Protein Box,Peanut Butter and Egg Protein Box,protein,high
+Crudite Box,Crudite Box,unknown,high
+Caesar Wrap,Caesar Wrap,protein,high
+Chicken Caesar Wrap,Chicken Caesar Wrap,protein,high
+Roasted Vegetable & Ricotta Cheese Wrap,Roasted Vegetable & Ricotta Cheese Wrap,dairy,high
+Vegan Caesar Dressing,Vegan Caesar Dressing,sauce,high
+Ranch Dressing,Ranch Dressing,sauce,high
+Balsamic Vinaigrette,Balsamic Vinaigrette,sauce,high
+Red Wine Vinaigrette,Red Wine Vinaigrette,sauce,high
+Asian Salad Dressing,Asian Salad Dressing,veg,high
+Strawberry Sensation Smoothie,Strawberry Sensation Smoothie,beverage,high
+Mango Madness Smoothie,Mango Madness Smoothie,beverage,high
+Caribbean Island Smoothie,Caribbean Island Smoothie,protein,high
+Bruin Fresh Smoothie,Bruin Fresh Smoothie,beverage,high
+Smoothie #15: Chocolate Banana,Smoothie #15: Chocolate Banana,beverage,high
+Smoothie #06: Alooooha,Smoothie #06: Alooooha,beverage,high
+Café Latte,Café Latte,unknown,high
+Vanilla Latte,Vanilla Latte,starch,high
+Mocha Latte,Mocha Latte,unknown,high
+Caramel Latte,Caramel Latte,starch,high
+Chai Tea Latte,Chai Tea Latte,beverage,high
+Brewed Coffee,Brewed Coffee,beverage,high
+Espresso,Espresso,unknown,high
+Café Caramel,Café Caramel,starch,high
+Café Mocha,Café Mocha,unknown,high
+Café Vanilla,Café Vanilla,starch,high
+Brewed Tea,Brewed Tea,beverage,low
+White Chocolate Latte,White Chocolate Latte,unknown,high
+Cappuccino,Cappuccino,unknown,high
+Hot Chocolate,Hot Chocolate,unknown,high
+Hot Vanilla,Hot Vanilla,unknown,high
+Horchata Latte,Horchata Latte,unknown,high
+Tea Latte,Tea Latte,beverage,high
+Americano,Americano,unknown,high
+Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,starch,high
+Chocolate Croissant,Chocolate Croissant,starch,high
+Butter Croissant,Butter Croissant,starch,high
+Apple Turnover,Apple Turnover,unknown,high
+Cheese Danish,Cheese Danish,dairy,high
+Red Velvet Cake,Red Velvet Cake,dessert,high
+Banana Walnut Muffin,Banana Walnut Muffin,dessert,high
+Funfetti Butter Cream Cupcake,Funfetti Butter Cream Cupcake,dairy,high
+Mocha Muffin,Mocha Muffin,dessert,high
+Blueberry Muffin,Blueberry Muffin,dessert,high
+Passion Fruit Chocolate Tart,Passion Fruit Chocolate Tart,dessert,high
+Island Chia Pudding,Island Chia Pudding,starch,high
+Triple Chocolate Mousse Verrine,Triple Chocolate Mousse Verrine,sauce,high
+Plain Bagel,Plain Bagel,starch,high
+Everything Bagels,Everything Bagels,starch,high
+Whole Wheat Bagel,Whole Wheat Bagel,starch,high
+Banana,Banana,unknown,high
+Fuji Apple,Fuji Apple,unknown,high
+Granny Smith Apple,Granny Smith Apple,unknown,high
+Oranges,Oranges,unknown,high
+BBQ Kettle Chips,BBQ Kettle Chips,sauce,high
+Sea Salt Kettle Chips,Sea Salt Kettle Chips,sauce,high
+Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,veg,high
+Original Lays Baked Chips,Original Lays Baked Chips,unknown,high
+Jalapeno Kettle Chips,Jalapeno Kettle Chips,sauce,high
+"Tri-Tip, Cardamom Brown Rice, & Poached Egg Bowl","Tri-Tip, Cardamom Brown Rice, & Poached Egg Bowl",protein,high
+Tofu Benedict w/ Corn Hollandaise,Tofu Benedict w/ Corn Hollandaise,protein,high
+Scrambled Egg Whites,Scrambled Egg Whites,protein,high
+Vegan Scrambled Eggs,Vegan Scrambled Eggs,protein,high
+Roasted Red Breakfast Potato Wedges,Roasted Red Breakfast Potato Wedges,starch,high
+Oat & Whole Wheat Waffle,Oat & Whole Wheat Waffle,starch,high
+Pear-Date Compote,Pear-Date Compote,unknown,high
+Waffle,Waffle,starch,high
+Vegan Pancake,Vegan Pancake,starch,high
+Simply Grilled Special,Simply Grilled Special,unknown,low
+Cantaloupe,Cantaloupe,unknown,high
+Grapefruit,Grapefruit,unknown,high
+Green Grapes,Green Grapes,unknown,high
+Red Grapes,Red Grapes,unknown,high
+Kiwi,Kiwi,unknown,high
+Blood Orange,Blood Orange,unknown,high
+Cara Cara Orange,Cara Cara Orange,unknown,high
+Pineapple,Pineapple,unknown,high
+Multi-Grain Bread,Multi-Grain Bread,starch,high
+Raisin Walnut Bread,Raisin Walnut Bread,starch,high
+Whole Wheat Sourdough Bread,Whole Wheat Sourdough Bread,starch,high
+Boston Brown Quickbread,Boston Brown Quickbread,starch,high
+Cranberry Orange Bread,Cranberry Orange Bread,starch,high
+Almond Cashew Butter,Almond Cashew Butter,dairy,high
+Chocolate Peanut Butter,Chocolate Peanut Butter,dairy,high
+Nopales & Vanilla Marmalade,Nopales & Vanilla Marmalade,unknown,high
+Passion Fruit & Orange Water,Passion Fruit & Orange Water,beverage,high
+White Polenta,White Polenta,unknown,high
+Kale & Banana Smoothie,Kale & Banana Smoothie,veg,high
+Peanut Butter & Oat Smoothie,Peanut Butter & Oat Smoothie,starch,high
+Tropical Tofu Smoothie,Tropical Tofu Smoothie,protein,high
+Chocolate Granola & Strawberry Parfait,Chocolate Granola & Strawberry Parfait,protein,high
+"Granola, Oatmeal, & Apple Parfait","Granola, Oatmeal, & Apple Parfait",starch,high
+"Berry, Pineapple, & Toasted Quinoa Parfait","Berry, Pineapple, & Toasted Quinoa Parfait",starch,high
+Turkey Bacon Cheddar Chive Scone,Turkey Bacon Cheddar Chive Scone,protein,high
+BYO Green Tea Frozen Yogurt,BYO Green Tea Frozen Yogurt,dairy,high
+BYO Green Tea Greek Yogurt,BYO Green Tea Greek Yogurt,dairy,low
+Chicken Tortilla Soup,Chicken Tortilla Soup,protein,high
+Tuscan Bean Soup,Tuscan Bean Soup,protein,high
+"Cajun Tofu, Polenta, & Spinach Bowl","Cajun Tofu, Polenta, & Spinach Bowl",protein,high
+"Plantain, White Bean, Quinoa, & Swiss Chard Bowl","Plantain, White Bean, Quinoa, & Swiss Chard Bowl",protein,high
+"Salmon, Dill Goat Cheese, & Cucumber Stacker","Salmon, Dill Goat Cheese, & Cucumber Stacker",protein,high
+Roasted Cauliflower & Veggie Wrap,Roasted Cauliflower & Veggie Wrap,protein,high
+Frijoles de la Olla,Frijoles de la Olla,unknown,high
+Brown Calrose Rice,Brown Calrose Rice,starch,high
+"Mixed Grains--Farro, Wheatberry, & Brown Rice","Mixed Grains--Farro, Wheatberry, & Brown Rice",starch,high
+"Roasted Parsnips, Carrots, & Onions","Roasted Parsnips, Carrots, & Onions",veg,high
+Sauteed Bok Choy,Sauteed Bok Choy,unknown,high
+Spicy Pork Tortilla Pizza,Spicy Pork Tortilla Pizza,protein,high
+Piquillo Pepper Flatbread w/ Eggplant & Goat Cheese,Piquillo Pepper Flatbread w/ Eggplant & Goat Cheese,protein,high
+Fennel Coriander Marinated Grilled Chicken Thigh,Fennel Coriander Marinated Grilled Chicken Thigh,protein,high
+Spinach & White Bean Stacker w/ Arugula,Spinach & White Bean Stacker w/ Arugula,protein,high
+Grilled Kennebec Potato,Grilled Kennebec Potato,starch,high
+Zucchini Chocolate Bar,Zucchini Chocolate Bar,veg,high
+Citrus Marmalade,Citrus Marmalade,unknown,high
+Apple Spritzer,Apple Spritzer,unknown,high
+Cranberry Spritzer,Cranberry Spritzer,unknown,high
+Orange Spritzer,Orange Spritzer,unknown,high
+"Chickpea Panisse, Mixed Grains, & Rapini Bowl","Chickpea Panisse, Mixed Grains, & Rapini Bowl",unknown,high
+"Rotini, Pesto, & Kale Bowl","Rotini, Pesto, & Kale Bowl",veg,high
+Sherry Chicken with Pearl Onion,Sherry Chicken with Pearl Onion,protein,high
+Quinoa-Mushroom Lasagna with Tofu Ricotta,Quinoa-Mushroom Lasagna with Tofu Ricotta,protein,high
+Barley Pilaf,Barley Pilaf,unknown,high
+Roasted Brussels Sprouts,Roasted Brussels Sprouts,unknown,high
+Sauteed Spinach & Kale,Sauteed Spinach & Kale,veg,high
+Grilled Santa Maria Tri-Tip,Grilled Santa Maria Tri-Tip,unknown,high
+Housemade Steak Sauce,Housemade Steak Sauce,beverage,high
+Grilled Persian Style Tofu,Grilled Persian Style Tofu,protein,high
+Roasted Garlic Mofongo,Roasted Garlic Mofongo,unknown,high
+Chocolate Budino w/ Basil Seed Caviar,Chocolate Budino w/ Basil Seed Caviar,sauce,high
+Almond Butter,Almond Butter,dairy,high
+Orange Pomegranate Water,Orange Pomegranate Water,beverage,high
+Cheese Cake with Macerate Berries,Cheese Cake with Macerate Berries,dairy,high
+Caesar,Caesar,protein,high
+Chicken Caesar,Chicken Caesar,protein,high
+Gamberett,Gamberett,protein,high
+Mediterranean Salad,Mediterranean Salad,veg,high
+Salmone Di Insalata,Salmone Di Insalata,protein,high
+Pollo Verdura,Pollo Verdura,protein,high
+Tuscan Tagliata Salad,Tuscan Tagliata Salad,veg,high
+Heirloom Tomato Caprese,Heirloom Tomato Caprese,veg,high
+Campania,Campania,protein,high
+Tacchino,Tacchino,protein,high
+Pollo Parma,Pollo Parma,protein,high
+Florentino,Florentino,protein,high
+Sundried Tomato & Goat Cheese,Sundried Tomato & Goat Cheese,starch,high
+Formaggi,Formaggi,protein,high
+Genova,Genova,protein,high
+Carnivora,Carnivora,protein,high
+Margherita,Margherita,protein,high
+Pepperoni,Pepperoni,veg,high
+Salted,Salted,protein,high
+Jalapeno,Jalapeno,protein,high
+Marinara Sauce,Marinara Sauce,sauce,high
+Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,dairy,high
+Vanilla Bean,Vanilla Bean,protein,high
+Purple Yam Ube,Purple Yam Ube,protein,high
+Caramel Sea Salt,Caramel Sea Salt,unknown,high
+Chocolate Chip Coffee,Chocolate Chip Coffee,beverage,high
+Cookies and Cream,Cookies and Cream,dairy,high
+Dark Chocolate,Dark Chocolate,unknown,high
+Mint Chocolate Chip,Mint Chocolate Chip,unknown,high
+Spumoni,Spumoni,unknown,high
+Strawberry Cheesecake,Strawberry Cheesecake,dairy,high
+Banana Dulce de Leche,Banana Dulce de Leche,starch,high
+Birthday Cake,Birthday Cake,dessert,high
+Peanut Butter Cup,Peanut Butter Cup,dairy,high
+Pistachio,Pistachio,unknown,high
+Raspberry Pan Sorbet,Raspberry Pan Sorbet,unknown,low
+Strawberry Pan Sorbet,Strawberry Pan Sorbet,starch,low
+Alphonso Mango Sorbet,Alphonso Mango Sorbet,starch,high
+Granola Clusters,Granola Clusters,starch,high
+Coconut Flakes,Coconut Flakes,unknown,high
+Dried Cranberry,Dried Cranberry,unknown,high
+Semi Sweet Chocolate Chips,Semi Sweet Chocolate Chips,sauce,high
+Oreo Cookie Pieces,Oreo Cookie Pieces,dessert,high
+M&M Milk Chocolate Chopped,M&M Milk Chocolate Chopped,dairy,high
+Rainbow Sprinkles,Rainbow Sprinkles,starch,high
+Dark Chocolate Sauce,Dark Chocolate Sauce,sauce,high
+Whipped Cream,Whipped Cream,dairy,low
+Maraschino Cherry,Maraschino Cherry,unknown,high
+Gummy Bears,Gummy Bears,unknown,high
+Baked Lays Potato Chips,Baked Lays Potato Chips,starch,high
+Bruin Scramble,Bruin Scramble,unknown,high
+Vegetarian Bruin Scramble,Vegetarian Bruin Scramble,unknown,high
+Potato O'Brien,Potato O'Brien,starch,high
+Smoked Polish Sausage,Smoked Polish Sausage,unknown,high
+Buttery Hash Browns,Buttery Hash Browns,dairy,high
+Fried Eggs,Fried Eggs,protein,high
+Tomatillo Salsa,Tomatillo Salsa,sauce,high
+Belgian Waffles,Belgian Waffles,starch,high
+Maple Flavored Syrup,Maple Flavored Syrup,unknown,high
+Bodega Egg & Bacon Roll,Bodega Egg & Bacon Roll,protein,high
+Tater Tots,Tater Tots,unknown,high
+Egg Benedict Sandwich,Egg Benedict Sandwich,protein,high
+Cream of Rice Cereal,Cream of Rice Cereal,starch,high
+Everything Bagel,Everything Bagel,starch,high
+Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,starch,high
+Cream Cheese,Cream Cheese,dairy,high
+Strawberry Cream Cheese,Strawberry Cream Cheese,dairy,high
+Avocado Pulp,Avocado Pulp,unknown,high
+Black Forest Ham,Black Forest Ham,unknown,high
+Sliced Swiss Cheese,Sliced Swiss Cheese,dairy,high
+Sliced Tomatoes,Sliced Tomatoes,veg,high
+Julienne Red Onion,Julienne Red Onion,veg,high
+Capers,Capers,unknown,high
+Cucumber,Cucumber,veg,high
+Watermelon,Watermelon,beverage,high
+Apple Fritter,Apple Fritter,unknown,high
+Mini Croissant,Mini Croissant,starch,high
+Mini Maple Pecan Danish,Mini Maple Pecan Danish,sauce,high
+Vegan Banana Quickbread,Vegan Banana Quickbread,starch,high
+Hawaiian Shrimp,Hawaiian Shrimp,protein,high
+Steamed Rice,Steamed Rice,starch,high
+Peppered Beyond Steak,Peppered Beyond Steak,veg,high
+Huli Huli Roasted Chicken,Huli Huli Roasted Chicken,protein,high
+Roasted Green Beans,Roasted Green Beans,protein,high
+Coconut Crusted Tofu,Coconut Crusted Tofu,protein,high
+Luau Pizza,Luau Pizza,starch,high
+Cheese Pizza,Cheese Pizza,starch,high
+Pepperoni Deluxe Pizza,Pepperoni Deluxe Pizza,starch,high
+Bruin Burger,Bruin Burger,protein,high
+Bruin Cheeseburger,Bruin Cheeseburger,dairy,high
+LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,protein,high
+Big Island Burger,Big Island Burger,protein,high
+Chicken Katsu Sandwich,Chicken Katsu Sandwich,protein,high
+Beyond Burger,Beyond Burger,protein,high
+Pineapple Marinated Chicken Thigh,Pineapple Marinated Chicken Thigh,protein,high
+Cilantro Rice,Cilantro Rice,starch,high
+Spicy Lentil,Spicy Lentil,protein,high
+Flex Bar Special,Flex Bar Special,unknown,low
+Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,veg,high
+Roasted Cauliflower w/ Chile & Lime,Roasted Cauliflower w/ Chile & Lime,veg,high
+Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,veg,high
+Caesar Salad Dressing,Caesar Salad Dressing,veg,high
+Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,protein,high
+White Cupcake,White Cupcake,dessert,high
+White Chocolate Chip Cookie w/ Cranberries,White Chocolate Chip Cookie w/ Cranberries,dessert,high
+Dutch Apple Pie,Dutch Apple Pie,dessert,high
+Cranberry Crunch Bar,Cranberry Crunch Bar,unknown,high
+Oreo Mousse,Oreo Mousse,sauce,high
+Deep Dish Blackout Cake,Deep Dish Blackout Cake,dessert,high
+Mahi Mahi Seared Fish,Mahi Mahi Seared Fish,protein,high
+Spicy Pineapple Salsa,Spicy Pineapple Salsa,sauce,high
+Coconut Rice,Coconut Rice,starch,high
+Garlic Lemon Tofu,Garlic Lemon Tofu,protein,high
+Hawaiian Roasted Pork,Hawaiian Roasted Pork,protein,high
+Hawaiian Macaroni Salad,Hawaiian Macaroni Salad,veg,high
+Beyond Chicken Tenders,Beyond Chicken Tenders,protein,high
+Beyond Meatballs in Brava Sauce,Beyond Meatballs in Brava Sauce,sauce,high
+Garbanzo Picadillo,Garbanzo Picadillo,unknown,high
+"Cauliflower, Raisin, & Almond Salad w. Curry Vinaigrette","Cauliflower, Raisin, & Almond Salad w. Curry Vinaigrette",veg,high
+Cole Slaw,Cole Slaw,sauce,high
+Country Potato Salad,Country Potato Salad,starch,high
+Chipmunk Bar,Chipmunk Bar,sauce,high
+Maple Walnut Blondies,Maple Walnut Blondies,sauce,high
+Antipasto Salad,Antipasto Salad,veg,high
+Butternut Squash & Cranberry Salad,Butternut Squash & Cranberry Salad,veg,high
+Grilled Chicken,Grilled Chicken,protein,high
+Grilled Salmon,Grilled Salmon,protein,high
+Roasted Seitan Skewer,Roasted Seitan Skewer,protein,high
+Margherita Pizza,Margherita Pizza,starch,high
+Pepperoni Pizza,Pepperoni Pizza,starch,high
+Tre Funghi Pizza,Tre Funghi Pizza,starch,high
+Cauliflower Crust Zucchini Pizza,Cauliflower Crust Zucchini Pizza,starch,high
+Chicken Pesto Pizza Pie,Chicken Pesto Pizza Pie,protein,high
+Mambo Italiano Pizza Pie,Mambo Italiano Pizza Pie,starch,high
+Spaghetti Pomodoro,Spaghetti Pomodoro,protein,high
+Chicken Fettuccine,Chicken Fettuccine,protein,high
+Ricotta Rosa Baked Pasta,Ricotta Rosa Baked Pasta,starch,high
+Spaghetti Bolognese,Spaghetti Bolognese,protein,high
+Vegetarian Fettucine,Vegetarian Fettucine,protein,high
+Mozzarella Di Bufala Sandwich,Mozzarella Di Bufala Sandwich,protein,high
+Turkey Caprese Sandwich,Turkey Caprese Sandwich,protein,high
+Pistachio Mortadella Sandwich,Pistachio Mortadella Sandwich,protein,high
+Portobello Sandwich,Portobello Sandwich,unknown,high
+Italian Burger,Italian Burger,protein,high
+"Artichoke, Mushroom, & Fontina Grilled Sandwich","Artichoke, Mushroom, & Fontina Grilled Sandwich",unknown,high
+Spanish Seasoned Pomme Frites,Spanish Seasoned Pomme Frites,unknown,high
+Moroccan Roasted Carrots,Moroccan Roasted Carrots,veg,high
+Grilled Kale w/ Orange & Crushed Red Chili,Grilled Kale w/ Orange & Crushed Red Chili,veg,high
+Vegetable Mix,Vegetable Mix,unknown,high
+Moroccan Couscous Salad,Moroccan Couscous Salad,veg,high
+Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,veg,high
+Portuguese Roast Garlic Chicken,Portuguese Roast Garlic Chicken,protein,high
+Mint Couscous,Mint Couscous,unknown,high
+Almond Crusted Tofu w/ Garlic Fennel,Almond Crusted Tofu w/ Garlic Fennel,protein,high
+Classic Chocolate Chip Cookie,Classic Chocolate Chip Cookie,dessert,high
+Snickerdoodle Cookies,Snickerdoodle Cookies,dessert,high
+Tiramisu,Tiramisu,unknown,high
+Pistachio Raspberry Tart,Pistachio Raspberry Tart,dessert,high
+Focaccia,Focaccia,starch,high
+Lavash Chips,Lavash Chips,unknown,high
+Sun-Dried Tomato Pesto,Sun-Dried Tomato Pesto,veg,high
+Garlic Oil,Garlic Oil,sauce,high
+Parsley Pesto,Parsley Pesto,sauce,high
+Hummus,Hummus,protein,high
+Tzatziki,Tzatziki,sauce,high
+Muhammara (Spicy Roasted Pepper Dip),Muhammara (Spicy Roasted Pepper Dip),veg,high
+Artichoke Spinach Dip,Artichoke Spinach Dip,veg,high
+Smoked Mozzarella Spread,Smoked Mozzarella Spread,sauce,high
+Morrocan Spicy Lentil Dip,Morrocan Spicy Lentil Dip,protein,high
+"White Bean, Feta, & Za'atar Spread","White Bean, Feta, & Za'atar Spread",protein,high
+Zhug,Zhug,sauce,high
+Garlic Lebneh,Garlic Lebneh,protein,high
+Htipiti,Htipiti,unknown,high
+Marinated Red Grape Tomatoes,Marinated Red Grape Tomatoes,veg,high
+Pitted Kalamata Olives,Pitted Kalamata Olives,unknown,high
+Pickled Vegetables,Pickled Vegetables,unknown,high
+Grated Parmesan Cheese,Grated Parmesan Cheese,dairy,high
+Mushroom & Mozzarella Stromboli,Mushroom & Mozzarella Stromboli,unknown,high
+Marinara & Meatballs,Marinara & Meatballs,protein,high
+Spaghetti w/ Garlic Basil Tomato Sauce,Spaghetti w/ Garlic Basil Tomato Sauce,veg,high
+Grilled Chicken Parmesan Sandwich,Grilled Chicken Parmesan Sandwich,protein,high
+"Eggplant, Red Pepper &  Mozzarella Sandwich","Eggplant, Red Pepper &  Mozzarella Sandwich",protein,high
+Turkish Spice Blend Chips,Turkish Spice Blend Chips,unknown,high
+Ancient Grain Pilaf w/ Burnt Wheat Pasta,Ancient Grain Pilaf w/ Burnt Wheat Pasta,starch,high
+Roasted Cumin & Coriander Carrots,Roasted Cumin & Coriander Carrots,veg,high
+Roasted Pork Loin,Roasted Pork Loin,protein,high
+Risi & Bisi Garlic Rice,Risi & Bisi Garlic Rice,starch,high
+Gnocchi w/ Pesto,Gnocchi w/ Pesto,sauce,high
+Moroccan Spiced Chocolate Mousse,Moroccan Spiced Chocolate Mousse,sauce,high
+Paprika Garlic Spread,Paprika Garlic Spread,sauce,high
+Cauliflower Skordalia Spread,Cauliflower Skordalia Spread,veg,high
+Fava Bean Dip with Dill,Fava Bean Dip with Dill,protein,high
+Tunisian Vegetable Dip,Tunisian Vegetable Dip,unknown,high
+Spanikopita Pizza,Spanikopita Pizza,starch,high
+Pizza Dough,Pizza Dough,starch,high
+White Hoagie Torpedo Roll,White Hoagie Torpedo Roll,starch,high
+Panini Roll,Panini Roll,starch,high
+Fluffy Potato Bun,Fluffy Potato Bun,starch,high
+Cheese Quesadilla,Cheese Quesadilla,dairy,high
+Chicken Quesadilla,Chicken Quesadilla,protein,high
+California Roll,California Roll,starch,high
+Spicy Tuna Sushi Bowl,Spicy Tuna Sushi Bowl,protein,high
+Vegan Sushi Bowl,Vegan Sushi Bowl,protein,high
+Sticky Rice,Sticky Rice,starch,high
+Garlic Fried Rice,Garlic Fried Rice,starch,high
+Pilipino Style Bihon Stir-Fried Noodles,Pilipino Style Bihon Stir-Fried Noodles,starch,high
+Crispy Pork Belly,Crispy Pork Belly,protein,high
+Chicken Adobo,Chicken Adobo,protein,high
+Kabocha & Coconut Milk Stew,Kabocha & Coconut Milk Stew,dairy,high
+Vegetable Egg Roll (Chunjuan),Vegetable Egg Roll (Chunjuan),protein,high
+Vietnamese Spicy Eggplant w/ Basil,Vietnamese Spicy Eggplant w/ Basil,protein,high
+Beef & Broccoli,Beef & Broccoli,protein,high
+Vietnamese Pickled Vegetables,Vietnamese Pickled Vegetables,unknown,high
+Salted Cucumber,Salted Cucumber,veg,high
+Marinated Soy Sprouts,Marinated Soy Sprouts,unknown,high
+Seasoned Blanched Spinach,Seasoned Blanched Spinach,veg,high
+Vietnamese Pickled Daikon,Vietnamese Pickled Daikon,unknown,high
+Vietnamese Shredded Green Papaya Salad,Vietnamese Shredded Green Papaya Salad,veg,high
+Edamame,Edamame,veg,high
+Kimchi,Kimchi,unknown,high
+Seaweed Salad,Seaweed Salad,veg,high
+Green Sriracha,Green Sriracha,unknown,high
+Dumpling Dipping Sauce,Dumpling Dipping Sauce,sauce,high
+Red Sriracha,Red Sriracha,unknown,high
+Kickin' Mayo,Kickin' Mayo,sauce,high
+Thai Chilies w/ Vegan Fish Sauce,Thai Chilies w/ Vegan Fish Sauce,protein,high
+Chojang Korean Dipping Sauce,Chojang Korean Dipping Sauce,sauce,high
+Milk Tea Boba,Milk Tea Boba,dairy,high
+Thai Tea Boba,Thai Tea Boba,beverage,high
+Taro Boba,Taro Boba,beverage,high
+Green Milk Tea Boba,Green Milk Tea Boba,dairy,high
+Vietnamese Coffee Boba,Vietnamese Coffee Boba,beverage,high
+Horchata Boba,Horchata Boba,beverage,high
+Agua de Jamaica,Agua de Jamaica,unknown,high
+Strawberry Lemonade Boba,Strawberry Lemonade Boba,beverage,high
+Mango Boba,Mango Boba,beverage,high
+Cucumber & Lime Fresca Boba,Cucumber & Lime Fresca Boba,veg,high
+Fountain Beverage,Fountain Beverage,unknown,low
+Nanami Togarashi Spice,Nanami Togarashi Spice,unknown,low
+Fried Shallots,Fried Shallots,sauce,high
+Fried Garlic,Fried Garlic,sauce,high
+Sweet Chili Mae Ploy Sauce,Sweet Chili Mae Ploy Sauce,sauce,high
+Sweet Chili Mayo,Sweet Chili Mayo,sauce,high
+Sweet and Sour Sauce,Sweet and Sour Sauce,sauce,high
+Satay Dipping Sauce,Satay Dipping Sauce,sauce,high
+Craft Your Own Breakfast Sandwich,Craft Your Own Breakfast Sandwich,unknown,low
+Create Your Own Breakfast Croissant,Create Your Own Breakfast Croissant,starch,low
+Craft Your Own Breakfast Skillet,Craft Your Own Breakfast Skillet,unknown,low
+Irish Oatmeal,Irish Oatmeal,starch,high
+Espresso Decaf,Espresso Decaf,unknown,high
+Iced Brewed Coffee,Iced Brewed Coffee,beverage,high
+Nitro Cold Coffee,Nitro Cold Coffee,beverage,high
+Fudgy Brownie,Fudgy Brownie,dessert,high
+Blackberry Fan,Blackberry Fan,sauce,high
+Almond Croissant,Almond Croissant,starch,high
+Everything Cheese Bagel,Everything Cheese Bagel,starch,low
+Everything Jalapeno Cheese Bagel,Everything Jalapeno Cheese Bagel,starch,low
+Bacon Cheddar Chive Scone,Bacon Cheddar Chive Scone,unknown,high
+Ivan Croissant,Ivan Croissant,starch,high
+Eclair,Eclair,unknown,high
+Croque Monsieur,Croque Monsieur,protein,high
+Croque Madame,Croque Madame,protein,high
+Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,dessert,high
+Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,starch,high
+Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,starch,high
+Waffle with Caramel & Seasonal Fresh Fruit,Waffle with Caramel & Seasonal Fresh Fruit,starch,high
+Broccoli Cheddar Soup,Broccoli Cheddar Soup,veg,high
+Pink Lady Apple Kombucha,Pink Lady Apple Kombucha,beverage,low
+Pomegranate Kombucha,Pomegranate Kombucha,beverage,low
+Passion Fruit Tangerine Kombuncha,Passion Fruit Tangerine Kombuncha,starch,low
+Vegan Muesli,Vegan Muesli,unknown,high
+Bircher Muesli w/ Nuts,Bircher Muesli w/ Nuts,protein,high
+Spiced Apple Caramel Parfait,Spiced Apple Caramel Parfait,protein,high
+Blueberry Strudel Parfait,Blueberry Strudel Parfait,protein,high
+Cheese & Cracker Protein Box,Cheese & Cracker Protein Box,dairy,high
+Crudite Plate,Crudite Plate,sauce,high
+Apple & Peanut Butter Box,Apple & Peanut Butter Box,dairy,high
+Caprese Sandwich,Caprese Sandwich,protein,high
+Egg Salad Sandwich,Egg Salad Sandwich,protein,high
+Chicken Salad Sandwich,Chicken Salad Sandwich,protein,high
+Chipotle Turkey Club Sandwich,Chipotle Turkey Club Sandwich,protein,high
+Ultimate BLT Sandwich,Ultimate BLT Sandwich,protein,high
+Roast Beef Sandwich,Roast Beef Sandwich,protein,high
+The Study Sandwich,The Study Sandwich,protein,high
+Ham & Swiss Croissant Sandwich,Ham & Swiss Croissant Sandwich,starch,high
+Pesto Turkey Bacon Wrap,Pesto Turkey Bacon Wrap,protein,high
+Vegan Chicken Caesar Wrap,Vegan Chicken Caesar Wrap,protein,high
+Tarragon Chicken Salad,Tarragon Chicken Salad,protein,high
+Louie Shrimp & Avocado Salad,Louie Shrimp & Avocado Salad,protein,high
+Cucumber Dill & Salmon Salad,Cucumber Dill & Salmon Salad,protein,high
+Tuna Salad,Tuna Salad,protein,high
+Vegan Chicken Caesar Salad,Vegan Chicken Caesar Salad,protein,high
+Standard Beverage,Standard Beverage,unknown,low
+Premium Beverage,Premium Beverage,unknown,low
+Apple,Apple,unknown,high
+Bananas,Bananas,unknown,high
+Orange Juice,Orange Juice,beverage,high
+Apple Juice,Apple Juice,beverage,high
+Nonfat Milk,Nonfat Milk,dairy,high
+Lowfat Milk,Lowfat Milk,dairy,high
+Chocolate Milk,Chocolate Milk,dairy,high
+Soy Milk,Soy Milk,dairy,high
+Assorted Cereal Cups,Assorted Cereal Cups,starch,high
+Swiss Fondue Frites,Swiss Fondue Frites,unknown,high
+Fondue Frites w/ Rasher,Fondue Frites w/ Rasher,protein,high
+Bavarian Pretzel and Sausage Platter,Bavarian Pretzel and Sausage Platter,protein,high
+Beef Chili Fondue Fries,Beef Chili Fondue Fries,protein,high
+Beligian Waffle Batter,Beligian Waffle Batter,starch,high
+White Sourdough Bread,White Sourdough Bread,starch,high
+Artisan Rye Bread,Artisan Rye Bread,starch,high
+Whole Wheat Bread,Whole Wheat Bread,starch,high
+White Hoagie Bread,White Hoagie Bread,starch,high
+Artisan Baguette,Artisan Baguette,protein,high

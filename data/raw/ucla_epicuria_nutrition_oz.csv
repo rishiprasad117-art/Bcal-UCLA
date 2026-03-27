@@ -1,0 +1,9 @@
+Meal,Category,Food Item,Calories (kcal),Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrate (g),Dietary Fiber (g),Sugars (g),Added Sugars (g),Protein (g),Calcium (mg),Iron (mg),Potassium (mg),Vitamin A (mcg),Vitamin B6 (mg),Vitamin B12 (mcg),Vitamin C (mg),Vitamin D (mcg)
+Lunch,International Kitchen,Pasta Carbonara,560kcal,28.0g,10.0g,0.0g,120mg,740mg,54.0g,2.0g,4.0g,0.0g,22.0g,120mg,3.0mg,350mg,60mcg,0.2mg,0.8mcg,2.0mg,0.5mcg
+Lunch,International Kitchen,Vegetable Curry,310kcal,14.0g,8.0g,0.0g,0mg,620mg,38.0g,6.0g,8.0g,0.0g,8.0g,80mg,3.5mg,520mg,120mcg,0.3mg,0.0mcg,20.0mg,0.0mcg
+Lunch,International Kitchen,Falafel Wrap,420kcal,16.0g,2.5g,0.0g,0mg,680mg,56.0g,8.0g,4.0g,0.0g,14.0g,120mg,3.8mg,480mg,30mcg,0.4mg,0.0mcg,8.0mg,0.0mcg
+Lunch,Salad Bar,Hummus Plate,320kcal,18.0g,2.5g,0.0g,0mg,480mg,32.0g,8.0g,4.0g,0.0g,12.0g,80mg,2.5mg,380mg,15mcg,0.2mg,0.0mcg,4.0mg,0.0mcg
+Dinner,International Kitchen,Roasted Chicken,310kcal,18.0g,5.0g,0.0g,115mg,520mg,0.0g,0.0g,0.0g,0.0g,32.0g,20mg,1.5mg,380mg,25mcg,0.5mg,0.7mcg,0.0mg,0.2mcg
+Dinner,International Kitchen,Lamb Kofta,390kcal,24.0g,9.0g,0.0g,95mg,620mg,10.0g,1.0g,2.0g,0.0g,32.0g,40mg,3.5mg,480mg,30mcg,0.4mg,2.5mcg,2.0mg,0.3mcg
+Dinner,International Kitchen,Steamed Jasmine Rice,200kcal,0.5g,0.1g,0.0g,0mg,10mg,44.0g,1.0g,0.0g,0.0g,4.0g,10mg,1.0mg,60mg,0mcg,0.1mg,0.0mcg,0.0mg,0.0mcg
+Dinner,Salad Bar,Greek Salad,180kcal,12.0g,3.5g,0.0g,10mg,480mg,14.0g,3.0g,6.0g,0.0g,6.0g,150mg,1.5mg,320mg,60mcg,0.2mg,0.1mcg,18.0mg,0.0mcg

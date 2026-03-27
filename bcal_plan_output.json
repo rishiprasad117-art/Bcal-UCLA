@@ -1,0 +1,130 @@
+{
+  "targets": {
+    "calories": 2210,
+    "protein_g": 165,
+    "fat_g": 52,
+    "carbs_g": 270,
+    "notes": [
+      "BMR (Mifflin\u2013St Jeor): 1676",
+      "AF 1.55 \u2192 TDEE 2598",
+      "Goal cut \u00d70.85"
+    ]
+  },
+  "meals": {
+    "breakfast": {
+      "name": "Scrambled Eggs Plate with Oatmeal",
+      "station": "Grill",
+      "components": [
+        {
+          "name": "Scrambled Eggs",
+          "station": "Grill",
+          "calories": 156,
+          "protein": 11.18,
+          "carbs": 0.92,
+          "fat": 11.47,
+          "bucket": "protein"
+        },
+        {
+          "name": "Oatmeal",
+          "station": "Grill",
+          "calories": 99,
+          "protein": 2.89,
+          "carbs": 18.48,
+          "fat": 1.45,
+          "bucket": "starch"
+        },
+        {
+          "name": "Broccoli Cheddar Soup",
+          "station": "Grill",
+          "calories": 360,
+          "protein": 9.83,
+          "carbs": 12.29,
+          "fat": 30.24,
+          "bucket": "veg"
+        }
+      ],
+      "calories": 615,
+      "protein": 23.9,
+      "carbs": 31.69,
+      "fat": 43.16,
+      "rationale": "Protein+starch+veg+sauce"
+    },
+    "lunch": {
+      "name": "Smoked Salmon Egg Benedict Plate with Oatmeal",
+      "station": "Grill",
+      "components": [
+        {
+          "name": "Smoked Salmon Egg Benedict",
+          "station": "Grill",
+          "calories": 352,
+          "protein": 22.05,
+          "carbs": 15.54,
+          "fat": 22.7,
+          "bucket": "protein"
+        },
+        {
+          "name": "Oatmeal",
+          "station": "Grill",
+          "calories": 99,
+          "protein": 2.89,
+          "carbs": 18.48,
+          "fat": 1.45,
+          "bucket": "starch"
+        },
+        {
+          "name": "Broccoli Cheddar Soup",
+          "station": "Grill",
+          "calories": 360,
+          "protein": 9.83,
+          "carbs": 12.29,
+          "fat": 30.24,
+          "bucket": "veg"
+        }
+      ],
+      "calories": 811,
+      "protein": 34.77,
+      "carbs": 46.31,
+      "fat": 54.39,
+      "rationale": "Protein+starch+veg+sauce"
+    },
+    "dinner": {
+      "name": "Smoked Polish Sausage Plate with Oatmeal",
+      "station": "Grill",
+      "components": [
+        {
+          "name": "Smoked Polish Sausage",
+          "station": "Grill",
+          "calories": 362,
+          "protein": 13.03,
+          "carbs": 5.01,
+          "fat": 32.09,
+          "bucket": "protein"
+        },
+        {
+          "name": "Oatmeal",
+          "station": "Grill",
+          "calories": 99,
+          "protein": 2.89,
+          "carbs": 18.48,
+          "fat": 1.45,
+          "bucket": "starch"
+        },
+        {
+          "name": "Broccoli Cheddar Soup",
+          "station": "Grill",
+          "calories": 360,
+          "protein": 9.83,
+          "carbs": 12.29,
+          "fat": 30.24,
+          "bucket": "veg"
+        }
+      ],
+      "calories": 821,
+      "protein": 25.75,
+      "carbs": 35.78,
+      "fat": 63.78,
+      "rationale": "Protein+starch+veg+sauce"
+    }
+  },
+  "errors": []
+}
