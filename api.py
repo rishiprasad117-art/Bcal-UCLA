@@ -30,10 +30,12 @@ Run locally:
 """
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from recommender import recommend
 from recommender.menu_loader import list_locations, get_menu
 
 app = Flask(__name__)
+CORS(app, origins=["http://localhost:5173"])
 
 
 @app.route("/locations", methods=["GET"])
@@ -99,6 +101,23 @@ def recommend_endpoint():
     date = body.get("date", None)
     top_n = int(body.get("top_n", 5))
 
+    # Build physical profile if all required fields are present
+    physical_profile = None
+    age = body.get("age")
+    weight_lbs = body.get("weight_lbs")
+    height_ft = body.get("height_ft")
+    if age and weight_lbs and height_ft is not None:
+        height_in = body.get("height_in", 0) or 0
+        height_cm = ((int(height_ft) * 12) + int(height_in)) * 2.54
+        weight_kg = float(weight_lbs) / 2.20462
+        physical_profile = {
+            "sex": body.get("sex", "male"),
+            "age": int(age),
+            "height_cm": height_cm,
+            "weight_kg": weight_kg,
+            "activity": body.get("activity", "moderate"),
+        }
+
     result = recommend(
         location_id=location_id,
         meal=meal,
@@ -106,6 +125,7 @@ def recommend_endpoint():
         user_profile=user_profile,
         date=date,
         top_n=top_n,
+        physical_profile=physical_profile,
     )
     return jsonify(result)
 

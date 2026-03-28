@@ -26,6 +26,10 @@ from .tagger import get_tags_and_nutrition
 from .filters import filter_by_diet, filter_by_allergies, filter_by_preferences
 from .scorer import rank_items
 from .response import make_response
+from meal_core.targets import compute_targets
+
+# Fraction of daily calories allocated per meal period
+_MEAL_FRACTIONS = {"Breakfast": 0.30, "Lunch": 0.35, "Dinner": 0.40}
 
 
 def recommend(
@@ -35,6 +39,7 @@ def recommend(
     user_profile: dict,
     date: str | None = None,
     top_n: int = 5,
+    physical_profile: dict | None = None,
 ) -> dict:
     """
     Run the full recommendation pipeline and return a structured result.
@@ -90,6 +95,39 @@ def recommend(
     # --- Step 5: Score and rank remaining items ---
     ranked = rank_items(kept, goal)
 
+    # --- Step 5b: Apply per-meal calorie bonus/penalty if physical profile provided ---
+    targets = None
+    if physical_profile:
+        targets = compute_targets(
+            sex=physical_profile["sex"],
+            age=physical_profile["age"],
+            height_cm=physical_profile["height_cm"],
+            weight_kg=physical_profile["weight_kg"],
+            activity=physical_profile.get("activity", "moderate"),
+            goal=goal,
+        )
+
+        meal_fraction = _MEAL_FRACTIONS.get(meal, 0.35)
+        meal_cal_target = targets["target_cal"] * meal_fraction
+
+        for item in ranked:
+            cal = item.get("calories") or 0
+            if not cal:
+                continue
+            ratio = cal / meal_cal_target
+            if 0.7 <= ratio <= 1.3:
+                item["score"] = round(item["score"] + 1.5, 2)
+                item["reasons"].append(
+                    f"fits meal calorie target (~{meal_cal_target:.0f} kcal) +1.5pts"
+                )
+            elif ratio > 1.8:
+                item["score"] = round(item["score"] - 1.0, 2)
+                item["reasons"].append(
+                    f"too calorie-dense for this meal (~{meal_cal_target:.0f} kcal target) -1.0pts"
+                )
+
+        ranked.sort(key=lambda x: (-x["score"], x.get("item_name", "")))
+
     # --- Step 6: Format and return response ---
     return make_response(
         location_id=location_id,
@@ -100,4 +138,5 @@ def recommend(
         filtered_out=filtered_out,
         top_n=top_n,
         goal=goal,
+        targets=targets,
     )

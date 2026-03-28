@@ -44,6 +44,7 @@ def make_response(
     filtered_out: list[dict],
     top_n: int = 5,
     goal: str = "balanced",
+    targets: dict | None = None,
 ) -> dict:
     """
     Build the final JSON-serializable recommendation response.
@@ -104,6 +105,7 @@ def make_response(
         "meal": meal,
         "date": date,
         "goal": goal,
+        "targets": targets,
         "recommendations": recommendations,
         "filtered_out": filtered_out_entries,
     }

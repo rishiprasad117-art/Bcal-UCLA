@@ -6,6 +6,7 @@ AF_MAP = {
     "sedentary": 1.20,
     "light": 1.375,
     "moderate": 1.55,
+    "active": 1.725,
     "very": 1.725,
     "athlete": 1.90,
 }
@@ -41,7 +42,13 @@ def compute_targets(sex: str, age: int, height_cm: float, weight_kg: float,
     target_cal = tdee * mult
 
     weight_lb = weight_kg * LBS_PER_KG
-    protein_per_lb = 1.1 if (goal == "cut") else 0.9
+    protein_per_lb = {
+        "cut":         0.8,
+        "maintain":    0.7,
+        "maintenance": 0.7,
+        "bulk":        0.9,
+        "high_protein": 1.0,
+    }.get(goal, 0.7)
     protein_g = int(round(weight_lb * protein_per_lb))
 
     fat_g = int(round(weight_lb * 0.35))

@@ -57,6 +57,7 @@ BCAL/Code/
 ├── app.py                        # Streamlit web UI
 ├── bcal_core.py                  # Thin integration/bridge layer
 ├── recommend_demo.py             # Standalone demo of the recommendation engine
+├── requirements.txt              # Python package dependencies
 │
 ├── scrape_bruin_plate.py         # Scraper: Bruin Plate
 ├── scrape_bruin_cafe.py          # Scraper: Bruin Cafe
@@ -69,7 +70,24 @@ BCAL/Code/
 ├── scrape_thestudy.py            # Scraper: The Study at Hedrick
 │
 ├── pipeline/
-│   └── ingest.py                 # ETL: raw CSVs → recommender-ready data
+│   ├── ingest.py                 # ETL: raw CSVs → recommender-ready data
+│   └── autotag.py                # Auto-infer tags for untagged food_tags.csv rows
+│
+├── frontend/                     # React SPA (Vite + Tailwind CSS)
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.js            # Dev server + /api/* proxy to Flask :5000
+│   ├── tailwind.config.js        # UCLA color palette
+│   ├── postcss.config.js
+│   └── src/
+│       ├── main.jsx
+│       ├── index.css
+│       ├── App.jsx               # Root state, API calls, layout
+│       └── components/
+│           ├── LocationMealPicker.jsx   # Location dropdown + meal period pills
+│           ├── PreferencesForm.jsx      # Diet / goal / allergies / likes inputs
+│           ├── RecommendationCard.jsx   # Single food item card with score
+│           └── ResultsView.jsx          # Results list + filtered-out section
 │
 ├── recommender/
 │   ├── __init__.py               # Exports recommend()
@@ -166,7 +184,17 @@ BCAL/Code/
 │  /locations      │                │  • item recommendations         │
 │  /menu           │                │  • TDEE + macro summary         │
 │  /recommend      │                └─────────────────────────────────┘
-└──────────────────┘
+└────────┬─────────┘
+         │  /api/* proxy (Vite dev server)
+         ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│  React SPA  (frontend/)                                              │
+│  • LocationMealPicker  — dining hall + meal period selector          │
+│  • PreferencesForm     — diet, goal, allergies, likes/dislikes       │
+│  • ResultsView         — ranked recommendation cards                 │
+│  • RecommendationCard  — score badge, nutrition, reasons             │
+│  :5173 (Vite dev) — /api/* proxied to Flask :5000                   │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -334,6 +362,37 @@ python pipeline/ingest.py --date 2026-03-25   # tag rows with specific date
 
 #### Rotating locations
 `de_neve`, `bruin_plate`, `epicuria_covel` — these serve a different menu every day; all other locations are `"static"`.
+
+---
+
+### 5.2b Autotag Pipeline (`pipeline/autotag.py`)
+
+**Entry point:** `run()`
+
+**Usage:**
+```bash
+python pipeline/autotag.py
+```
+
+Reads `data/food_tags.csv` and infers tags for every row whose `tags` column is empty or null. Rows with existing tags are never overwritten (hand-curated tags are preserved).
+
+**Tag inference rules** (applied in order, using item name regex + nutrition thresholds):
+
+| Tag | Rule |
+|---|---|
+| `grilled` | Name contains: grilled, roasted, baked, broiled, steamed, sautéed |
+| `fried` | Name contains: fried, crispy, tempura, breaded, battered, nugget, fries, tots |
+| `veg_protein` | Name contains: tofu, tempeh, lentil, chickpea, bean, edamame, seitan, falafel |
+| `veggies` | Name contains: salad, broccoli, spinach, kale, carrot, cucumber, etc. OR category=veg |
+| `creamy` | Name contains: cream, cheese, butter, béchamel, alfredo, mayo, ranch, etc. |
+| `sugary` | Name contains: syrup, honey, jam, candy, donut, etc. OR (dessert + sugar > 15g) |
+| `starch` | Name contains: rice, pasta, noodle, bread, potato, fries, tater, etc. OR category=starch |
+| `protein` | Name contains: chicken, beef, pork, fish, salmon, egg, turkey, etc. OR (protein ≥ 10g AND not beverage/sauce/dessert) |
+| `carb` | (carbs ≥ 30g AND not starch AND not beverage/sauce/dessert) |
+| `high_volume_low_cal` | (calories ≤ 80 AND protein < 5 AND not beverage/sauce) |
+| `high_calorie` | (calories ≥ 400 AND not beverage/sauce) |
+
+**Result after initial run:** 529 total rows — 22 already tagged (unchanged), 397 newly tagged, 110 still untagged (plain beverages, vinaigrettes, zero-nutrition ambiguous items).
 
 ---
 
@@ -516,9 +575,59 @@ Interactive web UI. Renders a multi-section form + meal plan display.
 - `display_smart_meal_plan()` — renders the daily meal plan with calorie targets
 - `display_smart_recommendations()` — renders ranked item recommendations with scores and filter reasons
 
+`app.py` defines two local helpers (previously these were broken imports from `bcal_core`):
+- `tdee_estimate(weight_lbs, height_in, age, sex, activity) → int` — Mifflin-St Jeor TDEE
+- `smart_macro_targets(weight_lbs, target_calories, goal, user_preferences) → (protein_g, carbs_g, fat_g)`
+
 Run:
 ```bash
 streamlit run app.py
+```
+
+---
+
+### 5.6b React Frontend (`frontend/`)
+
+A mobile-first single-page app built with React 18, Vite 5, and Tailwind CSS. Calls the Flask API via the Vite dev server proxy.
+
+**Design:** UCLA Blue (`#2774AE`) and Gold (`#FFD100`) accent palette. Single-column layout (`max-w-2xl` centered), works on iPhone and desktop. No external UI component libraries — Tailwind only.
+
+**Component overview:**
+
+| Component | Description |
+|---|---|
+| `App.jsx` | Root state machine: fetches locations on mount, POSTs to `/api/recommend`, manages loading/error |
+| `LocationMealPicker` | `<select>` dropdown for dining hall, pill buttons for meal period |
+| `PreferencesForm` | Toggle buttons for diet (blue) and goal (gold); pill toggles for allergens (red); text inputs for likes/dislikes |
+| `RecommendationCard` | Shows rank bubble, item name, station, score badge (green ≥8, gold ≥4, gray <4), calories, protein, and scoring reasons |
+| `ResultsView` | Summary header, empty state, card list, collapsible "filtered out" section |
+
+**API calls made by the frontend:**
+- `GET /api/locations` → populates location dropdown on mount
+- `POST /api/recommend` → called on form submit; body mirrors the `/recommend` endpoint schema with `top_n: 10`
+
+**Vite proxy configuration (`vite.config.js`):**
+```js
+proxy: {
+  '/api': {
+    target: 'http://localhost:5000',
+    changeOrigin: true,
+    rewrite: (path) => path.replace(/^\/api/, ''),
+  },
+}
+```
+All `/api/*` calls are rewritten to `/*` before forwarding to Flask — no CORS configuration needed during development.
+
+**Environment variable override:**
+```bash
+VITE_API_BASE=http://192.168.1.10:5000 npm run dev
+```
+
+Run:
+```bash
+cd frontend
+npm install
+npm run dev   # → http://localhost:5173
 ```
 
 ---
@@ -602,14 +711,15 @@ Static file. Manually maintained.
 |---|---|---|---|
 | `de_neve` | De Neve | dining_hall | Breakfast, Lunch, Dinner |
 | `bruin_plate` | Bruin Plate | dining_hall | Breakfast, Lunch, Dinner |
-| `covel` | Covel | dining_hall | Breakfast, Lunch, Dinner |
+| `bruin_cafe` | Bruin Cafe | dining_hall | Breakfast, Lunch, Dinner |
+| `epicuria_covel` | Epicuria at Covel | dining_hall | Breakfast, Lunch, Dinner |
+| `epicuria_ackerman` | Epicuria at Ackerman | cafe | Lunch, Dinner |
 | `feast` | Feast at Rieber | dining_hall | Breakfast, Lunch, Dinner |
-| `epicuria` | Epicuria at Covel | dining_hall | Breakfast, Lunch, Dinner |
+| `cafe_1919` | Cafe 1919 | cafe | Breakfast, Lunch, Dinner |
 | `rendezvous` | Rendezvous | cafe | Lunch, Dinner |
-| `spice_kitchen` | Spice Kitchen | cafe | Lunch, Dinner |
 | `the_study` | The Study at Hedrick | cafe | Breakfast, Lunch, Dinner |
 
-> **Note:** `locations.csv` contains `covel` and `spice_kitchen` but the ingest pipeline maps `epicuria_covel` and `feast` as the scraper-side IDs. The `locations.csv` and `FILENAME_TO_LOCATION_ID` mapping in `ingest.py` are not fully in sync — see [Known TODOs](#11-known-todos--limitations).
+All nine `location_id` values now match the `FILENAME_TO_LOCATION_ID` mapping in `pipeline/ingest.py`.
 
 ---
 
@@ -884,10 +994,15 @@ All weights are defined in `data/goal_weights.json` — no magic numbers in code
 ### Prerequisites
 
 ```bash
-pip install flask streamlit pandas beautifulsoup4 requests pytest
+pip install -r requirements.txt
 ```
 
 Python 3.11+ is required for the `str | None` union type syntax used in `recommender/engine.py`.
+
+For the React frontend, Node 18+ is required:
+```bash
+cd frontend && npm install
+```
 
 ### 1. Run the scrapers
 
@@ -913,14 +1028,32 @@ python pipeline/ingest.py
 
 This overwrites `data/daily_menu.csv` and appends new rows to `data/food_tags.csv` and `data/item_translator.csv`.
 
-### 3. Start the Flask API
+### 3. Run autotag (optional but recommended)
+
+```bash
+python pipeline/autotag.py
+```
+
+Fills in tags for any items in `food_tags.csv` that the pipeline added without tags. Safe to re-run — existing tags are never overwritten.
+
+### 4. Start the Flask API
 
 ```bash
 python api.py
 # → http://localhost:5000
 ```
 
-### 4. Start the Streamlit UI
+### 5. Start the React frontend
+
+```bash
+cd frontend
+npm run dev
+# → http://localhost:5173
+```
+
+Vite proxies all `/api/*` requests to Flask on port 5000 — no CORS setup needed.
+
+### 6. Start the Streamlit UI (alternative to React)
 
 ```bash
 streamlit run app.py
@@ -935,13 +1068,14 @@ for f in scrape_*.py; do python "$f"; done
 
 # 2. Run pipeline
 python pipeline/ingest.py
+python pipeline/autotag.py
 
 # 3. Optionally review flagged items
 cat data/unresolved_items.csv
 
 # 4. Start services
 python api.py &
-streamlit run app.py
+cd frontend && npm run dev
 ```
 
 ### Quick API smoke test
@@ -998,9 +1132,7 @@ pytest tests/test_edge_cases.py -v
 
 ### Data
 
-- **`locations.csv` ID mismatch.** `locations.csv` uses `covel` and `spice_kitchen`, but `pipeline/ingest.py`'s `FILENAME_TO_LOCATION_ID` uses `epicuria_covel` and `feast`. The `menu_loader` joins on `location_id` — rows written by ingest with `epicuria_covel` won't match the `epicuria` entry in `locations.csv`. The IDs need to be reconciled.
-
-- **`food_tags.csv` stubs are not yet fully curated.** Every new item starts with nutrition filled in from the scraper but `tags = ""`. The scoring engine produces score `0.0` for untagged items until they are manually tagged. Tag quality directly determines recommendation quality.
+- **`food_tags.csv` tags are partially auto-inferred.** After running `pipeline/autotag.py`, ~110 items remain untagged (plain beverages, vinaigrettes, zero-nutrition ambiguous items). These score `0.0` and rank last until manually tagged or the autotag rules are extended.
 
 - **Allergen data is incomplete on the UCLA site.** UCLA does not publish allergen data for all items. Items scraped before the `_parse_icons` update, or where the detail page was unreachable, have `allergens = "unknown"` in `food_tags.csv`. These items will not be filtered out by allergen rules — they will pass through silently.
 
@@ -1026,6 +1158,6 @@ pytest tests/test_edge_cases.py -v
 
 - **No deployment configuration.** There is no `Dockerfile`, `Procfile`, or environment variable documentation. The Flask server runs with `debug=True` which is not suitable for production.
 
-- **No requirements.txt.** Dependencies must be inferred from import statements.
+- **React frontend requires Vite dev server for the API proxy.** In production, either: (a) copy `frontend/dist/` into Flask's static folder and add a catch-all `index.html` route, or (b) install `flask-cors` and set `VITE_API_BASE` at build time. Neither is currently configured.
 
 - **`scrape_fiest.py` uses the Spice Kitchen URL** (`https://dining.ucla.edu/spice-kitchen/`) but outputs to `ucla_feast_nutrition.csv` and uses `LOCATION_NAME = "Feast at Rieber"`. These two dining halls appear to share a menu page, but the discrepancy is confusing and should be documented or resolved.
