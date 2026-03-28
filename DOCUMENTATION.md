@@ -12,11 +12,14 @@
 5. [Module Reference](#5-module-reference)
    - 5.1 [Scrapers (`scrape_*.py`)](#51-scrapers-scrape_py)
    - 5.2 [Ingest Pipeline (`pipeline/ingest.py`)](#52-ingest-pipeline-pipelineingestpy)
+   - 5.2b [Autotag Pipeline (`pipeline/autotag.py`)](#52b-autotag-pipeline-pipelineautotagpy)
    - 5.3 [Recommender Engine (`recommender/`)](#53-recommender-engine-recommender)
    - 5.4 [Meal Planner (`meal_core/`)](#54-meal-planner-meal_core)
    - 5.5 [Flask API (`api.py`)](#55-flask-api-apipy)
    - 5.6 [Streamlit UI (`app.py`)](#56-streamlit-ui-apppy)
+   - 5.6b [React Frontend (`frontend/`)](#56b-react-frontend-frontend)
    - 5.7 [Integration Layer (`bcal_core.py`)](#57-integration-layer-bcal_corepy)
+   - 5.8 [GitHub Actions CI (`daily-menu-update.yml`)](#58-github-actions-ci-daily-menu-updateyml)
 6. [File Schemas](#6-file-schemas)
    - 6.1 [`data/daily_menu.csv`](#61-datadaily_menucsv)
    - 6.2 [`data/food_tags.csv`](#62-datafood_tagscsv)
@@ -35,16 +38,18 @@
 
 ## 1. Project Overview
 
-BCAL is a UCLA-specific nutrition planner and meal recommender. It scrapes live menu data from all nine UCLA dining locations every day, normalizes and enriches it through an ETL pipeline, then serves personalized food recommendations via a Flask API and Streamlit web UI.
+BCAL is a UCLA-specific nutrition planner and meal recommender. It scrapes live menu data from all nine UCLA dining locations every day, normalizes and enriches it through an ETL pipeline, then serves personalized food recommendations via a Flask API, a React SPA, and a Streamlit UI.
 
 **Core capabilities:**
 - Daily menu collection from nine UCLA dining locations via web scraping
 - Nutrition enrichment: calories, macros, allergens, and dietary flags per item
 - Personalized recommendations filtered by diet, allergens, and preferences
 - Goal-aware scoring (cut, bulk, maintain, high-protein, balanced)
+- User profile personalization: TDEE and macro targets computed from age, sex, weight, height, and activity level; per-meal calorie targets used to bonus/penalise items in scoring
 - Meal plan composition that hits daily TDEE and macro targets
+- Automated daily data refresh via GitHub Actions
 
-**Tech stack:** Python 3.11+, Flask, Streamlit, BeautifulSoup4, Pandas, pytest
+**Tech stack:** Python 3.11+, Flask, flask-cors, Streamlit, BeautifulSoup4, Pandas, pytest; React 18, Vite 5, Tailwind CSS
 
 ---
 
@@ -53,7 +58,7 @@ BCAL is a UCLA-specific nutrition planner and meal recommender. It scrapes live 
 ```
 BCAL/Code/
 │
-├── api.py                        # Flask REST API
+├── api.py                        # Flask REST API (port 5000, CORS enabled)
 ├── app.py                        # Streamlit web UI
 ├── bcal_core.py                  # Thin integration/bridge layer
 ├── recommend_demo.py             # Standalone demo of the recommendation engine
@@ -76,7 +81,7 @@ BCAL/Code/
 ├── frontend/                     # React SPA (Vite + Tailwind CSS)
 │   ├── index.html
 │   ├── package.json
-│   ├── vite.config.js            # Dev server + /api/* proxy to Flask :5000
+│   ├── vite.config.js            # Vite config — no proxy; direct calls to Flask :5000 via CORS
 │   ├── tailwind.config.js        # UCLA color palette
 │   ├── postcss.config.js
 │   └── src/
@@ -84,10 +89,11 @@ BCAL/Code/
 │       ├── index.css
 │       ├── App.jsx               # Root state, API calls, layout
 │       └── components/
+│           ├── ProfileForm.jsx          # Age, sex, weight, height, activity inputs
 │           ├── LocationMealPicker.jsx   # Location dropdown + meal period pills
 │           ├── PreferencesForm.jsx      # Diet / goal / allergies / likes inputs
 │           ├── RecommendationCard.jsx   # Single food item card with score
-│           └── ResultsView.jsx          # Results list + filtered-out section
+│           └── ResultsView.jsx          # Targets card + results list + filtered-out section
 │
 ├── recommender/
 │   ├── __init__.py               # Exports recommend()
@@ -125,9 +131,13 @@ BCAL/Code/
 │       ├── ucla_rendezvous_nutrition.csv
 │       └── ucla_the_study_nutrition.csv
 │
-└── tests/
-    ├── test_meal_core.py         # Unit tests for meal_core
-    └── test_edge_cases.py        # Edge case tests for recommender + API
+├── tests/
+│   ├── test_meal_core.py         # Unit tests for meal_core
+│   └── test_edge_cases.py        # Edge case tests for recommender + API
+│
+└── .github/
+    └── workflows/
+        └── daily-menu-update.yml # Runs all 9 scrapers + pipeline daily at 6 AM UTC
 ```
 
 ---
@@ -150,6 +160,7 @@ BCAL/Code/
 │  • visit each detail page → nutrition facts + dietary icons         │
 │  • write data/raw/<location>.csv                                    │
 └──────────────────────────────┬──────────────────────────────────────┘
+                               │  triggered by GitHub Actions at 6 AM UTC
                                │  data/raw/*.csv
                                ▼
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -160,6 +171,7 @@ BCAL/Code/
 │  • write data/daily_menu.csv  (overwritten each run)               │
 │  • write data/unresolved_items.csv  (items needing manual review)  │
 └──────────────────────────────┬──────────────────────────────────────┘
+                               │  followed by pipeline/autotag.py
                                │  data/daily_menu.csv
                                │  data/food_tags.csv
                                │  data/item_translator.csv
@@ -173,27 +185,30 @@ BCAL/Code/
 │    ├── tagger.py        → canonical name → nutrition + tags        │
 │    ├── filters.py       → remove diet / allergen / dislike items   │
 │    ├── scorer.py        → score remaining items against goal       │
+│    ├── [calorie bonus]  → bonus/penalty vs. per-meal TDEE target   │
 │    └── response.py      → build structured JSON response           │
 └──────────┬──────────────────────────────────┬───────────────────────┘
            │                                  │
            ▼                                  ▼
-┌──────────────────┐                ┌─────────────────────────────────┐
-│  Flask API       │                │  Streamlit UI  (app.py)         │
-│  (api.py)        │                │  • user profile form            │
-│  :5000           │                │  • smart meal plan display      │
-│  /locations      │                │  • item recommendations         │
-│  /menu           │                │  • TDEE + macro summary         │
-│  /recommend      │                └─────────────────────────────────┘
-└────────┬─────────┘
-         │  /api/* proxy (Vite dev server)
+┌──────────────────────┐            ┌─────────────────────────────────┐
+│  Flask API  (api.py) │            │  Streamlit UI  (app.py)         │
+│  :5000               │            │  • user profile form            │
+│  CORS → :5173        │            │  • smart meal plan display      │
+│  GET  /locations     │            │  • item recommendations         │
+│  GET  /menu          │            │  • TDEE + macro summary         │
+│  POST /recommend     │            └─────────────────────────────────┘
+└────────┬─────────────┘
+         │  Direct HTTP calls (CORS allows http://localhost:5173)
          ▼
 ┌──────────────────────────────────────────────────────────────────────┐
-│  React SPA  (frontend/)                                              │
-│  • LocationMealPicker  — dining hall + meal period selector          │
-│  • PreferencesForm     — diet, goal, allergies, likes/dislikes       │
-│  • ResultsView         — ranked recommendation cards                 │
-│  • RecommendationCard  — score badge, nutrition, reasons             │
-│  :5173 (Vite dev) — /api/* proxied to Flask :5000                   │
+│  React SPA  (frontend/)                          :5173 (Vite dev)   │
+│  • ProfileForm         — age, sex, weight, height, activity level   │
+│  • LocationMealPicker  — dining hall + meal period selector         │
+│  • PreferencesForm     — diet, goal, allergies, likes/dislikes      │
+│  • ResultsView         — TDEE/macro targets card + ranked results   │
+│  • RecommendationCard  — score badge, nutrition, scoring reasons    │
+│                                                                      │
+│  API_BASE = http://127.0.0.1:5000  (no proxy; CORS handles it)     │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -262,7 +277,7 @@ Run after scrapers. Reads all nine raw CSVs and writes four output files.
 Called at request time by `api.py`. Stateless — reads from the pre-built CSV files.
 
 ```
-recommend(location_id, meal, goal, user_profile, date, top_n)
+recommend(location_id, meal, goal, user_profile, date, top_n, physical_profile)
   │
   ├── menu_loader.get_menu()      → list of raw items for location/meal/date
   │
@@ -276,7 +291,12 @@ recommend(location_id, meal, goal, user_profile, date, top_n)
   │
   ├── scorer.rank_items()               → score each item, sort descending
   │
-  └── response.make_response()          → structured JSON
+  ├── [if physical_profile provided]
+  │     meal_core.compute_targets()     → TDEE + macro targets
+  │     calorie bonus/penalty           → ±score based on per-meal calorie target
+  │     re-sort                         → final ranking with calorie adjustment
+  │
+  └── response.make_response()          → structured JSON (includes targets if computed)
 ```
 
 ---
@@ -414,10 +434,25 @@ recommend(
     user_profile: dict,  # {diet, allergies, likes, dislikes}
     date: str | None,    # "YYYY-MM-DD", defaults to today
     top_n: int,          # number of recommendations, default 5
+    physical_profile: dict | None,  # {sex, age, height_cm, weight_kg, activity} — optional
 ) → dict
 ```
 
 Pipeline stages are strictly ordered and stateless. Each stage produces a list passed to the next. Filtered-out items accumulate in `filtered_out` with a `filter_reason` field attached.
+
+**Calorie bonus/penalty (step 5b):** When `physical_profile` is provided, `compute_targets()` is called and a per-meal calorie target is derived (`target_cal × meal_fraction`). Each scored item then receives:
+- `+1.5 pts` if its calories are within ±30% of the meal target
+- `−1.0 pts` if its calories exceed 1.8× the meal target
+
+Items with no calorie data (0 or missing) are skipped. After adjustments, items are re-sorted before `make_response`.
+
+**Meal calorie fractions:**
+
+| Meal | Fraction of daily target |
+|---|---|
+| Breakfast | 0.30 |
+| Lunch | 0.35 |
+| Dinner | 0.40 |
 
 #### `recommender/menu_loader.py`
 
@@ -428,7 +463,7 @@ Reads `data/daily_menu.csv`. Returns rows matching location, meal, and date. Eac
 Returns location metadata from `data/locations.csv`. Locations are cached module-level after first load.
 
 **`list_locations() → list[dict]`**
-Returns all nine locations.
+Returns all nine locations. The `available_meals` field is returned as a Python list (split from the CSV's comma-separated string).
 
 #### `recommender/normalizer.py`
 
@@ -485,8 +520,8 @@ Sorts by score descending; tiebreak alphabetically by item name.
 
 #### `recommender/response.py`
 
-**`make_response(...) → dict`**
-Builds the final JSON. Top-N ranked items become `recommendations`; all filtered items become `filtered_out`. Each recommendation includes a `data_note` if nutrition data is missing or estimated.
+**`make_response(..., targets=None) → dict`**
+Builds the final JSON. Top-N ranked items become `recommendations`; all filtered items become `filtered_out`. Each recommendation includes a `data_note` if nutrition data is missing or estimated. The `targets` dict (from `compute_targets`) is included in the response when a physical profile was provided, or `null` otherwise.
 
 ---
 
@@ -505,14 +540,33 @@ TDEE = BMR × activity_factor
 target_cal = TDEE × goal_multiplier
 ```
 
-Activity factors: `sedentary=1.20`, `light=1.375`, `moderate=1.55`, `very=1.725`, `athlete=1.90`
+Activity factors:
+
+| Key | Factor |
+|---|---|
+| `sedentary` | 1.20 |
+| `light` | 1.375 |
+| `moderate` | 1.55 |
+| `active` | 1.725 |
+| `very` | 1.725 |
+| `athlete` | 1.90 |
 
 Goal multipliers: `maintain=1.00`, `cut=0.85`, `bulk=1.12`, `recomp=1.00`
 
-Macro splits:
-- Protein: 1.1 g/lb (cut), 0.9 g/lb (all other goals)
-- Fat: max(0.35 g/lb, 20% of total calories) ÷ 9
-- Carbs: (target_cal − protein_cal − fat_cal) ÷ 4
+Macro splits (goal-specific protein):
+
+| Goal | Protein (g/lb) |
+|---|---|
+| `cut` | 0.8 |
+| `maintain` / `maintenance` | 0.7 |
+| `bulk` | 0.9 |
+| `high_protein` | 1.0 |
+| all others (balanced, recomp) | 0.7 |
+
+- Fat: `max(weight_lb × 0.35, target_cal × 0.20 / 9)` grams
+- Carbs: `(target_cal − protein_g × 4 − fat_g × 9) / 4` grams
+
+Returns: `{target_cal, protein_g, fat_g, carbs_g, notes}`
 
 #### `meal_core/tagger.py`
 
@@ -555,7 +609,14 @@ Orchestrates targets → tag → compose → select. Selects meals that best mat
 
 ### 5.5 Flask API (`api.py`)
 
-Starts on port 5000. See [Section 7](#7-api-endpoints) for full endpoint documentation.
+Starts on port 5000. CORS is enabled via `flask-cors` for `http://localhost:5173` (the Vite dev server origin), allowing the React frontend to make direct cross-origin requests without a proxy.
+
+```python
+from flask_cors import CORS
+CORS(app, origins=["http://localhost:5173"])
+```
+
+See [Section 7](#7-api-endpoints) for full endpoint documentation.
 
 Run:
 ```bash
@@ -588,7 +649,7 @@ streamlit run app.py
 
 ### 5.6b React Frontend (`frontend/`)
 
-A mobile-first single-page app built with React 18, Vite 5, and Tailwind CSS. Calls the Flask API via the Vite dev server proxy.
+A mobile-first single-page app built with React 18, Vite 5, and Tailwind CSS. Calls the Flask API directly over HTTP; CORS is handled server-side by `flask-cors`.
 
 **Design:** UCLA Blue (`#2774AE`) and Gold (`#FFD100`) accent palette. Single-column layout (`max-w-2xl` centered), works on iPhone and desktop. No external UI component libraries — Tailwind only.
 
@@ -596,27 +657,24 @@ A mobile-first single-page app built with React 18, Vite 5, and Tailwind CSS. Ca
 
 | Component | Description |
 |---|---|
-| `App.jsx` | Root state machine: fetches locations on mount, POSTs to `/api/recommend`, manages loading/error |
-| `LocationMealPicker` | `<select>` dropdown for dining hall, pill buttons for meal period |
+| `App.jsx` | Root state machine: fetches locations on mount, POSTs to `/recommend`, manages loading/error state |
+| `ProfileForm` | Inputs for age, sex (toggle), weight (lbs), height (ft + in), and activity level (pill buttons). All fields optional — profile is only sent when age, weight, and height are all provided |
+| `LocationMealPicker` | `<select>` dropdown for dining hall, pill buttons for meal period. `available_meals` is consumed as an array from the API |
 | `PreferencesForm` | Toggle buttons for diet (blue) and goal (gold); pill toggles for allergens (red); text inputs for likes/dislikes |
 | `RecommendationCard` | Shows rank bubble, item name, station, score badge (green ≥8, gold ≥4, gray <4), calories, protein, and scoring reasons |
-| `ResultsView` | Summary header, empty state, card list, collapsible "filtered out" section |
+| `ResultsView` | Daily targets card (shown when profile was provided), summary header, empty state, card list, collapsible "filtered out" section |
+
+**Daily targets card** (`ResultsView`): when `results.targets` is present in the API response, a blue card displays the user's computed daily calorie target alongside protein, carbs, and fat in grams.
+
+**API base URL:**
+```js
+// Default: direct to Flask. Override with environment variable if needed.
+const API_BASE = import.meta.env.VITE_API_BASE ?? 'http://127.0.0.1:5000'
+```
 
 **API calls made by the frontend:**
-- `GET /api/locations` → populates location dropdown on mount
-- `POST /api/recommend` → called on form submit; body mirrors the `/recommend` endpoint schema with `top_n: 10`
-
-**Vite proxy configuration (`vite.config.js`):**
-```js
-proxy: {
-  '/api': {
-    target: 'http://localhost:5000',
-    changeOrigin: true,
-    rewrite: (path) => path.replace(/^\/api/, ''),
-  },
-}
-```
-All `/api/*` calls are rewritten to `/*` before forwarding to Flask — no CORS configuration needed during development.
+- `GET http://127.0.0.1:5000/locations` → populates location dropdown on mount
+- `POST http://127.0.0.1:5000/recommend` → called on form submit; body mirrors the `/recommend` endpoint schema with `top_n: 10` and optional physical profile fields
 
 **Environment variable override:**
 ```bash
@@ -635,6 +693,32 @@ npm run dev   # → http://localhost:5173
 ### 5.7 Integration Layer (`bcal_core.py`)
 
 A thin bridge used by earlier prototypes. Provides `generate_meal_plan()`, `_load_menu()`, and `_infer_station()`. Mostly superseded by the `meal_core/` and `recommender/` modules. Kept for compatibility.
+
+---
+
+### 5.8 GitHub Actions CI (`daily-menu-update.yml`)
+
+Located at `.github/workflows/daily-menu-update.yml`.
+
+**Triggers:**
+- Scheduled: daily at **6:00 AM UTC** (`cron: '0 6 * * *'`)
+- Manual: `workflow_dispatch`
+
+**Runner:** `ubuntu-latest`, Python 3.11
+
+**Steps:**
+1. Checkout repository
+2. Set up Python 3.11
+3. Install dependencies: `requests`, `beautifulsoup4`, `lxml`, `pandas`
+4. Run all 9 scrapers (each with `continue-on-error: true` so one failure doesn't block the rest):
+   - `scrape_bruin_cafe.py`, `scrape_bruin_plate.py`, `scrape_cafe1919.py`, `scrape_deneve.py`, `scrape_epic_ackerman.py`, `scrape_epic_covel.py`, `scrape_fiest.py`, `scrape_rende.py`, `scrape_thestudy.py`
+5. Run ingest pipeline: `python pipeline/ingest.py`
+6. Run autotag pipeline: `python pipeline/autotag.py`
+7. Check for changes in the `data/` directory
+8. If changes detected: commit and push with message `"Daily menu update YYYY-MM-DD"`
+9. Write a GitHub Actions job summary
+
+The `continue-on-error: true` flag on scraper steps means a single unreachable dining hall does not abort the pipeline run. The commit step only fires if `data/` was actually modified — a day where all locations are closed produces no commit.
 
 ---
 
@@ -657,7 +741,7 @@ Generated by `pipeline/ingest.py`. Overwritten on every run.
 
 ### 6.2 `data/food_tags.csv`
 
-Incrementally enriched. Existing rows are never overwritten by the pipeline; new items get stub rows that should be manually curated.
+Incrementally enriched. Existing rows are never overwritten by the pipeline; new items get stub rows that should be manually curated or processed by `autotag.py`.
 
 | Column | Type | Description |
 |---|---|---|
@@ -703,7 +787,9 @@ Static file. Manually maintained.
 | `name` | string | Human-readable display name |
 | `type` | string | `"dining_hall"` or `"cafe"` |
 | `meal_plan_accepted` | bool | Always `True` for current rows |
-| `available_meals` | string | Comma-separated meal periods |
+| `available_meals` | string | Comma-separated meal periods in the CSV |
+
+**Note:** `available_meals` is stored as a comma-separated string in the CSV (`"Breakfast,Lunch,Dinner"`), but `list_locations()` returns it as a Python list. The Flask API therefore returns it as a JSON array — frontend code must treat it as an array, not call `.split(',')` on it.
 
 **Current locations:**
 
@@ -719,7 +805,7 @@ Static file. Manually maintained.
 | `rendezvous` | Rendezvous | cafe | Lunch, Dinner |
 | `the_study` | The Study at Hedrick | cafe | Breakfast, Lunch, Dinner |
 
-All nine `location_id` values now match the `FILENAME_TO_LOCATION_ID` mapping in `pipeline/ingest.py`.
+All nine `location_id` values match the `FILENAME_TO_LOCATION_ID` mapping in `pipeline/ingest.py`.
 
 ---
 
@@ -803,7 +889,9 @@ Written by scrapers, read by `pipeline/ingest.py`. Columns:
 
 ## 7. API Endpoints
 
-Base URL: `http://localhost:5000`
+Base URL: `http://127.0.0.1:5000`
+
+CORS is enabled for `http://localhost:5173`. All endpoints are accessible directly from the React dev server without a proxy.
 
 ---
 
@@ -819,11 +907,13 @@ Returns all UCLA dining locations.
     "name": "De Neve",
     "type": "dining_hall",
     "meal_plan_accepted": "True",
-    "available_meals": "Breakfast,Lunch,Dinner"
+    "available_meals": ["Breakfast", "Lunch", "Dinner"]
   },
   ...
 ]
 ```
+
+Note: `available_meals` is returned as a JSON **array**, not a comma-separated string.
 
 ---
 
@@ -884,8 +974,16 @@ Main recommendation endpoint.
 | `dislikes` | string[] | No | `[]` | Avoided food terms |
 | `date` | string | No | today | `"YYYY-MM-DD"` |
 | `top_n` | int | No | `5` | Number of recommendations to return |
+| `age` | int | No | — | User age in years |
+| `sex` | string | No | `"male"` | `"male"` or `"female"` |
+| `weight_lbs` | float | No | — | Body weight in pounds |
+| `height_ft` | int | No | — | Height feet component |
+| `height_in` | int | No | `0` | Height inches component |
+| `activity` | string | No | `"moderate"` | `"sedentary"`, `"light"`, `"moderate"`, `"active"`, `"athlete"` |
 
-**Example request:**
+A physical profile is computed only when `age`, `weight_lbs`, and `height_ft` are all present. `sex` and `activity` default to `"male"` / `"moderate"` if omitted.
+
+**Example request (with profile):**
 ```json
 {
   "location_id": "de_neve",
@@ -895,7 +993,13 @@ Main recommendation endpoint.
   "allergies": ["gluten"],
   "likes": ["tofu", "broccoli"],
   "dislikes": ["mushrooms"],
-  "top_n": 3
+  "top_n": 5,
+  "age": 20,
+  "sex": "male",
+  "weight_lbs": 155,
+  "height_ft": 5,
+  "height_in": 10,
+  "activity": "moderate"
 }
 ```
 
@@ -907,32 +1011,44 @@ Main recommendation endpoint.
   "meal": "Lunch",
   "date": "2026-03-25",
   "goal": "cut",
+  "targets": {
+    "target_cal": 2060,
+    "protein_g": 124,
+    "carbs_g": 231,
+    "fat_g": 69,
+    "notes": [
+      "BMR (Mifflin–St Jeor): 1776",
+      "AF 1.55 → TDEE 2753",
+      "Goal cut ×0.85"
+    ]
+  },
   "recommendations": [
     {
       "item": "Stir-Fried Tofu",
       "canonical_name": "Stir-Fried Tofu",
       "station": "Bruin Wok",
       "section_type": "rotating",
-      "score": 11.4,
+      "score": 12.9,
       "calories": 210,
       "protein_grams": 14.0,
       "data_quality": "complete",
-      "data_note": null,
       "reasons": [
         "protein: good for cut (+4.0 pts)",
         "veg_protein: plant-based protein (+2.0 pts)",
-        "protein contribution: +2.80 pts"
+        "fits meal calorie target (~721 kcal) +1.5pts"
       ]
     }
   ],
   "filtered_out": [
     {
       "item": "Cheese Pizza",
-      "filter_reason": "not vegetarian"
+      "reason": "not vegetarian"
     }
   ]
 }
 ```
+
+`targets` is `null` in the response when no physical profile was provided.
 
 **Response 400:**
 ```json
@@ -954,12 +1070,51 @@ target_calories = TDEE × goal_multiplier
 ### Macro Targets
 
 ```
-protein_g = weight_lb × (1.1 if cut else 0.9)
+protein_g = weight_lb × protein_per_lb   (goal-specific; see table in §5.4)
 fat_g     = max(weight_lb × 0.35,  target_calories × 0.20 / 9)
 carbs_g   = (target_calories − protein_g × 4 − fat_g × 9) / 4
 ```
 
-### Meal Calorie Splits (meal_core)
+Protein rates by goal:
+
+| Goal | g / lb |
+|---|---|
+| `cut` | 0.8 |
+| `maintain` / `maintenance` | 0.7 |
+| `bulk` | 0.9 |
+| `high_protein` | 1.0 |
+| `balanced`, `recomp`, others | 0.7 |
+
+### Per-Meal Calorie Targets (recommender)
+
+Used for the calorie bonus/penalty in `engine.py`:
+
+```
+meal_cal_target = target_calories × meal_fraction
+```
+
+| Meal | Fraction |
+|---|---|
+| Breakfast | 0.30 |
+| Lunch | 0.35 |
+| Dinner | 0.40 |
+
+### Calorie Bonus/Penalty (recommender/engine.py)
+
+Applied after `rank_items()` when a physical profile is provided:
+
+```
+ratio = item.calories / meal_cal_target
+
+if 0.70 ≤ ratio ≤ 1.30:   score += 1.5   ("fits meal calorie target")
+if ratio > 1.80:           score -= 1.0   ("too calorie-dense for this meal")
+```
+
+Items with zero or missing calorie data are not adjusted. Items are re-sorted after all adjustments.
+
+### Meal Calorie Splits (meal_core/planner.py)
+
+Used by the Streamlit UI and meal planner (separate from the recommender fractions above):
 
 ```
 breakfast_cal = target_calories × 0.25
@@ -983,9 +1138,10 @@ score = 0.5 × protein_g  +  0.2 × diversity  +  0.2 × satiety  +  0.1 × cal_
 score = Σ goal_weights.tag_weights[tag]          (for each tag on the item)
       + Σ goal_weights.nutrition_weights[field] × item[field]
       + like_bonus  (2 if item._liked else 0)
+      + calorie_adjustment  (±1.5 / −1.0 if physical_profile provided)
 ```
 
-All weights are defined in `data/goal_weights.json` — no magic numbers in code.
+All goal weights are defined in `data/goal_weights.json` — no magic numbers in code.
 
 ---
 
@@ -1040,8 +1196,10 @@ Fills in tags for any items in `food_tags.csv` that the pipeline added without t
 
 ```bash
 python api.py
-# → http://localhost:5000
+# → http://127.0.0.1:5000
 ```
+
+CORS is pre-configured for `http://localhost:5173`.
 
 ### 5. Start the React frontend
 
@@ -1051,7 +1209,7 @@ npm run dev
 # → http://localhost:5173
 ```
 
-Vite proxies all `/api/*` requests to Flask on port 5000 — no CORS setup needed.
+The frontend calls Flask directly at `http://127.0.0.1:5000`. No Vite proxy is needed — CORS is handled by `flask-cors` on the server.
 
 ### 6. Start the Streamlit UI (alternative to React)
 
@@ -1078,19 +1236,33 @@ python api.py &
 cd frontend && npm run dev
 ```
 
+In production, this workflow is automated by the GitHub Actions workflow (see §5.8) — no manual scraping required.
+
 ### Quick API smoke test
 
 ```bash
 # List locations
-curl http://localhost:5000/locations
+curl http://127.0.0.1:5000/locations
 
 # Get today's De Neve lunch menu
-curl "http://localhost:5000/menu?location=de_neve&meal=Lunch"
+curl "http://127.0.0.1:5000/menu?location=de_neve&meal=Lunch"
 
-# Get cut-goal recommendations
-curl -X POST http://localhost:5000/recommend \
+# Get cut-goal recommendations with physical profile
+curl -X POST http://127.0.0.1:5000/recommend \
   -H "Content-Type: application/json" \
-  -d '{"location_id":"de_neve","meal":"Lunch","goal":"cut","diet":"vegetarian","allergies":["gluten"]}'
+  -d '{
+    "location_id": "de_neve",
+    "meal": "Lunch",
+    "goal": "cut",
+    "diet": "vegetarian",
+    "allergies": ["gluten"],
+    "age": 20,
+    "sex": "male",
+    "weight_lbs": 155,
+    "height_ft": 5,
+    "height_in": 10,
+    "activity": "moderate"
+  }'
 ```
 
 ---
@@ -1138,7 +1310,7 @@ pytest tests/test_edge_cases.py -v
 
 - **`unresolved_items.csv` requires manual follow-up.** BYO and zero-nutrition items are flagged but nothing automatically prevents them from appearing in recommendations. They score 0 and will rank last, but they won't be excluded unless manually tagged or moved to an exclusion list.
 
-- **No mechanism to re-run scrapers on stale data.** If a scraper fails (network error, changed HTML), the previous CSV remains on disk and is silently used. There is no staleness check or last-modified timestamp.
+- **No mechanism to detect stale scraper output.** If a scraper fails (network error, changed HTML), the previous CSV remains on disk and is silently used. There is no staleness check or last-modified timestamp. GitHub Actions marks the scraper step as a warning but the pipeline continues.
 
 ### Recommender
 
@@ -1150,14 +1322,16 @@ pytest tests/test_edge_cases.py -v
 
 - **`filter_by_allergies` uses substring matching.** `"nuts"` matches `"tree_nuts"` and `"peanuts"`, which is intentionally safe but may occasionally over-filter (e.g., `"soy"` matching an item tagged `"soy sauce"`).
 
+- **Calorie bonus/penalty only applies when a full physical profile is submitted.** Items still score without personalization; calorie-range bonuses simply won't appear in the reasons list for anonymous requests.
+
 ### Infrastructure
 
-- **No scheduling.** Scrapers must be triggered manually or via an external cron job. There is no built-in scheduler or retry logic.
-
-- **No deduplication across meal periods.** If an item appears at both Lunch and Dinner (common for static locations), it gets two rows in `daily_menu.csv` and may create a duplicate stub in `food_tags.csv` if it wasn't present before — protected only by the `canonical_name` dedup check in `ingest.py`.
+- **GitHub Actions automation does not cover CORS origin changes.** If the React frontend is deployed to a non-localhost domain, `api.py` must be updated with the production origin and redeployed.
 
 - **No deployment configuration.** There is no `Dockerfile`, `Procfile`, or environment variable documentation. The Flask server runs with `debug=True` which is not suitable for production.
 
-- **React frontend requires Vite dev server for the API proxy.** In production, either: (a) copy `frontend/dist/` into Flask's static folder and add a catch-all `index.html` route, or (b) install `flask-cors` and set `VITE_API_BASE` at build time. Neither is currently configured.
+- **React frontend production build requires `VITE_API_BASE`.** Running `npm run build` without setting `VITE_API_BASE` bakes in `http://127.0.0.1:5000`. For a deployed build, set `VITE_API_BASE=https://your-api-domain.com` at build time and ensure the Flask CORS origin list is updated to match.
 
 - **`scrape_fiest.py` uses the Spice Kitchen URL** (`https://dining.ucla.edu/spice-kitchen/`) but outputs to `ucla_feast_nutrition.csv` and uses `LOCATION_NAME = "Feast at Rieber"`. These two dining halls appear to share a menu page, but the discrepancy is confusing and should be documented or resolved.
+
+- **No deduplication across meal periods.** If an item appears at both Lunch and Dinner (common for static locations), it gets two rows in `daily_menu.csv` and may create a duplicate stub in `food_tags.csv` if it wasn't present before — protected only by the `canonical_name` dedup check in `ingest.py`.
