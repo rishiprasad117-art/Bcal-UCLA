@@ -1,9 +1,9 @@
-const ACTIVITY_LEVELS = [
-  { value: 'sedentary', label: 'Sedentary' },
-  { value: 'light',     label: 'Light' },
-  { value: 'moderate',  label: 'Moderate' },
-  { value: 'active',    label: 'Active' },
-  { value: 'athlete',   label: 'Athlete' },
+const WORKOUT_DAYS = [
+  { value: '0',         label: '0 days' },
+  { value: '1-2',       label: '1–2 days' },
+  { value: '3-4',       label: '3–4 days' },
+  { value: '5-6',       label: '5–6 days' },
+  { value: 'every-day', label: 'Every day' },
 ]
 
 export default function ProfileForm({ profile, onChange }) {
@@ -107,19 +107,19 @@ export default function ProfileForm({ profile, onChange }) {
         </div>
       </div>
 
-      {/* Activity level */}
+      {/* Workout days */}
       <div>
         <label className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-1.5 block">
-          Activity Level
+          How many days a week do you work out?
         </label>
         <div className="flex gap-1.5 flex-wrap">
-          {ACTIVITY_LEVELS.map(({ value, label }) => (
+          {WORKOUT_DAYS.map(({ value, label }) => (
             <button
               key={value}
               type="button"
-              onClick={() => onChange({ ...profile, activity: value })}
+              onClick={() => onChange({ ...profile, workoutDays: value })}
               className={`px-3 py-2 rounded-full text-xs font-medium transition-colors
-                ${profile.activity === value
+                ${profile.workoutDays === value
                   ? 'bg-ucla-blue text-white shadow-sm'
                   : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
             >

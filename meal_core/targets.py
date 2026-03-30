@@ -14,9 +14,12 @@ AF_MAP = {
 GOAL_MULT = {
     "maintenance": 1.00,
     "maintain": 1.00,
-    "cut": 0.85,
-    "bulk": 1.12,
     "recomp": 1.00,
+}
+
+GOAL_DELTA = {
+    "cut":  -500,
+    "bulk": +300,
 }
 
 
@@ -35,26 +38,25 @@ def compute_targets(sex: str, age: int, height_cm: float, weight_kg: float,
     af = AF_MAP.get(activity or "moderate", 1.55)
     tdee = bmr * af
 
-    mult = GOAL_MULT.get(goal or "maintain", 1.0)
     if goal == "recomp":
         notes.append("Recomp baseline (0%); adjust ±7% on training/rest days if needed")
 
-    target_cal = tdee * mult
+    delta = GOAL_DELTA.get(goal or "maintain", 0)
+    mult = GOAL_MULT.get(goal or "maintain", 1.0)
+    target_cal = tdee * mult + delta
 
     weight_lb = weight_kg * LBS_PER_KG
     protein_per_lb = {
-        "cut":         0.8,
-        "maintain":    0.7,
-        "maintenance": 0.7,
-        "bulk":        0.9,
-        "high_protein": 1.0,
-    }.get(goal, 0.7)
+        "cut":          0.85,
+        "maintain":     0.8,
+        "maintenance":  0.8,
+        "bulk":         1.0,
+        "high_protein": 1.1,
+    }.get(goal, 0.8)
     protein_g = int(round(weight_lb * protein_per_lb))
 
-    fat_g = int(round(weight_lb * 0.35))
-    fat_min_cal = target_cal * 0.20
-    if fat_g * 9 < fat_min_cal:
-        fat_g = int(ceil(fat_min_cal / 9))
+    fat_floor_g = int(ceil(weight_lb * 0.4))
+    fat_g = fat_floor_g
 
     # carbs remainder
     carbs_kcal = target_cal - (protein_g * 4 + fat_g * 9)
@@ -65,7 +67,10 @@ def compute_targets(sex: str, age: int, height_cm: float, weight_kg: float,
 
     notes.append(f"BMR (Mifflin–St Jeor): {int(round(bmr))}")
     notes.append(f"AF {af} → TDEE {int(round(tdee))}")
-    notes.append(f"Goal {goal or 'maintain'} ×{mult}")
+    if delta != 0:
+        notes.append(f"Goal {goal or 'maintain'} {delta:+d} kcal")
+    else:
+        notes.append(f"Goal {goal or 'maintain'} ×{mult}")
 
     return {
         "target_cal": target_cal_rounded,

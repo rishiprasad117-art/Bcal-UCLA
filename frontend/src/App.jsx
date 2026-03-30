@@ -6,13 +6,21 @@ import ResultsView from './components/ResultsView'
 
 const API_BASE = import.meta.env.VITE_API_BASE ?? 'http://127.0.0.1:5000'
 
+const WORKOUT_DAYS_TO_ACTIVITY = {
+  '0':         'sedentary',
+  '1-2':       'light',
+  '3-4':       'moderate',
+  '5-6':       'active',
+  'every-day': 'athlete',
+}
+
 const DEFAULT_PROFILE = {
   age: '',
   sex: 'male',
   weightLbs: '',
   heightFt: '',
   heightIn: '',
-  activity: 'moderate',
+  workoutDays: '3-4',
 }
 
 const DEFAULT_PREFS = {
@@ -98,7 +106,7 @@ export default function App() {
       ...(profile.heightFt  && { height_ft:  Number(profile.heightFt),
                                   height_in:  Number(profile.heightIn) || 0 }),
       sex:      profile.sex,
-      activity: profile.activity,
+      activity: WORKOUT_DAYS_TO_ACTIVITY[profile.workoutDays] ?? 'moderate',
     }
 
     try {
