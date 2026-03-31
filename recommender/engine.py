@@ -128,6 +128,16 @@ def recommend(
 
         ranked.sort(key=lambda x: (-x["score"], x.get("item_name", "")))
 
+    # --- Step 5c: Deduplicate by canonical_name, keeping highest-scoring instance ---
+    # Items appearing in multiple stations produce duplicate enriched rows; only the
+    # top-scored instance should surface to the user.
+    seen: dict = {}
+    for item in ranked:
+        key = item.get("canonical_name") or item.get("item_name", "")
+        if key not in seen or item["score"] > seen[key]["score"]:
+            seen[key] = item
+    ranked = sorted(seen.values(), key=lambda x: (-x["score"], x.get("item_name", "")))
+
     # --- Step 6: Format and return response ---
     return make_response(
         location_id=location_id,

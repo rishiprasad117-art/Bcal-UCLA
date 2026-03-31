@@ -20,6 +20,14 @@ _LOCATIONS_CSV = os.path.join(_DATA_DIR, "locations.csv")
 # Module-level cache for locations (static, loaded once)
 _LOCATIONS = None
 
+# Maps canonical frontend meal names to the set of meal-period strings that
+# appear in daily_menu.csv and should be treated as equivalent.
+_MEAL_ALIASES: dict[str, set[str]] = {
+    "breakfast": {"breakfast", "all day", "extended breakfast"},
+    "lunch":     {"lunch", "all day", "lunch / dinner", "extended lunch"},
+    "dinner":    {"dinner", "all day", "lunch / dinner", "extended dinner", "late night"},
+}
+
 
 def _load_locations() -> dict:
     """Load all UCLA meal-plan locations from CSV into a dict keyed by location_id."""
@@ -79,6 +87,7 @@ def get_menu(location_id: str, meal: str, date: str | None = None) -> list[dict]
 
     location_id = location_id.strip().lower()
     meal = meal.strip()
+    accepted_meals = _MEAL_ALIASES.get(meal.lower(), {meal.lower()})
 
     results = []
     with open(_MENU_CSV, encoding="utf-8", newline="") as f:
@@ -90,7 +99,7 @@ def get_menu(location_id: str, meal: str, date: str | None = None) -> list[dict]
 
             if (row_date == date
                     and row_loc == location_id
-                    and row_meal.lower() == meal.lower()):
+                    and row_meal.lower() in accepted_meals):
                 results.append({
                     "item_name": row["item_name"].strip(),
                     "location_id": row_loc,

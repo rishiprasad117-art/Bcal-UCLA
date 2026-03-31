@@ -31,6 +31,7 @@ _DAILY_MENU_CSV = _ROOT / "data" / "daily_menu.csv"
 _FOOD_TAGS_CSV = _ROOT / "data" / "food_tags.csv"
 _TRANSLATOR_CSV = _ROOT / "data" / "item_translator.csv"
 _UNRESOLVED_CSV = _ROOT / "data" / "unresolved_items.csv"
+_CORRECTIONS_CSV = _ROOT / "data" / "nutrition_corrections.csv"
 
 # ---------------------------------------------------------------------------
 # Location ID inferred from scraper output filename (stem only, no extension)
@@ -177,6 +178,41 @@ def load_existing_csv(path: Path, key_col: str) -> dict:
     return result
 
 
+def load_corrections(path: Path) -> dict:
+    """Load nutrition_corrections.csv into a dict keyed by lowercased canonical_name."""
+    corrections = {}
+    if not path.exists():
+        return corrections
+    with open(path, encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            key = row.get("canonical_name", "").strip().lower()
+            if key:
+                corrections[key] = row
+    return corrections
+
+
+def apply_corrections(rows: list[dict], corrections: dict) -> tuple[list[dict], int]:
+    """Override nutrition fields for rows whose canonical_name has a correction entry.
+
+    Returns the updated rows list and a count of corrections applied.
+    """
+    applied = 0
+    for row in rows:
+        key = row.get("canonical_name", "").strip().lower()
+        corr = corrections.get(key)
+        if corr is None:
+            continue
+        row["calories"]      = corr["calories"]
+        row["protein_grams"] = corr["protein_grams"]
+        row["fat_grams"]     = corr["fat_grams"]
+        row["carb_grams"]    = corr["carb_grams"]
+        existing_dq = row.get("data_quality", "")
+        row["data_quality"] = f"corrected: {corr['notes']}" if not existing_dq or existing_dq == "complete" else f"{existing_dq}; corrected: {corr['notes']}"
+        applied += 1
+    return rows, applied
+
+
 def read_raw_csv(path: Path) -> list[dict]:
     """Read a scraper CSV. Returns [] if file is empty (headers-only or missing)."""
     if not path.exists():
@@ -199,6 +235,7 @@ def run(date_str: str) -> None:
     # Load existing lookup tables so we can append without overwriting hand-curated data
     existing_food_tags = load_existing_csv(_FOOD_TAGS_CSV, "canonical_name")
     existing_translator = load_existing_csv(_TRANSLATOR_CSV, "raw_item_name")
+    corrections = load_corrections(_CORRECTIONS_CSV)
 
     daily_menu_rows: list[dict] = []
     new_food_tags: dict = {}       # canonical_name (lower) → row dict
@@ -316,8 +353,9 @@ def run(date_str: str) -> None:
         daily_menu_rows,
     )
 
-    # ── Write data/food_tags.csv (existing + new stubs) ────────────────────
+    # ── Write data/food_tags.csv (existing + new stubs, corrections applied) ─
     merged_tags = list(existing_food_tags.values()) + list(new_food_tags.values())
+    merged_tags, corrections_applied = apply_corrections(merged_tags, corrections)
     _write_csv(
         _FOOD_TAGS_CSV,
         ["canonical_name", "category", "tags", "calories", "protein_grams",
@@ -346,6 +384,7 @@ def run(date_str: str) -> None:
     print(f"  Menu items      : {total_items}  → data/daily_menu.csv")
     print(f"  New food stubs  : {new_tags_count}  → data/food_tags.csv  (needs manual tagging)")
     print(f"  New translations: {new_trans_count}  → data/item_translator.csv")
+    print(f"  Corrections     : {corrections_applied}  applied from data/nutrition_corrections.csv")
     print(f"  Unresolved      : {unresolved_count}  → data/unresolved_items.csv")
     print(f"{'─'*60}\n")
     if unresolved_count > 0:

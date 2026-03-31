@@ -25,6 +25,7 @@
       "starch": 2,
       "high_calorie": 2,
       "grilled": 1,
+      "high_volume_low_cal": 1,
       "fried": 0,
       "sugary": -1
     },
@@ -54,6 +55,7 @@
       "protein": 5,
       "veg_protein": 4,
       "grilled": 2,
+      "high_volume_low_cal": 1,
       "fried": -1,
       "sugary": -2,
       "carb": -1
@@ -70,6 +72,7 @@
       "carb": 1,
       "grilled": 1,
       "veg_protein": 1,
+      "high_volume_low_cal": 1,
       "fried": -1,
       "sugary": -1,
       "high_calorie": -1
