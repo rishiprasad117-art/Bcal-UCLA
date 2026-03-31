@@ -528,3 +528,156 @@ Artisan Rye Bread,starch,starch,92.0,3.07,0.56,18.72,unknown,unknown,unknown,unk
 Whole Wheat Bread,starch,starch,105.0,3.51,1.48,19.34,unknown,unknown,unknown,unknown,complete
 White Hoagie Bread,starch,"carb,starch",415.0,11.2,9.05,70.57,unknown,unknown,unknown,unknown,complete
 Artisan Baguette,protein,"carb,high_calorie,protein",1001.0,33.16,4.8,200.72,unknown,unknown,unknown,unknown,complete
+Chili Hot Dog,protein,"carb,high_calorie,protein",961.0,36.67,57.15,79.54,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Korean Style Hot Dog,protein,"carb,high_calorie,protein",866.0,24.41,40.31,106.44,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Mexican Style Hot Dog,protein,"carb,high_calorie,protein",954.0,25.81,53.12,98.42,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Dole Whip Bowl,unknown,carb,0.0,0.0,0.0,0.0,true,true,false,"soy,dairy,peanuts,gluten,wheat",missing
+Mango Chia Pudding with Yogurt Mousse,dairy,"carb,high_calorie,sugary",400.0,3.36,27.47,36.35,false,false,false,dairy,complete
+White Chocolate Strawberry Tart,dessert,"carb,high_calorie,sugary",256.0,2.68,13.3,32.71,true,false,false,"soy,gluten,wheat,dairy,eggs",complete
+Cinnamon Roll with Cream Cheese,starch,"carb,creamy,high_calorie,starch",615.0,14.64,29.27,82.5,true,false,false,"gluten,wheat,dairy,eggs,alcohol",complete
+Onion Bagel,starch,"carb,starch",320.0,12.0,1.34,63.98,true,true,false,"soy,gluten,wheat",complete
+"Barley, Seasoned Turkey, Kale, & Egg Bowl",protein,"protein,veggies",208.0,13.1,10.96,14.02,false,false,false,"soy,gluten,wheat,eggs",complete
+Chicken & Egg Breakfast Pita,protein,"protein,starch",186.0,10.63,7.92,16.74,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Four Grain Waffles,starch,starch,104.0,3.49,2.94,16.43,true,false,false,"gluten,wheat,dairy,eggs",complete
+Simply Grilled Vegetarian Special,unknown,grilled,0.0,0.0,0.0,0.0,false,false,false,"fish,soy,shellfish,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs,alcohol",missing
+Mango Blueberry Compote,unknown,,33.0,0.23,0.11,7.98,true,true,false,,complete
+Cranberry Orange Quickbread,starch,"carb,starch",257.0,3.85,7.55,43.51,true,true,false,"soy,gluten,wheat",complete
+Peach Vanilla Compote,unknown,,52.0,0.22,0.0,13.69,true,true,false,,complete
+Peanut Butter,dairy,,91.0,3.81,6.21,6.0,true,true,false,peanuts,complete
+Cacao Butter,dairy,,38.0,0.97,0.69,7.08,true,true,true,"soy,tree_nuts,dairy",complete
+Pineapple Water,beverage,sugary,9.0,0.09,0.03,2.15,true,true,false,,complete
+Garden Vegetable Soup,unknown,,35.0,1.21,0.65,6.02,true,true,false,,complete
+Quinoa Vegetable Stir Fry w/ Egg,protein,"protein,starch",148.0,8.29,5.53,16.75,true,false,false,"soy,gluten,wheat,eggs",complete
+"Cold Sesame Noodle Salad w/ Tofu, Roasted Corn, & Tomato",protein,"carb,protein,starch,veg_protein,veggies",234.0,3.94,6.93,39.18,true,true,false,"soy,gluten,wheat,sesame",complete
+Chicken Taco w/ Freekeh,protein,"carb,protein",266.0,18.02,3.9,37.51,false,false,false,"gluten,wheat",complete
+Roasted Tomato Salsa,veg,"high_volume_low_cal,veggies",14.0,0.53,0.02,2.81,true,true,true,,complete
+Warm Lentil & Arugula Salad,protein,"carb,protein,veg_protein,veggies",229.0,13.21,5.03,34.62,true,true,false,,complete
+Brown Basmati Rice,starch,starch,138.0,2.82,1.2,28.49,true,true,true,,complete
+Oven Roasted Red Beets,unknown,,48.0,1.37,1.33,8.09,true,true,false,,complete
+Sautéed Spinach,veg,"high_volume_low_cal,veggies",27.0,1.58,1.22,3.12,true,true,true,,complete
+Poached Shrimp Flatbread w/ Avocado Spread,protein,protein,161.0,5.64,6.31,22.68,false,false,false,"soy,fish,gluten,wheat",complete
+Apple & Feta Cheese Flatbread,starch,starch,153.0,5.26,5.29,21.02,true,false,false,"soy,gluten,wheat,dairy,alcohol",complete
+Mushroom Walnut Stacker,unknown,"carb,veggies",213.0,5.77,8.28,30.82,true,true,false,tree_nuts,complete
+Herb de Provence Marinated Grilled Chicken Thigh,protein,"grilled,protein",53.0,7.64,1.76,0.6,false,false,false,,complete
+Yukon Gold Potato Wedges,starch,starch,43.0,1.15,0.06,9.72,true,true,false,,complete
+Strawberries,unknown,,5.0,0.09,0.04,1.08,true,true,false,,complete
+Black Pepper Strawberry Compote,veg,"high_volume_low_cal,veggies",72.0,0.24,0.11,18.5,true,true,false,,complete
+Blueberry Compote,unknown,,31.0,0.07,0.11,7.47,true,true,false,,complete
+"Golden Chickpeas w/ Rice, Beans & Kale Bowl",protein,"protein,starch,veggies",157.0,6.0,4.36,24.76,true,true,false,tree_nuts,complete
+Steamed Salmon w/ Matcha,protein,protein,122.0,10.97,7.14,2.8,false,false,false,"fish,soy,dairy,eggs",complete
+Spicy Cucumber Salad,veg,"high_volume_low_cal,veggies",25.0,0.58,0.07,6.13,true,true,false,,complete
+"Seasonal Tempeh, Potato, & Mushroom Burrito",protein,"carb,protein,starch,veg_protein,veggies",269.0,12.39,11.33,31.95,true,true,false,"soy,gluten,wheat",complete
+Steamed Barley,beverage,sugary,101.0,2.96,0.3,21.93,true,true,true,gluten,complete
+Roasted Summer Squash w/ Caramelized Onions,veg,"high_volume_low_cal,veggies",28.0,1.28,1.74,2.4,true,true,false,,complete
+Guajillo Chili Chicken & Poblano Pepper Tortilla Pizza,protein,"protein,starch",93.0,6.38,2.17,9.72,false,false,false,"sesame,dairy",complete
+"Grilled Corn, Black Bean & Chipotle Pesto Flatbread",protein,"grilled,protein",154.0,5.46,4.2,24.11,true,false,false,"soy,gluten,wheat,dairy",complete
+Grilled African Spiced Tofu,protein,"grilled,protein,veg_protein",69.0,5.93,3.95,2.82,true,true,false,soy,complete
+Blistered Shishito Peppers w/ Togarashi,veg,"high_volume_low_cal,veggies",19.0,0.72,0.31,3.88,true,true,false,sesame,complete
+Strawberry Basil Water,beverage,sugary,10.0,0.3,0.12,2.28,true,true,false,,complete
+Monday - Monte Bianco,unknown,"carb,high_calorie,protein",900.0,13.18,40.56,136.2,true,false,false,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs",complete
+Gamberetti,protein,protein,424.0,35.88,31.03,5.87,false,false,false,"fish,dairy",complete
+Insalata Di Salmone,protein,protein,254.0,23.98,13.9,8.81,false,false,false,fish,complete
+Bacon,unknown,,62.0,1.87,5.85,0.12,false,false,false,,complete
+Chive Cream Cheese,dairy,creamy,123.0,2.84,12.13,2.89,false,false,false,dairy,complete
+Taste of California,unknown,,0.0,0.0,0.0,0.0,false,false,false,,missing
+Zuma Spicy Shrimp,protein,protein,221.0,5.6,19.89,4.68,false,false,false,"fish,dairy",complete
+Pearled Couscous,unknown,starch,132.0,4.43,0.3,26.89,true,true,false,"gluten,wheat",complete
+Beyond Beef Bowl,protein,"carb,protein,veg_protein",266.0,6.46,5.43,46.95,true,true,false,soy,complete
+Fried Baja Fish Taco,protein,"fried,protein",39.0,0.73,2.92,3.11,false,false,false,"fish,dairy",complete
+Santa Cruz Spicy Lentil & Avocado Crema Tacos,protein,"protein,veg_protein",185.0,7.3,9.27,20.14,true,false,false,dairy,complete
+Chicken Ranch Pizza,protein,"creamy,protein,starch",369.0,11.04,24.73,23.01,false,false,false,"soy,gluten,wheat,dairy,eggs",complete
+SoCal Burger,protein,"carb,high_calorie,protein",689.0,39.14,41.88,38.0,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Col. Karapet's Yardbird Cruncher,protein,"carb,high_calorie,protein",685.0,22.5,39.3,58.21,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Lemon Garlic Chicken Thighs,protein,protein,184.0,23.01,7.65,5.35,false,false,false,,complete
+Rice Pilaf,starch,"carb,starch",351.0,6.84,2.03,73.63,true,true,false,,complete
+De la Olla Beans,protein,"carb,protein",192.0,11.04,1.89,32.43,true,true,false,,complete
+Roasted Cauliflower,veg,"high_volume_low_cal,veggies",54.0,1.82,3.4,4.99,true,true,false,,complete
+Garlicky Green Beans,protein,"high_volume_low_cal,protein,veggies",29.0,1.4,0.38,5.85,true,true,false,,complete
+Cioppino,unknown,,54.0,6.59,0.98,3.25,false,false,false,"fish,shellfish,alcohol",complete
+Three Bean Portobello Chili,protein,protein,70.0,2.52,2.29,10.06,true,false,false,,complete
+Santa Maria Rubbed Tri Tip,unknown,,61.0,8.46,2.38,1.03,false,false,false,,complete
+Oven Roasted Herb Potatoes,starch,starch,101.0,1.57,4.82,12.84,true,true,false,,complete
+Santa Maria Grilled Tofu,protein,"grilled,protein,veg_protein",71.0,6.04,4.31,3.0,true,true,false,soy,complete
+Late Night Chicken Tenders Combo,protein,"carb,high_calorie,protein",730.0,34.76,29.48,77.62,false,false,false,"soy,gluten,wheat,dairy",complete
+Late Night Beyond Tenders Combo,protein,"carb,high_calorie,protein,veg_protein",848.0,40.29,36.68,81.36,false,false,false,"soy,gluten,wheat",complete
+Late Night Spicy Nashville Chicken Tenders Combo,protein,"carb,high_calorie,protein",729.0,33.86,28.67,82.86,false,false,false,"soy,gluten,wheat,dairy",complete
+Late Night Spicy Nashville Beyond Tenders Combo,protein,"carb,high_calorie,protein,veg_protein",841.0,39.09,35.53,86.44,true,true,false,"soy,gluten,wheat",complete
+Greek Salad,veg,"high_calorie,veggies",628.0,11.46,55.7,19.74,true,false,false,dairy,complete
+Asparagus Prosciutto Pizza,starch,"carb,high_calorie,protein,starch,veggies",1247.0,55.69,46.13,156.05,false,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",complete
+Mozzarella Pizza,starch,"carb,high_calorie,protein,starch",999.0,46.89,28.78,139.74,false,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",complete
+Bacon Egg Saksuka Pizza Pie,protein,"carb,high_calorie,protein,starch",1786.0,78.45,95.61,153.47,false,false,false,"gluten,wheat,dairy,eggs",complete
+Frutti Di Mare Pizza Pie,starch,"carb,high_calorie,protein,starch",1567.0,77.58,73.87,134.32,false,false,false,"fish,shellfish,gluten,wheat,dairy",complete
+Shrimp Spaghetti Fra Diavolo,protein,protein,450.0,28.29,25.62,25.93,false,false,false,"fish,gluten,wheat,dairy",complete
+Eggplant Parmesan Sandwich,protein,"carb,high_calorie,protein,veggies",585.0,36.25,29.03,42.39,false,false,false,"gluten,wheat,dairy",complete
+Prosciutto Quattro Formaggio Sandwich,protein,"carb,high_calorie,protein",1185.0,67.49,75.04,63.78,false,false,false,"gluten,wheat,dairy,alcohol",complete
+Chicken Gyro Sandwich,protein,"carb,high_calorie,protein",536.0,41.35,15.91,54.32,false,false,false,"soy,gluten,wheat,sesame,dairy",complete
+Crushed Red Chili Pepper,veg,"carb,veggies",318.0,12.0,17.3,56.6,false,false,false,,complete
+Pizzaiola Beef Sandwich,protein,protein,184.0,12.1,8.17,15.53,false,false,false,"gluten,wheat,dairy",complete
+"Spinach, Tomato, & Pesto Grilled Cheese Sandwich",veg,"carb,grilled,veggies",271.0,13.23,8.98,33.97,true,false,true,"gluten,wheat,dairy",complete
+Lebanese Lentil & Bulgur Pilaf w/ Roasted Squash,protein,"carb,high_calorie,protein,starch,veg_protein",613.0,26.81,7.82,108.94,true,true,true,"gluten,wheat",complete
+Fiery Spiced Cauliflower,veg,"high_volume_low_cal,veggies",20.0,1.07,0.14,3.76,true,true,true,,complete
+Roasted Mushrooms,unknown,,18.0,1.76,0.72,1.88,true,true,true,,complete
+Chicken with Dates,protein,"carb,high_calorie,protein",1378.0,25.7,36.01,259.51,false,false,true,,complete
+Saffron Rice,starch,starch,111.0,2.33,0.0,23.78,true,true,true,,complete
+Pesto Potato Frittata,starch,starch,195.0,10.47,12.69,9.34,true,false,true,"dairy,eggs",complete
+Beef Barley Soup,protein,protein,49.0,3.7,1.12,6.22,false,false,true,gluten,complete
+Cappuccino Cookie,dessert,"high_calorie,sugary",313.0,4.14,13.35,43.3,true,true,true,"soy,gluten,tree_nuts,wheat",complete
+Old-Fashioned Oatmeal Raisin Cookie,starch,"starch,sugary",152.0,2.1,5.87,23.02,true,true,true,"soy,gluten,wheat",complete
+Chocolate Ganache Cake,dessert,sugary,195.0,2.62,14.23,18.05,true,false,false,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs",complete
+Espresso Panna Cotta,sauce,,187.0,2.77,15.5,10.2,true,false,true,"tree_nuts,dairy",complete
+Apple Crumble Tart,dessert,sugary,75.0,1.16,4.37,15.48,true,false,true,"soy,gluten,wheat,dairy,eggs",complete
+Yogurt Bar,dairy,,0.0,0.0,0.0,0.0,true,false,false,dairy,missing
+Hergma Beef Stew,protein,"carb,protein",237.0,15.99,5.49,31.21,false,false,true,"gluten,wheat",complete
+Lebanese Rice,starch,"carb,starch",182.0,3.54,1.36,37.02,true,true,true,,complete
+Roasted Moroccan Carrots,veg,"high_volume_low_cal,veggies",69.0,1.01,2.85,10.33,true,true,true,,complete
+Dolma,unknown,,94.0,1.88,3.75,14.06,true,true,true,soy,complete
+Shrimp Alfredo Pizza,protein,"creamy,protein,starch",193.0,8.68,6.73,23.79,false,false,true,"fish,gluten,wheat,dairy",complete
+Chicken Fettuccine Alfredo,protein,"carb,creamy,protein",481.0,20.05,17.69,61.23,false,false,true,"gluten,wheat,dairy",complete
+Fettuccine Primavera with Garlic,unknown,"carb,protein",414.0,10.8,18.72,53.18,true,false,true,"gluten,wheat,dairy",complete
+"Fried Calamari, Spinach, & Fennel Pita Sandwich",starch,"fried,starch,veggies",244.0,8.68,14.71,18.34,false,false,false,"soy,gluten,wheat,dairy,eggs",complete
+Baharat Grilled Tofu,protein,"grilled,protein,veg_protein",136.0,7.55,6.6,15.57,false,false,false,"soy,dairy",complete
+Carrot-Cumin Farro,veg,veggies,157.0,5.98,2.28,29.22,true,true,true,"gluten,wheat",complete
+Italian Style Broccoli & Cauliflower,veg,"high_volume_low_cal,veggies",33.0,2.06,1.29,4.27,true,true,true,,complete
+Roasted Eggplant,protein,"high_volume_low_cal,protein,veggies",52.0,0.78,3.52,4.72,true,true,true,,complete
+Harissa Pork Ribs,protein,protein,87.0,4.48,4.75,5.94,false,false,false,alcohol,complete
+Seven Vegetable Tagine,unknown,,136.0,2.28,8.52,13.16,true,true,true,,complete
+Beef & Chinese Broccoli,protein,"protein,veggies",174.0,16.68,9.65,7.96,false,false,false,"soy,gluten,wheat,eggs,alcohol",complete
+Jade Green Vegetable Stir-Fry,unknown,"high_volume_low_cal,veggies",76.0,2.14,2.96,10.96,false,false,false,"soy,gluten,wheat,sesame",complete
+Jasmine Rice,starch,"carb,starch",443.0,8.64,0.8,96.9,true,true,false,,complete
+Spicy Tuna Bowl,protein,"carb,protein",308.0,18.72,3.14,49.0,false,false,false,"fish,soy,gluten,wheat",complete
+Tofu & Edamame Bowl,protein,"carb,protein,veg_protein,veggies",269.0,9.65,3.32,51.75,true,true,false,"soy,gluten,wheat,sesame",complete
+Huo Guo Hot Pot,unknown,,4.0,0.07,0.07,0.44,false,false,false,"soy,gluten,wheat",complete
+Vegetable Hot Pot,unknown,,11.0,0.17,0.13,1.74,true,true,false,"soy,gluten,wheat",complete
+Sliced Ribeye,unknown,,89.0,4.7,7.7,0.0,false,false,false,,complete
+Diced Tofu,protein,"protein,veg_protein",34.0,2.99,1.99,1.33,true,true,false,soy,complete
+Beef Scallion Pancake Roll,protein,"high_calorie,protein,starch,sugary",325.0,10.17,19.38,28.36,false,false,false,"soy,gluten,wheat,sesame,alcohol",complete
+Teriyaki Seitan Burger,sauce,veg_protein,307.0,14.9,15.48,26.61,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs,alcohol",complete
+Chicken Teriyaki,protein,protein,137.0,20.44,4.23,2.64,false,false,false,"soy,gluten,wheat,alcohol",complete
+Honey Sponge Cake,dessert,sugary,113.0,2.51,4.69,15.12,false,false,false,"gluten,wheat,dairy,eggs",complete
+Green Tea Mousse,beverage,sugary,216.0,2.62,17.9,11.7,false,false,false,"soy,dairy,eggs",complete
+Fudge Brownie,dessert,sugary,196.0,3.1,10.14,27.79,true,false,true,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs",complete
+Hot & Sour Soup,unknown,,36.0,2.85,1.68,4.03,false,false,false,"soy,gluten,wheat,eggs",complete
+Miso Soup,unknown,,41.0,2.83,1.52,4.41,true,true,false,"soy,gluten,wheat,sesame",complete
+Asian Stir Fry,unknown,,88.0,2.6,4.04,10.61,false,false,false,,complete
+Salad Bar,veg,"carb,high_calorie,protein,veggies",1079.0,51.61,65.13,77.56,false,false,false,"soy,gluten,wheat,sesame,dairy,eggs,alcohol",complete
+Chimichanga Steak,beverage,high_calorie,517.0,20.16,25.8,53.38,false,false,false,"soy,gluten,wheat,dairy",complete
+Build-Your-Own Poke Bowl,protein,"carb,high_calorie,protein",873.0,37.73,16.32,146.6,false,false,false,"fish,soy,gluten,wheat,sesame,alcohol",complete
+Kimchi Fried Rice,starch,"fried,starch",225.0,9.16,9.76,23.69,true,false,false,"soy,gluten,wheat,sesame,eggs",complete
+Vegetarian Japchae,starch,"carb,starch",464.0,1.6,9.8,92.29,true,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Bulgogi Korean Beef,protein,protein,390.0,20.67,32.69,3.52,false,false,false,"soy,gluten,wheat,sesame",complete
+Pork Riblets,protein,protein,269.0,14.68,18.83,10.5,false,false,false,"soy,gluten,wheat,sesame",complete
+Honey Gochujang Chicken,protein,"carb,protein",272.0,1.08,5.31,55.27,false,false,false,"fish,soy,gluten,wheat,sesame",complete
+Kimchi Stir Fry w/ Tofu & Bell Pepper,protein,"protein,veg_protein",378.0,6.6,34.0,15.04,true,true,false,"soy,sesame",complete
+Korean Eggplant,protein,"carb,protein,veggies",234.0,7.02,10.25,34.32,true,true,false,"soy,gluten,wheat,sesame",complete
+Vegetable Stir Fry,unknown,,192.0,5.41,10.07,23.36,true,true,false,sesame,complete
+Croissant,starch,"carb,starch",385.0,6.24,23.82,36.83,false,false,true,"gluten,wheat,dairy",complete
+Create Your Own Handcraft Beverage,unknown,,0.0,0.0,0.0,0.0,true,true,false,"gluten,wheat",missing
+Strawberry Hibiscus Lemonade,beverage,"high_calorie,sugary",312.0,1.47,0.62,81.58,true,true,false,,complete
+Mango Mint,starch,"carb,starch",350.0,3.21,0.98,89.68,true,true,false,,complete
+Cinnamon Apple Tea,beverage,"high_calorie,sugary",299.0,0.23,0.09,80.6,true,true,false,,complete
+Hibiscus Water,beverage,sugary,138.0,0.0,0.0,36.5,true,true,false,,complete
+Passion Fruit Tangerine Kombucha,beverage,,0.0,0.0,0.0,0.0,true,true,false,,missing
+BUILD AND GO BREAKFAST YOGURT,dairy,,0.0,0.0,0.0,0.0,true,true,false,"dairy,gluten,wheat",missing
+Build and Go Frozen Yogurt,dairy,,0.0,0.0,0.0,0.0,true,true,false,"dairy,gluten,wheat,eggs,soy",missing
+Craft Your Own Salad,veg,veggies,0.0,0.0,0.0,0.0,true,true,false,"gluten,wheat,fish,soy,alcohol,eggs,dairy",missing
+Craft Your Own Pizza,starch,"carb,starch",0.0,0.0,0.0,0.0,true,true,true,"soy,gluten,wheat,sesame,dairy,eggs,fish",missing
