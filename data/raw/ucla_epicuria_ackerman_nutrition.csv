@@ -9,8 +9,8 @@ All Day,NEAPOLITAN PIZZAS,Margherita Pizza,18.23,1033,31.62g,19.43g,0g,84.79mg,2
 All Day,NEAPOLITAN PIZZAS,Pepperoni Pizza,20.73,1043,31.55g,13.28g,0.59g,97.42mg,2845.75mg,140.5g,6.23g,5.99g,49.01g,715.64mg,2.82mg,571.68mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Asparagus Prosciutto Pizza,20.68,1247,46.13g,17.23g,0.64g,82.19mg,3819.91mg,156.05g,7.5g,6.57g,55.69g,1398.38mg,4.63mg,720.85mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Mozzarella Pizza,17.18,999,28.78g,13.49g,0.83g,73.91mg,2659.64mg,139.74g,7.35g,4.87g,46.89g,976.96mg,4.38mg,592.41mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
-All Day,"""L.A."" PIZZA PIES",Bacon Egg Saksuka Pizza Pie,28.83,1786,95.61g,43.48g,0.08g,458.86mg,4901.81mg,153.47g,10.38g,8.5g,78.45g,889.28mg,5.31mg,834.36mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,"""L.A."" PIZZA PIES",Frutti Di Mare Pizza Pie,25.18,1567,73.87g,34.4g,0.64g,384.54mg,3557.15mg,134.32g,6.21g,5.28g,77.58g,861.86mg,4.28mg,715.98mg,False,False,False,"fish,shellfish,gluten,wheat,dairy"
+All Day,"""L.A."" PIZZA PIES",Bacon Egg Saksuka Pizza Pie,28.83,1786,95.61g,43.48g,0.08g,458.86mg,4901.81mg,153.47g,10.38g,8.5g,78.45g,889.28mg,5.31mg,834.36mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,PASTAS,Spaghetti Pomodoro,18.98,317,18.29g,10.33g,0g,45.95mg,940.91mg,22.81g,3.28g,6.19g,13.72g,351.15mg,2.53mg,532.46mg,True,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Chicken Fettuccine,21.63,766,52.85g,32.98g,1.16g,201.59mg,1749.17mg,37.34g,2.94g,8.58g,34.52g,375.46mg,2.94mg,750.92mg,False,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Ricotta Rosa Baked Pasta,20.04,824,48.79g,27.6g,0.28g,479.28mg,2323.12mg,46.52g,2.95g,15g,51.01g,3238.85mg,3.81mg,388.23mg,True,False,True,"gluten,wheat,dairy,eggs"
@@ -25,4 +25,3 @@ All Day,Sides,Chocolate Chip Cookie,4,471,22.16g,13.22g,0.01g,88.56mg,182.39mg,6
 All Day,Sides,Fuji Apple,5.66,102,0.29g,0g,0g,0mg,1.6mg,24.41g,3.37g,18.73g,0.32g,11.23mg,0.16mg,174.84mg,True,True,False,
 All Day,Sides,Oranges,5,67,0.17g,0.03g,0g,0mg,0mg,16.64g,3.4g,13.24g,1.33g,56.64mg,0.14mg,256.3mg,True,True,False,
 All Day,Sides,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,7.08mg,0.37mg,506.93mg,True,True,False,
-All Day,Sides,Crushed Red Chili Pepper,,318,17.3g,3.3g,0g,0mg,30mg,56.6g,27.2g,10.3g,12g,148mg,7.8mg,14mg,False,False,False,

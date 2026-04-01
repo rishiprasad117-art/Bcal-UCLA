@@ -1,7 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Extended Dinner,Chili Hot Dog,Chili Hot Dog,12.5,961,57.15g,22.14g,2.37g,127.26mg,2122.26mg,79.54g,2.62g,13.46g,36.67g,232.63mg,3.12mg,261.15mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Extended Dinner,Korean Style Hot Dog,Korean Style Hot Dog,13.65,866,40.31g,14.16g,2.01g,69.45mg,1927.85mg,106.44g,3.33g,42.71g,24.41g,41.51mg,2.63mg,305.92mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Extended Dinner,Mexican Style Hot Dog,Mexican Style Hot Dog,12,954,53.12g,16.49g,2.01g,82.3mg,2032.98mg,98.42g,4.69g,16.73g,25.81g,46.7mg,3.2mg,528.41mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
+Extended Dinner,Croffle Chicken Sandwich,Croffle Chicken Sandwich,13.44,1059,71.42g,26.05g,0g,151.45mg,2585.89mg,73.51g,3.28g,10.63g,34.17g,66.58mg,2.7mg,253.79mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 Extended Dinner,Wedge Cut Fries,Wedge Cut Fries,3.01,112,4.05g,1.01g,0g,0mg,381.9mg,17.2g,2.02g,1.01g,2.02g,20.24mg,0.6mg,333.83mg,True,True,False,
 Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"

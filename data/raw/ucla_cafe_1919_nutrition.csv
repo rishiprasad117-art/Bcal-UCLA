@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Lunch / Dinner,Monday - Monte Bianco,Monday - Monte Bianco,13.4,900,40.56g,24.23g,0g,198.03mg,293.51mg,136.2g,5.81g,107.48g,13.18g,287.09mg,6.46mg,770.27mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
+Lunch / Dinner,Polpetta Italiano,Polpetta Italiano,19.62,1148,44.77g,19.46g,1.56g,158.27mg,2943.05mg,128.51g,6.28g,8.23g,56g,513.11mg,4.5mg,889.26mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 Lunch / Dinner,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24.75g,282.72mg,2.78mg,561.47mg,True,False,False,dairy
 Lunch / Dinner,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,359.75mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.41mg,False,False,False,dairy
 Lunch / Dinner,Gamberetti,Gamberetti,9,424,31.03g,7.68g,0.03g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg,False,False,False,"fish,dairy"
@@ -28,7 +28,7 @@ Lunch / Dinner,Salted,Salted,13.43,825,25.35g,10.28g,0.19g,39.28mg,1740.03mg,123
 Lunch / Dinner,Jalapeno,Jalapeno,13.42,794,24.92g,9.97g,0.19g,37.81mg,1847.83mg,118.34g,5.63g,4.45g,20.92g,92.36mg,2.24mg,431.53mg,True,False,False,"soy,gluten,wheat,dairy"
 Lunch / Dinner,Pepperoni,Pepperoni,16.48,1297,68.34g,30.17g,0.56g,151.39mg,3302.49mg,114.35g,4.81g,3.88g,57.97g,316.97mg,3.18mg,588.5mg,False,False,False,"soy,gluten,wheat,dairy"
 Lunch / Dinner,Marinara Sauce,Marinara Sauce,4,72,2.71g,0.22g,0g,0mg,149.91mg,9.93g,2.27g,6.51g,2.32g,14.07mg,0.67mg,448.2mg,False,False,False,
-Lunch / Dinner,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,2.03,148,12.01g,7.4g,0.14g,39.24mg,358.39mg,3.81g,0.23g,1.69g,5.69g,189.95mg,0.18mg,72.6mg,True,False,False,"gluten,wheat,dairy"
+Lunch / Dinner,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,2.03,148,12.01g,7.4g,0.14g,39.24mg,358.39mg,3.81g,0.23g,1.69g,5.69g,191.3mg,0.18mg,77.98mg,True,False,False,"gluten,wheat,dairy"
 Lunch / Dinner,Vanilla Bean,Vanilla Bean,8,454,25.19g,15.12g,0g,100.75mg,138.54mg,52.89g,0g,50.37g,7.55g,491.19mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,dairy,eggs"
 Lunch / Dinner,Purple Yam Ube,Purple Yam Ube,8,465,25.75g,15.46g,0g,90.16mg,141.69mg,54.09g,0g,51.53g,126.23g,502.34mg,0mg,0mg,True,False,False,dairy
 Lunch / Dinner,Caramel Sea Salt,Caramel Sea Salt,8,567,28.34g,11.34g,0g,56.68mg,198.36mg,70.84g,2.83g,73.68g,11.34g,294.71mg,0mg,382.56mg,True,False,False,dairy
