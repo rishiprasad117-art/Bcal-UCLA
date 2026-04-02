@@ -62,9 +62,9 @@ Vegetarian Pastrami & Swiss Sandwich,unknown,carb,0.0,0.0,0.0,0.0,unknown,unknow
 Vegetarian Ham & Swiss Sandwich,unknown,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
 Chicken Parmesan Sandwich,protein,"carb,protein",0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
 Vegetarian Cobb Salad,veg,veggies,370.0,12.79,31.07,12.2,unknown,unknown,unknown,unknown,complete
-Mixed Green Salad,veg,"high_calorie,veggies",254,5.94,23.42,6.16,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture)
+Mixed Green Salad,veg,"high_calorie,veggies",254,5.94,23.42,6.16,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (46g fat for a green salad confirms platter-level capture)
 Asian Wonton Salad,veg,"carb,veggies",472.0,10.79,30.87,43.83,unknown,unknown,unknown,unknown,complete
-Chopped Mediterranean Salad,veg,"high_calorie,veggies",280,5.20,23.53,13.24,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture)
+Chopped Mediterranean Salad,veg,"high_calorie,veggies",280,5.20,23.53,13.24,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (47g fat confirms platter-level capture)
 Chicken Noodle Soup,protein,"protein,starch",101.0,7.92,1.82,12.17,unknown,unknown,unknown,unknown,complete
 Creamy Tomato Basil Soup,veg,"creamy,veggies",133.0,1.85,9.26,10.11,unknown,unknown,unknown,unknown,complete
 Peanut Butter & Strawberry Preserves Sandwich,dairy,"carb,high_calorie,protein",959.0,31.84,46.55,102.89,unknown,unknown,unknown,unknown,complete
@@ -80,7 +80,7 @@ Gluten Free Avocado BLT Sandwich,sauce,,575.0,3.76,59.78,7.18,unknown,unknown,un
 Chicken Caesar Salad,protein,"creamy,protein,veggies",314.0,46.18,13.2,5.15,unknown,unknown,unknown,unknown,complete
 Asian Chicken Salad,protein,"protein,veggies",463.0,30.18,25.3,26.22,unknown,unknown,unknown,unknown,complete
 Nut Free Asian Wonton Salad,veg,"carb,veggies",388.0,7.77,23.43,41.19,unknown,unknown,unknown,unknown,complete
-BBQ Chicken Salad,protein,"carb,high_calorie,protein,veggies",314,16.51,20.02,18.39,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label)
+BBQ Chicken Salad,protein,"carb,high_calorie,protein,veggies",314,16.51,20.02,18.39,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label)
 Forbidden Rice Grain Bowl with Shrimp,protein,"carb,high_calorie,protein,starch",744.0,25.01,42.33,74.86,unknown,unknown,unknown,unknown,complete
 Quinoa Grain Bowl with Chicken,protein,"carb,high_calorie,protein,starch",580.0,40.37,11.45,73.91,unknown,unknown,unknown,unknown,complete
 Peanut Butter and Egg Protein Box,protein,"carb,high_calorie,protein",688.0,33.54,47.59,34.25,unknown,unknown,unknown,unknown,complete
@@ -123,10 +123,10 @@ Butter Croissant,starch,"carb,starch",350.0,8.73,16.22,43.65,unknown,unknown,unk
 Apple Turnover,unknown,carb,292.0,5.01,14.04,37.09,unknown,unknown,unknown,unknown,complete
 Cheese Danish,dairy,"carb,high_calorie,sugary",392.0,4.9,24.47,39.15,unknown,unknown,unknown,unknown,complete
 Red Velvet Cake,dessert,"carb,high_calorie,sugary",870.0,9.19,55.92,85.75,unknown,unknown,unknown,unknown,complete
-Banana Walnut Muffin,dessert,"carb,high_calorie,starch,sugary",398,7.30,28.85,29.44,unknown,unknown,unknown,unknown,corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label)
+Banana Walnut Muffin,dessert,"carb,high_calorie,starch,sugary",398,7.30,28.85,29.44,unknown,unknown,unknown,unknown,corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (58g fat for a single muffin is implausible; scraper captured multi-muffin label)
 Funfetti Butter Cream Cupcake,dairy,"carb,creamy,high_calorie,sugary",857.0,6.42,54.27,87.55,unknown,unknown,unknown,unknown,complete
 Mocha Muffin,dessert,"high_calorie,sugary",746.0,10.98,49.28,72.56,unknown,unknown,unknown,unknown,complete
-Blueberry Muffin,dessert,"carb,high_calorie,starch,sugary",335,4.78,22.29,29.70,unknown,unknown,unknown,unknown,corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label)
+Blueberry Muffin,dessert,"carb,high_calorie,starch,sugary",335,4.78,22.29,29.70,unknown,unknown,unknown,unknown,corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label); corrected: Full-pan nutrition divided by 2 (45g fat for a single muffin is implausible; scraper captured multi-muffin label)
 Passion Fruit Chocolate Tart,dessert,"carb,high_calorie,sugary",282.0,4.07,16.26,31.8,unknown,unknown,unknown,unknown,complete
 Island Chia Pudding,starch,"carb,high_calorie,starch,sugary",311.0,2.41,16.03,42.48,unknown,unknown,unknown,unknown,complete
 Triple Chocolate Mousse Verrine,sauce,,714.0,3.72,66.78,31.82,unknown,unknown,unknown,unknown,complete
@@ -173,7 +173,7 @@ White Polenta,unknown,starch,57.0,0.95,1.96,9.29,unknown,unknown,unknown,unknown
 Kale & Banana Smoothie,veg,"sugary,veggies",227.0,4.13,0.63,54.64,unknown,unknown,unknown,unknown,complete
 Peanut Butter & Oat Smoothie,starch,starch,453.0,11.28,13.47,75.16,unknown,unknown,unknown,unknown,complete
 Tropical Tofu Smoothie,protein,"high_calorie,protein,sugary,veg_protein",264.0,4.61,1.55,60.15,unknown,unknown,unknown,unknown,complete
-Chocolate Granola & Strawberry Parfait,protein,"carb,high_calorie,protein,sugary",318,14.10,3.32,61.50,unknown,unknown,unknown,unknown,corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible); corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible); corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible)
+Chocolate Granola & Strawberry Parfait,protein,"carb,high_calorie,protein,sugary",318,14.10,3.32,61.50,unknown,unknown,unknown,unknown,corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible); corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible); corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible); corrected: Full-container nutrition divided by 2 servings (123g carbs for a single parfait cup is implausible)
 "Granola, Oatmeal, & Apple Parfait",starch,"carb,high_calorie,protein,starch,sugary",465.0,17.57,5.6,90.03,unknown,unknown,unknown,unknown,complete
 "Berry, Pineapple, & Toasted Quinoa Parfait",starch,"carb,high_calorie,protein,starch,sugary",377.0,22.66,4.2,65.92,unknown,unknown,unknown,unknown,complete
 Turkey Bacon Cheddar Chive Scone,protein,"carb,protein",456.0,9.74,29.79,33.9,unknown,unknown,unknown,unknown,complete
@@ -338,17 +338,17 @@ Cole Slaw,sauce,,151.0,0.61,14.52,4.2,unknown,unknown,unknown,unknown,complete
 Country Potato Salad,starch,"starch,veggies",93.0,0.62,7.21,5.84,unknown,unknown,unknown,unknown,complete
 Chipmunk Bar,sauce,,190.0,4.08,10.27,23.81,unknown,unknown,unknown,unknown,complete
 Maple Walnut Blondies,sauce,,292.0,4.12,15.94,33.85,unknown,unknown,unknown,unknown,complete
-Antipasto Salad,veg,"high_calorie,protein,veggies",338,9.67,29.24,11.61,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture)
-Butternut Squash & Cranberry Salad,veg,"carb,high_calorie,veggies",290,3.64,16.62,34.85,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label)
+Antipasto Salad,veg,"high_calorie,protein,veggies",338,9.67,29.24,11.61,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (58g fat confirms platter-level capture)
+Butternut Squash & Cranberry Salad,veg,"carb,high_calorie,veggies",290,3.64,16.62,34.85,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label)
 Grilled Chicken,protein,"grilled,protein",163.0,26.98,5.39,1.35,unknown,unknown,unknown,unknown,complete
 Grilled Salmon,protein,"grilled,protein",181.0,16.6,11.91,0.61,unknown,unknown,unknown,unknown,complete
 Roasted Seitan Skewer,protein,"protein,veg_protein",328.0,27.31,21.74,7.38,unknown,unknown,unknown,unknown,complete
-Margherita Pizza,starch,"carb,high_calorie,protein,starch",284,13.95,7.88,39.24,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
-Pepperoni Pizza,starch,"carb,high_calorie,protein,starch",288,13.82,7.88,41.27,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
-Tre Funghi Pizza,starch,"carb,high_calorie,protein,starch",255,9.45,8.91,34.10,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
-Cauliflower Crust Zucchini Pizza,starch,"carb,high_calorie,protein,starch,veggies",214,8.11,8.51,25.59,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
-Chicken Pesto Pizza Pie,protein,"carb,high_calorie,protein,starch",303,17.07,15.51,22.45,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
-Mambo Italiano Pizza Pie,starch,"carb,high_calorie,protein,starch",267,10.67,11.94,28.91,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
+Margherita Pizza,starch,"carb,high_calorie,protein,starch",284,13.95,7.88,39.24,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
+Pepperoni Pizza,starch,"carb,high_calorie,protein,starch",288,13.82,7.88,41.27,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
+Tre Funghi Pizza,starch,"carb,high_calorie,protein,starch",255,9.45,8.91,34.10,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
+Cauliflower Crust Zucchini Pizza,starch,"carb,high_calorie,protein,starch,veggies",214,8.11,8.51,25.59,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
+Chicken Pesto Pizza Pie,protein,"carb,high_calorie,protein,starch",303,17.07,15.51,22.45,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
+Mambo Italiano Pizza Pie,starch,"carb,high_calorie,protein,starch",267,10.67,11.94,28.91,unknown,unknown,unknown,unknown,corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
 Spaghetti Pomodoro,protein,"carb,high_calorie,protein",601.0,30.45,18.29,87.91,unknown,unknown,unknown,unknown,complete
 Chicken Fettuccine,protein,"carb,high_calorie,protein",827.0,32.74,58.06,34.89,unknown,unknown,unknown,unknown,complete
 Ricotta Rosa Baked Pasta,starch,"carb,high_calorie,protein,starch",863.0,60.21,40.5,67.93,unknown,unknown,unknown,unknown,complete
@@ -409,9 +409,9 @@ Cauliflower Skordalia Spread,veg,"high_volume_low_cal,veggies",50.0,1.59,3.45,3.
 Fava Bean Dip with Dill,protein,protein,58.0,2.91,2.45,7.02,unknown,unknown,unknown,unknown,complete
 Tunisian Vegetable Dip,unknown,,33.0,0.45,1.82,4.23,unknown,unknown,unknown,unknown,complete
 Spanikopita Pizza,starch,starch,218.0,10.42,8.34,24.6,unknown,unknown,unknown,unknown,complete
-Pizza Dough,starch,"carb,high_calorie,protein,starch",182,6.05,0.87,36.57,unknown,unknown,unknown,unknown,corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label)
+Pizza Dough,starch,"carb,high_calorie,protein,starch",182,6.05,0.87,36.57,unknown,unknown,unknown,unknown,corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label); corrected: Whole-dough-ball nutrition divided by 6 portions (scraper captured full-ball label)
 White Hoagie Torpedo Roll,starch,"carb,high_calorie,starch",547.0,14.55,9.5,98.42,unknown,unknown,unknown,unknown,complete
-Panini Roll,starch,"carb,high_calorie,protein,starch",236,7.65,1.53,46.71,unknown,unknown,unknown,unknown,corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label)
+Panini Roll,starch,"carb,high_calorie,protein,starch",236,7.65,1.53,46.71,unknown,unknown,unknown,unknown,corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label); corrected: Batch nutrition (full hotel-pan of ~18 rolls) divided by 18 (scraper captured full-batch label)
 Fluffy Potato Bun,starch,starch,168.0,5.26,3.85,26.66,unknown,unknown,unknown,unknown,complete
 Cheese Quesadilla,dairy,"carb,high_calorie,protein",766.0,36.86,49.62,46.29,unknown,unknown,unknown,unknown,complete
 Chicken Quesadilla,protein,"carb,high_calorie,protein",902.0,56.45,53.21,52.74,unknown,unknown,unknown,unknown,complete
@@ -487,7 +487,7 @@ Pomegranate Kombucha,beverage,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,m
 Passion Fruit Tangerine Kombuncha,starch,starch,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
 Vegan Muesli,unknown,"carb,high_calorie,protein",730.0,10.2,36.23,94.99,unknown,unknown,unknown,unknown,complete
 Bircher Muesli w/ Nuts,protein,"carb,high_calorie,protein",533.0,20.94,13.33,87.76,unknown,unknown,unknown,unknown,complete
-Spiced Apple Caramel Parfait,protein,"carb,high_calorie,protein,sugary",421,11.40,10.69,70.64,unknown,unknown,unknown,unknown,corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible); corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible); corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible)
+Spiced Apple Caramel Parfait,protein,"carb,high_calorie,protein,sugary",421,11.40,10.69,70.64,unknown,unknown,unknown,unknown,corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible); corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible); corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible); corrected: Full-container nutrition divided by 2 servings (141g carbs in one parfait is implausible)
 Blueberry Strudel Parfait,protein,"carb,high_calorie,protein,sugary",434.0,22.94,11.64,62.45,unknown,unknown,unknown,unknown,complete
 Cheese & Cracker Protein Box,dairy,"carb,high_calorie,protein",881.0,35.28,53.33,75.46,unknown,unknown,unknown,unknown,complete
 Crudite Plate,sauce,,294.0,4.24,24.65,15.47,unknown,unknown,unknown,unknown,complete
@@ -503,10 +503,10 @@ Ham & Swiss Croissant Sandwich,starch,"carb,high_calorie,protein,starch",809.0,2
 Pesto Turkey Bacon Wrap,protein,"carb,high_calorie,protein",771.0,28.37,50.97,49.82,unknown,unknown,unknown,unknown,complete
 Vegan Chicken Caesar Wrap,protein,"carb,creamy,high_calorie,protein,veg_protein",753.0,26.26,43.18,68.14,unknown,unknown,unknown,unknown,complete
 Tarragon Chicken Salad,protein,"protein,veggies",416.0,25.82,21.37,28.89,unknown,unknown,unknown,unknown,complete
-Louie Shrimp & Avocado Salad,protein,"carb,high_calorie,protein,veggies",379,13.08,30.12,16.57,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture)
-Cucumber Dill & Salmon Salad,protein,"high_calorie,protein,veggies",335,14.65,27.26,7.58,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture)
+Louie Shrimp & Avocado Salad,protein,"carb,high_calorie,protein,veggies",379,13.08,30.12,16.57,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (60g fat confirms platter-level capture)
+Cucumber Dill & Salmon Salad,protein,"high_calorie,protein,veggies",335,14.65,27.26,7.58,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (54g fat confirms platter-level capture)
 Tuna Salad,protein,"protein,veggies",433.0,2.3,26.91,6.16,unknown,unknown,unknown,unknown,complete
-Vegan Chicken Caesar Salad,protein,"carb,creamy,high_calorie,protein,veg_protein,veggies",272,10.55,16.93,15.60,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label)
+Vegan Chicken Caesar Salad,protein,"carb,creamy,high_calorie,protein,veg_protein,veggies",272,10.55,16.93,15.60,unknown,unknown,unknown,unknown,corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label); corrected: Full-platter nutrition divided by 2 servings (scraper captured full-bowl label)
 Standard Beverage,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
 Premium Beverage,unknown,,0.0,0.0,0.0,0.0,unknown,unknown,unknown,unknown,missing
 Apple,unknown,,53.0,0.3,0.2,13.8,unknown,unknown,unknown,unknown,complete
@@ -602,11 +602,11 @@ Late Night Chicken Tenders Combo,protein,"carb,high_calorie,protein",730.0,34.76
 Late Night Beyond Tenders Combo,protein,"carb,high_calorie,protein,veg_protein",848.0,40.29,36.68,81.36,false,false,false,"soy,gluten,wheat",complete
 Late Night Spicy Nashville Chicken Tenders Combo,protein,"carb,high_calorie,protein",729.0,33.86,28.67,82.86,false,false,false,"soy,gluten,wheat,dairy",complete
 Late Night Spicy Nashville Beyond Tenders Combo,protein,"carb,high_calorie,protein,veg_protein",841.0,39.09,35.53,86.44,true,true,false,"soy,gluten,wheat",complete
-Greek Salad,veg,"high_calorie,veggies",314,5.73,27.85,9.87,true,false,false,dairy,corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture)
-Asparagus Prosciutto Pizza,starch,"carb,high_calorie,protein,starch,veggies",312,13.92,11.53,39.01,false,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
-Mozzarella Pizza,starch,"carb,high_calorie,protein,starch",250,11.72,7.20,34.94,false,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
-Bacon Egg Saksuka Pizza Pie,protein,"carb,high_calorie,protein,starch",298,13.08,15.94,25.58,false,false,false,"gluten,wheat,dairy,eggs",corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
-Frutti Di Mare Pizza Pie,starch,"carb,high_calorie,protein,starch",261,12.93,12.31,22.39,false,false,false,"fish,shellfish,gluten,wheat,dairy",corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
+Greek Salad,veg,"high_calorie,veggies",314,5.73,27.85,9.87,true,false,false,dairy,corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture); corrected: Full-platter nutrition divided by 2 servings (55g fat for a Greek salad confirms platter-level capture)
+Asparagus Prosciutto Pizza,starch,"carb,high_calorie,protein,starch,veggies",312,13.92,11.53,39.01,false,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
+Mozzarella Pizza,starch,"carb,high_calorie,protein,starch",250,11.72,7.20,34.94,false,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 4 slices (scraper captured full-pie label)
+Bacon Egg Saksuka Pizza Pie,protein,"carb,high_calorie,protein,starch",298,13.08,15.94,25.58,false,false,false,"gluten,wheat,dairy,eggs",corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
+Frutti Di Mare Pizza Pie,starch,"carb,high_calorie,protein,starch",261,12.93,12.31,22.39,false,false,false,"fish,shellfish,gluten,wheat,dairy",corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label); corrected: Whole-pie nutrition divided by 6 slices (scraper captured full-pie label)
 Shrimp Spaghetti Fra Diavolo,protein,protein,450.0,28.29,25.62,25.93,false,false,false,"fish,gluten,wheat,dairy",complete
 Eggplant Parmesan Sandwich,protein,"carb,high_calorie,protein,veggies",585.0,36.25,29.03,42.39,false,false,false,"gluten,wheat,dairy",complete
 Prosciutto Quattro Formaggio Sandwich,protein,"carb,high_calorie,protein",1185.0,67.49,75.04,63.78,false,false,false,"gluten,wheat,dairy,alcohol",complete
@@ -793,3 +793,108 @@ Vegetable Dumplings,unknown,,124.0,2.18,6.15,15.78,false,false,false,"soy,gluten
 Vegetable Tempura,unknown,fried,106.0,0.69,9.15,5.78,true,false,false,"gluten,wheat,dairy,eggs",complete
 Spicy Soy Garlic Edamame,veg,"protein,veg_protein,veggies",277.0,17.33,18.16,13.48,true,true,false,"soy,sesame",complete
 Japanese Curry,unknown,,80.0,0.89,5.75,5.03,true,false,false,"soy,gluten,wheat,dairy",complete
+BBQ Chicken Wings,protein,"high_calorie,protein",612.0,45.18,41.55,11.93,false,false,false,,complete
+Savory Oatmeal w/Porcini & Egg,protein,"protein,starch",246.0,10.01,11.95,24.53,true,false,false,"soy,gluten,wheat,eggs",complete
+"Seasoned Pork, Egg, & Kale Lavash Wrap",protein,"protein,veggies",243.0,14.1,13.04,15.82,false,false,false,"gluten,wheat,eggs",complete
+Whole Grain Banana Waffle,starch,"starch,sugary",91.0,2.6,4.16,11.33,true,false,false,"gluten,tree_nuts,wheat,eggs",complete
+Lemon Cream Cheese Pancake,starch,"creamy,starch,sugary",120.0,4.19,3.72,17.83,true,false,false,"gluten,wheat,dairy,eggs",complete
+Blueberry Lemon Marmalade,unknown,,40.0,0.31,0.22,10.49,true,true,false,,complete
+Banana Walnut Bread,starch,"carb,starch",247.0,4.29,11.66,32.74,true,true,true,"soy,gluten,tree_nuts,wheat",complete
+Olive Oil Mocha Quickbread,starch,starch,206.0,3.0,13.97,18.05,true,false,true,"gluten,wheat,eggs",complete
+Tangerine Marmalade,unknown,,25.0,0.36,0.14,6.19,true,true,false,,complete
+Cream of Wheat,dairy,creamy,90.0,2.92,0.36,18.02,true,true,false,"gluten,wheat",complete
+Lamb Meatball w/ Spaghetti Squash & Zaatar Pesto,protein,protein,159.0,7.07,11.68,6.79,false,false,true,"gluten,wheat,sesame,dairy,eggs",complete
+"Sesame Tofu, Volcano Rice & Mixed Cabbage Bowl",protein,"protein,starch,veg_protein,veggies",150.0,2.77,3.86,26.49,true,true,false,"soy,wheat,sesame",complete
+"Shrimp, Wheat Berry, & Arugula Salad w/ Pesto",protein,"protein,veggies",198.0,9.18,6.53,27.17,false,false,false,"fish,gluten,wheat,alcohol",complete
+"Kale, Chicken, Currants & Pistachio Salad",protein,"protein,veggies",142.0,2.66,11.69,8.72,false,false,false,"tree_nuts,alcohol",complete
+"Coconut, Corn, & Almond Salad",veg,veggies,108.0,2.61,4.27,14.33,true,true,false,tree_nuts,complete
+Fregola w/Pesto & Zucchini Salad,veg,veggies,87.0,1.83,5.4,8.39,true,false,false,"tree_nuts,dairy",complete
+Golden Beet Poke Salad,veg,veggies,150.0,1.93,11.36,10.62,true,true,false,"soy,gluten,wheat,sesame",complete
+Marinated Kale Salad,veg,"high_volume_low_cal,veggies",50.0,2.01,3.02,5.12,true,true,false,sesame,complete
+Flatbread Sticks,starch,starch,52.0,1.49,1.49,7.45,true,false,false,"soy,gluten,wheat,dairy",complete
+Farro,unknown,,134.0,5.75,0.43,27.67,true,true,true,"gluten,wheat",complete
+Sauteed Kale,veg,"high_volume_low_cal,veggies",48.0,2.57,2.18,5.96,true,true,true,,complete
+Beef Picadillo Flatbread,protein,protein,139.0,6.85,4.58,17.77,false,false,true,"soy,gluten,wheat,dairy",complete
+Grilled Zucchini & Harissa Hummus Flatbread,protein,"grilled,protein,veggies",142.0,4.68,5.68,18.7,true,false,false,"soy,gluten,wheat,sesame,dairy",complete
+Chipotle BBQ Grilled Chicken Thigh,protein,"grilled,protein",62.0,7.63,1.89,2.44,false,false,false,soy,complete
+Breaded Tofu Slider,protein,"protein,veg_protein",199.0,9.45,5.95,27.08,true,false,false,"soy,gluten,wheat,dairy,eggs",complete
+Spicy Fingerling Potatoes,starch,starch,49.0,1.16,0.61,9.89,true,true,false,,complete
+Blueberry Princess Bar,unknown,,145.0,1.66,5.84,23.01,true,false,false,"gluten,wheat,dairy,eggs",complete
+Pebre-Marinated Flank Steak & Guacamole Bowl,beverage,,258.0,16.1,7.0,31.88,false,false,true,dairy,complete
+Hickory Smoked Tofu w/ BBQ Baked Beans & Cornbread,protein,"carb,protein,veg_protein",377.0,14.94,17.31,41.3,true,false,false,"soy,gluten,wheat,dairy,eggs",complete
+Roasted South Carolina Style Mustard BBQ Chicken,protein,protein,139.0,9.82,7.94,5.85,false,false,false,"soy,gluten,wheat,alcohol",complete
+Sautéed Asparagus & Mushrooms,unknown,"high_volume_low_cal,veggies",25.0,1.2,1.65,1.9,true,true,false,,complete
+Stuffed Portobello w/ Red Bell Pepper Coulis,veg,"high_volume_low_cal,veggies",60.0,2.47,1.75,8.47,true,true,false,"soy,gluten,wheat,alcohol",complete
+Matzo Ball Soup,unknown,,74.0,2.58,4.99,1.37,false,false,false,"soy,gluten,wheat,dairy,eggs",complete
+Wild Rice Blend,starch,starch,6.0,0.22,0.02,1.13,true,true,false,"soy,gluten,wheat",complete
+BBQ Pork Tortilla Pizza,protein,"protein,starch",107.0,7.75,3.67,10.06,false,false,false,"soy,sesame,dairy",complete
+Marinated Roma Tomato Pizza,starch,"starch,veggies",149.0,5.37,5.16,21.07,true,false,false,"soy,gluten,wheat,dairy",complete
+Blackened Salmon,protein,protein,109.0,9.48,7.26,0.92,false,false,false,fish,complete
+Grilled Yellow Squash,veg,"grilled,high_volume_low_cal,veggies",22.0,3.37,0.67,2.02,true,false,false,dairy,complete
+Potato & Red Pepper Hash,starch,starch,76.0,1.01,4.38,8.31,true,true,false,,complete
+Ganache Tart,dessert,sugary,48.0,1.35,9.69,7.82,true,false,true,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs",complete
+Cialda per Gelato,dessert,sugary,0.0,0.0,0.0,0.0,true,false,false,"gluten,wheat,dairy,eggs,alcohol,soy,peanuts",missing
+Tex Mex Egg Benedict Sandwich,protein,protein,352.0,13.24,26.34,14.15,false,false,false,"soy,dairy,eggs",complete
+Cinnamon Swirl Danish,sauce,,191.0,2.23,11.16,22.32,true,false,true,"gluten,wheat,dairy,eggs",complete
+Chocolate Cinnamon Cream Cheese Coffee Cake,dairy,"creamy,sugary",226.0,2.76,11.84,26.68,true,false,true,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",complete
+Delta Wetlands,unknown,,0.0,0.0,0.0,0.0,false,false,false,,missing
+Avery Island Pasta,starch,"carb,protein,starch",420.0,16.16,9.56,69.71,false,false,false,"gluten,wheat,dairy",complete
+Mushroom & Spinach Penne Pasta,starch,"carb,protein,starch,veggies",446.0,15.89,4.75,87.93,true,true,false,"gluten,wheat",complete
+Cajun Chicken Wings,protein,protein,319.0,17.57,20.97,12.78,false,false,false,"gluten,wheat,dairy",complete
+Hush Puppy,unknown,,0.0,0.0,0.0,0.0,true,false,false,"soy,gluten,wheat,dairy,eggs",missing
+Blackened BBQ Chicken Pizza,protein,"protein,starch",306.0,9.45,16.32,27.95,false,false,false,"gluten,wheat,dairy",complete
+Mushroom Pizza,starch,"starch,veggies",282.0,7.71,16.89,23.7,true,false,false,"gluten,wheat,dairy",complete
+Detroit-Style Pepperoni Pizza,starch,starch,363.0,11.13,24.31,23.76,false,false,false,"gluten,wheat,dairy",complete
+Tabasco Beef Burger,protein,"carb,high_calorie,protein",732.0,39.5,44.79,39.75,false,false,true,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Shrimp Po Boy Sandwich,protein,"carb,protein",459.0,9.42,25.79,47.12,false,false,false,"fish,soy,shellfish,gluten,wheat,eggs,alcohol",complete
+Grilled Dijon Chicken Thigh,protein,"grilled,protein",89.0,11.12,4.29,0.13,false,false,false,alcohol,complete
+Cajun Red Beans & Rice,protein,"carb,protein,starch",450.0,9.56,5.77,87.02,true,true,false,,complete
+Spicy Braised Lentils with Potato,protein,"protein,starch,veg_protein",123.0,5.81,2.9,18.95,true,true,false,,complete
+Chocolate Cupcake,dessert,"carb,high_calorie,sugary",364.0,3.68,23.16,38.0,true,false,true,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs",complete
+Blueberry Sour Cream Pie,dairy,"carb,creamy,high_calorie,protein",2587.0,34.67,126.06,348.98,false,false,false,"gluten,wheat,dairy",complete
+Blondie w/ Walnuts,sauce,,219.0,3.15,12.0,24.74,true,false,false,"gluten,tree_nuts,wheat,dairy,eggs",complete
+Dulce De Leche Mousse,sauce,,285.0,3.63,24.3,13.85,true,false,true,dairy,complete
+Chocolate Macaroon Bundt Cake,starch,"carb,high_calorie,starch,sugary",583.0,6.36,39.34,63.77,true,false,false,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs",complete
+Barbecue Shrimp,protein,protein,165.0,11.1,10.83,5.58,false,false,false,"fish,dairy",complete
+Blackened Tofu,protein,"protein,veg_protein",79.0,5.74,4.64,4.61,false,false,false,soy,complete
+Harissa Slaw & Feta Burger,protein,"carb,high_calorie,protein",601.0,34.59,31.24,44.17,false,false,true,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Crusty Gruyere Grilled Cheese Sandwich,dairy,"grilled,protein",313.0,13.28,26.42,3.64,true,false,true,"gluten,wheat,dairy",complete
+Dukkah Spiced Butternut Squash,veg,"high_volume_low_cal,veggies",65.0,1.63,2.03,11.99,true,true,true,"tree_nuts,sesame",complete
+Roasted Peppers & Peas w/ Dill,veg,"high_volume_low_cal,veggies",49.0,1.88,2.25,5.77,true,true,true,,complete
+Spanish Style Trout,unknown,protein,84.0,10.58,3.25,2.57,false,false,false,fish,complete
+Pearled Couscous w/ Roasted Zucchini,veg,"carb,starch,veggies",326.0,10.01,6.38,55.42,true,true,true,"gluten,wheat",complete
+"Spaghetti w/ Eggplant, Tomatoes & Olives",protein,"carb,high_calorie,protein,veggies",659.0,20.74,11.48,122.71,true,true,true,"gluten,wheat",complete
+Moroccan Chicken Drumstick,protein,protein,366.0,18.22,30.95,1.81,false,false,true,sesame,complete
+Zucchini Fritters w/ Cilantro Lime Cream,veg,"creamy,veggies",92.0,3.33,5.57,8.67,true,false,true,"gluten,wheat,dairy,eggs",complete
+Sauteed Cabbage w/ Mediterranean Spice,unknown,"high_volume_low_cal,veggies",64.0,1.26,4.43,5.52,true,true,true,tree_nuts,complete
+Roasted Carrots w/ Honey & Pistachio,veg,veggies,86.0,1.34,3.45,13.46,true,false,true,tree_nuts,complete
+Capensis w/ Caramelized Grapes,unknown,,76.0,6.6,0.5,11.88,false,false,true,"fish,shellfish",complete
+Greek Lemon Herb Potatoes,starch,starch,54.0,1.48,0.13,12.01,true,true,false,,complete
+Fried Spanish Style Cauliflower w/ Braised Kale,veg,"fried,high_volume_low_cal,veggies",68.0,3.22,3.11,8.18,true,true,false,,complete
+Thai Coconut Chicken Curry,protein,protein,223.0,9.24,17.71,4.89,false,false,false,fish,complete
+Panang Tofu Curry,protein,"protein,veg_protein",125.0,4.53,9.0,6.52,true,true,false,"soy,gluten,wheat",complete
+Beef Pho Noodle Soup,protein,"carb,protein,starch",225.0,5.63,5.97,37.42,false,false,false,"fish,soy",complete
+Pho Noodle Soup,starch,"carb,starch",475.0,8.38,3.06,101.3,true,true,false,"soy,gluten,wheat,sesame",complete
+Lemongrass Basil Chicken Sandwich,protein,"carb,protein",230.0,11.69,5.29,32.47,false,false,false,"fish,soy,shellfish,gluten,peanuts,wheat,dairy,eggs",complete
+Grilled Tofu Sandwich,protein,"carb,grilled,protein,veg_protein",361.0,8.4,16.1,44.1,true,false,false,"soy,gluten,tree_nuts,wheat,sesame,dairy",complete
+Thai Fried Chicken,protein,"fried,protein",262.0,21.47,18.52,1.49,false,false,false,"fish,soy,gluten,wheat",complete
+Thai Basil Tofu Sandwich,protein,"carb,protein,veg_protein",420.0,13.47,24.19,49.68,true,false,false,"soy,gluten,wheat,sesame,dairy,eggs",complete
+Thai Steamed Cakes,dessert,sugary,153.0,2.66,5.98,22.11,false,false,false,"gluten,wheat,eggs",complete
+Vietnamese Coffee Jello Cubes,beverage,,76.0,3.3,4.57,5.76,false,false,false,dairy,complete
+Tropical Fruits,unknown,,33.0,0.56,0.13,8.16,true,true,false,,complete
+Thai Coconut Chicken Soup,protein,protein,16.0,0.26,1.13,1.38,false,false,false,soy,complete
+Tomato Egg Drop Soup,protein,"high_volume_low_cal,protein,veggies",17.0,0.84,1.26,4.73,false,false,false,"soy,sesame,eggs",complete
+Citrus Basmati Rice,starch,"carb,starch",453.0,8.28,8.74,80.34,true,true,true,,complete
+Channa Chaat,unknown,,108.0,4.68,3.4,15.34,true,true,false,,complete
+Naan Bread,starch,starch,46.0,1.4,1.23,7.72,true,false,false,"soy,wheat,sesame,dairy,eggs",complete
+Porta Bread,starch,starch,0.0,0.0,0.0,0.0,false,false,false,,missing
+Grilled Chicken Tikka Masala,protein,"grilled,protein",473.0,16.54,34.64,25.75,false,false,false,dairy,complete
+Bengali Shrimp & Potato,protein,"protein,starch",119.0,6.34,6.17,9.3,false,false,false,"fish,dairy",complete
+Paneer Butter Masala,dairy,"high_calorie,protein",720.0,19.63,63.73,23.77,true,false,false,dairy,complete
+Potato Samosa,starch,starch,210.0,3.81,9.89,25.12,true,true,false,wheat,complete
+Potato & Eggplant Masala,protein,"high_volume_low_cal,protein,starch,veggies",38.0,0.83,1.3,5.97,true,true,false,,complete
+Induur Roasted Tri-Color Cauliflower,veg,veggies,94.0,4.94,3.24,16.96,true,true,false,,complete
+Cranberry Tamarind Chutney,unknown,,87.0,0.67,0.65,21.09,true,true,false,,complete
+Cilantro Chutney,unknown,,8.0,0.55,0.13,1.39,true,true,false,,complete
+Tamarind Chutney,unknown,,63.0,0.07,0.07,16.53,true,true,false,,complete
+Indian Cucumber Yogurt Dip w/ Herbs,veg,"high_volume_low_cal,veggies",44.0,3.03,2.48,2.55,true,false,false,dairy,complete
