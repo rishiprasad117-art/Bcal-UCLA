@@ -1,18 +1,17 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,CONDIMENTS,California Steak Burrito,12.99,722,32.88g,13g,0g,72.57mg,1294.15mg,78.68g,8.03g,8.36g,30.78g,181.19mg,5.27mg,1042.37mg,False,False,True,"soy,gluten,wheat,dairy"
-All Day,CONDIMENTS,California Veggie Burrito,20.3,1221,33.2g,12.77g,0g,30.5mg,2515.48mg,193.33g,23.88g,13.41g,40.74g,330.05mg,11.16mg,2381.75mg,True,False,False,"soy,gluten,wheat,dairy"
+All Day,CONDIMENTS,Beef Birria Plate,16.8,773,37.91g,12.71g,2g,203.91mg,1617.84mg,83.05g,9.71g,4.71g,25.71g,131.43mg,5.9mg,1239.22mg,False,False,False,
 All Day,SUSHI BOWLS,Build-Your-Own Poke Bowl,14.5,873,16.32g,0.58g,0g,33.17mg,471.91mg,146.6g,3.78g,3.41g,37.73g,49.44mg,1.44mg,793.6mg,False,False,False,"fish,soy,gluten,wheat,sesame,alcohol"
 All Day,Base,Brown Rice,2.99,162,1.19g,0.24g,0g,0mg,42.26mg,33.92g,1.52g,0g,3.34g,15.9mg,0.8mg,119.36mg,True,True,False,
 All Day,Base,Sticky Rice,6,647,1.6g,0.26g,0g,0mg,17mg,139.94g,3.23g,0.09g,13.29g,37.4mg,10.71mg,45.9mg,True,True,False,
-All Day,Base,Young Chow Vegetable Fried Rice,6.2,624,13.16g,1.83g,0.02g,99.22mg,2528.29mg,109.71g,2.14g,2.2g,13.07g,71.69mg,7.8mg,226.35mg,True,False,False,"soy,eggs"
-All Day,Base,Chow Mein Noodles,4.66,214,2.16g,0.11g,0g,0mg,1037.57mg,41.16g,1.21g,3.67g,7.84g,38.52mg,0.81mg,202.69mg,True,True,False,"soy,gluten,wheat"
-All Day,Entrée,Fish w/ Black Bean Sauce,4.02,107,4.46g,0.51g,0g,38.08mg,158.77mg,4.83g,0.5g,1.04g,13.47g,16.54mg,0.24mg,321.76mg,False,False,False,"fish,soy,gluten,wheat,sesame,eggs,alcohol"
-All Day,Entrée,BBQ Roast Pork,3.08,161,10.04g,3.53g,0.1g,50.34mg,144.31mg,2.28g,0.02g,1.68g,14.3g,13.54mg,0.92mg,261.29mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
-All Day,Entrée,Green Bean Stir Fry,2.29,77,6.08g,0.45g,0g,0mg,135.3mg,5.2g,1.59g,2.64g,1.12g,23.28mg,0.62mg,123.7mg,True,True,False,"soy,gluten,wheat"
-All Day,Entrée,Chinese Broccoli,5.94,63,1.97g,0.27g,0g,0mg,276.97mg,8.95g,3.64g,1.73g,2.12g,151.94mg,0.89mg,392.78mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
-All Day,Entrée,Eggplant & Tofu w/ Spicy Garlic Sauce,5.44,155,6.16g,0.94g,0g,0mg,580.76mg,18.8g,2.14g,11.43g,8.66g,17.15mg,1.26mg,117.49mg,True,True,False,"soy,gluten,wheat"
-All Day,Entrée,Beef & Broccoli,3.63,95,4.81g,1.35g,0g,22.36mg,720.73mg,9.19g,1.16g,2.53g,8.5g,25.33mg,1.04mg,165.77mg,False,False,False,"soy,gluten,wheat,eggs"
-All Day,Entrée,Orange Chicken,5.33,298,15.81g,3.37g,0g,60.75mg,567.4mg,28.51g,0.05g,12.52g,12.32g,12.67mg,0.68mg,196.48mg,False,False,False,"soy,gluten,wheat,sesame"
+All Day,Base,Kimchi Fried Rice,4.84,225,9.76g,2.03g,0.01g,185.24mg,214.11mg,23.69g,0.11g,1.06g,9.16g,36.02mg,0.92mg,124.77mg,True,False,False,"soy,gluten,wheat,sesame,eggs"
+All Day,Base,Vegetarian Japchae,4.87,464,9.8g,1.45g,0g,10.23mg,655.61mg,92.29g,1.17g,3.49g,1.6g,76.85mg,3.81mg,154.26mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
+All Day,Entrée,Bulgogi Korean Beef,4.99,390,32.69g,13.86g,0g,84.8mg,422.08mg,3.52g,0.34g,1.91g,20.67g,20.83mg,2.29mg,308.72mg,False,False,False,"soy,gluten,wheat,sesame"
+All Day,Entrée,Pork Riblets,4.04,269,18.83g,5.01g,0.09g,47.38mg,1439.56mg,10.5g,0.98g,6.3g,14.68g,42.08mg,2.13mg,238.89mg,False,False,False,"soy,gluten,wheat,sesame"
+All Day,Entrée,Honey Gochujang Chicken,4,272,5.31g,0.57g,0g,2.27mg,2097.82mg,55.27g,0.08g,50.54g,1.08g,6.96mg,0.22mg,42.62mg,False,False,False,"fish,soy,gluten,wheat,sesame"
+All Day,Entrée,Vegetable Egg Roll (Chunjuan),3,141,4.49g,0.5g,0g,0mg,449.47mg,20.98g,2g,2g,3g,25.97mg,1.08mg,179.78mg,True,False,False,"soy,gluten,wheat,sesame,eggs"
+All Day,Entrée,Kimchi Stir Fry w/ Tofu & Bell Pepper,6.04,378,34g,3.01g,0g,0mg,519.84mg,15.04g,4.28g,6.09g,6.6g,42.76mg,0.87mg,533.61mg,True,True,False,"soy,sesame"
+All Day,Entrée,Korean Eggplant,19.04,234,10.25g,1.51g,0g,0mg,1010.7mg,34.32g,15.27g,17.22g,7.02g,82.52mg,1.94mg,1194.3mg,True,True,False,"soy,gluten,wheat,sesame"
+All Day,Entrée,Vegetable Stir Fry,6.82,192,10.07g,1.04g,0g,0mg,469.61mg,23.36g,5.66g,1.35g,5.41g,38.93mg,1.45mg,376.55mg,True,True,False,sesame
 All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,1.05,12,0.04g,0.01g,0g,0mg,35.95mg,2.59g,0.59g,1.73g,0.22g,7.86mg,0.09mg,74.77mg,True,True,False,
 All Day,ASIAN TOPPING,Salted Cucumber,2.02,9,0.06g,0.02g,0g,0mg,152.5mg,2.06g,0.29g,0.95g,0.37g,9.1mg,0.16mg,83.62mg,True,True,False,
 All Day,ASIAN TOPPING,Marinated Soy Sprouts,1.7,83,6.27g,0.88g,0g,0mg,142.37mg,4.21g,0.51g,0.04g,5.62g,29.84mg,0.92mg,211.42mg,True,True,False,"soy,sesame"
@@ -23,7 +22,7 @@ All Day,ASIAN TOPPING,Edamame,1,32,1.33g,0g,0g,0mg,1.69mg,2.15g,1.35g,0.7g,3.16g
 All Day,ASIAN TOPPING,Kimchi,1,6,0g,0g,0g,0mg,161.14mg,1.01g,0g,0g,1.01g,6.04mg,0mg,60.43mg,True,True,False,
 All Day,ASIAN TOPPING,Seaweed Salad,1,31,1g,0g,0g,0mg,232.24mg,4.64g,1.33g,1.99g,0.33g,0mg,0mg,0mg,True,True,False,
 All Day,ASIAN SAUCE,Green Sriracha,1.31,17,0.12g,0.03g,0g,0mg,227.94mg,3.44g,0.87g,2.1g,0.39g,7.1mg,0.11mg,81.1mg,True,True,False,
-All Day,ASIAN SAUCE,Dumpling Dipping Sauce,0.85,9,0.02g,0g,0g,0mg,272.25mg,1.38g,0.11g,0.76g,0.51g,2.24mg,0.06mg,8.87mg,True,True,False,"soy,gluten,wheat"
+All Day,ASIAN SAUCE,Dumpling Dipping Sauce,0.85,10,0.02g,0g,0g,0mg,289.99mg,1.41g,0.11g,0.76g,0.54g,2.24mg,0.06mg,8.87mg,True,True,False,"soy,gluten,wheat"
 All Day,ASIAN SAUCE,Red Sriracha,1.23,19,0.15g,0.01g,0g,0mg,229.92mg,4.29g,0.52g,2.55g,0.71g,7.97mg,0.36mg,109.3mg,True,True,False,
 All Day,ASIAN SAUCE,Kickin' Mayo,1,148,16.17g,0.9g,0g,0mg,157.89mg,0.55g,0g,0.54g,0.54g,0.03mg,0mg,2.15mg,False,False,False,soy
 All Day,ASIAN SAUCE,Thai Chilies w/ Vegan Fish Sauce,1.54,26,0.06g,0g,0g,0mg,2788.66mg,5.17g,0.21g,2.72g,2.23g,1.98mg,0.14mg,45.58mg,True,True,False,soy
