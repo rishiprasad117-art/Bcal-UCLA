@@ -1,57 +1,58 @@
 location_id,meal,station,item_name,section_type,reason,date
-bruin_cafe,Extended Dinner,Oatmeal,Oatmeal,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Trix Cereal,Trix Cereal,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,BBQ Beef Brisket Sandwich,BBQ Beef Brisket Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Chicken Ranch & Swiss Sandwich,Chicken Ranch & Swiss Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,The Cuban Sandwich,The Cuban Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Chipotle BBQ Turkey Sandwich,Chipotle BBQ Turkey Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Chicken Caesar Sandwich,Chicken Caesar Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Roasted Salmon Sandwich,Roasted Salmon Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Pastrami & Swiss Sandwich,Pastrami & Swiss Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Chicken Pesto Sandwich,Chicken Pesto Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Buffalo Chicken Sandwich,Buffalo Chicken Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Cheesesteak,Cheesesteak,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Vegan Chicken Caesar Sandwich,Vegan Chicken Caesar Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Chipotle BBQ Sandwich,Chipotle BBQ Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Havana Press Sandwich,Havana Press Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,"Roasted Garden ""Salmon"" Sandwich","Roasted Garden ""Salmon"" Sandwich",static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Vegetarian Chicken Ranch & Swiss Sandwich,Vegetarian Chicken Ranch & Swiss Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Vegetarian Pastrami & Swiss Sandwich,Vegetarian Pastrami & Swiss Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Vegetarian Ham & Swiss Sandwich,Vegetarian Ham & Swiss Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Chicken Parmesan Sandwich,Chicken Parmesan Sandwich,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Dole Whip Bowl,Dole Whip Bowl,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Espresso,Espresso,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Brewed Tea,Brewed Tea,static,zero nutrition,2026-04-04
-bruin_cafe,Extended Dinner,Americano,Americano,static,zero nutrition,2026-04-04
-bruin_plate,Breakfast,Sweet Bites,BYO Green Tea Greek Yogurt,rotating,zero nutrition,2026-04-04
-bruin_plate,Lunch,Soups,Soup Special,rotating,zero nutrition,2026-04-04
-bruin_plate,Lunch,Soups,Soup Vegetarian Special,rotating,zero nutrition,2026-04-04
-cafe_1919,Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,static,zero nutrition,2026-04-04
-cafe_1919,Lunch / Dinner,Whipped Cream,Whipped Cream,static,zero nutrition,2026-04-04
-de_neve,Breakfast,Capers,Capers,rotating,zero nutrition,2026-04-04
-de_neve,Lunch,LA Street Food,LA Street Food,rotating,zero nutrition,2026-04-04
-de_neve,Dinner,LA Street Food,LA Street Food,rotating,zero nutrition,2026-04-04
-epicuria_covel,Lunch,Dolce,Yogurt Bar,rotating,zero nutrition,2026-04-04
-rendezvous,All Day,DRINKS,Fountain Beverage,static,zero nutrition,2026-04-04
-rendezvous,All Day,CONDIMENTS,Nanami Togarashi Spice,static,zero nutrition,2026-04-04
-the_study,All Day,.,Craft Your Own Breakfast Skillet,static,zero nutrition,2026-04-04
-the_study,All Day,.,Craft Your Own Breakfast Sandwich,static,zero nutrition,2026-04-04
-the_study,All Day,.,Create Your Own Breakfast Croissant,static,zero nutrition,2026-04-04
-the_study,All Day,Coffee & Tea,Brewed Tea,static,zero nutrition,2026-04-04
-the_study,All Day,Coffee & Tea,Americano,static,zero nutrition,2026-04-04
-the_study,All Day,Coffee & Tea,Espresso,static,zero nutrition,2026-04-04
-the_study,All Day,PASTRIES & VERRINES,Everything Cheese Bagel,static,zero nutrition,2026-04-04
-the_study,All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,Pink Lady Apple Kombucha,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,Pomegranate Kombucha,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,Build and Go Frozen Yogurt,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,Craft Your Own Salad,static,zero nutrition,2026-04-04
-the_study,All Day,Kombucha on Tap,Craft Your Own Pizza,static,zero nutrition,2026-04-04
-the_study,All Day,Market Beverages,Standard Beverage,static,zero nutrition,2026-04-04
-the_study,All Day,Market Beverages,Premium Beverage,static,zero nutrition,2026-04-04
+bruin_cafe,Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,BBQ Beef Brisket Sandwich,BBQ Beef Brisket Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Chicken Ranch & Swiss Sandwich,Chicken Ranch & Swiss Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,The Cuban Sandwich,The Cuban Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Chipotle BBQ Turkey Sandwich,Chipotle BBQ Turkey Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Chicken Caesar Sandwich,Chicken Caesar Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Roasted Salmon Sandwich,Roasted Salmon Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Pastrami & Swiss Sandwich,Pastrami & Swiss Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Chicken Pesto Sandwich,Chicken Pesto Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Buffalo Chicken Sandwich,Buffalo Chicken Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Cheesesteak,Cheesesteak,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Vegan Chicken Caesar Sandwich,Vegan Chicken Caesar Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Chipotle BBQ Sandwich,Chipotle BBQ Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Havana Press Sandwich,Havana Press Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,"Roasted Garden ""Salmon"" Sandwich","Roasted Garden ""Salmon"" Sandwich",static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Vegetarian Chicken Ranch & Swiss Sandwich,Vegetarian Chicken Ranch & Swiss Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Vegetarian Pastrami & Swiss Sandwich,Vegetarian Pastrami & Swiss Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Vegetarian Ham & Swiss Sandwich,Vegetarian Ham & Swiss Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Chicken Parmesan Sandwich,Chicken Parmesan Sandwich,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Dole Whip Bowl,Dole Whip Bowl,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Espresso,Espresso,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Brewed Tea,Brewed Tea,static,zero nutrition,2026-04-05
+bruin_cafe,Extended Dinner,Americano,Americano,static,zero nutrition,2026-04-05
+bruin_plate,Breakfast,Freshly Bowled,Create-Your-Own Omelet Bar,rotating,zero nutrition,2026-04-05
+bruin_plate,Lunch,Freshly Bowled,Create-Your-Own Omelet Bar,rotating,zero nutrition,2026-04-05
+cafe_1919,Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,static,zero nutrition,2026-04-05
+cafe_1919,Lunch / Dinner,Whipped Cream,Whipped Cream,static,zero nutrition,2026-04-05
+de_neve,Breakfast,Capers,Capers,rotating,zero nutrition,2026-04-05
+de_neve,Lunch,Brunch,Brunch,rotating,zero nutrition,2026-04-05
+de_neve,Lunch,Yogurt Bar Items,Yogurt Bar Items,rotating,zero nutrition,2026-04-05
+de_neve,Lunch,Ice Cream Bar,Ice Cream Bar,rotating,zero nutrition,2026-04-05
+de_neve,Dinner,Breakfast @ Night,Breakfast @ Night,rotating,zero nutrition,2026-04-05
+de_neve,Dinner,Yogurt Bar Items,Yogurt Bar Items,rotating,zero nutrition,2026-04-05
+de_neve,Dinner,Ice Cream Bar,Ice Cream Bar,rotating,zero nutrition,2026-04-05
+epicuria_covel,Lunch,Dolce,Yogurt Bar,rotating,zero nutrition,2026-04-05
+rendezvous,All Day,DRINKS,Fountain Beverage,static,zero nutrition,2026-04-05
+rendezvous,All Day,CONDIMENTS,Nanami Togarashi Spice,static,zero nutrition,2026-04-05
+the_study,All Day,.,Craft Your Own Breakfast Skillet,static,zero nutrition,2026-04-05
+the_study,All Day,.,Craft Your Own Breakfast Sandwich,static,zero nutrition,2026-04-05
+the_study,All Day,.,Create Your Own Breakfast Croissant,static,zero nutrition,2026-04-05
+the_study,All Day,Coffee & Tea,Brewed Tea,static,zero nutrition,2026-04-05
+the_study,All Day,Coffee & Tea,Americano,static,zero nutrition,2026-04-05
+the_study,All Day,Coffee & Tea,Espresso,static,zero nutrition,2026-04-05
+the_study,All Day,PASTRIES & VERRINES,Everything Cheese Bagel,static,zero nutrition,2026-04-05
+the_study,All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,Pink Lady Apple Kombucha,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,Pomegranate Kombucha,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,Build and Go Frozen Yogurt,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,Craft Your Own Salad,static,zero nutrition,2026-04-05
+the_study,All Day,Kombucha on Tap,Craft Your Own Pizza,static,zero nutrition,2026-04-05
+the_study,All Day,Market Beverages,Standard Beverage,static,zero nutrition,2026-04-05
+the_study,All Day,Market Beverages,Premium Beverage,static,zero nutrition,2026-04-05

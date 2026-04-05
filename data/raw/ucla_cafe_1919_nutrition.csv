@@ -1,5 +1,4 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Lunch / Dinner,Mount Vesuvius,Mount Vesuvius,5.2,481,52.57g,31.63g,0.19g,202.08mg,84.64mg,45.6g,5.14g,36.34g,7.22g,50.97mg,2.53mg,276.48mg,True,False,True,"soy,gluten,peanuts,tree_nuts,sesame,dairy,eggs"
 Lunch / Dinner,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24.75g,282.72mg,2.78mg,561.47mg,True,False,False,dairy
 Lunch / Dinner,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,359.75mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.41mg,False,False,False,dairy
 Lunch / Dinner,Gamberetti,Gamberetti,9,424,31.03g,7.68g,0.03g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg,False,False,False,"fish,dairy"
@@ -8,18 +7,11 @@ Lunch / Dinner,Insalata Di Salmone,Insalata Di Salmone,11.51,254,13.9g,3.13g,0g,
 Lunch / Dinner,Pollo Verdura,Pollo Verdura,12.81,340,12.45g,4.94g,0g,69.1mg,407.54mg,21.46g,7.04g,7.84g,31.59g,262.96mg,2.4mg,623.84mg,False,False,False,dairy
 Lunch / Dinner,Tuscan Tagliata Salad,Tuscan Tagliata Salad,13,128,4.49g,0.59g,0g,0mg,1079.78mg,19.56g,9.17g,5.71g,5.6g,145.33mg,3.5mg,706.66mg,True,True,False,
 Lunch / Dinner,Heirloom Tomato Caprese,Heirloom Tomato Caprese,7.18,346,9.17g,5.51g,0g,22.86mg,538.89mg,49.18g,2.2g,3.86g,15.28g,46.38mg,0.98mg,253.8mg,True,False,False,"gluten,wheat,dairy,alcohol"
-Lunch / Dinner,Campania,Campania,10.84,394,11.09g,5.44g,0g,20.34mg,590.01mg,51.95g,4.58g,5.93g,21.23g,330.85mg,1.17mg,547.86mg,True,False,False,"gluten,wheat,dairy"
-Lunch / Dinner,Tacchino,Tacchino,15.75,973,60.31g,17.99g,0g,112.81mg,1963.94mg,57.05g,4.73g,6.87g,48.52g,434.53mg,2.99mg,674.87mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 Lunch / Dinner,Pollo Parma,Pollo Parma,11.78,683,29.75g,13.86g,0g,111.36mg,921.16mg,48.82g,2.54g,3.84g,51.49g,665.56mg,0.9mg,412.43mg,False,False,False,"gluten,wheat,dairy"
 Lunch / Dinner,Florentino,Florentino,12.25,888,55.34g,11.32g,0g,116.87mg,792.38mg,46.28g,2.22g,1.77g,43.12g,353.76mg,1.18mg,290.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-Lunch / Dinner,Sundried Tomato & Goat Cheese,Sundried Tomato & Goat Cheese,12,880,46.66g,14.73g,0g,65.98mg,819.44mg,81.22g,6.22g,36.87g,30.23g,469.37mg,2.04mg,302.31mg,True,False,False,"gluten,wheat,dairy"
 Lunch / Dinner,Formaggi,Formaggi,10.75,818,44.43g,14.02g,0g,54.85mg,884.12mg,70.78g,3.05g,2.38g,35.04g,569.97mg,2.47mg,344.77mg,True,False,False,"gluten,wheat,dairy"
 Lunch / Dinner,Genova,Genova,12.5,852,36.85g,18.78g,0.25g,131.41mg,1033.81mg,71.53g,2.34g,2.52g,58.74g,593.2mg,2.52mg,324.47mg,False,False,False,"gluten,wheat,dairy"
-Lunch / Dinner,Carnivora,Carnivora,13,888,46.01g,20.45g,0.52g,140.73mg,1730.04mg,75.01g,3.09g,3.24g,41.3g,458.95mg,2.36mg,360.15mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-Lunch / Dinner,Margherita,Margherita,12.05,824,44.46g,14.04g,0g,54.81mg,885.58mg,72.26g,3.48g,3.48g,35.21g,564.12mg,2.42mg,428.96mg,True,False,False,"gluten,wheat,dairy"
 Lunch / Dinner,Pepperoni,Pepperoni,12,1029,64.11g,21.63g,0g,100.4mg,1612.52mg,70.6g,2.92g,2.35g,42.41g,557.39mg,2.24mg,323.84mg,False,False,False,"gluten,wheat,dairy"
-Lunch / Dinner,Tiramisu,Tiramisu,9.97,980,81.05g,52.4g,0.06g,643.48mg,87.66mg,62.83g,5.59g,44.72g,24.01g,271.12mg,9.27mg,875.78mg,True,False,True,"soy,gluten,wheat,dairy,eggs"
-Lunch / Dinner,Cheese Cake with Macerate Berries,Cheese Cake with Macerate Berries,11.57,983,62.53g,39.25g,0.13g,356.16mg,563.07mg,102.96g,4.39g,72.66g,18.92g,170.41mg,2.07mg,221.46mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
 Lunch / Dinner,Ranch Dressing,Ranch Dressing,1.96,232,24.59g,3.46g,0g,23.16mg,395.12mg,1.22g,0g,1.22g,0.84g,29.39mg,0.01mg,38.26mg,True,False,False,"soy,dairy,eggs"
 Lunch / Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,2.16,180,20.06g,0.01g,0g,0mg,488.42mg,5.25g,0.17g,3.38g,0.32g,10.41mg,0.15mg,79.5mg,True,True,False,"soy,gluten,wheat,alcohol"
 Lunch / Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,2,371,39.35g,2.81g,0g,0mg,447.65mg,1.25g,0.12g,0.93g,0.05g,2.08mg,0.05mg,6.18mg,True,True,False,
