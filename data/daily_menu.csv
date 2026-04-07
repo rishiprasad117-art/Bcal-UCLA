@@ -1,685 +1,770 @@
 date,location_id,meal,station,item_name,section_type
-2026-04-06,bruin_cafe,Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,BBQ Beef Brisket Sandwich,BBQ Beef Brisket Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Ranch & Swiss Sandwich,Chicken Ranch & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,The Cuban Sandwich,The Cuban Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chipotle BBQ Turkey Sandwich,Chipotle BBQ Turkey Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Caesar Sandwich,Chicken Caesar Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Roasted Salmon Sandwich,Roasted Salmon Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Pastrami & Swiss Sandwich,Pastrami & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Pesto Sandwich,Chicken Pesto Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Buffalo Chicken Sandwich,Buffalo Chicken Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Cheesesteak,Cheesesteak,static
-2026-04-06,bruin_cafe,Extended Dinner,Vegan Chicken Caesar Sandwich,Vegan Chicken Caesar Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chipotle BBQ Sandwich,Chipotle BBQ Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Havana Press Sandwich,Havana Press Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,"Roasted Garden ""Salmon"" Sandwich","Roasted Garden ""Salmon"" Sandwich",static
-2026-04-06,bruin_cafe,Extended Dinner,Vegetarian Chicken Ranch & Swiss Sandwich,Vegetarian Chicken Ranch & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Vegetarian Pastrami & Swiss Sandwich,Vegetarian Pastrami & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Vegetarian Ham & Swiss Sandwich,Vegetarian Ham & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Parmesan Sandwich,Chicken Parmesan Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Mixed Green Salad,Mixed Green Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Caesar Salad,Caesar Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Chopped Mediterranean Salad,Chopped Mediterranean Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Noodle Soup,Chicken Noodle Soup,static
-2026-04-06,bruin_cafe,Extended Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,static
-2026-04-06,bruin_cafe,Extended Dinner,Peanut Butter & Strawberry Preserves Sandwich,Peanut Butter & Strawberry Preserves Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Avocado BLT Sandwich,Avocado BLT Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Tuna Salad Croissant Sandwich,Tuna Salad Croissant Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Turkey & Provolone Sandwich,Turkey & Provolone Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Italian Sandwich,Italian Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Gluten Free Turkey & Provolone Sandwich,Gluten Free Turkey & Provolone Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Gluten Free Italian Sandwich,Gluten Free Italian Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Gluten Free Avocado BLT Sandwich,Gluten Free Avocado BLT Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,1/2 Turkey & Provolone Sandwich,1/2 Turkey & Provolone Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,1/2 Ham & Swiss Sandwich,1/2 Ham & Swiss Sandwich,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Caesar Salad,Chicken Caesar Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Caesar Salad,Caesar Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Asian Chicken Salad,Asian Chicken Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Nut Free Asian Wonton Salad,Nut Free Asian Wonton Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,BBQ Chicken Salad,BBQ Chicken Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Mixed Green Salad,Mixed Green Salad,static
-2026-04-06,bruin_cafe,Extended Dinner,Forbidden Rice Grain Bowl with Shrimp,Forbidden Rice Grain Bowl with Shrimp,static
-2026-04-06,bruin_cafe,Extended Dinner,Quinoa Grain Bowl with Chicken,Quinoa Grain Bowl with Chicken,static
-2026-04-06,bruin_cafe,Extended Dinner,Peanut Butter and Egg Protein Box,Peanut Butter and Egg Protein Box,static
-2026-04-06,bruin_cafe,Extended Dinner,Crudite Box,Crudite Box,static
-2026-04-06,bruin_cafe,Extended Dinner,Caesar Wrap,Caesar Wrap,static
-2026-04-06,bruin_cafe,Extended Dinner,Chicken Caesar Wrap,Chicken Caesar Wrap,static
-2026-04-06,bruin_cafe,Extended Dinner,Roasted Vegetable & Ricotta Cheese Wrap,Roasted Vegetable & Ricotta Cheese Wrap,static
-2026-04-06,bruin_cafe,Extended Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,static
-2026-04-06,bruin_cafe,Extended Dinner,Ranch Dressing,Ranch Dressing,static
-2026-04-06,bruin_cafe,Extended Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,static
-2026-04-06,bruin_cafe,Extended Dinner,Red Wine Vinaigrette,Red Wine Vinaigrette,static
-2026-04-06,bruin_cafe,Extended Dinner,Asian Salad Dressing,Asian Salad Dressing,static
-2026-04-06,bruin_cafe,Extended Dinner,Dole Whip Bowl,Dole Whip Bowl,static
-2026-04-06,bruin_cafe,Extended Dinner,Strawberry Sensation Smoothie,Strawberry Sensation Smoothie,static
-2026-04-06,bruin_cafe,Extended Dinner,Mango Madness Smoothie,Mango Madness Smoothie,static
-2026-04-06,bruin_cafe,Extended Dinner,Caribbean Island Smoothie,Caribbean Island Smoothie,static
-2026-04-06,bruin_cafe,Extended Dinner,Bruin Fresh Smoothie,Bruin Fresh Smoothie,static
-2026-04-06,bruin_cafe,Extended Dinner,Smoothie #15: Chocolate Banana,Smoothie #15: Chocolate Banana,static
-2026-04-06,bruin_cafe,Extended Dinner,Smoothie #06: Alooooha,Smoothie #06: Alooooha,static
-2026-04-06,bruin_cafe,Extended Dinner,Café Latte,Café Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Vanilla Latte,Vanilla Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Mocha Latte,Mocha Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Caramel Latte,Caramel Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Chai Tea Latte,Chai Tea Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Brewed Coffee,Brewed Coffee,static
-2026-04-06,bruin_cafe,Extended Dinner,Espresso,Espresso,static
-2026-04-06,bruin_cafe,Extended Dinner,Café Caramel,Café Caramel,static
-2026-04-06,bruin_cafe,Extended Dinner,Café Mocha,Café Mocha,static
-2026-04-06,bruin_cafe,Extended Dinner,Café Vanilla,Café Vanilla,static
-2026-04-06,bruin_cafe,Extended Dinner,Brewed Tea,Brewed Tea,static
-2026-04-06,bruin_cafe,Extended Dinner,White Chocolate Latte,White Chocolate Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Cappuccino,Cappuccino,static
-2026-04-06,bruin_cafe,Extended Dinner,Hot Chocolate,Hot Chocolate,static
-2026-04-06,bruin_cafe,Extended Dinner,Hot Vanilla,Hot Vanilla,static
-2026-04-06,bruin_cafe,Extended Dinner,Horchata Latte,Horchata Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Tea Latte,Tea Latte,static
-2026-04-06,bruin_cafe,Extended Dinner,Americano,Americano,static
-2026-04-06,bruin_cafe,Extended Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,static
-2026-04-06,bruin_cafe,Extended Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,static
-2026-04-06,bruin_cafe,Extended Dinner,Chocolate Croissant,Chocolate Croissant,static
-2026-04-06,bruin_cafe,Extended Dinner,Butter Croissant,Butter Croissant,static
-2026-04-06,bruin_cafe,Extended Dinner,Apple Turnover,Apple Turnover,static
-2026-04-06,bruin_cafe,Extended Dinner,Cheese Danish,Cheese Danish,static
-2026-04-06,bruin_cafe,Extended Dinner,Funfetti Butter Cream Cupcake,Funfetti Butter Cream Cupcake,static
-2026-04-06,bruin_cafe,Extended Dinner,Red Velvet Cake,Red Velvet Cake,static
-2026-04-06,bruin_cafe,Extended Dinner,Banana Walnut Muffin,Banana Walnut Muffin,static
-2026-04-06,bruin_cafe,Extended Dinner,Mocha Muffin,Mocha Muffin,static
-2026-04-06,bruin_cafe,Extended Dinner,Blueberry Muffin,Blueberry Muffin,static
-2026-04-06,bruin_cafe,Extended Dinner,Mango Chia Pudding with Yogurt Mousse,Mango Chia Pudding with Yogurt Mousse,static
-2026-04-06,bruin_cafe,Extended Dinner,Eclair,Eclair,static
-2026-04-06,bruin_cafe,Extended Dinner,White Chocolate Strawberry Tart,White Chocolate Strawberry Tart,static
-2026-04-06,bruin_cafe,Extended Dinner,Cinnamon Roll with Cream Cheese,Cinnamon Roll with Cream Cheese,static
-2026-04-06,bruin_cafe,Extended Dinner,Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,static
-2026-04-06,bruin_cafe,Extended Dinner,Plain Bagel,Plain Bagel,static
-2026-04-06,bruin_cafe,Extended Dinner,Onion Bagel,Onion Bagel,static
-2026-04-06,bruin_cafe,Extended Dinner,Everything Bagels,Everything Bagels,static
-2026-04-06,bruin_cafe,Extended Dinner,Whole Wheat Bagel,Whole Wheat Bagel,static
-2026-04-06,bruin_cafe,Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,static
-2026-04-06,bruin_cafe,Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,static
-2026-04-06,bruin_cafe,Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,static
-2026-04-06,bruin_cafe,Extended Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,static
-2026-04-06,bruin_cafe,Extended Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,static
-2026-04-06,bruin_cafe,Extended Dinner,Banana,Banana,static
-2026-04-06,bruin_cafe,Extended Dinner,Fuji Apple,Fuji Apple,static
-2026-04-06,bruin_cafe,Extended Dinner,Granny Smith Apple,Granny Smith Apple,static
-2026-04-06,bruin_cafe,Extended Dinner,Oranges,Oranges,static
-2026-04-06,bruin_cafe,Extended Dinner,BBQ Kettle Chips,BBQ Kettle Chips,static
-2026-04-06,bruin_cafe,Extended Dinner,Sea Salt Kettle Chips,Sea Salt Kettle Chips,static
-2026-04-06,bruin_cafe,Extended Dinner,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,static
-2026-04-06,bruin_cafe,Extended Dinner,Original Lays Baked Chips,Original Lays Baked Chips,static
-2026-04-06,bruin_cafe,Extended Dinner,Jalapeno Kettle Chips,Jalapeno Kettle Chips,static
-2026-04-06,bruin_plate,Breakfast,Freshly Bowled,Create-Your-Own Omelet Bar,rotating
-2026-04-06,bruin_plate,Breakfast,Harvest,"Egg White, Spinach, & Turkey Sausage Sandwich",rotating
-2026-04-06,bruin_plate,Breakfast,Harvest,Scrambled Eggs,rotating
-2026-04-06,bruin_plate,Breakfast,Harvest,Scrambled Egg Whites,rotating
-2026-04-06,bruin_plate,Breakfast,Harvest,Vegan Scrambled Eggs,rotating
-2026-04-06,bruin_plate,Breakfast,Harvest,Roasted Red Breakfast Potato Wedges,rotating
-2026-04-06,bruin_plate,Breakfast,Harvest,Turkey Bacon,rotating
-2026-04-06,bruin_plate,Breakfast,Stone Fired,Red Lentil Waffle,rotating
-2026-04-06,bruin_plate,Breakfast,Stone Fired,Pineapple Compote,rotating
-2026-04-06,bruin_plate,Breakfast,Stone Fired,Waffle,rotating
-2026-04-06,bruin_plate,Breakfast,Simply Grilled,Whole Wheat Pancakes w/ Amaranth & Chocolate Chips,rotating
-2026-04-06,bruin_plate,Breakfast,Simply Grilled,Vegan Pancake,rotating
-2026-04-06,bruin_plate,Breakfast,Fruit,Cantaloupe,rotating
-2026-04-06,bruin_plate,Breakfast,Fruit,Grapefruit,rotating
-2026-04-06,bruin_plate,Breakfast,Fruit,Green Grapes,rotating
-2026-04-06,bruin_plate,Breakfast,Fruit,Red Grapes,rotating
-2026-04-06,bruin_plate,Breakfast,Fruit,Pineapple,rotating
-2026-04-06,bruin_plate,Breakfast,Fruit,Watermelon,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Multi-Grain Bread,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Raisin Walnut Bread,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Whole Wheat Sourdough Bread,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Spiced Apple Bread,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Cinnamon Quickbread,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Almond Cashew Butter,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Mango Blueberry Compote,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Chocolate Peanut Butter,rotating
-2026-04-06,bruin_plate,Breakfast,Sweet Bites,Kiwi-Apple Compote,rotating
-2026-04-06,bruin_plate,Breakfast,Beverage Special,Cherry Lime Water,rotating
-2026-04-06,bruin_plate,Breakfast,Cereal / Oatmeal,Oatmeal,rotating
-2026-04-06,bruin_plate,Breakfast,Cereal / Oatmeal,Savory Grits,rotating
-2026-04-06,bruin_plate,Lunch,Soups,Steak & Mushroom Soup,rotating
-2026-04-06,bruin_plate,Lunch,Soups,Creamy Tomato Basil Soup,rotating
-2026-04-06,bruin_plate,Lunch,Freshly Bowled,Create-Your-Own Omelet Bar,rotating
-2026-04-06,bruin_plate,Lunch,Harvest,"Chicken, Watercress & Asparagus Stacker",rotating
-2026-04-06,bruin_plate,Lunch,Harvest,Spinach & Bulgur Wheat Taco,rotating
-2026-04-06,bruin_plate,Lunch,Farmstand,Frijoles de la Olla,rotating
-2026-04-06,bruin_plate,Lunch,Farmstand,Brown Calrose Rice,rotating
-2026-04-06,bruin_plate,Lunch,Farmstand,Bulgur Wheat,rotating
-2026-04-06,bruin_plate,Lunch,Farmstand,Grilled Asparagus,rotating
-2026-04-06,bruin_plate,Lunch,Farmstand,Chinese Kale w/ Five Spice,rotating
-2026-04-06,bruin_plate,Lunch,Stone Fired,Cilantro Pesto w/ Tri-Tip Tortilla Pizza,rotating
-2026-04-06,bruin_plate,Lunch,Stone Fired,"Pear, Thyme, & Blue Cheese Pizza",rotating
-2026-04-06,bruin_plate,Lunch,Simply Grilled,Halal Lemon Ginger Chicken Thigh,rotating
-2026-04-06,bruin_plate,Lunch,Simply Grilled,Grilled Potato & Cabbage Cake,rotating
-2026-04-06,bruin_plate,Lunch,Simply Grilled,Baked Purple Potato,rotating
-2026-04-06,bruin_plate,Lunch,Fruit,Cantaloupe,rotating
-2026-04-06,bruin_plate,Lunch,Fruit,Green Grapes,rotating
-2026-04-06,bruin_plate,Lunch,Fruit,Red Grapes,rotating
-2026-04-06,bruin_plate,Lunch,Fruit,Pineapple,rotating
-2026-04-06,bruin_plate,Lunch,Fruit,Watermelon,rotating
-2026-04-06,bruin_plate,Lunch,Fruit,Kiwi,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Multi-Grain Bread,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Raisin Walnut Bread,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Whole Wheat Sourdough Bread,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Tofu Cranberry Bar,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Spiced Apple Bread,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Cinnamon Quickbread,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Almond Butter,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Mango Blueberry Compote,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Chocolate Peanut Butter,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,Kiwi-Apple Compote,rotating
-2026-04-06,bruin_plate,Lunch,Sweet Bites,"Apple, Grapefruit, & Ginger Marmalade",rotating
-2026-04-06,bruin_plate,Lunch,Beverage Special,Cherry Lime Water,rotating
-2026-04-06,bruin_plate,Lunch,Beverage Special,Apple Spritzer,rotating
-2026-04-06,bruin_plate,Lunch,Beverage Special,Cranberry Spritzer,rotating
-2026-04-06,bruin_plate,Lunch,Beverage Special,Orange Spritzer,rotating
-2026-04-06,bruin_plate,Dinner,Soups,Steak & Mushroom Soup,rotating
-2026-04-06,bruin_plate,Dinner,Soups,Creamy Tomato Basil Soup,rotating
-2026-04-06,bruin_plate,Dinner,Freshly Bowled,"Yucatan Pork, Plantain, Yellow Zucchini, & Quinoa Bowl",rotating
-2026-04-06,bruin_plate,Dinner,Freshly Bowled,Baked Tofu Bowl w/Wasabi-Tahini Sauce,rotating
-2026-04-06,bruin_plate,Dinner,Harvest,Roasted Lamb,rotating
-2026-04-06,bruin_plate,Dinner,Harvest,Mashed Cauliflower,rotating
-2026-04-06,bruin_plate,Dinner,Harvest,Mushroom Ragout,rotating
-2026-04-06,bruin_plate,Dinner,Harvest,"Portobello, Quinoa, & Arugula Stack",rotating
-2026-04-06,bruin_plate,Dinner,Harvest,Matzo Ball Soup,rotating
-2026-04-06,bruin_plate,Dinner,Harvest,Matzo Crackers,rotating
-2026-04-06,bruin_plate,Dinner,Farmstand,Frijoles de la Olla,rotating
-2026-04-06,bruin_plate,Dinner,Farmstand,Brown Calrose Rice,rotating
-2026-04-06,bruin_plate,Dinner,Farmstand,Quinoa,rotating
-2026-04-06,bruin_plate,Dinner,Farmstand,"Roasted Parsnips, Carrots, & Onions",rotating
-2026-04-06,bruin_plate,Dinner,Farmstand,Sauteed Kale,rotating
-2026-04-06,bruin_plate,Dinner,Stone Fired,Beef Picadillo Flatbread,rotating
-2026-04-06,bruin_plate,Dinner,Stone Fired,Shishito Pepper Flatbread,rotating
-2026-04-06,bruin_plate,Dinner,Simply Grilled,Seared Steelhead Trout,rotating
-2026-04-06,bruin_plate,Dinner,Simply Grilled,Grilled Southwestern Tofu,rotating
-2026-04-06,bruin_plate,Dinner,Simply Grilled,Baked Red Rose Potato,rotating
-2026-04-06,bruin_plate,Dinner,Fruit,Cantaloupe,rotating
-2026-04-06,bruin_plate,Dinner,Fruit,Green Grapes,rotating
-2026-04-06,bruin_plate,Dinner,Fruit,Red Grapes,rotating
-2026-04-06,bruin_plate,Dinner,Fruit,Pineapple,rotating
-2026-04-06,bruin_plate,Dinner,Fruit,Watermelon,rotating
-2026-04-06,bruin_plate,Dinner,Fruit,Strawberries,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Multi-Grain Bread,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Raisin Walnut Bread,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Whole Wheat Sourdough Bread,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Tofu Cranberry Bar,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Spiced Apple Bread,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Cinnamon Quickbread,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Lemon Tart Mignardise,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Almond Cashew Butter,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Chocolate Peanut Butter,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Mango Blueberry Compote,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,Kiwi-Apple Compote,rotating
-2026-04-06,bruin_plate,Dinner,Sweet Bites,"Apple, Grapefruit, & Ginger Marmalade",rotating
-2026-04-06,bruin_plate,Dinner,Beverage Special,Mango Water,rotating
-2026-04-06,bruin_plate,Dinner,Beverage Special,Apple Spritzer,rotating
-2026-04-06,bruin_plate,Dinner,Beverage Special,Cranberry Spritzer,rotating
-2026-04-06,bruin_plate,Dinner,Beverage Special,Orange Spritzer,rotating
-2026-04-06,cafe_1919,Lunch / Dinner,Caesar,Caesar,static
-2026-04-06,cafe_1919,Lunch / Dinner,Chicken Caesar,Chicken Caesar,static
-2026-04-06,cafe_1919,Lunch / Dinner,Gamberetti,Gamberetti,static
-2026-04-06,cafe_1919,Lunch / Dinner,Mediterranean Salad,Mediterranean Salad,static
-2026-04-06,cafe_1919,Lunch / Dinner,Insalata Di Salmone,Insalata Di Salmone,static
-2026-04-06,cafe_1919,Lunch / Dinner,Pollo Verdura,Pollo Verdura,static
-2026-04-06,cafe_1919,Lunch / Dinner,Tuscan Tagliata Salad,Tuscan Tagliata Salad,static
-2026-04-06,cafe_1919,Lunch / Dinner,Heirloom Tomato Caprese,Heirloom Tomato Caprese,static
-2026-04-06,cafe_1919,Lunch / Dinner,Pollo Parma,Pollo Parma,static
-2026-04-06,cafe_1919,Lunch / Dinner,Florentino,Florentino,static
-2026-04-06,cafe_1919,Lunch / Dinner,Formaggi,Formaggi,static
-2026-04-06,cafe_1919,Lunch / Dinner,Genova,Genova,static
-2026-04-06,cafe_1919,Lunch / Dinner,Pepperoni,Pepperoni,static
-2026-04-06,cafe_1919,Lunch / Dinner,Ranch Dressing,Ranch Dressing,static
-2026-04-06,cafe_1919,Lunch / Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,static
-2026-04-06,cafe_1919,Lunch / Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,static
-2026-04-06,cafe_1919,Lunch / Dinner,Red Wine Vinaigrette,Red Wine Vinaigrette,static
-2026-04-06,cafe_1919,Lunch / Dinner,Salted,Salted,static
-2026-04-06,cafe_1919,Lunch / Dinner,Jalapeno,Jalapeno,static
-2026-04-06,cafe_1919,Lunch / Dinner,Pepperoni,Pepperoni,static
-2026-04-06,cafe_1919,Lunch / Dinner,Marinara Sauce,Marinara Sauce,static
-2026-04-06,cafe_1919,Lunch / Dinner,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,static
-2026-04-06,cafe_1919,Lunch / Dinner,Vanilla Bean,Vanilla Bean,static
-2026-04-06,cafe_1919,Lunch / Dinner,Purple Yam Ube,Purple Yam Ube,static
-2026-04-06,cafe_1919,Lunch / Dinner,Caramel Sea Salt,Caramel Sea Salt,static
-2026-04-06,cafe_1919,Lunch / Dinner,Chocolate Chip Coffee,Chocolate Chip Coffee,static
-2026-04-06,cafe_1919,Lunch / Dinner,Cookies and Cream,Cookies and Cream,static
-2026-04-06,cafe_1919,Lunch / Dinner,Dark Chocolate,Dark Chocolate,static
-2026-04-06,cafe_1919,Lunch / Dinner,Mint Chocolate Chip,Mint Chocolate Chip,static
-2026-04-06,cafe_1919,Lunch / Dinner,Spumoni,Spumoni,static
-2026-04-06,cafe_1919,Lunch / Dinner,Strawberry Cheesecake,Strawberry Cheesecake,static
-2026-04-06,cafe_1919,Lunch / Dinner,Banana Dulce de Leche,Banana Dulce de Leche,static
-2026-04-06,cafe_1919,Lunch / Dinner,Birthday Cake,Birthday Cake,static
-2026-04-06,cafe_1919,Lunch / Dinner,Peanut Butter Cup,Peanut Butter Cup,static
-2026-04-06,cafe_1919,Lunch / Dinner,Pistachio,Pistachio,static
-2026-04-06,cafe_1919,Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,static
-2026-04-06,cafe_1919,Lunch / Dinner,Strawberry Pan Sorbet,Strawberry Pan Sorbet,static
-2026-04-06,cafe_1919,Lunch / Dinner,Alphonso Mango Sorbet,Alphonso Mango Sorbet,static
-2026-04-06,cafe_1919,Lunch / Dinner,Coconut Flakes,Coconut Flakes,static
-2026-04-06,cafe_1919,Lunch / Dinner,Dried Cranberry,Dried Cranberry,static
-2026-04-06,cafe_1919,Lunch / Dinner,Semi Sweet Chocolate Chips,Semi Sweet Chocolate Chips,static
-2026-04-06,cafe_1919,Lunch / Dinner,Oreo Cookie Pieces,Oreo Cookie Pieces,static
-2026-04-06,cafe_1919,Lunch / Dinner,M&M Milk Chocolate Chopped,M&M Milk Chocolate Chopped,static
-2026-04-06,cafe_1919,Lunch / Dinner,Rainbow Sprinkles,Rainbow Sprinkles,static
-2026-04-06,cafe_1919,Lunch / Dinner,Dark Chocolate Sauce,Dark Chocolate Sauce,static
-2026-04-06,cafe_1919,Lunch / Dinner,Whipped Cream,Whipped Cream,static
-2026-04-06,cafe_1919,Lunch / Dinner,Maraschino Cherry,Maraschino Cherry,static
-2026-04-06,cafe_1919,Lunch / Dinner,Gummy Bears,Gummy Bears,static
-2026-04-06,cafe_1919,Lunch / Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,static
-2026-04-06,cafe_1919,Lunch / Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,static
-2026-04-06,cafe_1919,Lunch / Dinner,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,static
-2026-04-06,cafe_1919,Lunch / Dinner,Jalapeno Kettle Chips,Jalapeno Kettle Chips,static
-2026-04-06,cafe_1919,Lunch / Dinner,Baked Lays Potato Chips,Baked Lays Potato Chips,static
-2026-04-06,cafe_1919,Lunch / Dinner,Sea Salt Kettle Chips,Sea Salt Kettle Chips,static
-2026-04-06,cafe_1919,Lunch / Dinner,BBQ Kettle Chips,BBQ Kettle Chips,static
-2026-04-06,cafe_1919,Lunch / Dinner,Banana,Banana,static
-2026-04-06,cafe_1919,Lunch / Dinner,Oranges,Oranges,static
-2026-04-06,cafe_1919,Lunch / Dinner,Fuji Apple,Fuji Apple,static
-2026-04-06,cafe_1919,Lunch / Dinner,Granny Smith Apple,Granny Smith Apple,static
-2026-04-06,de_neve,Breakfast,Buttermilk Pancakes,Buttermilk Pancakes,rotating
-2026-04-06,de_neve,Breakfast,Maple Flavored Syrup,Maple Flavored Syrup,rotating
-2026-04-06,de_neve,Breakfast,Scrambled Eggs,Scrambled Eggs,rotating
-2026-04-06,de_neve,Breakfast,Pork Sausage,Pork Sausage,rotating
-2026-04-06,de_neve,Breakfast,Buttery Hash Browns,Buttery Hash Browns,rotating
-2026-04-06,de_neve,Breakfast,Fried Eggs,Fried Eggs,rotating
-2026-04-06,de_neve,Breakfast,Tomatillo Salsa,Tomatillo Salsa,rotating
-2026-04-06,de_neve,Breakfast,Belgian Waffles,Belgian Waffles,rotating
-2026-04-06,de_neve,Breakfast,Maple Flavored Syrup,Maple Flavored Syrup,rotating
-2026-04-06,de_neve,Breakfast,Bodega Egg & Bacon Roll,Bodega Egg & Bacon Roll,rotating
-2026-04-06,de_neve,Breakfast,Tater Tots,Tater Tots,rotating
-2026-04-06,de_neve,Breakfast,Oatmeal,Oatmeal,rotating
-2026-04-06,de_neve,Breakfast,Grits,Grits,rotating
-2026-04-06,de_neve,Breakfast,Plain Bagel,Plain Bagel,rotating
-2026-04-06,de_neve,Breakfast,Everything Bagel,Everything Bagel,rotating
-2026-04-06,de_neve,Breakfast,Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,rotating
-2026-04-06,de_neve,Breakfast,Cream Cheese,Cream Cheese,rotating
-2026-04-06,de_neve,Breakfast,Chive Cream Cheese,Chive Cream Cheese,rotating
-2026-04-06,de_neve,Breakfast,Avocado Pulp,Avocado Pulp,rotating
-2026-04-06,de_neve,Breakfast,Black Forest Ham,Black Forest Ham,rotating
-2026-04-06,de_neve,Breakfast,Sliced Swiss Cheese,Sliced Swiss Cheese,rotating
-2026-04-06,de_neve,Breakfast,Sliced Tomatoes,Sliced Tomatoes,rotating
-2026-04-06,de_neve,Breakfast,Julienne Red Onion,Julienne Red Onion,rotating
-2026-04-06,de_neve,Breakfast,Capers,Capers,rotating
-2026-04-06,de_neve,Breakfast,Spinach,Spinach,rotating
-2026-04-06,de_neve,Breakfast,Cucumber,Cucumber,rotating
-2026-04-06,de_neve,Breakfast,Watermelon,Watermelon,rotating
-2026-04-06,de_neve,Breakfast,Pineapple,Pineapple,rotating
-2026-04-06,de_neve,Breakfast,Cantaloupe,Cantaloupe,rotating
-2026-04-06,de_neve,Breakfast,Vanilla Glazed Cake Donut,Vanilla Glazed Cake Donut,rotating
-2026-04-06,de_neve,Breakfast,Mini Croissant,Mini Croissant,rotating
-2026-04-06,de_neve,Breakfast,Mini Almond Bear Claw,Mini Almond Bear Claw,rotating
-2026-04-06,de_neve,Breakfast,Blueberry Muffin,Blueberry Muffin,rotating
-2026-04-06,de_neve,Lunch,Brunch,Brunch,rotating
-2026-04-06,de_neve,Lunch,Buttermilk Pancakes,Buttermilk Pancakes,rotating
-2026-04-06,de_neve,Lunch,Maple Flavored Syrup,Maple Flavored Syrup,rotating
-2026-04-06,de_neve,Lunch,Scrambled Eggs,Scrambled Eggs,rotating
-2026-04-06,de_neve,Lunch,Pork Sausage,Pork Sausage,rotating
-2026-04-06,de_neve,Lunch,Buttery Hash Browns,Buttery Hash Browns,rotating
-2026-04-06,de_neve,Lunch,Fried Eggs,Fried Eggs,rotating
-2026-04-06,de_neve,Lunch,Tomatillo Salsa,Tomatillo Salsa,rotating
-2026-04-06,de_neve,Lunch,Three Cheese & Tomato Pizza,Three Cheese & Tomato Pizza,rotating
-2026-04-06,de_neve,Lunch,Cheese Pizza,Cheese Pizza,rotating
-2026-04-06,de_neve,Lunch,Garlic Chicken Pizza,Garlic Chicken Pizza,rotating
-2026-04-06,de_neve,Lunch,Bruin Burger,Bruin Burger,rotating
-2026-04-06,de_neve,Lunch,Bruin Cheeseburger,Bruin Cheeseburger,rotating
-2026-04-06,de_neve,Lunch,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,rotating
-2026-04-06,de_neve,Lunch,Brunch Burger,Brunch Burger,rotating
-2026-04-06,de_neve,Lunch,D.F.C.,D.F.C.,rotating
-2026-04-06,de_neve,Lunch,Beyond Burger,Beyond Burger,rotating
-2026-04-06,de_neve,Lunch,Cilantro Jalapeno Chicken Thigh,Cilantro Jalapeno Chicken Thigh,rotating
-2026-04-06,de_neve,Lunch,Steamed Rice,Steamed Rice,rotating
-2026-04-06,de_neve,Lunch,De la Olla Beans,De la Olla Beans,rotating
-2026-04-06,de_neve,Lunch,Matzo Ball Soup,Matzo Ball Soup,rotating
-2026-04-06,de_neve,Lunch,Chicken Tortilla Soup,Chicken Tortilla Soup,rotating
-2026-04-06,de_neve,Lunch,Garden Vegetable Soup,Garden Vegetable Soup,rotating
-2026-04-06,de_neve,Lunch,Roasted Cauliflower,Roasted Cauliflower,rotating
-2026-04-06,de_neve,Lunch,Roasted Brussels Sprouts,Roasted Brussels Sprouts,rotating
-2026-04-06,de_neve,Lunch,Grilled Tri-color Carrots w/ Peruvian Salsa Verde,Grilled Tri-color Carrots w/ Peruvian Salsa Verde,rotating
-2026-04-06,de_neve,Lunch,Ranch Dressing,Ranch Dressing,rotating
-2026-04-06,de_neve,Lunch,Caesar Salad Dressing,Caesar Salad Dressing,rotating
-2026-04-06,de_neve,Lunch,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,rotating
-2026-04-06,de_neve,Lunch,Watermelon,Watermelon,rotating
-2026-04-06,de_neve,Lunch,Pineapple,Pineapple,rotating
-2026-04-06,de_neve,Lunch,Cantaloupe,Cantaloupe,rotating
-2026-04-06,de_neve,Lunch,Chocolate Ganache Cake,Chocolate Ganache Cake,rotating
-2026-04-06,de_neve,Lunch,Snickerdoodle Cookies,Snickerdoodle Cookies,rotating
-2026-04-06,de_neve,Lunch,Chocolate Silk Pie,Chocolate Silk Pie,rotating
-2026-04-06,de_neve,Lunch,Red Velvet Brownie,Red Velvet Brownie,rotating
-2026-04-06,de_neve,Lunch,Mixed Berry Crisp,Mixed Berry Crisp,rotating
-2026-04-06,de_neve,Lunch,Strawberry Shortcake,Strawberry Shortcake,rotating
-2026-04-06,de_neve,Lunch,Yogurt Bar Items,Yogurt Bar Items,rotating
-2026-04-06,de_neve,Lunch,Ice Cream Bar,Ice Cream Bar,rotating
-2026-04-06,de_neve,Dinner,Taste of California,Taste of California,rotating
-2026-04-06,de_neve,Dinner,Shrimp Fajita,Shrimp Fajita,rotating
-2026-04-06,de_neve,Dinner,Mexican Rice,Mexican Rice,rotating
-2026-04-06,de_neve,Dinner,Vegetable & Potato Fajitas,Vegetable & Potato Fajitas,rotating
-2026-04-06,de_neve,Dinner,Carne Asada Fries,Carne Asada Fries,rotating
-2026-04-06,de_neve,Dinner,Beyond Chicken Tenders,Beyond Chicken Tenders,rotating
-2026-04-06,de_neve,Dinner,French Fries,French Fries,rotating
-2026-04-06,de_neve,Dinner,Three Cheese & Tomato Pizza,Three Cheese & Tomato Pizza,rotating
-2026-04-06,de_neve,Dinner,Cheese Pizza,Cheese Pizza,rotating
-2026-04-06,de_neve,Dinner,Garlic Chicken Pizza,Garlic Chicken Pizza,rotating
-2026-04-06,de_neve,Dinner,Bruin Burger,Bruin Burger,rotating
-2026-04-06,de_neve,Dinner,Bruin Cheeseburger,Bruin Cheeseburger,rotating
-2026-04-06,de_neve,Dinner,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,rotating
-2026-04-06,de_neve,Dinner,Brunch Burger,Brunch Burger,rotating
-2026-04-06,de_neve,Dinner,D.F.C.,D.F.C.,rotating
-2026-04-06,de_neve,Dinner,Beyond Burger,Beyond Burger,rotating
-2026-04-06,de_neve,Dinner,Cilantro Jalapeno Chicken Thigh,Cilantro Jalapeno Chicken Thigh,rotating
-2026-04-06,de_neve,Dinner,Steamed Rice,Steamed Rice,rotating
-2026-04-06,de_neve,Dinner,De la Olla Beans,De la Olla Beans,rotating
-2026-04-06,de_neve,Dinner,Matzo Ball Soup,Matzo Ball Soup,rotating
-2026-04-06,de_neve,Dinner,Chicken Tortilla Soup,Chicken Tortilla Soup,rotating
-2026-04-06,de_neve,Dinner,Garden Vegetable Soup,Garden Vegetable Soup,rotating
-2026-04-06,de_neve,Dinner,Roasted Cauliflower,Roasted Cauliflower,rotating
-2026-04-06,de_neve,Dinner,Roasted Brussels Sprouts,Roasted Brussels Sprouts,rotating
-2026-04-06,de_neve,Dinner,Grilled Tri-color Carrots w/ Peruvian Salsa Verde,Grilled Tri-color Carrots w/ Peruvian Salsa Verde,rotating
-2026-04-06,de_neve,Dinner,Ranch Dressing,Ranch Dressing,rotating
-2026-04-06,de_neve,Dinner,Caesar Salad Dressing,Caesar Salad Dressing,rotating
-2026-04-06,de_neve,Dinner,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,rotating
-2026-04-06,de_neve,Dinner,Watermelon,Watermelon,rotating
-2026-04-06,de_neve,Dinner,Cantaloupe,Cantaloupe,rotating
-2026-04-06,de_neve,Dinner,Pineapple,Pineapple,rotating
-2026-04-06,de_neve,Dinner,Chocolate Ganache Cake,Chocolate Ganache Cake,rotating
-2026-04-06,de_neve,Dinner,Snickerdoodle Cookies,Snickerdoodle Cookies,rotating
-2026-04-06,de_neve,Dinner,Chocolate Silk Pie,Chocolate Silk Pie,rotating
-2026-04-06,de_neve,Dinner,Red Velvet Brownie,Red Velvet Brownie,rotating
-2026-04-06,de_neve,Dinner,Mixed Berry Crisp,Mixed Berry Crisp,rotating
-2026-04-06,de_neve,Dinner,Strawberry Shortcake,Strawberry Shortcake,rotating
-2026-04-06,de_neve,Dinner,Yogurt Bar Items,Yogurt Bar Items,rotating
-2026-04-06,de_neve,Dinner,Cheese Pizza,Cheese Pizza,rotating
-2026-04-06,de_neve,Dinner,Late Night Chicken Tenders Combo,Late Night Chicken Tenders Combo,rotating
-2026-04-06,de_neve,Dinner,Late Night Beyond Tenders Combo,Late Night Beyond Tenders Combo,rotating
-2026-04-06,de_neve,Dinner,Late Night Spicy Nashville Chicken Tenders Combo,Late Night Spicy Nashville Chicken Tenders Combo,rotating
-2026-04-06,de_neve,Dinner,Late Night Spicy Nashville Beyond Tenders Combo,Late Night Spicy Nashville Beyond Tenders Combo,rotating
-2026-04-06,epicuria_ackerman,All Day,SALADS,Caesar Salad,static
-2026-04-06,epicuria_ackerman,All Day,SALADS,Antipasto Salad,static
-2026-04-06,epicuria_ackerman,All Day,SALADS,Greek Salad,static
-2026-04-06,epicuria_ackerman,All Day,Salad Add-Ons,Grilled Chicken,static
-2026-04-06,epicuria_ackerman,All Day,Salad Add-Ons,Grilled Salmon,static
-2026-04-06,epicuria_ackerman,All Day,Salad Add-Ons,Roasted Seitan Skewer,static
-2026-04-06,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Margherita Pizza,static
-2026-04-06,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Pepperoni Pizza,static
-2026-04-06,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Asparagus Prosciutto Pizza,static
-2026-04-06,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Mozzarella Pizza,static
-2026-04-06,epicuria_ackerman,All Day,"""L.A."" PIZZA PIES",Frutti Di Mare Pizza Pie,static
-2026-04-06,epicuria_ackerman,All Day,"""L.A."" PIZZA PIES",Bacon Egg Saksuka Pizza Pie,static
-2026-04-06,epicuria_ackerman,All Day,PASTAS,Spaghetti Pomodoro,static
-2026-04-06,epicuria_ackerman,All Day,PASTAS,Chicken Fettuccine,static
-2026-04-06,epicuria_ackerman,All Day,PASTAS,Ricotta Rosa Baked Pasta,static
-2026-04-06,epicuria_ackerman,All Day,PASTAS,Vegetarian Fettucine,static
-2026-04-06,epicuria_ackerman,All Day,PASTAS,Shrimp Spaghetti Fra Diavolo,static
-2026-04-06,epicuria_ackerman,All Day,SANDWICHES,Mozzarella Di Bufala Sandwich,static
-2026-04-06,epicuria_ackerman,All Day,SANDWICHES,Eggplant Parmesan Sandwich,static
-2026-04-06,epicuria_ackerman,All Day,SANDWICHES,Prosciutto Quattro Formaggio Sandwich,static
-2026-04-06,epicuria_ackerman,All Day,SANDWICHES,Chicken Gyro Sandwich,static
-2026-04-06,epicuria_ackerman,All Day,Sides,Oatmeal Raisin Cookie,static
-2026-04-06,epicuria_ackerman,All Day,Sides,Chocolate Chip Cookie,static
-2026-04-06,epicuria_ackerman,All Day,Sides,Fuji Apple,static
-2026-04-06,epicuria_ackerman,All Day,Sides,Oranges,static
-2026-04-06,epicuria_ackerman,All Day,Sides,Banana,static
-2026-04-06,epicuria_covel,Dinner,Capri,Vegetable Tortellini with Peppers,rotating
-2026-04-06,epicuria_covel,Dinner,Capri,Cheese Tortellini Pomodoro,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Grilled Green Peppercorn Chicken Breast,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Lavash Roll-up,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Lentils & Rice,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Pan Roasted Brussels Sprouts,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Roasted Red Peppers,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Greek Salad,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Moroccan Couscous Salad,rotating
-2026-04-06,epicuria_covel,Dinner,Psistaris,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,rotating
-2026-04-06,epicuria_covel,Dinner,Alimenti,Bulgur-Crusted Cod,rotating
-2026-04-06,epicuria_covel,Dinner,Alimenti,Pearled Couscous w/ Roasted Zucchini,rotating
-2026-04-06,epicuria_covel,Dinner,Alimenti,4 Cheese Baked Lasagna,rotating
-2026-04-06,epicuria_covel,Dinner,Alimenti,Beef Barley Soup,rotating
-2026-04-06,epicuria_covel,Dinner,Alimenti,Lentil Soup,rotating
-2026-04-06,epicuria_covel,Dinner,Dolce,Cappuccino Cookie,rotating
-2026-04-06,epicuria_covel,Dinner,Dolce,Old-Fashioned Oatmeal Raisin Cookie,rotating
-2026-04-06,epicuria_covel,Dinner,Dolce,Moroccan Spiced Chocolate Mousse,rotating
-2026-04-06,epicuria_covel,Dinner,Dolce,Tiramisu,rotating
-2026-04-06,epicuria_covel,Dinner,Dolce,Pistachio Raspberry Tart,rotating
-2026-04-06,epicuria_covel,Dinner,Dolce,Yogurt Bar,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Focaccia,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Lavash Chips,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Sun-Dried Tomato Pesto,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Parsley Pesto,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Garlic Oil,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Paprika Garlic Spread,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Hummus,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Tzatziki,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Muhammara (Spicy Roasted Pepper Dip),rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Artichoke Spinach Dip,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Smoked Mozzarella Spread,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Zhug,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Morrocan Spicy Lentil Dip,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,"White Bean, Feta, & Za'atar Spread",rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Garlic Lebneh,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Htipiti,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Cauliflower Skordalia Spread,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Fava Bean Dip with Dill,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Tunisian Vegetable Dip,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Marinated Red Grape Tomatoes,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Pitted Kalamata Olives,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Pickled Vegetables,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Dolma,rotating
-2026-04-06,epicuria_covel,Dinner,Mezze,Grated Parmesan Cheese,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Cheese Pizza,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Pepperoni Pizza,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Margherita Pizza,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Caesar Salad,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Greek Salad,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Moroccan Couscous Salad,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Honey,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Banana Peppers,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Valbresco Feta Cheese,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Black Olives,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Gala Apple,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Granny Smith Apple,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Oranges,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Bananas,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Watermelon,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Clementine Tangerine,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Coffee,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Coffee Espresso,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Espresso Coffee Bean (Decaf),rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Coffee Rainforest,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Rainforest Coffee (Decaf),rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Apple Cinnamon Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Chamomile Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Earl Grey Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Mint Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Cranberry Apple Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,White Orange Spice Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Green Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Iced Blueberry Hibiscus Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Tropical Iced Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Lemon Tea,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Granulated Sugar,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Pizza Dough,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,White Hoagie Torpedo Roll,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Panini Roll,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Fluffy Potato Bun,rotating
-2026-04-06,epicuria_covel,Dinner,Capri Pizza,Focaccia,rotating
-2026-04-06,feast,Dinner,Sweets Station,Bistek Tagalog,static
-2026-04-06,feast,Dinner,Sweets Station,Pilipino Adobo Pork,static
-2026-04-06,feast,Dinner,Sweets Station,Jasmine Rice,static
-2026-04-06,feast,Dinner,Spice Kitchen,Fish w/ Black Bean Sauce,static
-2026-04-06,feast,Dinner,Spice Kitchen,Spicy Chick'n w/ Thai Basil,static
-2026-04-06,feast,Dinner,Spice Kitchen,Jasmine Rice,static
-2026-04-06,feast,Dinner,Stone Oven,Roasted Butter Chicken,static
-2026-04-06,feast,Dinner,Stone Oven,Bengali Shrimp & Potato,static
-2026-04-06,feast,Dinner,Stone Oven,Induur Roasted Tri-Color Cauliflower,static
-2026-04-06,feast,Dinner,Stone Oven,Channa Chaat Masala,static
-2026-04-06,feast,Dinner,Stone Oven,Basmati Rice,static
-2026-04-06,feast,Dinner,Iron Grill,Pork Sisig with Tater Tots & Egg,static
-2026-04-06,feast,Dinner,Iron Grill,Vegetable Egg Roll,static
-2026-04-06,feast,Dinner,Iron Grill,Chicken Teriyaki,static
-2026-04-06,feast,Dinner,Sweets Station,Butter Mochi,static
-2026-04-06,feast,Dinner,Sweets Station,Indian Rice Pudding,static
-2026-04-06,feast,Dinner,Sweets Station,Fudge Brownie,static
-2026-04-06,feast,Dinner,Sweets Station,Classic Chocolate Chip Cookie,static
-2026-04-06,feast,Dinner,Sweets Station,Tropical Fruits,static
-2026-04-06,feast,Dinner,Sweets Station,Banana,static
-2026-04-06,feast,Dinner,Sweets Station,Fuji Apple,static
-2026-04-06,feast,Dinner,Sweets Station,Oranges,static
-2026-04-06,feast,Dinner,Sweets Station,Chicken Sinigang,static
-2026-04-06,feast,Dinner,Sweets Station,Egg Drop Soup,static
-2026-04-06,feast,Dinner,Sweets Station,Asian Stir Fry,static
-2026-04-06,feast,Dinner,Sweets Station,Brown Calrose Rice,static
-2026-04-06,feast,Dinner,Sweets Station,Sticky Rice,static
-2026-04-06,feast,Dinner,Sweets Station,Salad Bar,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Sirloin Steak Quesadilla,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Cheese Quesadilla,static
-2026-04-06,rendezvous,All Day,SUSHI BOWLS,Build-Your-Own Poke Bowl,static
-2026-04-06,rendezvous,All Day,Base,Brown Rice,static
-2026-04-06,rendezvous,All Day,Base,Sticky Rice,static
-2026-04-06,rendezvous,All Day,Base,Young Chow Vegetable Fried Rice,static
-2026-04-06,rendezvous,All Day,Base,Chow Mein Noodles,static
-2026-04-06,rendezvous,All Day,Entrée,Fish w/ Black Bean Sauce,static
-2026-04-06,rendezvous,All Day,Entrée,BBQ Roast Pork,static
-2026-04-06,rendezvous,All Day,Entrée,Green Bean Stir Fry,static
-2026-04-06,rendezvous,All Day,Entrée,Chinese Broccoli,static
-2026-04-06,rendezvous,All Day,Entrée,Eggplant & Tofu w/ Spicy Garlic Sauce,static
-2026-04-06,rendezvous,All Day,Entrée,Beef & Broccoli,static
-2026-04-06,rendezvous,All Day,Entrée,Orange Chicken,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Salted Cucumber,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Marinated Soy Sprouts,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Seasoned Blanched Spinach,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Vietnamese Pickled Daikon,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Vietnamese Shredded Green Papaya Salad,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Edamame,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Kimchi,static
-2026-04-06,rendezvous,All Day,ASIAN TOPPING,Seaweed Salad,static
-2026-04-06,rendezvous,All Day,ASIAN SAUCE,Green Sriracha,static
-2026-04-06,rendezvous,All Day,ASIAN SAUCE,Dumpling Dipping Sauce,static
-2026-04-06,rendezvous,All Day,ASIAN SAUCE,Red Sriracha,static
-2026-04-06,rendezvous,All Day,ASIAN SAUCE,Kickin' Mayo,static
-2026-04-06,rendezvous,All Day,ASIAN SAUCE,Thai Chilies w/ Vegan Fish Sauce,static
-2026-04-06,rendezvous,All Day,ASIAN SAUCE,Chojang Korean Dipping Sauce,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Milk Tea Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Thai Tea Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Taro Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Green Milk Tea Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Vietnamese Coffee Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Horchata Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Agua de Jamaica,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Strawberry Lemonade Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Mango Boba,static
-2026-04-06,rendezvous,All Day,BOBA DRINKS,Cucumber & Lime Fresca Boba,static
-2026-04-06,rendezvous,All Day,DRINKS,Brewed Coffee,static
-2026-04-06,rendezvous,All Day,DRINKS,Fountain Beverage,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Nanami Togarashi Spice,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Fried Shallots,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Fried Garlic,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Sweet Chili Mae Ploy Sauce,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Sweet Chili Mayo,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Sweet and Sour Sauce,static
-2026-04-06,rendezvous,All Day,CONDIMENTS,Satay Dipping Sauce,static
-2026-04-06,the_study,All Day,.,Craft Your Own Breakfast Skillet,static
-2026-04-06,the_study,All Day,.,Croque Monsieur,static
-2026-04-06,the_study,All Day,.,Croque Madame,static
-2026-04-06,the_study,All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,static
-2026-04-06,the_study,All Day,.,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,static
-2026-04-06,the_study,All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,static
-2026-04-06,the_study,All Day,.,Waffle with Caramel & Seasonal Fresh Fruit,static
-2026-04-06,the_study,All Day,.,Irish Oatmeal,static
-2026-04-06,the_study,All Day,.,Craft Your Own Breakfast Sandwich,static
-2026-04-06,the_study,All Day,.,Create Your Own Breakfast Croissant,static
-2026-04-06,the_study,All Day,Coffee & Tea,Brewed Tea,static
-2026-04-06,the_study,All Day,Coffee & Tea,Hot Chocolate,static
-2026-04-06,the_study,All Day,Coffee & Tea,Brewed Coffee,static
-2026-04-06,the_study,All Day,Coffee & Tea,Espresso Decaf,static
-2026-04-06,the_study,All Day,Coffee & Tea,Iced Brewed Coffee,static
-2026-04-06,the_study,All Day,Coffee & Tea,Nitro Cold Coffee,static
-2026-04-06,the_study,All Day,Coffee & Tea,Chai Tea Latte,static
-2026-04-06,the_study,All Day,Coffee & Tea,Americano,static
-2026-04-06,the_study,All Day,Coffee & Tea,Cappuccino,static
-2026-04-06,the_study,All Day,Coffee & Tea,Café Latte,static
-2026-04-06,the_study,All Day,Coffee & Tea,Caramel Latte,static
-2026-04-06,the_study,All Day,Coffee & Tea,Espresso,static
-2026-04-06,the_study,All Day,Coffee & Tea,Mocha Latte,static
-2026-04-06,the_study,All Day,Coffee & Tea,Vanilla Latte,static
-2026-04-06,the_study,All Day,Coffee & Tea,White Chocolate Latte,static
-2026-04-06,the_study,All Day,CAKES & TARTS,Oatmeal Raisin Cookie,static
-2026-04-06,the_study,All Day,CAKES & TARTS,Chocolate Chip Cookie,static
-2026-04-06,the_study,All Day,CAKES & TARTS,Fudgy Brownie,static
-2026-04-06,the_study,All Day,CAKES & TARTS,Passion Fruit Chocolate Tart,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Blackberry Fan,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Almond Croissant,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Chocolate Croissant,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Cinnamon Raisin Bagel,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Everything Cheese Bagel,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Everything Bagels,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Bacon Cheddar Chive Scone,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Eclair,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Triple Chocolate Mousse Verrine,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Island Chia Pudding,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Croissant,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Banana Walnut Muffin,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Blueberry Muffin,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Red Velvet Cake,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Strawberry Hibiscus Lemonade,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Mango Mint,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Cinnamon Apple Tea,static
-2026-04-06,the_study,All Day,PASTRIES & VERRINES,Hibiscus Water,static
-2026-04-06,the_study,All Day,Kombucha on Tap,Pink Lady Apple Kombucha,static
-2026-04-06,the_study,All Day,Kombucha on Tap,Pomegranate Kombucha,static
-2026-04-06,the_study,All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,static
-2026-04-06,the_study,All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,static
-2026-04-06,the_study,All Day,Kombucha on Tap,Build and Go Frozen Yogurt,static
-2026-04-06,the_study,All Day,Kombucha on Tap,Craft Your Own Salad,static
-2026-04-06,the_study,All Day,Kombucha on Tap,Craft Your Own Pizza,static
-2026-04-06,the_study,All Day,Market Entrées,Fresh Fruit Cup,static
-2026-04-06,the_study,All Day,Market Entrées,Vegan Muesli,static
-2026-04-06,the_study,All Day,Market Entrées,Bircher Muesli w/ Nuts,static
-2026-04-06,the_study,All Day,Market Entrées,Spiced Apple Caramel Parfait,static
-2026-04-06,the_study,All Day,Market Entrées,Blueberry Strudel Parfait,static
-2026-04-06,the_study,All Day,Market Entrées,Cheese & Cracker Protein Box,static
-2026-04-06,the_study,All Day,Market Entrées,Crudite Plate,static
-2026-04-06,the_study,All Day,Market Entrées,Apple & Peanut Butter Box,static
-2026-04-06,the_study,All Day,Market Entrées,Waffle with Caramel & Seasonal Fresh Fruit,static
-2026-04-06,the_study,All Day,Market Sandwiches,Peanut Butter & Strawberry Preserves Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Caprese Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Egg Salad Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Chicken Salad Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Ultimate BLT Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Roast Beef Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,The Study Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Ham & Swiss Croissant Sandwich,static
-2026-04-06,the_study,All Day,Market Sandwiches,Pesto Turkey Bacon Wrap,static
-2026-04-06,the_study,All Day,Market Sandwiches,Vegan Chicken Caesar Wrap,static
-2026-04-06,the_study,All Day,Market Salads,Chicken Caesar Salad,static
-2026-04-06,the_study,All Day,Market Salads,Tarragon Chicken Salad,static
-2026-04-06,the_study,All Day,Market Salads,Louie Shrimp & Avocado Salad,static
-2026-04-06,the_study,All Day,Market Salads,Cucumber Dill & Salmon Salad,static
-2026-04-06,the_study,All Day,Market Salads,Tuna Salad,static
-2026-04-06,the_study,All Day,Market Salads,Vegan Chicken Caesar Salad,static
-2026-04-06,the_study,All Day,Market Beverages,Standard Beverage,static
-2026-04-06,the_study,All Day,Market Beverages,Premium Beverage,static
-2026-04-06,the_study,All Day,Sides,Sea Salt Kettle Chips,static
-2026-04-06,the_study,All Day,Sides,BBQ Kettle Chips,static
-2026-04-06,the_study,All Day,Sides,Smartfood White Cheddar Popcorn,static
-2026-04-06,the_study,All Day,Sides,Apple,static
-2026-04-06,the_study,All Day,Sides,Banana,static
-2026-04-06,the_study,All Day,Sides,Oranges,static
-2026-04-06,the_study,All Day,Sides,Orange Juice,static
-2026-04-06,the_study,All Day,Sides,Apple Juice,static
-2026-04-06,the_study,All Day,Sides,Lowfat Milk,static
-2026-04-06,the_study,All Day,Sides,Chocolate Milk,static
-2026-04-06,the_study,All Day,Sides,Nonfat Milk,static
-2026-04-06,the_study,All Day,Sides,Soy Milk,static
-2026-04-06,the_study,All Day,Sides,Assorted Cereal Cups,static
+2026-04-07,bruin_cafe,Extended Dinner,Bruin Waffle Plate,Bruin Waffle Plate,static
+2026-04-07,bruin_cafe,Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,static
+2026-04-07,bruin_cafe,Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,static
+2026-04-07,bruin_cafe,Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,static
+2026-04-07,bruin_cafe,Extended Dinner,Oatmeal,Oatmeal,static
+2026-04-07,bruin_cafe,Extended Dinner,Instant Oatmeal - Baked Apple,Instant Oatmeal - Baked Apple,static
+2026-04-07,bruin_cafe,Extended Dinner,Multi Grain Cheerios,Multi Grain Cheerios,static
+2026-04-07,bruin_cafe,Extended Dinner,Cheerios Cereal,Cheerios Cereal,static
+2026-04-07,bruin_cafe,Extended Dinner,Honey Nut Cheerios Cereal,Honey Nut Cheerios Cereal,static
+2026-04-07,bruin_cafe,Extended Dinner,Lucky Charms Cereal,Lucky Charms Cereal,static
+2026-04-07,bruin_cafe,Extended Dinner,Cinnamon Toast Crunch Cereal,Cinnamon Toast Crunch Cereal,static
+2026-04-07,bruin_cafe,Extended Dinner,Cocoa Puffs,Cocoa Puffs,static
+2026-04-07,bruin_cafe,Extended Dinner,Trix Cereal,Trix Cereal,static
+2026-04-07,bruin_cafe,Extended Dinner,Rice Chex Cereal,Rice Chex Cereal,static
+2026-04-07,bruin_cafe,Extended Dinner,Chili Hot Dog,Chili Hot Dog,static
+2026-04-07,bruin_cafe,Extended Dinner,Korean Style Hot Dog,Korean Style Hot Dog,static
+2026-04-07,bruin_cafe,Extended Dinner,Mexican Style Hot Dog,Mexican Style Hot Dog,static
+2026-04-07,bruin_cafe,Extended Dinner,Wedge Cut Fries,Wedge Cut Fries,static
+2026-04-07,bruin_cafe,Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,BBQ Beef Brisket Sandwich,BBQ Beef Brisket Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Ranch & Swiss Sandwich,Chicken Ranch & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,The Cuban Sandwich,The Cuban Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chipotle BBQ Turkey Sandwich,Chipotle BBQ Turkey Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Caesar Sandwich,Chicken Caesar Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Roasted Salmon Sandwich,Roasted Salmon Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Pastrami & Swiss Sandwich,Pastrami & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Pesto Sandwich,Chicken Pesto Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Buffalo Chicken Sandwich,Buffalo Chicken Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Cheesesteak,Cheesesteak,static
+2026-04-07,bruin_cafe,Extended Dinner,Vegan Chicken Caesar Sandwich,Vegan Chicken Caesar Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chipotle BBQ Sandwich,Chipotle BBQ Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Havana Press Sandwich,Havana Press Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,"Roasted Garden ""Salmon"" Sandwich","Roasted Garden ""Salmon"" Sandwich",static
+2026-04-07,bruin_cafe,Extended Dinner,Vegetarian Chicken Ranch & Swiss Sandwich,Vegetarian Chicken Ranch & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Vegetarian Pastrami & Swiss Sandwich,Vegetarian Pastrami & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Vegetarian Ham & Swiss Sandwich,Vegetarian Ham & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Parmesan Sandwich,Chicken Parmesan Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Mixed Green Salad,Mixed Green Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Caesar Salad,Caesar Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Chopped Mediterranean Salad,Chopped Mediterranean Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Noodle Soup,Chicken Noodle Soup,static
+2026-04-07,bruin_cafe,Extended Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,static
+2026-04-07,bruin_cafe,Extended Dinner,Peanut Butter & Strawberry Preserves Sandwich,Peanut Butter & Strawberry Preserves Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Avocado BLT Sandwich,Avocado BLT Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Tuna Salad Croissant Sandwich,Tuna Salad Croissant Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Turkey & Provolone Sandwich,Turkey & Provolone Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Italian Sandwich,Italian Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Gluten Free Turkey & Provolone Sandwich,Gluten Free Turkey & Provolone Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Gluten Free Italian Sandwich,Gluten Free Italian Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Gluten Free Avocado BLT Sandwich,Gluten Free Avocado BLT Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,1/2 Turkey & Provolone Sandwich,1/2 Turkey & Provolone Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,1/2 Ham & Swiss Sandwich,1/2 Ham & Swiss Sandwich,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Caesar Salad,Chicken Caesar Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Caesar Salad,Caesar Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Asian Chicken Salad,Asian Chicken Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Nut Free Asian Wonton Salad,Nut Free Asian Wonton Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,BBQ Chicken Salad,BBQ Chicken Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Mixed Green Salad,Mixed Green Salad,static
+2026-04-07,bruin_cafe,Extended Dinner,Forbidden Rice Grain Bowl with Shrimp,Forbidden Rice Grain Bowl with Shrimp,static
+2026-04-07,bruin_cafe,Extended Dinner,Quinoa Grain Bowl with Chicken,Quinoa Grain Bowl with Chicken,static
+2026-04-07,bruin_cafe,Extended Dinner,Peanut Butter and Egg Protein Box,Peanut Butter and Egg Protein Box,static
+2026-04-07,bruin_cafe,Extended Dinner,Crudite Box,Crudite Box,static
+2026-04-07,bruin_cafe,Extended Dinner,Caesar Wrap,Caesar Wrap,static
+2026-04-07,bruin_cafe,Extended Dinner,Chicken Caesar Wrap,Chicken Caesar Wrap,static
+2026-04-07,bruin_cafe,Extended Dinner,Roasted Vegetable & Ricotta Cheese Wrap,Roasted Vegetable & Ricotta Cheese Wrap,static
+2026-04-07,bruin_cafe,Extended Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,static
+2026-04-07,bruin_cafe,Extended Dinner,Ranch Dressing,Ranch Dressing,static
+2026-04-07,bruin_cafe,Extended Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,static
+2026-04-07,bruin_cafe,Extended Dinner,Red Wine Vinaigrette,Red Wine Vinaigrette,static
+2026-04-07,bruin_cafe,Extended Dinner,Asian Salad Dressing,Asian Salad Dressing,static
+2026-04-07,bruin_cafe,Extended Dinner,Dole Whip Bowl,Dole Whip Bowl,static
+2026-04-07,bruin_cafe,Extended Dinner,Strawberry Sensation Smoothie,Strawberry Sensation Smoothie,static
+2026-04-07,bruin_cafe,Extended Dinner,Mango Madness Smoothie,Mango Madness Smoothie,static
+2026-04-07,bruin_cafe,Extended Dinner,Caribbean Island Smoothie,Caribbean Island Smoothie,static
+2026-04-07,bruin_cafe,Extended Dinner,Bruin Fresh Smoothie,Bruin Fresh Smoothie,static
+2026-04-07,bruin_cafe,Extended Dinner,Smoothie #15: Chocolate Banana,Smoothie #15: Chocolate Banana,static
+2026-04-07,bruin_cafe,Extended Dinner,Smoothie #06: Alooooha,Smoothie #06: Alooooha,static
+2026-04-07,bruin_cafe,Extended Dinner,Café Latte,Café Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Vanilla Latte,Vanilla Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Mocha Latte,Mocha Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Caramel Latte,Caramel Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Chai Tea Latte,Chai Tea Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Brewed Coffee,Brewed Coffee,static
+2026-04-07,bruin_cafe,Extended Dinner,Espresso,Espresso,static
+2026-04-07,bruin_cafe,Extended Dinner,Café Caramel,Café Caramel,static
+2026-04-07,bruin_cafe,Extended Dinner,Café Mocha,Café Mocha,static
+2026-04-07,bruin_cafe,Extended Dinner,Café Vanilla,Café Vanilla,static
+2026-04-07,bruin_cafe,Extended Dinner,Brewed Tea,Brewed Tea,static
+2026-04-07,bruin_cafe,Extended Dinner,White Chocolate Latte,White Chocolate Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Cappuccino,Cappuccino,static
+2026-04-07,bruin_cafe,Extended Dinner,Hot Chocolate,Hot Chocolate,static
+2026-04-07,bruin_cafe,Extended Dinner,Hot Vanilla,Hot Vanilla,static
+2026-04-07,bruin_cafe,Extended Dinner,Horchata Latte,Horchata Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Tea Latte,Tea Latte,static
+2026-04-07,bruin_cafe,Extended Dinner,Americano,Americano,static
+2026-04-07,bruin_cafe,Extended Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,static
+2026-04-07,bruin_cafe,Extended Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,static
+2026-04-07,bruin_cafe,Extended Dinner,Chocolate Croissant,Chocolate Croissant,static
+2026-04-07,bruin_cafe,Extended Dinner,Butter Croissant,Butter Croissant,static
+2026-04-07,bruin_cafe,Extended Dinner,Apple Turnover,Apple Turnover,static
+2026-04-07,bruin_cafe,Extended Dinner,Cheese Danish,Cheese Danish,static
+2026-04-07,bruin_cafe,Extended Dinner,Funfetti Butter Cream Cupcake,Funfetti Butter Cream Cupcake,static
+2026-04-07,bruin_cafe,Extended Dinner,Red Velvet Cake,Red Velvet Cake,static
+2026-04-07,bruin_cafe,Extended Dinner,Banana Walnut Muffin,Banana Walnut Muffin,static
+2026-04-07,bruin_cafe,Extended Dinner,Mocha Muffin,Mocha Muffin,static
+2026-04-07,bruin_cafe,Extended Dinner,Blueberry Muffin,Blueberry Muffin,static
+2026-04-07,bruin_cafe,Extended Dinner,Mango Chia Pudding with Yogurt Mousse,Mango Chia Pudding with Yogurt Mousse,static
+2026-04-07,bruin_cafe,Extended Dinner,Eclair,Eclair,static
+2026-04-07,bruin_cafe,Extended Dinner,White Chocolate Strawberry Tart,White Chocolate Strawberry Tart,static
+2026-04-07,bruin_cafe,Extended Dinner,Cinnamon Roll with Cream Cheese,Cinnamon Roll with Cream Cheese,static
+2026-04-07,bruin_cafe,Extended Dinner,Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,static
+2026-04-07,bruin_cafe,Extended Dinner,Plain Bagel,Plain Bagel,static
+2026-04-07,bruin_cafe,Extended Dinner,Onion Bagel,Onion Bagel,static
+2026-04-07,bruin_cafe,Extended Dinner,Everything Bagels,Everything Bagels,static
+2026-04-07,bruin_cafe,Extended Dinner,Whole Wheat Bagel,Whole Wheat Bagel,static
+2026-04-07,bruin_cafe,Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,static
+2026-04-07,bruin_cafe,Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,static
+2026-04-07,bruin_cafe,Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,static
+2026-04-07,bruin_cafe,Extended Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,static
+2026-04-07,bruin_cafe,Extended Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,static
+2026-04-07,bruin_cafe,Extended Dinner,Banana,Banana,static
+2026-04-07,bruin_cafe,Extended Dinner,Fuji Apple,Fuji Apple,static
+2026-04-07,bruin_cafe,Extended Dinner,Granny Smith Apple,Granny Smith Apple,static
+2026-04-07,bruin_cafe,Extended Dinner,Oranges,Oranges,static
+2026-04-07,bruin_cafe,Extended Dinner,BBQ Kettle Chips,BBQ Kettle Chips,static
+2026-04-07,bruin_cafe,Extended Dinner,Sea Salt Kettle Chips,Sea Salt Kettle Chips,static
+2026-04-07,bruin_cafe,Extended Dinner,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,static
+2026-04-07,bruin_cafe,Extended Dinner,Original Lays Baked Chips,Original Lays Baked Chips,static
+2026-04-07,bruin_cafe,Extended Dinner,Jalapeno Kettle Chips,Jalapeno Kettle Chips,static
+2026-04-07,bruin_plate,Breakfast,Freshly Bowled,"Tri-Tip, Cardamom Brown Rice, & Poached Egg Bowl",rotating
+2026-04-07,bruin_plate,Breakfast,Harvest,"Egg, Spicy White Bean Spread, & Avocado on English Muffin",rotating
+2026-04-07,bruin_plate,Breakfast,Harvest,Scrambled Eggs,rotating
+2026-04-07,bruin_plate,Breakfast,Harvest,Scrambled Egg Whites,rotating
+2026-04-07,bruin_plate,Breakfast,Harvest,Vegan Scrambled Eggs,rotating
+2026-04-07,bruin_plate,Breakfast,Harvest,Roasted Red Breakfast Potato Wedges,rotating
+2026-04-07,bruin_plate,Breakfast,Harvest,Turkey Bacon,rotating
+2026-04-07,bruin_plate,Breakfast,Stone Fired,Four Grain Waffles,rotating
+2026-04-07,bruin_plate,Breakfast,Stone Fired,Mango Blueberry Compote,rotating
+2026-04-07,bruin_plate,Breakfast,Stone Fired,Waffle,rotating
+2026-04-07,bruin_plate,Breakfast,Simply Grilled,Tri-Color Quinoa Pancake w/ Blueberries,rotating
+2026-04-07,bruin_plate,Breakfast,Simply Grilled,Vegan Pancake,rotating
+2026-04-07,bruin_plate,Breakfast,Fruit,Cantaloupe,rotating
+2026-04-07,bruin_plate,Breakfast,Fruit,Grapefruit,rotating
+2026-04-07,bruin_plate,Breakfast,Fruit,Green Grapes,rotating
+2026-04-07,bruin_plate,Breakfast,Fruit,Red Grapes,rotating
+2026-04-07,bruin_plate,Breakfast,Fruit,Pineapple,rotating
+2026-04-07,bruin_plate,Breakfast,Fruit,Watermelon,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Multi-Grain Bread,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Raisin Walnut Bread,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Whole Wheat Sourdough Bread,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Boston Brown Quickbread,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Cranberry Orange Quickbread,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Almond Cashew Butter,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Mango Blueberry Compote,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Peanut Butter,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Cacao Butter,rotating
+2026-04-07,bruin_plate,Breakfast,Beverage Special,Strawberry Basil Water,rotating
+2026-04-07,bruin_plate,Breakfast,Cereal / Oatmeal,Oatmeal,rotating
+2026-04-07,bruin_plate,Breakfast,Cereal / Oatmeal,White Polenta,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Kale & Banana Smoothie,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Peanut Butter & Oat Smoothie,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Tropical Tofu Smoothie,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Chocolate Granola & Strawberry Parfait,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,"Granola, Oatmeal, & Apple Parfait",rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,"Berry, Pineapple, & Toasted Quinoa Parfait",rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,Turkey Bacon Cheddar Chive Scone,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,BYO Green Tea Frozen Yogurt,rotating
+2026-04-07,bruin_plate,Breakfast,Sweet Bites,BYO Green Tea Greek Yogurt,rotating
+2026-04-07,bruin_plate,Lunch,Soups,Chicken Tortilla Soup,rotating
+2026-04-07,bruin_plate,Lunch,Soups,Potato Leek Soup,rotating
+2026-04-07,bruin_plate,Lunch,Soups,Beef & Barley Soup,rotating
+2026-04-07,bruin_plate,Lunch,Soups,Soup Vegetarian Special,rotating
+2026-04-07,bruin_plate,Lunch,Freshly Bowled,"Cajun Tofu, Polenta, & Spinach Bowl",rotating
+2026-04-07,bruin_plate,Lunch,Freshly Bowled,"Calypso Bean, Shell Pasta, & Arugula Sauté",rotating
+2026-04-07,bruin_plate,Lunch,Harvest,Chipotle Beef Taco w/ Curtido,rotating
+2026-04-07,bruin_plate,Lunch,Harvest,Tomatillo Salsa,rotating
+2026-04-07,bruin_plate,Lunch,Harvest,Tri-Color Quinoa & Greens Taco,rotating
+2026-04-07,bruin_plate,Lunch,Farmstand,Frijoles de la Olla,rotating
+2026-04-07,bruin_plate,Lunch,Farmstand,Brown Calrose Rice,rotating
+2026-04-07,bruin_plate,Lunch,Farmstand,"Mixed Grains -- Lentil, Chickpea, Quinoa & Brown Rice",rotating
+2026-04-07,bruin_plate,Lunch,Farmstand,Roasted Summer Squash w/ Caramelized Onions,rotating
+2026-04-07,bruin_plate,Lunch,Farmstand,Sauteed Bok Choy,rotating
+2026-04-07,bruin_plate,Lunch,Stone Fired,"Chicken, Arugula, & Radish Flatbread",rotating
+2026-04-07,bruin_plate,Lunch,Stone Fired,BBQ Tofu Flatbread,rotating
+2026-04-07,bruin_plate,Lunch,Simply Grilled,Banh Mi Turkey Slider,rotating
+2026-04-07,bruin_plate,Lunch,Simply Grilled,Grilled Dijon Chicken Thigh,rotating
+2026-04-07,bruin_plate,Lunch,Simply Grilled,Black Bean & Brown Rice Stacker,rotating
+2026-04-07,bruin_plate,Lunch,Simply Grilled,Baked Yukon Gold Potato,rotating
+2026-04-07,bruin_plate,Lunch,Fruit,Cantaloupe,rotating
+2026-04-07,bruin_plate,Lunch,Fruit,Green Grapes,rotating
+2026-04-07,bruin_plate,Lunch,Fruit,Red Grapes,rotating
+2026-04-07,bruin_plate,Lunch,Fruit,Pineapple,rotating
+2026-04-07,bruin_plate,Lunch,Fruit,Watermelon,rotating
+2026-04-07,bruin_plate,Lunch,Fruit,Strawberries,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Multi-Grain Bread,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Raisin Walnut Bread,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Whole Wheat Sourdough Bread,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Zucchini Chocolate Bar,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Boston Brown Quickbread,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Cranberry Orange Quickbread,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Mango Blueberry Compote,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Almond Butter,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Citrus Marmalade,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Peanut Butter,rotating
+2026-04-07,bruin_plate,Lunch,Sweet Bites,Cacao Butter,rotating
+2026-04-07,bruin_plate,Lunch,Beverage Special,Strawberry Basil Water,rotating
+2026-04-07,bruin_plate,Lunch,Beverage Special,Apple Spritzer,rotating
+2026-04-07,bruin_plate,Lunch,Beverage Special,Cranberry Spritzer,rotating
+2026-04-07,bruin_plate,Lunch,Beverage Special,Orange Spritzer,rotating
+2026-04-07,bruin_plate,Dinner,Soups,Chicken Tortilla Soup,rotating
+2026-04-07,bruin_plate,Dinner,Soups,Potato Leek Soup,rotating
+2026-04-07,bruin_plate,Dinner,Freshly Bowled,Savory Picadillo Bowl,rotating
+2026-04-07,bruin_plate,Dinner,Freshly Bowled,Italian Style Seitan w/ Spinach & Whole Wheat Penne,rotating
+2026-04-07,bruin_plate,Dinner,Harvest,Red Chile Chicken Wings,rotating
+2026-04-07,bruin_plate,Dinner,Harvest,Volcano Rice & Red Beans,rotating
+2026-04-07,bruin_plate,Dinner,Harvest,Yogurt Ranch Dressing,rotating
+2026-04-07,bruin_plate,Dinner,Harvest,Seitan Stuffed Zucchini,rotating
+2026-04-07,bruin_plate,Dinner,Harvest,Matzo Ball Soup,rotating
+2026-04-07,bruin_plate,Dinner,Harvest,Matzo Crackers,rotating
+2026-04-07,bruin_plate,Dinner,Farmstand,Frijoles de la Olla,rotating
+2026-04-07,bruin_plate,Dinner,Farmstand,Brown Basmati Rice,rotating
+2026-04-07,bruin_plate,Dinner,Farmstand,Edamame Beans,rotating
+2026-04-07,bruin_plate,Dinner,Farmstand,Sautéed Spinach,rotating
+2026-04-07,bruin_plate,Dinner,Stone Fired,Spicy Pork Tortilla Pizza,rotating
+2026-04-07,bruin_plate,Dinner,Stone Fired,Kale Pesto Summer Squash Parmesan Flatbread,rotating
+2026-04-07,bruin_plate,Dinner,Simply Grilled,Grilled Santa Maria Tri-Tip,rotating
+2026-04-07,bruin_plate,Dinner,Simply Grilled,Housemade Steak Sauce,rotating
+2026-04-07,bruin_plate,Dinner,Simply Grilled,Grilled Ginger Miso Tofu,rotating
+2026-04-07,bruin_plate,Dinner,Simply Grilled,Yukon Gold Potato Wedges,rotating
+2026-04-07,bruin_plate,Dinner,Fruit,Cantaloupe,rotating
+2026-04-07,bruin_plate,Dinner,Fruit,Green Grapes,rotating
+2026-04-07,bruin_plate,Dinner,Fruit,Red Grapes,rotating
+2026-04-07,bruin_plate,Dinner,Fruit,Pineapple,rotating
+2026-04-07,bruin_plate,Dinner,Fruit,Watermelon,rotating
+2026-04-07,bruin_plate,Dinner,Fruit,Strawberries,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Multi-Grain Bread,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Raisin Walnut Bread,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Whole Wheat Sourdough Bread,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Zucchini Chocolate Bar,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Boston Brown Quickbread,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Cranberry Orange Quickbread,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Chocolate Budino w/ Basil Seed Caviar,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Almond Cashew Butter,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Mango Blueberry Compote,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Peanut Butter,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Cacao Butter,rotating
+2026-04-07,bruin_plate,Dinner,Sweet Bites,Citrus Marmalade,rotating
+2026-04-07,bruin_plate,Dinner,Beverage Special,Pineapple Water,rotating
+2026-04-07,bruin_plate,Dinner,Beverage Special,Apple Spritzer,rotating
+2026-04-07,bruin_plate,Dinner,Beverage Special,Cranberry Spritzer,rotating
+2026-04-07,bruin_plate,Dinner,Beverage Special,Orange Spritzer,rotating
+2026-04-07,cafe_1919,Lunch / Dinner,Mon - Monte Bianco,Mon - Monte Bianco,static
+2026-04-07,cafe_1919,Lunch / Dinner,Caesar,Caesar,static
+2026-04-07,cafe_1919,Lunch / Dinner,Chicken Caesar,Chicken Caesar,static
+2026-04-07,cafe_1919,Lunch / Dinner,Gamberetti,Gamberetti,static
+2026-04-07,cafe_1919,Lunch / Dinner,Mediterranean Salad,Mediterranean Salad,static
+2026-04-07,cafe_1919,Lunch / Dinner,Insalata Di Salmone,Insalata Di Salmone,static
+2026-04-07,cafe_1919,Lunch / Dinner,Pollo Verdura,Pollo Verdura,static
+2026-04-07,cafe_1919,Lunch / Dinner,Tuscan Tagliata Salad,Tuscan Tagliata Salad,static
+2026-04-07,cafe_1919,Lunch / Dinner,Heirloom Tomato Caprese,Heirloom Tomato Caprese,static
+2026-04-07,cafe_1919,Lunch / Dinner,Campania,Campania,static
+2026-04-07,cafe_1919,Lunch / Dinner,Tacchino,Tacchino,static
+2026-04-07,cafe_1919,Lunch / Dinner,Pollo Parma,Pollo Parma,static
+2026-04-07,cafe_1919,Lunch / Dinner,Florentino,Florentino,static
+2026-04-07,cafe_1919,Lunch / Dinner,Sundried Tomato & Goat Cheese,Sundried Tomato & Goat Cheese,static
+2026-04-07,cafe_1919,Lunch / Dinner,Formaggi,Formaggi,static
+2026-04-07,cafe_1919,Lunch / Dinner,Genova,Genova,static
+2026-04-07,cafe_1919,Lunch / Dinner,Carnivora,Carnivora,static
+2026-04-07,cafe_1919,Lunch / Dinner,Margherita,Margherita,static
+2026-04-07,cafe_1919,Lunch / Dinner,Pepperoni,Pepperoni,static
+2026-04-07,cafe_1919,Lunch / Dinner,Tiramisu,Tiramisu,static
+2026-04-07,cafe_1919,Lunch / Dinner,Cheese Cake with Macerate Berries,Cheese Cake with Macerate Berries,static
+2026-04-07,cafe_1919,Lunch / Dinner,Ranch Dressing,Ranch Dressing,static
+2026-04-07,cafe_1919,Lunch / Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,static
+2026-04-07,cafe_1919,Lunch / Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,static
+2026-04-07,cafe_1919,Lunch / Dinner,Red Wine Vinaigrette,Red Wine Vinaigrette,static
+2026-04-07,cafe_1919,Lunch / Dinner,Salted,Salted,static
+2026-04-07,cafe_1919,Lunch / Dinner,Jalapeno,Jalapeno,static
+2026-04-07,cafe_1919,Lunch / Dinner,Pepperoni,Pepperoni,static
+2026-04-07,cafe_1919,Lunch / Dinner,Marinara Sauce,Marinara Sauce,static
+2026-04-07,cafe_1919,Lunch / Dinner,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,static
+2026-04-07,cafe_1919,Lunch / Dinner,Vanilla Bean,Vanilla Bean,static
+2026-04-07,cafe_1919,Lunch / Dinner,Purple Yam Ube,Purple Yam Ube,static
+2026-04-07,cafe_1919,Lunch / Dinner,Caramel Sea Salt,Caramel Sea Salt,static
+2026-04-07,cafe_1919,Lunch / Dinner,Chocolate Chip Coffee,Chocolate Chip Coffee,static
+2026-04-07,cafe_1919,Lunch / Dinner,Cookies and Cream,Cookies and Cream,static
+2026-04-07,cafe_1919,Lunch / Dinner,Dark Chocolate,Dark Chocolate,static
+2026-04-07,cafe_1919,Lunch / Dinner,Mint Chocolate Chip,Mint Chocolate Chip,static
+2026-04-07,cafe_1919,Lunch / Dinner,Spumoni,Spumoni,static
+2026-04-07,cafe_1919,Lunch / Dinner,Strawberry Cheesecake,Strawberry Cheesecake,static
+2026-04-07,cafe_1919,Lunch / Dinner,Banana Dulce de Leche,Banana Dulce de Leche,static
+2026-04-07,cafe_1919,Lunch / Dinner,Birthday Cake,Birthday Cake,static
+2026-04-07,cafe_1919,Lunch / Dinner,Peanut Butter Cup,Peanut Butter Cup,static
+2026-04-07,cafe_1919,Lunch / Dinner,Pistachio,Pistachio,static
+2026-04-07,cafe_1919,Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,static
+2026-04-07,cafe_1919,Lunch / Dinner,Strawberry Pan Sorbet,Strawberry Pan Sorbet,static
+2026-04-07,cafe_1919,Lunch / Dinner,Alphonso Mango Sorbet,Alphonso Mango Sorbet,static
+2026-04-07,cafe_1919,Lunch / Dinner,Coconut Flakes,Coconut Flakes,static
+2026-04-07,cafe_1919,Lunch / Dinner,Dried Cranberry,Dried Cranberry,static
+2026-04-07,cafe_1919,Lunch / Dinner,Semi Sweet Chocolate Chips,Semi Sweet Chocolate Chips,static
+2026-04-07,cafe_1919,Lunch / Dinner,Oreo Cookie Pieces,Oreo Cookie Pieces,static
+2026-04-07,cafe_1919,Lunch / Dinner,M&M Milk Chocolate Chopped,M&M Milk Chocolate Chopped,static
+2026-04-07,cafe_1919,Lunch / Dinner,Rainbow Sprinkles,Rainbow Sprinkles,static
+2026-04-07,cafe_1919,Lunch / Dinner,Dark Chocolate Sauce,Dark Chocolate Sauce,static
+2026-04-07,cafe_1919,Lunch / Dinner,Whipped Cream,Whipped Cream,static
+2026-04-07,cafe_1919,Lunch / Dinner,Maraschino Cherry,Maraschino Cherry,static
+2026-04-07,cafe_1919,Lunch / Dinner,Gummy Bears,Gummy Bears,static
+2026-04-07,cafe_1919,Lunch / Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,static
+2026-04-07,cafe_1919,Lunch / Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,static
+2026-04-07,cafe_1919,Lunch / Dinner,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,static
+2026-04-07,cafe_1919,Lunch / Dinner,Jalapeno Kettle Chips,Jalapeno Kettle Chips,static
+2026-04-07,cafe_1919,Lunch / Dinner,Baked Lays Potato Chips,Baked Lays Potato Chips,static
+2026-04-07,cafe_1919,Lunch / Dinner,Sea Salt Kettle Chips,Sea Salt Kettle Chips,static
+2026-04-07,cafe_1919,Lunch / Dinner,BBQ Kettle Chips,BBQ Kettle Chips,static
+2026-04-07,cafe_1919,Lunch / Dinner,Banana,Banana,static
+2026-04-07,cafe_1919,Lunch / Dinner,Oranges,Oranges,static
+2026-04-07,cafe_1919,Lunch / Dinner,Fuji Apple,Fuji Apple,static
+2026-04-07,cafe_1919,Lunch / Dinner,Granny Smith Apple,Granny Smith Apple,static
+2026-04-07,de_neve,Breakfast,Bruin Scramble,Bruin Scramble,rotating
+2026-04-07,de_neve,Breakfast,Vegetarian Bruin Scramble,Vegetarian Bruin Scramble,rotating
+2026-04-07,de_neve,Breakfast,Potato O'Brien,Potato O'Brien,rotating
+2026-04-07,de_neve,Breakfast,Scrambled Eggs,Scrambled Eggs,rotating
+2026-04-07,de_neve,Breakfast,Bacon,Bacon,rotating
+2026-04-07,de_neve,Breakfast,Buttery Hash Browns,Buttery Hash Browns,rotating
+2026-04-07,de_neve,Breakfast,Fried Eggs,Fried Eggs,rotating
+2026-04-07,de_neve,Breakfast,Tomatillo Salsa,Tomatillo Salsa,rotating
+2026-04-07,de_neve,Breakfast,Belgian Waffles,Belgian Waffles,rotating
+2026-04-07,de_neve,Breakfast,Maple Flavored Syrup,Maple Flavored Syrup,rotating
+2026-04-07,de_neve,Breakfast,Bodega Egg & Bacon Roll,Bodega Egg & Bacon Roll,rotating
+2026-04-07,de_neve,Breakfast,Tater Tots,Tater Tots,rotating
+2026-04-07,de_neve,Breakfast,Egg Benedict Sandwich,Egg Benedict Sandwich,rotating
+2026-04-07,de_neve,Breakfast,Oatmeal,Oatmeal,rotating
+2026-04-07,de_neve,Breakfast,Cream of Rice Cereal,Cream of Rice Cereal,rotating
+2026-04-07,de_neve,Breakfast,Plain Bagel,Plain Bagel,rotating
+2026-04-07,de_neve,Breakfast,Everything Bagel,Everything Bagel,rotating
+2026-04-07,de_neve,Breakfast,Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,rotating
+2026-04-07,de_neve,Breakfast,Cream Cheese,Cream Cheese,rotating
+2026-04-07,de_neve,Breakfast,Chive Cream Cheese,Chive Cream Cheese,rotating
+2026-04-07,de_neve,Breakfast,Avocado Pulp,Avocado Pulp,rotating
+2026-04-07,de_neve,Breakfast,Black Forest Ham,Black Forest Ham,rotating
+2026-04-07,de_neve,Breakfast,Sliced Swiss Cheese,Sliced Swiss Cheese,rotating
+2026-04-07,de_neve,Breakfast,Sliced Tomatoes,Sliced Tomatoes,rotating
+2026-04-07,de_neve,Breakfast,Julienne Red Onion,Julienne Red Onion,rotating
+2026-04-07,de_neve,Breakfast,Capers,Capers,rotating
+2026-04-07,de_neve,Breakfast,Spinach,Spinach,rotating
+2026-04-07,de_neve,Breakfast,Cucumber,Cucumber,rotating
+2026-04-07,de_neve,Breakfast,Watermelon,Watermelon,rotating
+2026-04-07,de_neve,Breakfast,Pineapple,Pineapple,rotating
+2026-04-07,de_neve,Breakfast,Cantaloupe,Cantaloupe,rotating
+2026-04-07,de_neve,Breakfast,Apple Fritter,Apple Fritter,rotating
+2026-04-07,de_neve,Breakfast,Mini Croissant,Mini Croissant,rotating
+2026-04-07,de_neve,Breakfast,Mini Maple Pecan Danish,Mini Maple Pecan Danish,rotating
+2026-04-07,de_neve,Breakfast,Vegan Banana Quickbread,Vegan Banana Quickbread,rotating
+2026-04-07,de_neve,Lunch,Hawaiian Islands,Hawaiian Islands,rotating
+2026-04-07,de_neve,Lunch,Hawaiian Shrimp,Hawaiian Shrimp,rotating
+2026-04-07,de_neve,Lunch,Steamed Rice,Steamed Rice,rotating
+2026-04-07,de_neve,Lunch,Peppered Beyond Steak,Peppered Beyond Steak,rotating
+2026-04-07,de_neve,Lunch,Huli Huli Roasted Chicken,Huli Huli Roasted Chicken,rotating
+2026-04-07,de_neve,Lunch,Coconut Crusted Tofu,Coconut Crusted Tofu,rotating
+2026-04-07,de_neve,Lunch,Roasted Brussels Sprouts,Roasted Brussels Sprouts,rotating
+2026-04-07,de_neve,Lunch,Luau Pizza,Luau Pizza,rotating
+2026-04-07,de_neve,Lunch,Cheese Pizza,Cheese Pizza,rotating
+2026-04-07,de_neve,Lunch,Pepperoni Deluxe Pizza,Pepperoni Deluxe Pizza,rotating
+2026-04-07,de_neve,Lunch,Bruin Burger,Bruin Burger,rotating
+2026-04-07,de_neve,Lunch,Bruin Cheeseburger,Bruin Cheeseburger,rotating
+2026-04-07,de_neve,Lunch,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,rotating
+2026-04-07,de_neve,Lunch,Big Island Burger,Big Island Burger,rotating
+2026-04-07,de_neve,Lunch,Chicken Katsu Sandwich,Chicken Katsu Sandwich,rotating
+2026-04-07,de_neve,Lunch,Beyond Burger,Beyond Burger,rotating
+2026-04-07,de_neve,Lunch,Pineapple Marinated Chicken Thigh,Pineapple Marinated Chicken Thigh,rotating
+2026-04-07,de_neve,Lunch,Cilantro Rice,Cilantro Rice,rotating
+2026-04-07,de_neve,Lunch,Spicy Lentil,Spicy Lentil,rotating
+2026-04-07,de_neve,Lunch,Matzo Ball Soup,Matzo Ball Soup,rotating
+2026-04-07,de_neve,Lunch,Chicken Noodle Soup,Chicken Noodle Soup,rotating
+2026-04-07,de_neve,Lunch,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,rotating
+2026-04-07,de_neve,Lunch,Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,rotating
+2026-04-07,de_neve,Lunch,Roasted Cauliflower w/ Chile & Lime,Roasted Cauliflower w/ Chile & Lime,rotating
+2026-04-07,de_neve,Lunch,Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,rotating
+2026-04-07,de_neve,Lunch,Ranch Dressing,Ranch Dressing,rotating
+2026-04-07,de_neve,Lunch,Caesar Salad Dressing,Caesar Salad Dressing,rotating
+2026-04-07,de_neve,Lunch,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,rotating
+2026-04-07,de_neve,Lunch,Watermelon,Watermelon,rotating
+2026-04-07,de_neve,Lunch,Pineapple,Pineapple,rotating
+2026-04-07,de_neve,Lunch,Cantaloupe,Cantaloupe,rotating
+2026-04-07,de_neve,Lunch,White Cupcake,White Cupcake,rotating
+2026-04-07,de_neve,Lunch,White Chocolate Chip Cookie w/ Cranberries,White Chocolate Chip Cookie w/ Cranberries,rotating
+2026-04-07,de_neve,Lunch,Dutch Apple Pie,Dutch Apple Pie,rotating
+2026-04-07,de_neve,Lunch,Cranberry Crunch Bar,Cranberry Crunch Bar,rotating
+2026-04-07,de_neve,Lunch,Oreo Mousse,Oreo Mousse,rotating
+2026-04-07,de_neve,Lunch,Deep Dish Blackout Cake,Deep Dish Blackout Cake,rotating
+2026-04-07,de_neve,Lunch,Yogurt Bar Items,Yogurt Bar Items,rotating
+2026-04-07,de_neve,Dinner,Hawaiian Islands,Hawaiian Islands,rotating
+2026-04-07,de_neve,Dinner,Mahi Mahi Seared Fish,Mahi Mahi Seared Fish,rotating
+2026-04-07,de_neve,Dinner,Spicy Pineapple Salsa,Spicy Pineapple Salsa,rotating
+2026-04-07,de_neve,Dinner,Coconut Rice,Coconut Rice,rotating
+2026-04-07,de_neve,Dinner,Garlic Lemon Tofu,Garlic Lemon Tofu,rotating
+2026-04-07,de_neve,Dinner,Hawaiian Roasted Pork,Hawaiian Roasted Pork,rotating
+2026-04-07,de_neve,Dinner,Hawaiian Macaroni Salad,Hawaiian Macaroni Salad,rotating
+2026-04-07,de_neve,Dinner,Beyond Chicken Tenders,Beyond Chicken Tenders,rotating
+2026-04-07,de_neve,Dinner,Luau Pizza,Luau Pizza,rotating
+2026-04-07,de_neve,Dinner,Cheese Pizza,Cheese Pizza,rotating
+2026-04-07,de_neve,Dinner,Pepperoni Deluxe Pizza,Pepperoni Deluxe Pizza,rotating
+2026-04-07,de_neve,Dinner,Bruin Burger,Bruin Burger,rotating
+2026-04-07,de_neve,Dinner,Bruin Cheeseburger,Bruin Cheeseburger,rotating
+2026-04-07,de_neve,Dinner,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,rotating
+2026-04-07,de_neve,Dinner,Big Island Burger,Big Island Burger,rotating
+2026-04-07,de_neve,Dinner,Chicken Katsu Sandwich,Chicken Katsu Sandwich,rotating
+2026-04-07,de_neve,Dinner,Beyond Burger,Beyond Burger,rotating
+2026-04-07,de_neve,Dinner,Pineapple Marinated Chicken Thigh,Pineapple Marinated Chicken Thigh,rotating
+2026-04-07,de_neve,Dinner,Cilantro Rice,Cilantro Rice,rotating
+2026-04-07,de_neve,Dinner,Spicy Lentil,Spicy Lentil,rotating
+2026-04-07,de_neve,Dinner,Matzo Ball Soup,Matzo Ball Soup,rotating
+2026-04-07,de_neve,Dinner,Chicken Noodle Soup,Chicken Noodle Soup,rotating
+2026-04-07,de_neve,Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,rotating
+2026-04-07,de_neve,Dinner,Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,rotating
+2026-04-07,de_neve,Dinner,Roasted Cauliflower w/ Chile & Lime,Roasted Cauliflower w/ Chile & Lime,rotating
+2026-04-07,de_neve,Dinner,Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,rotating
+2026-04-07,de_neve,Dinner,Ranch Dressing,Ranch Dressing,rotating
+2026-04-07,de_neve,Dinner,Caesar Salad Dressing,Caesar Salad Dressing,rotating
+2026-04-07,de_neve,Dinner,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,rotating
+2026-04-07,de_neve,Dinner,Watermelon,Watermelon,rotating
+2026-04-07,de_neve,Dinner,Cantaloupe,Cantaloupe,rotating
+2026-04-07,de_neve,Dinner,Pineapple,Pineapple,rotating
+2026-04-07,de_neve,Dinner,White Cupcake,White Cupcake,rotating
+2026-04-07,de_neve,Dinner,White Chocolate Chip Cookie w/ Cranberries,White Chocolate Chip Cookie w/ Cranberries,rotating
+2026-04-07,de_neve,Dinner,Dutch Apple Pie,Dutch Apple Pie,rotating
+2026-04-07,de_neve,Dinner,Cranberry Crunch Bar,Cranberry Crunch Bar,rotating
+2026-04-07,de_neve,Dinner,Oreo Mousse,Oreo Mousse,rotating
+2026-04-07,de_neve,Dinner,Deep Dish Blackout Cake,Deep Dish Blackout Cake,rotating
+2026-04-07,de_neve,Dinner,Yogurt Bar Items,Yogurt Bar Items,rotating
+2026-04-07,de_neve,Dinner,Cheese Pizza,Cheese Pizza,rotating
+2026-04-07,de_neve,Dinner,Late Night Chicken Tenders Combo,Late Night Chicken Tenders Combo,rotating
+2026-04-07,de_neve,Dinner,Late Night Beyond Tenders Combo,Late Night Beyond Tenders Combo,rotating
+2026-04-07,de_neve,Dinner,Late Night Spicy Nashville Chicken Tenders Combo,Late Night Spicy Nashville Chicken Tenders Combo,rotating
+2026-04-07,de_neve,Dinner,Late Night Spicy Nashville Beyond Tenders Combo,Late Night Spicy Nashville Beyond Tenders Combo,rotating
+2026-04-07,epicuria_ackerman,All Day,SALADS,Caesar Salad,static
+2026-04-07,epicuria_ackerman,All Day,SALADS,Antipasto Salad,static
+2026-04-07,epicuria_ackerman,All Day,SALADS,Greek Salad,static
+2026-04-07,epicuria_ackerman,All Day,Salad Add-Ons,Grilled Chicken,static
+2026-04-07,epicuria_ackerman,All Day,Salad Add-Ons,Grilled Salmon,static
+2026-04-07,epicuria_ackerman,All Day,Salad Add-Ons,Roasted Seitan Skewer,static
+2026-04-07,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Margherita Pizza,static
+2026-04-07,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Pepperoni Pizza,static
+2026-04-07,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Asparagus Prosciutto Pizza,static
+2026-04-07,epicuria_ackerman,All Day,NEAPOLITAN PIZZAS,Mozzarella Pizza,static
+2026-04-07,epicuria_ackerman,All Day,"""L.A."" PIZZA PIES",Bacon Egg Saksuka Pizza Pie,static
+2026-04-07,epicuria_ackerman,All Day,"""L.A."" PIZZA PIES",Frutti Di Mare Pizza Pie,static
+2026-04-07,epicuria_ackerman,All Day,PASTAS,Spaghetti Pomodoro,static
+2026-04-07,epicuria_ackerman,All Day,PASTAS,Chicken Fettuccine,static
+2026-04-07,epicuria_ackerman,All Day,PASTAS,Ricotta Rosa Baked Pasta,static
+2026-04-07,epicuria_ackerman,All Day,PASTAS,Vegetarian Fettucine,static
+2026-04-07,epicuria_ackerman,All Day,PASTAS,Shrimp Spaghetti Fra Diavolo,static
+2026-04-07,epicuria_ackerman,All Day,SANDWICHES,Mozzarella Di Bufala Sandwich,static
+2026-04-07,epicuria_ackerman,All Day,SANDWICHES,Eggplant Parmesan Sandwich,static
+2026-04-07,epicuria_ackerman,All Day,SANDWICHES,Prosciutto Quattro Formaggio Sandwich,static
+2026-04-07,epicuria_ackerman,All Day,SANDWICHES,Chicken Gyro Sandwich,static
+2026-04-07,epicuria_ackerman,All Day,Sides,Oatmeal Raisin Cookie,static
+2026-04-07,epicuria_ackerman,All Day,Sides,Chocolate Chip Cookie,static
+2026-04-07,epicuria_ackerman,All Day,Sides,Fuji Apple,static
+2026-04-07,epicuria_ackerman,All Day,Sides,Oranges,static
+2026-04-07,epicuria_ackerman,All Day,Sides,Banana,static
+2026-04-07,epicuria_covel,Lunch,Psistaris,Grilled Chicken Pesto Sandwich,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Roasted Cauliflower Pita,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Spanish Seasoned Pomme Frites,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Greek Style Roasted Carrot & Pepper Saute,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Italian Broccoli & Cauliflower,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Greek Salad,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Moroccan Couscous Salad,rotating
+2026-04-07,epicuria_covel,Lunch,Psistaris,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,rotating
+2026-04-07,epicuria_covel,Lunch,Alimenti,Almond Crusted Shrimp w/ Polenta & Tomato Concasse,rotating
+2026-04-07,epicuria_covel,Lunch,Alimenti,Mediterranean Spinach Frittata,rotating
+2026-04-07,epicuria_covel,Lunch,Alimenti,Chicken Noodle Soup,rotating
+2026-04-07,epicuria_covel,Lunch,Alimenti,Creamy Tomato Basil Soup,rotating
+2026-04-07,epicuria_covel,Lunch,Alimenti,Matzo Ball Soup,rotating
+2026-04-07,epicuria_covel,Lunch,Dolce,Cappuccino Cookie,rotating
+2026-04-07,epicuria_covel,Lunch,Dolce,Old-Fashioned Oatmeal Raisin Cookie,rotating
+2026-04-07,epicuria_covel,Lunch,Dolce,Espresso Panna Cotta,rotating
+2026-04-07,epicuria_covel,Lunch,Dolce,Chocolate Ganache Cake,rotating
+2026-04-07,epicuria_covel,Lunch,Dolce,Apple Crumble Tart,rotating
+2026-04-07,epicuria_covel,Lunch,Dolce,Yogurt Bar,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Cilantro Lime Chicken,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Penne al Formaggio,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Pearled Couscous w/ Roasted Zucchini,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Lavash Chips,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Sun-Dried Tomato Pesto,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Garlic Oil,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Parsley Pesto,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Hummus,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Tzatziki,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Muhammara (Spicy Roasted Pepper Dip),rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Artichoke Spinach Dip,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Smoked Mozzarella Spread,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Morrocan Spicy Lentil Dip,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,"White Bean, Feta, & Za'atar Spread",rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Zhug,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Htipiti,rotating
+2026-04-07,epicuria_covel,Lunch,Mezze,Dolma,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Cheese Pizza,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Pepperoni Pizza,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Artichoke Cheese Pizza,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Caesar Salad,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Greek Salad,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Moroccan Couscous Salad,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Honey,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Banana Peppers,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Valbresco Feta Cheese,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Black Olives,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Gala Apple,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Granny Smith Apple,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Oranges,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Bananas,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Watermelon,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Clementine Tangerine,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Coffee,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Coffee Espresso,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Espresso Coffee Bean (Decaf),rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Coffee Rainforest,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Rainforest Coffee (Decaf),rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Apple Cinnamon Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Chamomile Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Earl Grey Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Mint Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Cranberry Apple Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,White Orange Spice Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Green Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Iced Blueberry Hibiscus Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Tropical Iced Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Lemon Tea,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Granulated Sugar,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Pizza Dough,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,White Hoagie Torpedo Roll,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Panini Roll,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Fluffy Potato Bun,rotating
+2026-04-07,epicuria_covel,Lunch,Capri Pizza,Focaccia,rotating
+2026-04-07,epicuria_covel,Dinner,Capri,Chicken Fettuccine Alfredo,rotating
+2026-04-07,epicuria_covel,Dinner,Capri,Fettuccine w/ Shiitake Mushroom,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Braised Pork Pita,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Grilled Tofu w/ Salsa Verde,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Greek Style Black-Eyed Pea Stew w/ Kale,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Italian Broccoli & Cauliflower,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Greek Style Roasted Carrot & Pepper Saute,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Greek Salad,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Moroccan Couscous Salad,rotating
+2026-04-07,epicuria_covel,Dinner,Psistaris,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,rotating
+2026-04-07,epicuria_covel,Dinner,Alimenti,Persian Style Tri Tip,rotating
+2026-04-07,epicuria_covel,Dinner,Alimenti,Red Roasted Potatoes,rotating
+2026-04-07,epicuria_covel,Dinner,Alimenti,Polenta Panzanella Salad,rotating
+2026-04-07,epicuria_covel,Dinner,Alimenti,Chicken Noodle Soup,rotating
+2026-04-07,epicuria_covel,Dinner,Alimenti,Creamy Tomato Basil Soup,rotating
+2026-04-07,epicuria_covel,Dinner,Dolce,Cappuccino Cookie,rotating
+2026-04-07,epicuria_covel,Dinner,Dolce,Old-Fashioned Oatmeal Raisin Cookie,rotating
+2026-04-07,epicuria_covel,Dinner,Dolce,Espresso Panna Cotta,rotating
+2026-04-07,epicuria_covel,Dinner,Dolce,Chocolate Ganache Cake,rotating
+2026-04-07,epicuria_covel,Dinner,Dolce,Apple Crumble Tart,rotating
+2026-04-07,epicuria_covel,Dinner,Dolce,Yogurt Bar,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Focaccia,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Lavash Chips,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Sun-Dried Tomato Pesto,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Parsley Pesto,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Garlic Oil,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Paprika Garlic Spread,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Hummus,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Tzatziki,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Muhammara (Spicy Roasted Pepper Dip),rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Artichoke Spinach Dip,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Smoked Mozzarella Spread,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Zhug,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Morrocan Spicy Lentil Dip,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,"White Bean, Feta, & Za'atar Spread",rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Garlic Lebneh,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Htipiti,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Cauliflower Skordalia Spread,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Fava Bean Dip with Dill,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Tunisian Vegetable Dip,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Marinated Red Grape Tomatoes,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Pitted Kalamata Olives,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Pickled Vegetables,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Dolma,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Grated Parmesan Cheese,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Lentils & Rice,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Pearled Couscous w/ Roasted Zucchini,rotating
+2026-04-07,epicuria_covel,Dinner,Mezze,Harissa Chicken Wings,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Cheese Pizza,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Pepperoni Pizza,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Shrimp Alfredo Pizza,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Caesar Salad,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Greek Salad,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Moroccan Couscous Salad,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Pizza Dough,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,White Hoagie Torpedo Roll,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Panini Roll,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Fluffy Potato Bun,rotating
+2026-04-07,epicuria_covel,Dinner,Capri Pizza,Focaccia,rotating
+2026-04-07,feast,Dinner,Sweets Station,General Tsao's Chicken,static
+2026-04-07,feast,Dinner,Sweets Station,Eggplant Stir Fry,static
+2026-04-07,feast,Dinner,Sweets Station,Jasmine Rice,static
+2026-04-07,feast,Dinner,Spice Kitchen,California Sushi Bowl,static
+2026-04-07,feast,Dinner,Spice Kitchen,Seaweed Salad Bowl,static
+2026-04-07,feast,Dinner,Stone Oven,Huo Guo Hot Pot,static
+2026-04-07,feast,Dinner,Stone Oven,Vegetable Hot Pot,static
+2026-04-07,feast,Dinner,Stone Oven,Sliced Ribeye,static
+2026-04-07,feast,Dinner,Stone Oven,Diced Tofu,static
+2026-04-07,feast,Dinner,Iron Grill,Kurobuta Sausage Hot Dog,static
+2026-04-07,feast,Dinner,Iron Grill,Ao Nori Fries,static
+2026-04-07,feast,Dinner,Iron Grill,Grilled Lemongrass Chili Chicken,static
+2026-04-07,feast,Dinner,Sweets Station,Honey Sponge Cake,static
+2026-04-07,feast,Dinner,Sweets Station,Green Tea Mousse,static
+2026-04-07,feast,Dinner,Sweets Station,Fudge Brownie,static
+2026-04-07,feast,Dinner,Sweets Station,Classic Chocolate Chip Cookie,static
+2026-04-07,feast,Dinner,Sweets Station,Tonjiru (Japanese Pork & Vegetable Soup),static
+2026-04-07,feast,Dinner,Sweets Station,Egg Drop Soup,static
+2026-04-07,feast,Dinner,Sweets Station,Asian Stir Fry,static
+2026-04-07,feast,Dinner,Sweets Station,Brown Calrose Rice,static
+2026-04-07,feast,Dinner,Sweets Station,Sticky Rice,static
+2026-04-07,feast,Dinner,Sweets Station,Salad Bar,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Chimichanga Steak,static
+2026-04-07,rendezvous,All Day,SUSHI BOWLS,Build-Your-Own Poke Bowl,static
+2026-04-07,rendezvous,All Day,Base,Brown Rice,static
+2026-04-07,rendezvous,All Day,Base,Sticky Rice,static
+2026-04-07,rendezvous,All Day,Base,Kimchi Fried Rice,static
+2026-04-07,rendezvous,All Day,Base,Vegetarian Japchae,static
+2026-04-07,rendezvous,All Day,Entrée,Bulgogi Korean Beef,static
+2026-04-07,rendezvous,All Day,Entrée,Pork Riblets,static
+2026-04-07,rendezvous,All Day,Entrée,Honey Gochujang Chicken,static
+2026-04-07,rendezvous,All Day,Entrée,Vegetable Egg Roll (Chunjuan),static
+2026-04-07,rendezvous,All Day,Entrée,Kimchi Stir Fry w/ Tofu & Bell Pepper,static
+2026-04-07,rendezvous,All Day,Entrée,Korean Eggplant,static
+2026-04-07,rendezvous,All Day,Entrée,Vegetable Stir Fry,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Salted Cucumber,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Marinated Soy Sprouts,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Seasoned Blanched Spinach,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Vietnamese Pickled Daikon,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Vietnamese Shredded Green Papaya Salad,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Edamame,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Kimchi,static
+2026-04-07,rendezvous,All Day,ASIAN TOPPING,Seaweed Salad,static
+2026-04-07,rendezvous,All Day,ASIAN SAUCE,Green Sriracha,static
+2026-04-07,rendezvous,All Day,ASIAN SAUCE,Dumpling Dipping Sauce,static
+2026-04-07,rendezvous,All Day,ASIAN SAUCE,Red Sriracha,static
+2026-04-07,rendezvous,All Day,ASIAN SAUCE,Kickin' Mayo,static
+2026-04-07,rendezvous,All Day,ASIAN SAUCE,Thai Chilies w/ Vegan Fish Sauce,static
+2026-04-07,rendezvous,All Day,ASIAN SAUCE,Chojang Korean Dipping Sauce,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Milk Tea Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Thai Tea Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Taro Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Green Milk Tea Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Vietnamese Coffee Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Horchata Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Agua de Jamaica,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Strawberry Lemonade Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Mango Boba,static
+2026-04-07,rendezvous,All Day,BOBA DRINKS,Cucumber & Lime Fresca Boba,static
+2026-04-07,rendezvous,All Day,DRINKS,Brewed Coffee,static
+2026-04-07,rendezvous,All Day,DRINKS,Fountain Beverage,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Nanami Togarashi Spice,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Fried Shallots,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Fried Garlic,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Sweet Chili Mae Ploy Sauce,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Sweet Chili Mayo,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Sweet and Sour Sauce,static
+2026-04-07,rendezvous,All Day,CONDIMENTS,Satay Dipping Sauce,static
+2026-04-07,the_study,All Day,.,Craft Your Own Breakfast Skillet,static
+2026-04-07,the_study,All Day,.,Croque Monsieur,static
+2026-04-07,the_study,All Day,.,Croque Madame,static
+2026-04-07,the_study,All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,static
+2026-04-07,the_study,All Day,.,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,static
+2026-04-07,the_study,All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,static
+2026-04-07,the_study,All Day,.,Waffle with Caramel & Seasonal Fresh Fruit,static
+2026-04-07,the_study,All Day,.,Irish Oatmeal,static
+2026-04-07,the_study,All Day,.,Craft Your Own Breakfast Sandwich,static
+2026-04-07,the_study,All Day,.,Create Your Own Breakfast Croissant,static
+2026-04-07,the_study,All Day,Coffee & Tea,Brewed Tea,static
+2026-04-07,the_study,All Day,Coffee & Tea,Hot Chocolate,static
+2026-04-07,the_study,All Day,Coffee & Tea,Brewed Coffee,static
+2026-04-07,the_study,All Day,Coffee & Tea,Espresso Decaf,static
+2026-04-07,the_study,All Day,Coffee & Tea,Iced Brewed Coffee,static
+2026-04-07,the_study,All Day,Coffee & Tea,Nitro Cold Coffee,static
+2026-04-07,the_study,All Day,Coffee & Tea,Chai Tea Latte,static
+2026-04-07,the_study,All Day,Coffee & Tea,Americano,static
+2026-04-07,the_study,All Day,Coffee & Tea,Cappuccino,static
+2026-04-07,the_study,All Day,Coffee & Tea,Café Latte,static
+2026-04-07,the_study,All Day,Coffee & Tea,Caramel Latte,static
+2026-04-07,the_study,All Day,Coffee & Tea,Espresso,static
+2026-04-07,the_study,All Day,Coffee & Tea,Mocha Latte,static
+2026-04-07,the_study,All Day,Coffee & Tea,Vanilla Latte,static
+2026-04-07,the_study,All Day,Coffee & Tea,White Chocolate Latte,static
+2026-04-07,the_study,All Day,CAKES & TARTS,Oatmeal Raisin Cookie,static
+2026-04-07,the_study,All Day,CAKES & TARTS,Chocolate Chip Cookie,static
+2026-04-07,the_study,All Day,CAKES & TARTS,Fudgy Brownie,static
+2026-04-07,the_study,All Day,CAKES & TARTS,Passion Fruit Chocolate Tart,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Blackberry Fan,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Almond Croissant,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Chocolate Croissant,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Cinnamon Raisin Bagel,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Everything Cheese Bagel,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Everything Bagels,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Bacon Cheddar Chive Scone,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Eclair,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Triple Chocolate Mousse Verrine,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Island Chia Pudding,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Croissant,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Banana Walnut Muffin,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Blueberry Muffin,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Red Velvet Cake,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Strawberry Hibiscus Lemonade,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Mango Mint,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Cinnamon Apple Tea,static
+2026-04-07,the_study,All Day,PASTRIES & VERRINES,Hibiscus Water,static
+2026-04-07,the_study,All Day,Kombucha on Tap,Pink Lady Apple Kombucha,static
+2026-04-07,the_study,All Day,Kombucha on Tap,Pomegranate Kombucha,static
+2026-04-07,the_study,All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,static
+2026-04-07,the_study,All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,static
+2026-04-07,the_study,All Day,Kombucha on Tap,Build and Go Frozen Yogurt,static
+2026-04-07,the_study,All Day,Kombucha on Tap,Craft Your Own Salad,static
+2026-04-07,the_study,All Day,Kombucha on Tap,Craft Your Own Pizza,static
+2026-04-07,the_study,All Day,Market Entrées,Fresh Fruit Cup,static
+2026-04-07,the_study,All Day,Market Entrées,Vegan Muesli,static
+2026-04-07,the_study,All Day,Market Entrées,Bircher Muesli w/ Nuts,static
+2026-04-07,the_study,All Day,Market Entrées,Spiced Apple Caramel Parfait,static
+2026-04-07,the_study,All Day,Market Entrées,Blueberry Strudel Parfait,static
+2026-04-07,the_study,All Day,Market Entrées,Cheese & Cracker Protein Box,static
+2026-04-07,the_study,All Day,Market Entrées,Crudite Plate,static
+2026-04-07,the_study,All Day,Market Entrées,Apple & Peanut Butter Box,static
+2026-04-07,the_study,All Day,Market Entrées,Waffle with Caramel & Seasonal Fresh Fruit,static
+2026-04-07,the_study,All Day,Market Sandwiches,Peanut Butter & Strawberry Preserves Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Caprese Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Egg Salad Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Chicken Salad Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Ultimate BLT Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Roast Beef Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,The Study Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Ham & Swiss Croissant Sandwich,static
+2026-04-07,the_study,All Day,Market Sandwiches,Pesto Turkey Bacon Wrap,static
+2026-04-07,the_study,All Day,Market Sandwiches,Vegan Chicken Caesar Wrap,static
+2026-04-07,the_study,All Day,Market Salads,Chicken Caesar Salad,static
+2026-04-07,the_study,All Day,Market Salads,Tarragon Chicken Salad,static
+2026-04-07,the_study,All Day,Market Salads,Louie Shrimp & Avocado Salad,static
+2026-04-07,the_study,All Day,Market Salads,Cucumber Dill & Salmon Salad,static
+2026-04-07,the_study,All Day,Market Salads,Tuna Salad,static
+2026-04-07,the_study,All Day,Market Salads,Vegan Chicken Caesar Salad,static
+2026-04-07,the_study,All Day,Market Beverages,Standard Beverage,static
+2026-04-07,the_study,All Day,Market Beverages,Premium Beverage,static
+2026-04-07,the_study,All Day,Sides,Sea Salt Kettle Chips,static
+2026-04-07,the_study,All Day,Sides,BBQ Kettle Chips,static
+2026-04-07,the_study,All Day,Sides,Smartfood White Cheddar Popcorn,static
+2026-04-07,the_study,All Day,Sides,Apple,static
+2026-04-07,the_study,All Day,Sides,Banana,static
+2026-04-07,the_study,All Day,Sides,Oranges,static
+2026-04-07,the_study,All Day,Sides,Orange Juice,static
+2026-04-07,the_study,All Day,Sides,Apple Juice,static
+2026-04-07,the_study,All Day,Sides,Lowfat Milk,static
+2026-04-07,the_study,All Day,Sides,Chocolate Milk,static
+2026-04-07,the_study,All Day,Sides,Nonfat Milk,static
+2026-04-07,the_study,All Day,Sides,Soy Milk,static
+2026-04-07,the_study,All Day,Sides,Assorted Cereal Cups,static
