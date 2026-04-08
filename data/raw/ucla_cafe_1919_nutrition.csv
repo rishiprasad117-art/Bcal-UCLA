@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Lunch / Dinner,Mon - Monte Bianco,Mon - Monte Bianco,13.4,900,40.56g,24.23g,0g,198.03mg,293.51mg,136.2g,5.81g,107.48g,13.18g,287.09mg,6.46mg,770.27mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
+Lunch / Dinner,Tue - Polpetta Italiano,Tue - Polpetta Italiano,16.65,1177,51.77g,20.34g,1.6g,159.08mg,2691.25mg,122.98g,5.52g,12.46g,53.42g,529.66mg,4.29mg,871.5mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 Lunch / Dinner,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24.75g,282.72mg,2.78mg,561.47mg,True,False,False,dairy
 Lunch / Dinner,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,359.75mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.41mg,False,False,False,dairy
 Lunch / Dinner,Gamberetti,Gamberetti,9,424,31.03g,7.68g,0.03g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg,False,False,False,"fish,dairy"

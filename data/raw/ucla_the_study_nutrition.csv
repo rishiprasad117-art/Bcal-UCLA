@@ -1,7 +1,7 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
 All Day,.,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,eggs"
-All Day,.,Croque Monsieur,12.81,710,31.66g,18.63g,0g,108.02mg,1920.07mg,71.06g,3.23g,5.77g,34.82g,443.56mg,1.38mg,446.32mg,True,False,False,"gluten,wheat,dairy,alcohol"
-All Day,.,Croque Madame,13.85,755,36.27g,19.15g,0.04g,287.55mg,1872.38mg,67.04g,3.06g,5.61g,38.94g,444.15mg,2.16mg,487.76mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
+All Day,.,Croque Monsieur,12.81,729,33.7g,19.79g,0g,115.68mg,1921.78mg,71.06g,3.23g,5.77g,34.82g,443.56mg,1.38mg,446.32mg,True,False,False,"gluten,wheat,dairy,alcohol"
+All Day,.,Croque Madame,13.85,772,38.19g,20.25g,0.04g,294.69mg,1873.95mg,67.04g,3.06g,5.61g,38.94g,444.15mg,2.16mg,487.76mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
 All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,7.93,351,10.67g,2.92g,0g,48.33mg,312.38mg,55.37g,4.54g,19.71g,8.83g,90.31mg,1.6mg,153.13mg,True,False,False,"soy,gluten,tree_nuts,wheat,dairy,eggs"
 All Day,.,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,7.24,858,42.76g,25.63g,0.39g,249.48mg,315.29mg,98.89g,4.51g,40.03g,15.92g,90.97mg,4.47mg,236.55mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
 All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,7.62,957,44.91g,24.03g,0.04g,217.37mg,320.74mg,119.63g,7.04g,61.47g,17.47g,75.09mg,4.49mg,172.63mg,True,False,False,"soy,gluten,tree_nuts,wheat,dairy,eggs,alcohol"
