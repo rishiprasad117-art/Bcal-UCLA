@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Lunch / Dinner,Tue - Polpetta Italiano,Tue - Polpetta Italiano,16.65,1177,51.77g,20.34g,1.6g,159.08mg,2691.25mg,122.98g,5.52g,12.46g,53.42g,529.66mg,4.29mg,871.5mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+Lunch / Dinner,Wed - Cialda per Gelato,Wed - Cialda per Gelato,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol,soy,peanuts"
 Lunch / Dinner,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24.75g,282.72mg,2.78mg,561.47mg,True,False,False,dairy
 Lunch / Dinner,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,359.75mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.41mg,False,False,False,dairy
 Lunch / Dinner,Gamberetti,Gamberetti,9,424,31.03g,7.68g,0.03g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg,False,False,False,"fish,dairy"
@@ -55,8 +55,8 @@ Lunch / Dinner,Dark Chocolate Sauce,Dark Chocolate Sauce,1,105,0.94g,0g,0g,0mg,1
 Lunch / Dinner,Whipped Cream,Whipped Cream,1,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,False,False,
 Lunch / Dinner,Maraschino Cherry,Maraschino Cherry,0.03,2,0g,0g,0g,0mg,0mg,0.32g,0g,0.16g,0g,0mg,0mg,0mg,True,True,False,
 Lunch / Dinner,Gummy Bears,Gummy Bears,2,57,0g,0g,0g,0mg,11.32mg,12.45g,0g,7.92g,0.57g,2.26mg,0mg,1.13mg,True,True,False,
-Lunch / Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,4,470,22.21g,13.24g,0.01g,89.62mg,182.35mg,67.78g,2.98g,43.18g,7.25g,20.79mg,3.51mg,131.09mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 Lunch / Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,3.99,452,17.33g,10.08g,0g,64.85mg,224.96mg,68.41g,3.75g,34.02g,7.06g,27.8mg,2.29mg,215.66mg,True,False,True,"gluten,wheat,dairy,eggs"
+Lunch / Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,4,470,22.21g,13.24g,0.01g,89.62mg,182.35mg,67.78g,2.98g,43.18g,7.25g,20.79mg,3.51mg,131.09mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 Lunch / Dinner,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,1.5,243,15.14g,3.03g,0g,7.57mg,302.86mg,22.71g,3.03g,3.03g,4.54g,54.51mg,0.45mg,151.43mg,True,False,False,dairy
 Lunch / Dinner,Jalapeno Kettle Chips,Jalapeno Kettle Chips,1.5,319,10.6g,1.51g,0g,0mg,287.71mg,24.23g,1.51g,0g,3.03g,0mg,0.55mg,0mg,True,False,False,dairy
 Lunch / Dinner,Baked Lays Potato Chips,Baked Lays Potato Chips,1.13,140,3.99g,0.5g,0g,0mg,179.44mg,23.93g,1.99g,2.99g,1.99g,9.97mg,0.3mg,249.22mg,True,True,False,soy

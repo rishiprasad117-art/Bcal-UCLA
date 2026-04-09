@@ -17,9 +17,9 @@ All Day,PASTAS,Ricotta Rosa Baked Pasta,20.04,761,40.61g,22.49g,0.28g,423.61mg,2
 All Day,PASTAS,Vegetarian Fettucine,20.45,678,49.67g,31.82g,1.16g,153.59mg,1491.48mg,37.44g,3.71g,8.64g,20.46g,381.43mg,3.3mg,450.75mg,True,False,False,"gluten,wheat,dairy"
 All Day,PASTAS,Shrimp Spaghetti Fra Diavolo,22.48,450,25.62g,13.57g,0g,227.86mg,1665.45mg,25.93g,4.27g,6.31g,28.29g,333.13mg,4.52mg,803.89mg,False,False,False,"fish,gluten,wheat,dairy"
 All Day,SANDWICHES,Mozzarella Di Bufala Sandwich,13.83,657,32.5g,16.07g,0g,67.93mg,1262.87mg,59.27g,3.06g,6.12g,30.81g,519.71mg,1.57mg,496.62mg,True,False,False,"gluten,wheat,dairy,alcohol"
-All Day,SANDWICHES,Eggplant Parmesan Sandwich,18.86,585,29.03g,14.27g,0g,61.48mg,8115.55mg,42.39g,2.73g,3.15g,36.25g,849.8mg,2.25mg,474.03mg,False,False,False,"gluten,wheat,dairy"
+All Day,SANDWICHES,Eggplant Parmesan Sandwich,18.86,585,29.03g,14.27g,0g,61.48mg,8115.55mg,42.39g,2.73g,3.15g,36.25g,849.8mg,2.25mg,474.03mg,True,False,False,"gluten,wheat,dairy"
 All Day,SANDWICHES,Prosciutto Quattro Formaggio Sandwich,14.25,1185,75.04g,51.66g,0g,207.32mg,4030.68mg,63.78g,2.06g,8.97g,67.49g,1252.53mg,0.89mg,159.82mg,False,False,False,"gluten,wheat,dairy,alcohol"
-All Day,SANDWICHES,Chicken Gyro Sandwich,14,320,15.16g,6.71g,0.04g,109.91mg,1404.39mg,11.07g,2.38g,7.02g,34.12g,299.54mg,3.02mg,867.52mg,False,False,False,dairy
+All Day,SANDWICHES,Chicken Gyro Sandwich,14,536,15.91g,6.71g,0.04g,109.91mg,1865.56mg,54.32g,3.81g,7.02g,41.35g,371.64mg,5.91mg,953.99mg,False,False,False,"soy,gluten,wheat,sesame,dairy"
 All Day,Sides,Oatmeal Raisin Cookie,3.99,452,17.33g,10.08g,0g,64.85mg,224.96mg,68.41g,3.75g,34.02g,7.06g,27.8mg,2.29mg,215.66mg,True,False,True,"gluten,wheat,dairy,eggs"
 All Day,Sides,Chocolate Chip Cookie,4,470,22.21g,13.24g,0.01g,89.62mg,182.35mg,67.78g,2.98g,43.18g,7.25g,20.79mg,3.51mg,131.09mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 All Day,Sides,Fuji Apple,5.66,102,0.29g,0g,0g,0mg,1.6mg,24.41g,3.37g,18.73g,0.32g,11.23mg,0.16mg,174.84mg,True,True,False,
