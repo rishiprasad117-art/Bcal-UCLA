@@ -1,15 +1,15 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
 Breakfast,Freshly Bowled,Create-Your-Own Omelet Bar,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"eggs,dairy"
-Breakfast,Harvest,Caramelized Pork and Egg w/Brown Rice,4.96,269,14.77g,3.99g,0.01g,206.24mg,181.33mg,21.24g,0.84g,6.51g,12.38g,48.87mg,2.02mg,280.54mg,False,False,False,"fish,sesame,eggs"
+Breakfast,Harvest,Mushroom Beef Ragout Bowl w/ Poached Egg,4.9,222,14.73g,2.64g,0.01g,193.64mg,304.28mg,11.4g,1.69g,4.33g,11.1g,36.45mg,1.74mg,344.24mg,False,False,True,"gluten,wheat,eggs"
 Breakfast,Harvest,Scrambled Eggs,3.29,156,11.48g,3.24g,0.05g,337.59mg,116.16mg,0.91g,0g,0.22g,11.19g,56.26mg,1.58mg,122.51mg,True,False,True,eggs
 Breakfast,Harvest,Scrambled Egg Whites,3.29,66,2.45g,0.18g,0g,0mg,153.37mg,0.94g,0g,0.22g,9.25g,7.26mg,0.04mg,153.37mg,True,False,True,eggs
 Breakfast,Harvest,Vegan Scrambled Eggs,3.31,173,13.46g,0.22g,0g,0mg,370.36mg,2.05g,0g,0g,10.29g,4.12mg,2.05mg,131.68mg,True,True,False,soy
 Breakfast,Harvest,Roasted Red Breakfast Potato Wedges,2.95,69,2.05g,0.18g,0g,0mg,67.53mg,11.61g,1.53g,1.64g,1.44g,11.17mg,0.58mg,322.85mg,True,True,True,
 Breakfast,Harvest,Turkey Bacon,1.39,100,7.86g,2.62g,0g,39.3mg,353.7mg,1.89g,0g,0g,5.24g,3.93mg,0.28mg,61.31mg,False,False,False,
-Breakfast,Stone Fired,Chickpea & Oat Waffle,2.7,137,3.74g,0.25g,0g,0mg,28.71mg,21.77g,2.77g,4.44g,4.42g,13.26mg,1.05mg,142.44mg,True,False,False,
-Breakfast,Stone Fired,Pomegranate & Date Compote,1.36,51,0.09g,0.02g,0g,0mg,4.9mg,13.58g,0.5g,12.45g,0.2g,5.41mg,0.11mg,94.38mg,True,False,False,
-Breakfast,Stone Fired,Waffle,1.25,70,1.49g,0.25g,0g,2.49mg,174.01mg,12.43g,0.5g,1.99g,1.49g,24.86mg,0.7mg,39.78mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
-Breakfast,Simply Grilled,Coconut Quinoa Pancakes,2.6,148,3.76g,0.59g,0.01g,31.46mg,321.81mg,24.45g,3.25g,6.34g,5.55g,36.13mg,1.35mg,171.39mg,True,False,False,"gluten,tree_nuts,wheat,dairy,eggs"
+Breakfast,Stone Fired,Whole Grain Banana Waffle,1.43,91,4.16g,0.49g,0g,14.07mg,64.7mg,11.33g,1.64g,1.9g,2.6g,7.94mg,0.32mg,57.66mg,True,False,False,"gluten,tree_nuts,wheat,eggs"
+Breakfast,Stone Fired,Pineapple Compote,1.02,35,0.03g,0g,0g,0mg,0.23mg,9.09g,0.32g,8.35g,0.12g,2.95mg,0.07mg,24.73mg,True,True,False,
+Breakfast,Stone Fired,Waffle,,197,4.2g,0.7g,0g,7mg,493mg,35.2g,1.4g,5.6g,4.2g,70.4mg,2mg,112.7mg,False,False,False,
+Breakfast,Simply Grilled,Whole Wheat Pancake,3.02,171,5g,1.15g,0.03g,41.92mg,143.49mg,25.17g,2.12g,3.58g,6.44g,54.75mg,1.37mg,119.73mg,True,False,False,"gluten,wheat,dairy,eggs"
 Breakfast,Simply Grilled,Vegan Pancake,3.65,149,1.76g,0.26g,0g,0mg,341.11mg,29.34g,3.41g,7.74g,5.92g,102.01mg,1.4mg,155.22mg,True,True,False,"soy,gluten,wheat"
 Breakfast,Fruit,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg,True,True,False,
 Breakfast,Fruit,Grapefruit,2,24,0.08g,0.01g,0g,0mg,0mg,6.03g,0.91g,3.9g,0.44g,12.45mg,0.05mg,76.41mg,True,True,False,
@@ -20,30 +20,30 @@ Breakfast,Fruit,Watermelon,5,44,0.21g,0.03g,0g,0mg,1.42mg,10.69g,0.57g,8.78g,0.8
 Breakfast,Sweet Bites,Multi-Grain Bread,1.48,96,1.07g,0.28g,0g,1.28mg,134.39mg,18.22g,2.26g,2.22g,3.37g,18.77mg,0.51mg,45.5mg,True,False,False,"soy,gluten,wheat,dairy"
 Breakfast,Sweet Bites,Raisin Walnut Bread,1.75,86,0.4g,0.06g,0g,0mg,1776.75mg,18.57g,1.36g,3.22g,2.58g,35.59mg,0.5mg,80.63mg,True,True,True,"gluten,tree_nuts,wheat"
 Breakfast,Sweet Bites,Whole Wheat Sourdough Bread,2.31,132,0.71g,0.11g,0g,0mg,147.37mg,27.06g,1.87g,0.8g,4.52g,10.93mg,0.66mg,68.47mg,True,True,True,"gluten,wheat"
-Breakfast,Sweet Bites,Apple Quickbread,2.42,219,9.36g,0.7g,0g,0mg,114.26mg,31.17g,0.97g,17.37g,2.48g,19mg,0.87mg,33.27mg,True,True,False,"soy,gluten,wheat,alcohol"
-Breakfast,Sweet Bites,Carrot Walnut Zucchini Quickbread,2.42,238,11.86g,1g,0g,24.41mg,135.53mg,28.59g,1.29g,15.64g,4.26g,15.35mg,1.05mg,99.45mg,True,False,True,"gluten,tree_nuts,wheat,eggs"
+Breakfast,Sweet Bites,Spiced Apple Bread,2.17,209,10.41g,1.01g,0.01g,35.03mg,153.29mg,27.29g,0.87g,21.96g,2.02g,11.24mg,0.48mg,61.85mg,True,False,False,"gluten,wheat,eggs"
+Breakfast,Sweet Bites,Cinnamon Quickbread,2.31,221,6.61g,0.51g,0g,0.01mg,144.99mg,36.91g,0.82g,19.38g,3.3g,29.51mg,1.15mg,46.89mg,True,True,False,"soy,gluten,wheat,alcohol"
 Breakfast,Sweet Bites,Almond Cashew Butter,1,167,14.09g,1.73g,0g,0mg,0.49mg,7.24g,2.13g,1.22g,5.12g,54.9mg,1.37mg,181.59mg,True,True,False,"soy,peanuts,tree_nuts"
-Breakfast,Sweet Bites,Mango Blueberry Compote,1.27,33,0.11g,0g,0g,0mg,0.28mg,7.98g,0.53g,7.27g,0.23g,0.48mg,0.02mg,49.17mg,True,True,False,
-Breakfast,Sweet Bites,Chocolate Peanut Butter,1.03,99,6.59g,1.42g,0g,0mg,189.49mg,5.36g,2.48g,2.94g,3.66g,13.88mg,0.56mg,55.73mg,True,False,False,"soy,peanuts,dairy"
-Breakfast,Sweet Bites,Green Tea-Shiso Marmalade,1.52,49,0.06g,0g,0g,0mg,0.94mg,12.29g,0.74g,11.08g,0.12g,2.43mg,0.07mg,40.88mg,True,False,False,
-Breakfast,Beverage Special,Navel Orange Water,12.09,23,0.07g,0g,0g,0mg,11.82mg,5.52g,1.13g,4.39g,0.45g,27.68mg,0.03mg,85.14mg,True,True,False,
+Breakfast,Sweet Bites,Black Pepper Strawberry Compote,2,72,0.11g,0.01g,0g,0mg,0.5mg,18.5g,0.71g,17.48g,0.24g,6.38mg,0.18mg,57.45mg,True,True,False,
+Breakfast,Sweet Bites,Peanut Butter,1,91,6.21g,0.86g,0g,0mg,211.78mg,6g,2.48g,0.7g,3.81g,15.51mg,0.28mg,50.76mg,True,True,False,peanuts
+Breakfast,Sweet Bites,Nopales & Vanilla Marmalade,1.95,59,0.04g,0.01g,0g,0mg,7.59mg,15.17g,1.03g,14.02g,0.51g,58.52mg,0.22mg,98.5mg,True,True,False,
+Breakfast,Beverage Special,Mango Water,10.36,13,0.09g,0.03g,0g,0mg,11.1mg,3.14g,0.32g,2.88g,0.18g,10.48mg,0.03mg,35.35mg,True,True,False,
 Breakfast,Cereal / Oatmeal,Oatmeal,5.52,286,4.21g,0.84g,0g,0mg,1091.16mg,53.72g,8.4g,1.67g,8.4g,46.01mg,3.02mg,278.72mg,True,True,False,gluten
-Breakfast,Cereal / Oatmeal,Cream of Rice Cereal,7.88,75,0g,0g,0g,0mg,225.42mg,16.7g,0g,0g,1.38g,5.9mg,0mg,0mg,True,True,False,
+Breakfast,Cereal / Oatmeal,Savory Grits,1.94,29,0.46g,0.03g,0g,0mg,42.38mg,5.61g,0.73g,0.77g,0.61g,9.65mg,0.1mg,61.89mg,True,True,False,
 Lunch,Soups,Chicken Tortilla Soup,6.05,161,4.06g,0.45g,0g,23.07mg,80.76mg,21.65g,1.49g,14.89g,8.91g,25.13mg,0.94mg,202.51mg,False,False,False,
 Lunch,Soups,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
 Lunch,Freshly Bowled,Create-Your-Own Omelet Bar,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"eggs,dairy"
-Lunch,Harvest,Spicy Thai Coconut Curry Chicken Wrap,6.52,237,6.8g,2.11g,0g,29.61mg,700.22mg,25.91g,4.56g,2.03g,15.66g,81.16mg,40.17mg,143.92mg,False,False,False,"gluten,wheat"
-Lunch,Harvest,"Spinach, Arugula, & White Bean Guacamole Wrap",4.55,161,5.84g,1.15g,0g,0mg,289.35mg,23.06g,5.05g,2.31g,5.01g,73.94mg,27.37mg,317.58mg,True,True,False,"soy,gluten,wheat"
+Lunch,Harvest,"Grilled Chicken, Watermelon, & Feta Salad",5.08,136,6.33g,0.81g,0g,21.11mg,128.49mg,9.02g,0.91g,6.99g,8.88g,32.28mg,0.6mg,146.73mg,False,False,False,"dairy,alcohol"
+Lunch,Harvest,Kale & Squash Salad w/ Gorgonzola,4.59,224,10.34g,3.85g,0g,9.71mg,453.08mg,26.42g,4.38g,5.62g,9.13g,122.9mg,1.95mg,440.05mg,True,False,False,dairy
 Lunch,Farmstand,Frijoles de la Olla,1.99,90,1.54g,0.15g,0g,0mg,137.85mg,14.05g,3.46g,0.59g,4.75g,26.47mg,1.12mg,311.15mg,True,True,True,
 Lunch,Farmstand,Brown Calrose Rice,2.03,105,0.77g,0.15g,0g,0mg,2.3mg,21.89g,0.98g,0g,2.16g,10.34mg,0.52mg,77.03mg,True,True,True,
-Lunch,Farmstand,Farro,3.22,134,0.43g,0.01g,0g,0mg,48.67mg,27.67g,5.11g,0.63g,5.75g,7.79mg,1.5mg,252.23mg,True,True,True,"gluten,wheat"
-Lunch,Farmstand,Edamame Beans,3,94,4.02g,0g,0g,0mg,5.09mg,6.46g,4.08g,2.11g,9.53g,50.94mg,1.79mg,409.22mg,True,True,False,soy
-Lunch,Farmstand,Sauteed Spinach & Kale,1.64,30,1.15g,0.1g,0g,0mg,50.02mg,4.1g,1.62g,1.01g,1.95g,66.73mg,1.03mg,272.61mg,True,True,False,
-Lunch,Stone Fired,Beef Picadillo Flatbread,2.36,139,4.58g,1.32g,0g,13.24mg,209.14mg,17.77g,1.9g,0.98g,6.85g,28.96mg,0.96mg,146.86mg,False,False,True,"soy,gluten,wheat,dairy"
-Lunch,Stone Fired,Three Green Veggie Flatbread,1.89,124,5.03g,1.61g,0g,7.27mg,165.51mg,15.47g,1.73g,0.82g,4.57g,51.96mg,0.62mg,73.08mg,True,False,False,"soy,gluten,wheat,dairy"
-Lunch,Simply Grilled,Halal Pineapple Chicken Thigh,1.63,55,2.01g,0.48g,0.01g,36.61mg,127.8mg,1.08g,0.12g,0.77g,7.73g,4.43mg,0.35mg,105.56mg,False,False,True,
-Lunch,Simply Grilled,Mixed Grain Pita,2.74,120,1.16g,0.12g,0g,0.25mg,253.66mg,22.7g,2.64g,0.55g,4.52g,40.97mg,1.39mg,134.09mg,True,False,False,"soy,gluten,wheat,sesame,dairy"
-Lunch,Simply Grilled,Kennebec Mash,2.57,53,0.6g,0.06g,0g,0.11mg,56.97mg,10.77g,1.61g,1.05g,1.31g,12.82mg,0.35mg,280.34mg,True,False,False,dairy
+Lunch,Farmstand,Bulgur Wheat,2.03,81,0.44g,0g,0g,0mg,97.67mg,15.68g,2.26g,0.18g,3.1g,6.86mg,0.45mg,40.36mg,True,True,True,"gluten,wheat"
+Lunch,Farmstand,Pan Roasted Mushrooms w/ Onions,2.81,35,1.46g,0.13g,0g,0mg,131.97mg,4.41g,1.06g,2.04g,2.08g,10.39mg,0.43mg,219.55mg,True,True,False,
+Lunch,Farmstand,Chinese Kale w/ Toasted Garlic,2.76,37,1.94g,0.19g,0g,0mg,77.95mg,3.9g,1.99g,0.67g,0.98g,81.35mg,0.47mg,211.6mg,True,True,False,
+Lunch,Stone Fired,Canadian Ham & Swiss Cheese Flatbread,2.33,147,6.86g,1.99g,0g,9.37mg,168.28mg,16.8g,1.8g,1.08g,5.81g,17.71mg,0.55mg,148.27mg,False,False,False,"soy,gluten,wheat,dairy"
+Lunch,Stone Fired,Spinach & Artichoke Flatbread,2.97,123,2.74g,0.96g,0g,3.5mg,283.56mg,19.69g,3.14g,1.44g,4.94g,41.89mg,0.79mg,184.88mg,True,False,False,"soy,gluten,wheat,dairy"
+Lunch,Simply Grilled,Halal Garlic Chicken Thigh,1.75,80,4.66g,0.87g,0.01g,36.62mg,110.37mg,1.37g,0.18g,0.1g,7.9g,11.06mg,0.44mg,112.97mg,False,False,True,
+Lunch,Simply Grilled,Thai Tofu Stacker,2.1,74,2.17g,0.37g,0g,0mg,180.14mg,10.03g,1.31g,0.36g,3.64g,6.3mg,0.24mg,47.03mg,True,True,False,soy
+Lunch,Simply Grilled,Potato & Red Pepper Hash,2.31,76,4.38g,0.33g,0g,0mg,151.67mg,8.31g,1.08g,1.25g,1.01g,7.22mg,0.39mg,230.61mg,True,True,False,
 Lunch,Fruit,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg,True,True,False,
 Lunch,Fruit,Green Grapes,1,20,0.05g,0.01g,0g,0mg,0.56mg,5.1g,0.25g,4.37g,0.2g,2.82mg,0.1mg,53.86mg,True,True,False,
 Lunch,Fruit,Red Grapes,1,20,0.05g,0.01g,0g,0mg,0.56mg,5.1g,0.25g,4.37g,0.2g,2.82mg,0.1mg,53.86mg,True,True,False,
@@ -53,35 +53,36 @@ Lunch,Fruit,Kiwi,2.4,42,0.35g,0.02g,0g,0mg,2.04mg,9.95g,2.04g,6.1g,0.77g,23.09mg
 Lunch,Sweet Bites,Multi-Grain Bread,1.48,96,1.07g,0.28g,0g,1.28mg,134.39mg,18.22g,2.26g,2.22g,3.37g,18.77mg,0.51mg,45.5mg,True,False,False,"soy,gluten,wheat,dairy"
 Lunch,Sweet Bites,Raisin Walnut Bread,1.75,86,0.4g,0.06g,0g,0mg,1776.75mg,18.57g,1.36g,3.22g,2.58g,35.59mg,0.5mg,80.63mg,True,True,True,"gluten,tree_nuts,wheat"
 Lunch,Sweet Bites,Whole Wheat Sourdough Bread,2.31,132,0.71g,0.11g,0g,0mg,147.37mg,27.06g,1.87g,0.8g,4.52g,10.93mg,0.66mg,68.47mg,True,True,True,"gluten,wheat"
-Lunch,Sweet Bites,Flaxsnax Breakfast Cookie w/ Pecans,1.14,156,11.67g,4.08g,0g,26.47mg,64.13mg,8.58g,2.49g,6.74g,3.07g,42.55mg,1.29mg,98.94mg,True,False,False,"soy,gluten,tree_nuts,sesame,dairy,eggs"
-Lunch,Sweet Bites,Apple Quickbread,2.42,219,9.36g,0.7g,0g,0mg,114.26mg,31.17g,0.97g,17.37g,2.48g,19mg,0.87mg,33.27mg,True,True,False,"soy,gluten,wheat,alcohol"
-Lunch,Sweet Bites,Carrot Walnut Zucchini Quickbread,2.42,238,11.86g,1g,0g,24.41mg,135.53mg,28.59g,1.29g,15.64g,4.26g,15.35mg,1.05mg,99.45mg,True,False,True,"gluten,tree_nuts,wheat,eggs"
+Lunch,Sweet Bites,Tofu Cranberry Bar,164.48,14707,492.39g,166.93g,0g,0mg,181069.11mg,2536.1g,130.56g,1714.98g,187.44g,3174.9mg,43.83mg,4116.32mg,False,False,True,"soy,gluten,wheat"
+Lunch,Sweet Bites,Spiced Apple Bread,2.17,209,10.41g,1.01g,0.01g,35.03mg,153.29mg,27.29g,0.87g,21.96g,2.02g,11.24mg,0.48mg,61.85mg,True,False,False,"gluten,wheat,eggs"
+Lunch,Sweet Bites,Cinnamon Quickbread,2.31,221,6.61g,0.51g,0g,0.01mg,144.99mg,36.91g,0.82g,19.38g,3.3g,29.51mg,1.15mg,46.89mg,True,True,False,"soy,gluten,wheat,alcohol"
 Lunch,Sweet Bites,Almond Butter,1.08,195,17.92g,1.47g,0g,0mg,84.44mg,5.49g,2.85g,1.27g,5.48g,70.06mg,0.98mg,186.4mg,True,True,False,tree_nuts
-Lunch,Sweet Bites,Mango Blueberry Compote,1.27,33,0.11g,0g,0g,0mg,0.28mg,7.98g,0.53g,7.27g,0.23g,0.48mg,0.02mg,49.17mg,True,True,False,
-Lunch,Sweet Bites,Chocolate Peanut Butter,1.03,99,6.59g,1.42g,0g,0mg,189.49mg,5.36g,2.48g,2.94g,3.66g,13.88mg,0.56mg,55.73mg,True,False,False,"soy,peanuts,dairy"
-Lunch,Sweet Bites,Kumquat Compote,1.27,44,0.14g,0.02g,0g,0mg,1.41mg,11.04g,1.27g,9.76g,0.41g,14.64mg,0.14mg,52.9mg,True,True,False,
-Lunch,Sweet Bites,Green Tea-Shiso Marmalade,1.52,49,0.06g,0g,0g,0mg,0.94mg,12.29g,0.74g,11.08g,0.12g,2.43mg,0.07mg,40.88mg,True,False,False,
-Lunch,Beverage Special,Navel Orange Water,12.09,23,0.07g,0g,0g,0mg,11.82mg,5.52g,1.13g,4.39g,0.45g,27.68mg,0.03mg,85.14mg,True,True,False,
+Lunch,Sweet Bites,Black Pepper Strawberry Compote,2,72,0.11g,0.01g,0g,0mg,0.5mg,18.5g,0.71g,17.48g,0.24g,6.38mg,0.18mg,57.45mg,True,True,False,
+Lunch,Sweet Bites,Peanut Butter,1,91,6.21g,0.86g,0g,0mg,211.78mg,6g,2.48g,0.7g,3.81g,15.51mg,0.28mg,50.76mg,True,True,False,peanuts
+Lunch,Sweet Bites,Smoky Hibiscus Compote,1.28,47,0.04g,0g,0g,0mg,0.43mg,12.05g,0.52g,11.21g,0.09g,1.43mg,0.04mg,27.81mg,True,True,False,soy
+Lunch,Sweet Bites,Nopales & Vanilla Marmalade,1.95,59,0.04g,0.01g,0g,0mg,7.59mg,15.17g,1.03g,14.02g,0.51g,58.52mg,0.22mg,98.5mg,True,True,False,
+Lunch,Beverage Special,Mango Water,10.36,13,0.09g,0.03g,0g,0mg,11.1mg,3.14g,0.32g,2.88g,0.18g,10.48mg,0.03mg,35.35mg,True,True,False,
 Lunch,Beverage Special,Apple Spritzer,6.04,10,0g,0g,0g,0mg,6.93mg,2.46g,0g,2.38g,0g,4.53mg,0mg,0mg,True,True,False,
 Lunch,Beverage Special,Cranberry Spritzer,6.03,10,0g,0g,0g,0mg,6.92mg,2.7g,0g,2.53g,0g,4.53mg,0mg,0mg,True,True,False,
 Lunch,Beverage Special,Orange Spritzer,6.09,9,0g,0g,0g,0mg,6.97mg,2.02g,0g,1.79g,0g,4.69mg,0mg,0mg,True,True,False,
 Dinner,Soups,Chicken Tortilla Soup,6.05,161,4.06g,0.45g,0g,23.07mg,80.76mg,21.65g,1.49g,14.89g,8.91g,25.13mg,0.94mg,202.51mg,False,False,False,
 Dinner,Soups,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
-Dinner,Freshly Bowled,Whole Wheat Herb Spaghetti w/ Shrimp & Sauteed Spinach Bowl,4.04,101,3.26g,0.24g,0g,54.67mg,642.3mg,9.94g,1.91g,0.78g,9.3g,50.5mg,0.86mg,230.57mg,False,False,False,"fish,gluten,wheat"
-Dinner,Freshly Bowled,Herbed Whole Wheat Spaghetti,2.14,59,1.73g,0.1g,0g,0mg,499.94mg,9.96g,1.56g,0.51g,2.08g,4.1mg,0.06mg,5.85mg,True,True,False,"gluten,wheat"
-Dinner,Harvest,Sweet Pepper & Steak Salad,2.41,81,5.62g,2.04g,0g,18.47mg,149.36mg,2.65g,0.67g,1.15g,4.95g,33.84mg,0.65mg,173.71mg,False,False,True,dairy
-Dinner,Harvest,Spicy Red Quinoa & Heirloom Bean Burrito,6.81,283,7.12g,2.01g,0g,3.78mg,320.36mg,46.09g,5.77g,2.39g,9.36g,151.52mg,41.98mg,344.02mg,True,False,False,"gluten,wheat,dairy"
-Dinner,Harvest,Roasted Tomato Salsa,2,14,0.02g,0.01g,0g,0mg,194.49mg,2.81g,0.58g,1.51g,0.53g,10.04mg,0.04mg,54.95mg,True,True,True,
+Dinner,Freshly Bowled,Crispy Lamb Leg w/ Guacamole & Couscous,5.41,277,9.31g,3.33g,0g,32.61mg,117.75mg,33.04g,3.54g,3.5g,13.93g,21.8mg,1.4mg,344.6mg,False,False,True,"gluten,wheat"
+Dinner,Freshly Bowled,"Honey-Glazed Tempeh, Tri Color Quinoa & Collard Greens",5.61,241,9.44g,1.54g,0g,0mg,436.48mg,28.4g,3.42g,6.85g,13.81g,160.73mg,2.56mg,444.79mg,True,False,True,"soy,gluten,wheat"
+Dinner,Harvest,Roasted Lemongrass-Ginger Chicken,3.11,104,2.74g,0.61g,0g,61.11mg,271.81mg,4.68g,0.34g,1.64g,13.5g,9.87mg,0.7mg,71.52mg,False,False,False,"soy,gluten,wheat"
+Dinner,Harvest,Brown Basmati Rice,2.64,138,1.2g,0.22g,0g,0mg,3.36mg,28.49g,1.34g,0.25g,2.82g,4.48mg,0.49mg,93.41mg,True,True,True,
+Dinner,Harvest,Jalapeño-Lime Slaw,2.26,45,3.04g,0.24g,0g,0mg,167.65mg,4.37g,1.4g,2.38g,0.65g,17.36mg,0.26mg,128.92mg,True,True,False,
+Dinner,Harvest,Tempeh Chili,8.1,100,3.81g,0.69g,0g,0mg,286.67mg,11.68g,2.96g,3.65g,5.42g,42.73mg,0.96mg,301.08mg,True,True,False,soy
 Dinner,Farmstand,Frijoles de la Olla,1.99,90,1.54g,0.15g,0g,0mg,137.85mg,14.05g,3.46g,0.59g,4.75g,26.47mg,1.12mg,311.15mg,True,True,True,
 Dinner,Farmstand,Brown Calrose Rice,2.03,105,0.77g,0.15g,0g,0mg,2.3mg,21.89g,0.98g,0g,2.16g,10.34mg,0.52mg,77.03mg,True,True,True,
-Dinner,Farmstand,Steamed Barley,2.01,101,0.3g,0g,0g,0mg,1.14mg,21.93g,2.96g,0g,2.96g,0.85mg,0mg,80.01mg,True,True,True,gluten
-Dinner,Farmstand,Roasted Gold & Red Beets,3,84,4.61g,0.35g,0g,0mg,171.09mg,9.64g,2.83g,6.77g,1.62g,16.63mg,0.82mg,327.22mg,True,True,True,
-Dinner,Farmstand,Sauteed Kale,2.33,48,2.18g,0.17g,0g,0mg,109.25mg,5.96g,2.18g,1.57g,2.57g,88.86mg,0.87mg,293.38mg,True,True,True,
-Dinner,Stone Fired,Lemon Chicken w/ Smoked Mozzarella Flatbread,2.32,125,3.26g,1.22g,0g,11.44mg,113.1mg,16.43g,1.91g,1.16g,7.08g,53.31mg,0.52mg,68.55mg,False,False,False,"soy,gluten,wheat,dairy"
-Dinner,Stone Fired,"Roasted Beet, Caramelized Onion & Blue Cheese Pizza",3.22,185,7.25g,2.86g,0g,10.42mg,212.79mg,23.75g,3.03g,2.65g,7.25g,119.12mg,0.98mg,172.37mg,True,True,True,"soy,gluten,tree_nuts,wheat,dairy"
-Dinner,Simply Grilled,Halal Cilantro Jalapeno Chicken Thigh,1.58,54,2.11g,0.47g,0.01g,36.6mg,152.39mg,0.55g,0.18g,0.09g,7.74g,8.42mg,0.44mg,107.73mg,False,False,True,
-Dinner,Simply Grilled,Grilled Jicama Sticks,2.86,57,2.67g,0.69g,0g,2.62mg,352.15mg,6.27g,3.43g,1.26g,1.58g,8.5mg,0.43mg,111.82mg,True,False,False,dairy
-Dinner,Simply Grilled,Grilled Sweet Potato w/ Lemon Chile Dressing,2.43,117,5.32g,0.4g,0g,0mg,23.34mg,16.49g,2.44g,0.63g,0.91g,11.05mg,0.32mg,471.06mg,True,True,False,
+Dinner,Farmstand,Wheat Berry,2.01,93,0.44g,0.07g,0g,0mg,83.39mg,20.19g,3.46g,0.11g,3.58g,9.08mg,0.9mg,102.97mg,True,True,True,"gluten,wheat"
+Dinner,Farmstand,Roasted Brussels Sprouts,4,65,2.13g,0.19g,0g,0mg,129.26mg,10.04g,4.26g,2.46g,3.78g,47.21mg,1.57mg,435.77mg,True,True,False,
+Dinner,Farmstand,Sauteed Spinach & Kale,1.64,30,1.15g,0.1g,0g,0mg,50.02mg,4.1g,1.62g,1.01g,1.95g,66.73mg,1.03mg,272.61mg,True,True,False,
+Dinner,Stone Fired,"Tri-Tip, Arugula, & Parmesan Flatbread",2.11,146,5.7g,2.11g,0g,10.73mg,239.81mg,17.26g,1.79g,0.75g,7.62g,93.33mg,0.84mg,117.9mg,False,False,True,"soy,gluten,wheat,sesame,dairy"
+Dinner,Stone Fired,Artichoke & Olive Flatbread,2.83,160,6.99g,1.75g,0g,6.31mg,425.71mg,20.29g,3.24g,1.2g,4.67g,63.19mg,0.68mg,127.97mg,True,True,False,"soy,gluten,wheat,dairy"
+Dinner,Simply Grilled,Grilled Santa Maria Boneless Pork Chop,2,72,2.24g,0.46g,0.01g,33.96mg,502.7mg,1.49g,0.36g,0.02g,11.13g,8.53mg,0.66mg,229.43mg,False,False,False,
+Dinner,Simply Grilled,Grilled Eggplant,1.99,25,1.09g,0.09g,0g,0mg,44.87mg,3.77g,1.72g,1.9g,0.65g,10.79mg,0.22mg,131.4mg,True,True,False,
+Dinner,Simply Grilled,Summer Squash & Potatoes w/ Chimichurri,2.59,78,5.89g,0.45g,0g,0mg,358.85mg,5.4g,1g,0.34g,1.61g,21.71mg,0.69mg,271.06mg,True,True,False,
 Dinner,Fruit,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg,True,True,False,
 Dinner,Fruit,Green Grapes,1,20,0.05g,0.01g,0g,0mg,0.56mg,5.1g,0.25g,4.37g,0.2g,2.82mg,0.1mg,53.86mg,True,True,False,
 Dinner,Fruit,Red Grapes,1,20,0.05g,0.01g,0g,0mg,0.56mg,5.1g,0.25g,4.37g,0.2g,2.82mg,0.1mg,53.86mg,True,True,False,
@@ -91,16 +92,16 @@ Dinner,Fruit,Kiwi,2.4,42,0.35g,0.02g,0g,0mg,2.04mg,9.95g,2.04g,6.1g,0.77g,23.09m
 Dinner,Sweet Bites,Multi-Grain Bread,1.48,96,1.07g,0.28g,0g,1.28mg,134.39mg,18.22g,2.26g,2.22g,3.37g,18.77mg,0.51mg,45.5mg,True,False,False,"soy,gluten,wheat,dairy"
 Dinner,Sweet Bites,Raisin Walnut Bread,1.75,86,0.4g,0.06g,0g,0mg,1776.75mg,18.57g,1.36g,3.22g,2.58g,35.59mg,0.5mg,80.63mg,True,True,True,"gluten,tree_nuts,wheat"
 Dinner,Sweet Bites,Whole Wheat Sourdough Bread,2.31,132,0.71g,0.11g,0g,0mg,147.37mg,27.06g,1.87g,0.8g,4.52g,10.93mg,0.66mg,68.47mg,True,True,True,"gluten,wheat"
-Dinner,Sweet Bites,Flaxsnax Breakfast Cookie w/ Pecans,1.14,156,11.67g,4.08g,0g,26.47mg,64.13mg,8.58g,2.49g,6.74g,3.07g,42.55mg,1.29mg,98.94mg,True,False,False,"soy,gluten,tree_nuts,sesame,dairy,eggs"
-Dinner,Sweet Bites,Apple Quickbread,2.42,219,9.36g,0.7g,0g,0mg,114.26mg,31.17g,0.97g,17.37g,2.48g,19mg,0.87mg,33.27mg,True,True,False,"soy,gluten,wheat,alcohol"
-Dinner,Sweet Bites,Carrot Walnut Zucchini Quickbread,2.42,238,11.86g,1g,0g,24.41mg,135.53mg,28.59g,1.29g,15.64g,4.26g,15.35mg,1.05mg,99.45mg,True,False,True,"gluten,tree_nuts,wheat,eggs"
-Dinner,Sweet Bites,Cheesecake,1.61,152,13.47g,8.97g,0g,43.79mg,133.9mg,6.8g,0.2g,3.89g,3.13g,36.4mg,0.08mg,11.14mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+Dinner,Sweet Bites,Tofu Cranberry Bar,164.48,14707,492.39g,166.93g,0g,0mg,181069.11mg,2536.1g,130.56g,1714.98g,187.44g,3174.9mg,43.83mg,4116.32mg,False,False,True,"soy,gluten,wheat"
+Dinner,Sweet Bites,Spiced Apple Bread,2.17,209,10.41g,1.01g,0.01g,35.03mg,153.29mg,27.29g,0.87g,21.96g,2.02g,11.24mg,0.48mg,61.85mg,True,False,False,"gluten,wheat,eggs"
+Dinner,Sweet Bites,Cinnamon Quickbread,2.31,221,6.61g,0.51g,0g,0.01mg,144.99mg,36.91g,0.82g,19.38g,3.3g,29.51mg,1.15mg,46.89mg,True,True,False,"soy,gluten,wheat,alcohol"
+Dinner,Sweet Bites,Lemon Tart Mignardise,0.84,73,2.55g,1.36g,0g,22.07mg,22.69mg,10.52g,0.23g,8.4g,1.7g,39.66mg,0.15mg,42.99mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
 Dinner,Sweet Bites,Almond Cashew Butter,1,167,14.09g,1.73g,0g,0mg,0.49mg,7.24g,2.13g,1.22g,5.12g,54.9mg,1.37mg,181.59mg,True,True,False,"soy,peanuts,tree_nuts"
-Dinner,Sweet Bites,Mango Blueberry Compote,1.27,33,0.11g,0g,0g,0mg,0.28mg,7.98g,0.53g,7.27g,0.23g,0.48mg,0.02mg,49.17mg,True,True,False,
-Dinner,Sweet Bites,Chocolate Peanut Butter,1.03,99,6.59g,1.42g,0g,0mg,189.49mg,5.36g,2.48g,2.94g,3.66g,13.88mg,0.56mg,55.73mg,True,False,False,"soy,peanuts,dairy"
-Dinner,Sweet Bites,Kumquat Compote,1.27,44,0.14g,0.02g,0g,0mg,1.41mg,11.04g,1.27g,9.76g,0.41g,14.64mg,0.14mg,52.9mg,True,True,False,
-Dinner,Sweet Bites,Green Tea-Shiso Marmalade,1.52,49,0.06g,0g,0g,0mg,0.94mg,12.29g,0.74g,11.08g,0.12g,2.43mg,0.07mg,40.88mg,True,False,False,
-Dinner,Beverage Special,Orange Hibiscus Water,10.6,2,0g,0g,0g,0mg,11.84mg,0.36g,0.06g,0.3g,0.03g,10.12mg,0mg,5.65mg,True,True,False,
+Dinner,Sweet Bites,Black Pepper Strawberry Compote,2,72,0.11g,0.01g,0g,0mg,0.5mg,18.5g,0.71g,17.48g,0.24g,6.38mg,0.18mg,57.45mg,True,True,False,
+Dinner,Sweet Bites,Peanut Butter,1,91,6.21g,0.86g,0g,0mg,211.78mg,6g,2.48g,0.7g,3.81g,15.51mg,0.28mg,50.76mg,True,True,False,peanuts
+Dinner,Sweet Bites,Smoky Hibiscus Compote,1.28,47,0.04g,0g,0g,0mg,0.43mg,12.05g,0.52g,11.21g,0.09g,1.43mg,0.04mg,27.81mg,True,True,False,soy
+Dinner,Sweet Bites,Nopales & Vanilla Marmalade,1.95,59,0.04g,0.01g,0g,0mg,7.59mg,15.17g,1.03g,14.02g,0.51g,58.52mg,0.22mg,98.5mg,True,True,False,
+Dinner,Beverage Special,Cherry Lime Water,10.2,5,0.06g,0g,0g,0mg,11.51mg,1.19g,0.17g,0.9g,0.09g,9.83mg,0.06mg,13.44mg,True,True,False,
 Dinner,Beverage Special,Apple Spritzer,6.04,10,0g,0g,0g,0mg,6.93mg,2.46g,0g,2.38g,0g,4.53mg,0mg,0mg,True,True,False,
 Dinner,Beverage Special,Cranberry Spritzer,6.03,10,0g,0g,0g,0mg,6.92mg,2.7g,0g,2.53g,0g,4.53mg,0mg,0mg,True,True,False,
 Dinner,Beverage Special,Orange Spritzer,6.09,9,0g,0g,0g,0mg,6.97mg,2.02g,0g,1.79g,0g,4.69mg,0mg,0mg,True,True,False,

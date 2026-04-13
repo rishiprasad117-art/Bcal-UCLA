@@ -1,18 +1,18 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,CONDIMENTS,Smoky Chick'n Quesadilla,10.94,758,39.56g,24.55g,0g,0mg,2199.2mg,81.53g,4.46g,10.7g,22.44g,112.56mg,3.6mg,287.65mg,True,True,False,"soy,gluten,wheat"
-All Day,CONDIMENTS,BBQ Chicken Quesadilla,15.91,1047,59.79g,30.84g,0g,214.45mg,2463.67mg,69.39g,6.63g,18.67g,59.74g,126.7mg,3.79mg,843.5mg,False,False,False,"soy,gluten,wheat,dairy"
+All Day,CONDIMENTS,Sirloin Steak Quesadilla,12.68,945,59.8g,29.72g,0g,175.71mg,1579.06mg,47.91g,4.53g,4.17g,56.1g,138.4mg,4.24mg,636.46mg,False,False,True,"soy,gluten,wheat,dairy"
+All Day,CONDIMENTS,Cheese Quesadilla,8.88,766,49.62g,27.53g,0g,119.51mg,1326.66mg,46.29g,4.25g,3.52g,36.86g,108.74mg,2.79mg,321.04mg,True,False,False,"soy,gluten,wheat,dairy"
 All Day,SUSHI BOWLS,Build-Your-Own Poke Bowl,14.5,863,16.03g,0.74g,0g,33.17mg,470.88mg,145.08g,3.86g,3.12g,37.65g,77.8mg,1.64mg,793.6mg,False,False,False,"fish,soy,gluten,wheat,sesame,alcohol"
 All Day,Base,Brown Rice,2.99,162,1.19g,0.24g,0g,0mg,42.26mg,33.92g,1.52g,0g,3.34g,15.9mg,0.8mg,119.36mg,True,True,False,
 All Day,Base,Sticky Rice,6,647,1.6g,0.26g,0g,0mg,17mg,139.94g,3.23g,0.09g,13.29g,37.4mg,10.71mg,45.9mg,True,True,False,
-All Day,Base,Vegetable Yakisoba,10.79,286,6.94g,0.7g,0g,0mg,407.45mg,49.6g,5.6g,10.12g,7.55g,105.1mg,1.35mg,539.37mg,True,True,False,"soy,sesame"
-All Day,Base,Sansai Mixed Rice,6.18,518,0.07g,0.02g,0g,0mg,1157.8mg,113.53g,1.19g,0g,10.56g,6.55mg,0.21mg,43mg,True,True,True,
-All Day,Entrée,Chicken Katsu,4.2,297,13.77g,2.8g,0.08g,89.99mg,362.39mg,20.09g,0.98g,0.04g,20.3g,16.81mg,1.59mg,188.54mg,False,False,False,"gluten,wheat,eggs"
-All Day,Entrée,Teriyaki Grilled Salmon,1.96,108,6.28g,1.41g,0g,25.25mg,478.67mg,2.56g,0.11g,1.83g,9.6g,6.48mg,0.21mg,174.51mg,False,False,False,"fish,soy,gluten,wheat,alcohol"
-All Day,Entrée,Vegetable Dumplings,2.16,149,8.65g,1.5g,0g,8.84mg,235.73mg,12.38g,0.59g,1.18g,4.12g,11.79mg,0.88mg,70.72mg,False,False,False,"soy,gluten,wheat,sesame"
-All Day,Entrée,Vegetable Tempura,2.72,106,9.15g,0.93g,2.45g,0mg,47.05mg,5.78g,0.89g,1.93g,0.69g,11.26mg,0.13mg,82.95mg,True,False,False,"gluten,wheat,dairy,eggs"
-All Day,Entrée,Spicy Soy Garlic Edamame,5.98,277,18.16g,2.35g,0g,0mg,10.21mg,13.48g,7.37g,3.81g,17.33g,101.54mg,3.29mg,752.05mg,True,True,False,"soy,sesame"
-All Day,Entrée,Japanese Curry,3.87,80,5.75g,3.23g,0g,0mg,744.23mg,5.03g,0.65g,0g,0.89g,2.84mg,0.28mg,50.32mg,True,False,False,"soy,gluten,wheat,dairy"
-All Day,Entrée,Beef Gyudon,6.51,250,15.79g,6.7g,0g,40.76mg,792.43mg,11.81g,0.89g,6.99g,11.86g,34.8mg,1.38mg,251.27mg,False,False,False,"fish,soy,gluten,wheat,alcohol"
+All Day,Base,Young Chow Vegetable Fried Rice,6.2,624,13.16g,1.83g,0.02g,99.22mg,2528.29mg,109.71g,2.14g,2.2g,13.07g,71.69mg,7.8mg,226.35mg,True,False,False,"soy,eggs"
+All Day,Base,Chow Mein Noodles,4.66,214,2.16g,0.11g,0g,0mg,1037.57mg,41.16g,1.21g,3.67g,7.84g,38.52mg,0.81mg,202.69mg,True,True,False,"soy,gluten,wheat"
+All Day,Entrée,Fish w/ Black Bean Sauce,4.02,107,4.46g,0.51g,0g,38.08mg,158.77mg,4.83g,0.5g,1.04g,13.47g,16.54mg,0.24mg,321.76mg,False,False,False,"fish,soy,gluten,wheat,sesame,eggs,alcohol"
+All Day,Entrée,BBQ Roast Pork,3.08,161,10.04g,3.53g,0.1g,50.34mg,144.31mg,2.28g,0.02g,1.68g,14.3g,13.54mg,0.92mg,261.29mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,Entrée,Green Bean Stir Fry,2.29,77,6.08g,0.45g,0g,0mg,135.3mg,5.2g,1.59g,2.64g,1.12g,23.28mg,0.62mg,123.7mg,True,True,False,"soy,gluten,wheat"
+All Day,Entrée,Chinese Broccoli,5.94,63,1.97g,0.27g,0g,0mg,276.97mg,8.95g,3.64g,1.73g,2.12g,151.94mg,0.89mg,392.78mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,Entrée,Eggplant & Tofu w/ Spicy Garlic Sauce,5.44,155,6.16g,0.94g,0g,0mg,580.76mg,18.8g,2.14g,11.43g,8.66g,17.15mg,1.26mg,117.49mg,True,True,False,"soy,gluten,wheat"
+All Day,Entrée,Beef & Broccoli,3.63,95,4.81g,1.35g,0g,22.36mg,720.73mg,9.19g,1.16g,2.53g,8.5g,25.33mg,1.04mg,165.77mg,False,False,False,"soy,gluten,wheat,eggs"
+All Day,Entrée,Orange Chicken,5.33,298,15.81g,3.37g,0g,60.75mg,567.4mg,28.51g,0.05g,12.52g,12.32g,12.67mg,0.68mg,196.48mg,False,False,False,"soy,gluten,wheat,sesame"
 All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,1.05,12,0.04g,0.01g,0g,0mg,35.95mg,2.59g,0.59g,1.73g,0.22g,7.86mg,0.09mg,74.77mg,True,True,False,
 All Day,ASIAN TOPPING,Salted Cucumber,2.02,9,0.06g,0.02g,0g,0mg,152.5mg,2.06g,0.29g,0.95g,0.37g,9.1mg,0.16mg,83.62mg,True,True,False,
 All Day,ASIAN TOPPING,Marinated Soy Sprouts,1.7,83,6.27g,0.88g,0g,0mg,142.37mg,4.21g,0.51g,0.04g,5.62g,29.84mg,0.92mg,211.42mg,True,True,False,"soy,sesame"
@@ -25,9 +25,9 @@ All Day,ASIAN TOPPING,Seaweed Salad,1,20,0.71g,0.14g,0g,0mg,231.24mg,3.1g,1.41g,
 All Day,ASIAN SAUCE,Green Sriracha,1.31,17,0.12g,0.03g,0g,0mg,227.94mg,3.44g,0.87g,2.1g,0.39g,7.1mg,0.11mg,81.1mg,True,True,False,
 All Day,ASIAN SAUCE,Dumpling Dipping Sauce,0.85,9,0.02g,0g,0g,0mg,272.25mg,1.38g,0.11g,0.76g,0.51g,2.24mg,0.06mg,8.87mg,True,True,False,"soy,gluten,wheat"
 All Day,ASIAN SAUCE,Red Sriracha,1.23,19,0.15g,0.01g,0g,0mg,229.92mg,4.29g,0.52g,2.55g,0.71g,7.97mg,0.36mg,109.3mg,True,True,False,
-All Day,ASIAN SAUCE,Kickin' Mayo,1,148,16.17g,0.9g,0g,0mg,157.89mg,0.55g,0g,0.54g,0.54g,0.03mg,0mg,2.15mg,False,False,False,soy
 All Day,ASIAN SAUCE,Thai Chilies w/ Vegan Fish Sauce,1.54,26,0.06g,0g,0g,0mg,2788.66mg,5.17g,0.21g,2.72g,2.23g,1.98mg,0.14mg,45.58mg,True,True,False,soy
 All Day,ASIAN SAUCE,Chojang Korean Dipping Sauce,0.99,112,7.68g,1g,0g,0mg,129.3mg,10.32g,0.01g,8.83g,0.11g,1.72mg,0.01mg,2.35mg,True,True,False,"soy,gluten,wheat,sesame"
+All Day,ASIAN SAUCE,Kickin' Mayo,1,148,16.17g,0.9g,0g,0mg,157.89mg,0.55g,0g,0.54g,0.54g,0.03mg,0mg,2.15mg,False,False,False,soy
 All Day,BOBA DRINKS,Milk Tea Boba,20.69,524,7.92g,4.22g,0g,28.56mg,48.03mg,111.67g,0.35g,62.23g,0.06g,22.17mg,0.65mg,153.55mg,True,False,False,dairy
 All Day,BOBA DRINKS,Thai Tea Boba,24.03,563,5.79g,3.13g,0.07g,19.34mg,80.3mg,124.85g,0.34g,88.27g,4.9g,190.57mg,0.68mg,165.37mg,True,False,False,dairy
 All Day,BOBA DRINKS,Taro Boba,20.57,405,6.12g,2.51g,0g,0mg,19.53mg,85.58g,0.35g,41.04g,0.06g,21.8mg,0.58mg,4.08mg,True,False,False,dairy
