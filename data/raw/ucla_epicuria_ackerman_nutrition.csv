@@ -1,24 +1,18 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
 All Day,SALADS,Caesar Salad,12.1,591,45.23g,9.94g,0g,55.72mg,861.84mg,28.94g,4.83g,2.91g,17.66g,345.13mg,2.33mg,686.83mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 All Day,SALADS,Antipasto Salad,15.91,676,58.48g,11.23g,0.18g,45.5mg,1618.6mg,23.22g,9.6g,6.9g,19.34g,399.77mg,2.98mg,966.82mg,True,False,False,"dairy,alcohol"
-All Day,SALADS,Greek Salad,16.5,628,55.7g,11.65g,0g,40.5mg,2047.96mg,19.74g,4.35g,6.17g,11.46g,83.34mg,1.68mg,634.15mg,True,False,False,dairy
 All Day,Salad Add-Ons,Grilled Chicken,4,163,5.39g,1.35g,0g,87.67mg,472.09mg,1.35g,0g,0g,26.98g,0mg,0.49mg,674.41mg,False,False,True,
 All Day,Salad Add-Ons,Grilled Salmon,4.12,245,15.94g,3.51g,0g,62.25mg,480.51mg,0.42g,0.05g,0.02g,23.19g,12.59mg,0.42mg,416.91mg,False,False,False,fish
 All Day,Salad Add-Ons,Roasted Seitan Skewer,4.28,328,21.74g,1.56g,0g,0mg,863.22mg,7.38g,0.12g,0.02g,27.31g,62.48mg,2.56mg,281.23mg,True,True,False,"soy,gluten,wheat"
 All Day,NEAPOLITAN PIZZAS,Margherita Pizza,18.23,1033,31.62g,19.43g,0g,84.79mg,2482.74mg,133.46g,5.48g,2.17g,49.81g,748.28mg,2.53mg,522.13mg,True,False,True,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Pepperoni Pizza,20.73,1043,31.55g,13.28g,0.59g,97.42mg,2845.75mg,140.5g,6.23g,5.99g,49.01g,715.64mg,2.82mg,571.68mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
-All Day,NEAPOLITAN PIZZAS,Asparagus Prosciutto Pizza,20.68,1232,44.14g,16.06g,0.64g,68.88mg,3779.29mg,155.58g,7.5g,4.1g,56.45g,919.69mg,4.81mg,771.85mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Mozzarella Pizza,17.18,999,28.78g,13.49g,0.83g,73.91mg,2659.64mg,139.74g,7.35g,4.87g,46.89g,976.96mg,4.38mg,592.41mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
-All Day,"""L.A."" PIZZA PIES",Frutti Di Mare Pizza Pie,25.18,1567,73.87g,34.4g,0.64g,384.54mg,3557.15mg,134.32g,6.21g,5.28g,77.58g,861.86mg,4.28mg,715.98mg,False,False,False,"fish,shellfish,gluten,wheat,dairy"
 All Day,"""L.A."" PIZZA PIES",Bacon Egg Saksuka Pizza Pie,28.83,1786,95.61g,43.48g,0.08g,458.86mg,4901.81mg,153.47g,10.38g,8.5g,78.45g,889.28mg,5.31mg,834.36mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,PASTAS,Spaghetti Pomodoro,18.98,317,18.29g,10.33g,0g,45.95mg,940.91mg,22.81g,3.28g,6.19g,13.72g,351.15mg,2.53mg,532.46mg,True,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Chicken Fettuccine,21.63,766,52.85g,32.98g,1.16g,201.59mg,1749.17mg,37.34g,2.94g,8.58g,34.52g,375.46mg,2.94mg,750.92mg,False,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Ricotta Rosa Baked Pasta,20.04,824,48.79g,27.6g,0.28g,479.28mg,2323.12mg,46.52g,2.95g,15g,51.01g,3238.85mg,3.81mg,388.23mg,True,False,True,"gluten,wheat,dairy,eggs"
-All Day,PASTAS,Vegetarian Fettucine,20.45,678,49.67g,31.82g,1.16g,153.59mg,1491.48mg,37.44g,3.71g,8.64g,20.46g,381.43mg,3.3mg,450.75mg,True,False,False,"gluten,wheat,dairy"
 All Day,PASTAS,Shrimp Spaghetti Fra Diavolo,22.48,450,25.62g,13.57g,0g,227.86mg,1665.45mg,25.93g,4.27g,6.31g,28.29g,333.13mg,4.52mg,803.89mg,False,False,False,"fish,gluten,wheat,dairy"
 All Day,SANDWICHES,Mozzarella Di Bufala Sandwich,13.83,657,32.5g,16.07g,0g,67.93mg,1262.87mg,59.27g,3.06g,6.12g,30.81g,519.71mg,1.57mg,496.62mg,True,False,False,"gluten,wheat,dairy,alcohol"
-All Day,SANDWICHES,Eggplant Parmesan Sandwich,18.86,585,29.03g,14.27g,0g,61.48mg,8115.55mg,42.39g,2.73g,3.15g,36.25g,849.8mg,2.25mg,474.03mg,True,False,False,"gluten,wheat,dairy"
-All Day,SANDWICHES,Prosciutto Quattro Formaggio Sandwich,14.25,1185,75.04g,51.66g,0g,207.32mg,4030.68mg,63.78g,2.06g,8.97g,67.49g,1252.53mg,0.89mg,159.82mg,False,False,False,"gluten,wheat,dairy,alcohol"
 All Day,SANDWICHES,Chicken Gyro Sandwich,14,536,15.91g,6.71g,0.04g,109.91mg,1865.56mg,54.32g,3.81g,7.02g,41.35g,371.64mg,5.91mg,953.99mg,False,False,False,"soy,gluten,wheat,sesame,dairy"
 All Day,Sides,Oatmeal Raisin Cookie,3.99,452,17.33g,10.08g,0g,64.85mg,224.96mg,68.41g,3.75g,34.02g,7.06g,27.8mg,2.29mg,215.66mg,True,False,True,"gluten,wheat,dairy,eggs"
 All Day,Sides,Chocolate Chip Cookie,4,470,22.21g,13.24g,0.01g,89.62mg,182.35mg,67.78g,2.98g,43.18g,7.25g,20.79mg,3.51mg,131.09mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
