@@ -1,9 +1,19 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Extended Dinner,Plain Chicken Wings,Plain Chicken Wings,9.05,555,39.96g,11.26g,0g,186.99mg,4252.56mg,1.46g,0.56g,0.03g,45.12g,59.92mg,2.62mg,30.11mg,False,False,False,
-Extended Dinner,Frank's RedHot® Chicken Wings,Frank's RedHot® Chicken Wings,12.09,661,47.69g,13.43g,0g,223.2mg,6056.93mg,1.44g,0.58g,0g,53.82g,69.58mg,3.08mg,105.73mg,False,False,False,
-Extended Dinner,Lemon Pepper Chicken Wings,Lemon Pepper Chicken Wings,10.55,676,50.53g,16.03g,0g,226.46mg,4469.15mg,1.44g,0.57g,0g,51.22g,66.71mg,2.93mg,30.11mg,False,False,False,dairy
-Extended Dinner,BBQ Chicken Wings,BBQ Chicken Wings,10.39,612,41.55g,11.37g,0g,187.13mg,4616.29mg,11.93g,0.59g,8.22g,45.18g,60.17mg,2.62mg,32.22mg,False,False,False,
-Extended Dinner,Wedge Cut Fries,Wedge Cut Fries,3.01,112,4.05g,1.01g,0g,0mg,381.9mg,17.2g,2.02g,1.01g,2.02g,20.24mg,0.6mg,333.83mg,True,True,False,
+Extended Dinner,Bruin Waffle Plate,Bruin Waffle Plate,8.58,643,34.18g,12.81g,0.05g,390.2mg,520.94mg,63.72g,0.63g,35.74g,19.64g,65.71mg,2.46mg,237.44mg,False,False,False,"gluten,wheat,dairy,eggs,alcohol"
+Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,10,138,1.11g,0.17g,0g,5.67mg,42.51mg,20.83g,5.72g,13.29g,13.06g,155.3mg,0.88mg,400.44mg,True,False,False,dairy
+Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,11.5,277,8.21g,1.11g,0g,2.84mg,39.69mg,45.98g,6.16g,32.59g,7.1g,106.8mg,0.49mg,361.78mg,True,False,False,"gluten,tree_nuts,dairy"
+Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,14,137,0.48g,0.08g,0g,0mg,16.82mg,35g,2.82g,29.28g,2.1g,30.47mg,0.83mg,528.34mg,True,True,False,
+Extended Dinner,Oatmeal,Oatmeal,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"gluten,peanuts"
+Extended Dinner,Instant Oatmeal - Baked Apple,Instant Oatmeal - Baked Apple,1.5,159,1.97g,0.49g,0g,0mg,157.77mg,32.54g,3.94g,10.85g,3.94g,19.72mg,0mg,147.91mg,True,True,False,gluten
+Extended Dinner,Multi Grain Cheerios,Multi Grain Cheerios,2,210,2.31g,0.5g,0g,0mg,226.97mg,46.07g,4.92g,12g,4.7g,195.27mg,15.79mg,273.38mg,True,True,False,
+Extended Dinner,Cheerios Cereal,Cheerios Cereal,1.5,153,2.72g,0.54g,0g,0mg,206.56mg,31.53g,4.35g,2.18g,5.44g,141.33mg,13.7mg,271.8mg,True,True,False,
+Extended Dinner,Honey Nut Cheerios Cereal,Honey Nut Cheerios Cereal,1.5,161,2.29g,0g,0g,0mg,240.65mg,34.38g,3.44g,13.95g,3.44g,180.2mg,8.72mg,174.69mg,True,True,False,"gluten,tree_nuts,wheat"
+Extended Dinner,Lucky Charms Cereal,Lucky Charms Cereal,1,108,1.42g,0.25g,0g,0mg,182.74mg,22.81g,1.41g,10.19g,2.16g,122.39mg,6.28mg,62.6mg,True,True,False,
+Extended Dinner,Cinnamon Toast Crunch Cereal,Cinnamon Toast Crunch Cereal,1.5,187,4.14g,0g,0g,0mg,237.86mg,34.13g,2.07g,12.41g,2.07g,134.44mg,3.72mg,0mg,True,True,False,"soy,gluten,wheat"
+Extended Dinner,Cocoa Puffs,Cocoa Puffs,1,109,1.47g,0.28g,0g,0mg,159.05mg,23.6g,1.61g,10.49g,1.58g,104.34mg,4.71mg,76.7mg,True,True,False,
+Extended Dinner,Trix Cereal,Trix Cereal,1,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
+Extended Dinner,Rice Chex Cereal,Rice Chex Cereal,1,114,0.71g,0g,0g,0mg,232.65mg,24.68g,1.41g,2.12g,2.12g,91.65mg,0mg,0mg,True,True,False,
+Extended Dinner,Blackened Chicken Bowl,Blackened Chicken Bowl,18.17,1242,12.15g,2.11g,0g,96.87mg,751.08mg,227.99g,12.36g,9.32g,47.95g,125.66mg,19.06mg,1046.22mg,False,False,False,
 Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy"
@@ -110,8 +120,8 @@ Extended Dinner,Onion Bagel,Onion Bagel,4,320,1.34g,0g,0g,0mg,453.2mg,63.98g,2.6
 Extended Dinner,Everything Bagels,Everything Bagels,1.33,111,1.11g,0g,0g,0mg,256.56mg,21.23g,1.33g,1.77g,3.98g,44.24mg,1.28mg,35.39mg,True,True,False,"soy,gluten,wheat,sesame"
 Extended Dinner,Whole Wheat Bagel,Whole Wheat Bagel,3,211,1.88g,0g,0g,0mg,413.23mg,42.82g,2.25g,3.75g,7.51g,67.62mg,2.63mg,82.65mg,True,True,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
 Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,14,137,0.48g,0.08g,0g,0mg,16.82mg,35g,2.82g,29.28g,2.1g,30.47mg,0.83mg,528.34mg,True,True,False,
-Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,10,138,1.11g,0.17g,0g,5.67mg,42.51mg,20.83g,5.72g,13.29g,13.06g,155.3mg,0.88mg,400.44mg,True,False,False,dairy
 Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,11.5,277,8.21g,1.11g,0g,2.84mg,39.69mg,45.98g,6.16g,32.59g,7.1g,106.8mg,0.49mg,361.78mg,True,False,False,"gluten,tree_nuts,dairy"
+Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,10,138,1.11g,0.17g,0g,5.67mg,42.51mg,20.83g,5.72g,13.29g,13.06g,155.3mg,0.88mg,400.44mg,True,False,False,dairy
 Extended Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,3.99,452,17.33g,10.08g,0g,64.85mg,224.96mg,68.41g,3.75g,34.02g,7.06g,27.8mg,2.29mg,215.66mg,True,False,True,"gluten,wheat,dairy,eggs"
 Extended Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,4,470,22.21g,13.24g,0.01g,89.62mg,182.35mg,67.78g,2.98g,43.18g,7.25g,20.79mg,3.51mg,131.09mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 Extended Dinner,Banana,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,7.08mg,0.37mg,506.93mg,True,True,False,
