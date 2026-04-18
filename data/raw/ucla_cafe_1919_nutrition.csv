@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Lunch / Dinner,Thu - Lasagna Bolognese,Thu - Lasagna Bolognese,18.74,974,41.33g,21.89g,0.32g,125.26mg,1105.96mg,99.65g,8.98g,33.73g,51.53g,818.53mg,4.99mg,868.99mg,False,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+Lunch / Dinner,Mount Vesuvius,Mount Vesuvius,5.2,481,52.57g,31.63g,0.19g,202.08mg,84.64mg,45.6g,5.14g,36.34g,7.22g,50.97mg,2.53mg,276.48mg,True,False,True,"soy,gluten,peanuts,tree_nuts,sesame,dairy,eggs"
 Lunch / Dinner,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24.75g,282.72mg,2.78mg,561.47mg,True,False,False,dairy
 Lunch / Dinner,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,359.75mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.41mg,False,False,False,dairy
 Lunch / Dinner,Gamberetti,Gamberetti,9,424,31.03g,7.68g,0.03g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg,False,False,False,"fish,dairy"
