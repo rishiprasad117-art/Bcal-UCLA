@@ -1,17 +1,17 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Lunch,Psistaris,Balsamic Chicken Wings,4.5,277,17.65g,4.95g,0g,85.09mg,112.79mg,8.25g,0g,6.78g,20.27g,17.52mg,1.06mg,173mg,False,False,True,
-Lunch,Psistaris,Halloumi Grilled Cheese Pita,5.25,484,42.75g,12.64g,0g,40.45mg,765.91mg,12.91g,0.73g,1.4g,14.63g,236mg,3.14mg,92.31mg,True,False,True,"soy,gluten,wheat,dairy"
-Lunch,Psistaris,Stewed Cannellini Beans,3.69,71,3g,0.27g,0g,0mg,373.61mg,8.27g,2.3g,1.66g,2.57g,25.17mg,0.69mg,135.59mg,True,True,False,
-Lunch,Psistaris,Roasted Zucchini,2.05,25,1.58g,0.14g,0g,0mg,60.08mg,1.76g,0.62g,0g,1.53g,11.9mg,0.45mg,259.32mg,True,True,True,
-Lunch,Psistaris,Roasted Bell Peppers,1,6,0.05g,0.02g,0g,0mg,0.85mg,1.31g,0.48g,0.68g,0.24g,2.82mg,0.1mg,49.35mg,True,True,False,
+Lunch,Psistaris,Beef Pita Shawarma,4.37,217,13.07g,2.65g,0.01g,32.52mg,1035.15mg,10.75g,0.99g,1.58g,13.07g,53.53mg,3.59mg,100.24mg,False,False,True,"soy,gluten,wheat,dairy"
+Lunch,Psistaris,Mixed Vegetable Fritto,3.36,80,1.24g,0.16g,0g,0mg,199.15mg,12.44g,3g,2.48g,5.01g,17.17mg,1.06mg,319.81mg,True,True,True,
+Lunch,Psistaris,Greek Lemon Herb Potatoes,2.62,54,0.13g,0.04g,0g,0mg,12.94mg,12.01g,1.37g,0.93g,1.48g,15.67mg,0.65mg,329.26mg,True,True,False,
+Lunch,Psistaris,Pan Roasted Brussels Sprouts,1.45,28,1.24g,0.18g,0g,0mg,52.05mg,3.89g,1.35g,1.01g,1.21g,17.11mg,0.48mg,137.22mg,True,True,True,
+Lunch,Psistaris,Roasted Cumin & Coriander Carrots,2,14,0.75g,0.06g,0g,0mg,160.7mg,1.81g,0.47g,0.97g,0.18g,7.08mg,0.11mg,42.68mg,True,True,True,
 Lunch,Psistaris,Greek Salad,2.02,66,6.76g,0.02g,0g,0mg,581.13mg,4.49g,0.46g,1.2g,0.4g,7.44mg,0.14mg,90.9mg,True,True,False,
 Lunch,Psistaris,Moroccan Couscous Salad,2.02,125,5.96g,0.46g,0g,0mg,46.62mg,16.28g,3.41g,4.94g,2.79g,20.75mg,1.1mg,290.88mg,True,True,False,"gluten,tree_nuts,wheat"
 Lunch,Psistaris,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,2,40,1.38g,0.2g,0g,0mg,66.95mg,6.67g,2.17g,3.22g,0.92g,25.74mg,0.46mg,169.75mg,True,True,False,
-Lunch,Alimenti,Spanish Pork Chop,4.56,106,10.72g,0.79g,0g,0mg,89.37mg,1.67g,0.83g,0.22g,0.36g,12.11mg,0.56mg,50.7mg,False,False,False,
-Lunch,Alimenti,Herbed Rice Pilaf,3,178,1.06g,0.18g,0g,0mg,114.57mg,37.25g,1.21g,0.79g,3.55g,39.35mg,1.63mg,117.46mg,True,True,True,
-Lunch,Alimenti,Espinacas con Garbanzos,3.67,115,6.29g,0.31g,0g,0mg,378.87mg,12.14g,3.52g,2.72g,3.95g,52.56mg,1.54mg,312.38mg,True,True,True,
-Lunch,Alimenti,Beef Barley Soup,4,49,1.12g,0.32g,0.03g,8.4mg,50.86mg,6.22g,1.27g,1.57g,3.7g,17.55mg,0.44mg,161.71mg,False,False,True,gluten
-Lunch,Alimenti,Lentil Soup,6.02,103,1.19g,0.49g,0g,1.84mg,43.76mg,17.96g,3.29g,2.06g,5.92g,26.89mg,1.6mg,261.05mg,True,False,True,"gluten,wheat,dairy"
+Lunch,Alimenti,Lebanese Style Fish,2.72,55,0.35g,0.01g,0g,33.86mg,683.02mg,0.18g,0.07g,0g,12.82g,10.73mg,0.1mg,262.66mg,False,False,True,"fish,sesame"
+Lunch,Alimenti,Spinach & Roasted Pepper Bulgur Wheat,2.8,167,0.98g,0.02g,0g,0mg,144.2mg,32.37g,4.82g,0.69g,6.42g,16.02mg,0.98mg,116.15mg,True,True,True,"gluten,wheat,sesame"
+Lunch,Alimenti,Artichokes,4,113,5.48g,0.41g,0g,0mg,222.85mg,12.13g,4.61g,1.88g,2.78g,10.29mg,0.1mg,267.4mg,True,True,True,
+Lunch,Alimenti,Chicken Noodle Soup,6.01,340,3.25g,0.27g,0g,15.99mg,229.91mg,65.16g,3.63g,4.09g,14.12g,12.3mg,2.95mg,114.27mg,False,False,True,"gluten,wheat"
+Lunch,Alimenti,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
 Lunch,Dolce,Classic Chocolate Chip Cookie,1.3,162,7.38g,2.96g,0g,0mg,134.72mg,22.79g,0.87g,12.26g,2.31g,3.17mg,1.03mg,25.66mg,True,True,True,"soy,gluten,wheat"
 Lunch,Dolce,Greek Cinnamon Olive Oil Cookies,1,112,5.08g,0.72g,0g,0mg,32.66mg,15.28g,0.53g,6.75g,1.57g,2.5mg,0.5mg,9.38mg,True,True,True,"gluten,wheat"
 Lunch,Dolce,Lemon & Honey Panna Cotta,2.22,190,15.93g,10.15g,0.54g,49.87mg,16.62mg,10.74g,0.07g,10.69g,2.05g,37.72mg,0.07mg,54.55mg,True,False,False,dairy
@@ -43,117 +43,8 @@ Lunch,Mezze,Dolma,2.65,94,3.75g,0.47g,0g,0mg,375mg,14.06g,3.75g,0.94g,1.88g,609.
 Lunch,Mezze,Grated Parmesan Cheese,1,95,4.7g,4.7g,0g,23.5mg,211.5mg,0g,0g,0g,9.4g,0mg,0mg,47mg,True,False,True,dairy
 Lunch,Capri Pizza,Cheese Pizza,2.84,196,7.98g,2.26g,0g,8.47mg,408.17mg,23.24g,0.92g,0.46g,7.47g,92.93mg,0.57mg,77.3mg,True,False,True,"gluten,wheat,dairy"
 Lunch,Capri Pizza,Pepperoni Pizza,3.17,215,9.1g,4.3g,0g,20.97mg,547.75mg,23.46g,0.89g,0.43g,8.92g,133.78mg,0.47mg,67.48mg,False,False,False,"gluten,wheat,dairy"
-Lunch,Capri Pizza,Margherita Pizza,3.49,201,8.3g,2.51g,0g,9.51mg,392.67mg,23.68g,1.14g,0.9g,7.47g,104.53mg,0.53mg,120.66mg,True,False,True,"gluten,wheat,dairy"
+Lunch,Capri Pizza,Kiymali Pide (Turkish Pizza),7.7,760,62.65g,11g,0g,48.85mg,801.49mg,29.37g,1.72g,1.4g,15.82g,176.09mg,2.75mg,225.38mg,False,False,True,"gluten,wheat,dairy"
 Lunch,Capri Pizza,Caesar Salad,3,454,47.72g,6.94g,0g,43.15mg,393.15mg,2.33g,0.2g,0.35g,2.46g,16.12mg,0.25mg,54.99mg,True,False,True,"fish,soy,gluten,wheat,dairy,eggs"
 Lunch,Capri Pizza,Greek Salad,2.02,66,6.76g,0.02g,0g,0mg,581.13mg,4.49g,0.46g,1.2g,0.4g,7.44mg,0.14mg,90.9mg,True,True,False,
 Lunch,Capri Pizza,Moroccan Couscous Salad,2.02,125,5.96g,0.46g,0g,0mg,46.62mg,16.28g,3.41g,4.94g,2.79g,20.75mg,1.1mg,290.88mg,True,True,False,"gluten,tree_nuts,wheat"
 Lunch,Capri Pizza,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,2,40,1.38g,0.2g,0g,0mg,66.95mg,6.67g,2.17g,3.22g,0.92g,25.74mg,0.46mg,169.75mg,True,True,False,
-Lunch,Capri Pizza,Honey,,305,0g,0g,0g,0mg,4mg,82.4g,0.2g,82.1g,0.3g,6mg,0.4mg,52mg,False,False,False,
-Lunch,Capri Pizza,Banana Peppers,,18,0g,0g,0g,0mg,1000mg,3.6g,3.6g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Valbresco Feta Cheese,,250,21.4g,16.1g,0g,71.4mg,1071.4mg,0g,0g,0g,14.3g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Black Olives,,115,10.7g,1.4g,0g,0mg,735mg,6.3g,3.2g,0g,0.8g,88mg,3.3mg,8mg,False,False,False,
-Lunch,Capri Pizza,Gala Apple,,57,0.1g,0g,0g,0mg,1mg,13.7g,2.3g,10.4g,0.3g,7mg,0.1mg,108mg,False,False,False,
-Lunch,Capri Pizza,Granny Smith Apple,,58,0.2g,0g,0g,0mg,1mg,13.6g,2.8g,9.6g,0.4g,5mg,0.2mg,120mg,False,False,False,
-Lunch,Capri Pizza,Oranges,,48,0.1g,0g,0g,0mg,0mg,11.8g,2.4g,9.4g,0.9g,40mg,0.1mg,181mg,False,False,False,
-Lunch,Capri Pizza,Bananas,,89,0.3g,0.1g,0g,0mg,1mg,22.8g,2.6g,12.2g,1.1g,5mg,0.3mg,358mg,False,False,False,
-Lunch,Capri Pizza,Watermelon,,31,0.2g,0g,0g,0mg,1mg,7.6g,0.4g,6.2g,0.6g,7mg,0.2mg,112mg,False,False,False,
-Lunch,Capri Pizza,Clementine Tangerine,,54,0.3g,0g,0g,0mg,2mg,13.3g,1.8g,10.6g,0.8g,37mg,0.2mg,166mg,False,False,False,
-Lunch,Capri Pizza,Coffee,,354,0.5g,0.2g,0g,0mg,37mg,75.4g,0g,0g,12.2g,141mg,4.4mg,3535mg,False,False,False,
-Lunch,Capri Pizza,Coffee Espresso,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
-Lunch,Capri Pizza,Espresso Coffee Bean (Decaf),,352,0.2g,0.1g,0g,0mg,23mg,76g,0g,0g,11.6g,140mg,3.8mg,3501mg,False,False,False,
-Lunch,Capri Pizza,Coffee Rainforest,,354,0.5g,0.2g,0g,0mg,37mg,75.4g,0g,0g,12.2g,141mg,4.4mg,3535mg,False,False,False,
-Lunch,Capri Pizza,Rainforest Coffee (Decaf),,354,0.5g,0.2g,0g,0mg,37mg,75.4g,0g,0g,12.2g,141mg,4.4mg,3535mg,False,False,False,
-Lunch,Capri Pizza,Apple Cinnamon Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Chamomile Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Earl Grey Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Mint Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Cranberry Apple Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,White Orange Spice Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Green Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Iced Blueberry Hibiscus Tea,,1,0g,0g,0g,0mg,1mg,0g,0g,0g,0.2g,0mg,0mg,8mg,False,False,False,
-Lunch,Capri Pizza,Tropical Iced Tea,,33,0g,0g,0g,0mg,4mg,8.1g,0g,7.8g,0g,0mg,0mg,0mg,False,False,False,
-Lunch,Capri Pizza,Lemon Tea,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
-Lunch,Capri Pizza,Granulated Sugar,,375,0g,0g,0g,0mg,0mg,100g,0g,100g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri,Penne w/ Italian Sausage,5.59,260,9.01g,1.55g,0g,11.99mg,409.21mg,36.46g,2.72g,4.29g,9.92g,12.53mg,1.74mg,204.8mg,False,False,False,"gluten,wheat"
-Dinner,Capri,Pasta Arrabbiata,5.78,912,11.81g,0.92g,0.02g,0mg,182.7mg,172.14g,8.19g,8.19g,15.3g,54.91mg,5.21mg,537.74mg,True,True,True,"gluten,wheat,eggs"
-Dinner,Psistaris,Rosemary Salmon,2.54,181,14.35g,2.71g,0g,31.59mg,121.61mg,1.07g,0.24g,0.22g,11.9g,11.08mg,0.32mg,231.44mg,False,False,True,fish
-Dinner,Psistaris,Cauliflower Fritter,1.05,48,1.07g,0.21g,0g,14.05mg,74.88mg,6.57g,1.38g,1.41g,2.85g,11.8mg,0.64mg,132.13mg,True,False,True,eggs
-Dinner,Psistaris,Mint Couscous,2,89,0.15g,0.03g,0g,0mg,35.26mg,18.28g,1.19g,0g,3.02g,6.85mg,0.27mg,39.59mg,True,True,True,"gluten,wheat"
-Dinner,Psistaris,Wild Mushroom Saute,2.55,34,2.09g,0.17g,0g,0mg,63.47mg,2.62g,0.76g,1.45g,2.13g,4.11mg,0.38mg,219.28mg,True,True,True,
-Dinner,Psistaris,Grilled Kale w/ Orange & Crushed Red Chili,2.66,48,1.93g,0.16g,0g,0mg,859.76mg,6.32g,2.6g,1.6g,3.05g,120.22mg,1.07mg,349.78mg,True,True,True,
-Dinner,Psistaris,Greek Salad,2.02,66,6.76g,0.02g,0g,0mg,581.13mg,4.49g,0.46g,1.2g,0.4g,7.44mg,0.14mg,90.9mg,True,True,False,
-Dinner,Psistaris,Moroccan Couscous Salad,2.02,125,5.96g,0.46g,0g,0mg,46.62mg,16.28g,3.41g,4.94g,2.79g,20.75mg,1.1mg,290.88mg,True,True,False,"gluten,tree_nuts,wheat"
-Dinner,Psistaris,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,2,40,1.38g,0.2g,0g,0mg,66.95mg,6.67g,2.17g,3.22g,0.92g,25.74mg,0.46mg,169.75mg,True,True,False,
-Dinner,Alimenti,Italian Fried Chicken,6,369,22.81g,6.55g,0.15g,113.49mg,320.54mg,8.53g,0.65g,0.27g,29.78g,34.82mg,2.19mg,304.5mg,False,False,True,"gluten,wheat,dairy"
-Dinner,Alimenti,Polenta,3.74,271,18.98g,11.1g,0.18g,52.22mg,455.65mg,14.98g,1.24g,1.84g,12.06g,267.26mg,0.06mg,115.78mg,True,False,True,dairy
-Dinner,Alimenti,Roasted Beets & Sweet Potatoes w/ Polenta,5.97,314,20.44g,9.66g,0.14g,43mg,539.26mg,23.3g,3.45g,5.53g,11.57g,243.47mg,0.61mg,440.37mg,True,True,True,dairy
-Dinner,Alimenti,Beef Barley Soup,4,49,1.12g,0.32g,0.03g,8.4mg,50.86mg,6.22g,1.27g,1.57g,3.7g,17.55mg,0.44mg,161.71mg,False,False,True,gluten
-Dinner,Alimenti,Lentil Soup,6.02,103,1.19g,0.49g,0g,1.84mg,43.76mg,17.96g,3.29g,2.06g,5.92g,26.89mg,1.6mg,261.05mg,True,False,True,"gluten,wheat,dairy"
-Dinner,Dolce,Greek Cinnamon Olive Oil Cookies,1,112,5.08g,0.72g,0g,0mg,32.66mg,15.28g,0.53g,6.75g,1.57g,2.5mg,0.5mg,9.38mg,True,True,True,"gluten,wheat"
-Dinner,Dolce,Classic Chocolate Chip Cookie,1.3,162,7.38g,2.96g,0g,0mg,134.72mg,22.79g,0.87g,12.26g,2.31g,3.17mg,1.03mg,25.66mg,True,True,True,"soy,gluten,wheat"
-Dinner,Dolce,Lemon & Honey Panna Cotta,2.22,190,15.93g,10.15g,0.54g,49.87mg,16.62mg,10.74g,0.07g,10.69g,2.05g,37.72mg,0.07mg,54.55mg,True,False,False,dairy
-Dinner,Dolce,Strawberry Mousse Cake,1.88,260,16.43g,3.95g,0.09g,24.88mg,153.42mg,28.16g,0.77g,19.57g,2.89g,26.46mg,0.74mg,58.18mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
-Dinner,Dolce,Brown Butter Tart,2.27,275,17.23g,10.36g,0.01g,92.43mg,27.78mg,28.47g,0.46g,22.14g,3.03g,14.76mg,0.58mg,28.2mg,True,False,True,"soy,gluten,wheat,dairy,eggs"
-Dinner,Dolce,Yogurt Bar,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,False,False,dairy
-Dinner,Mezze,Focaccia,3.94,265,5.76g,0.83g,0g,0.03mg,482.87mg,44.95g,1.48g,0.21g,7.42g,10.99mg,0.57mg,62.11mg,True,True,True,"gluten,wheat"
-Dinner,Mezze,Lavash Chips,1,82,2.91g,0.21g,0g,0mg,95.04mg,10.51g,0.52g,0.5g,2g,1.35mg,0.02mg,2.44mg,True,True,True,"gluten,wheat,sesame"
-Dinner,Mezze,Sun-Dried Tomato Pesto,0.98,146,12.58g,1.8g,0g,0mg,22.89mg,7.16g,3.06g,34.33g,2.05g,1.96mg,0.03mg,3.09mg,True,True,True,
-Dinner,Mezze,Parsley Pesto,1.31,159,14.78g,2.05g,0g,5.29mg,107.42mg,2.09g,0.69g,0.19g,4.86g,69.1mg,1.17mg,120.27mg,False,False,True,dairy
-Dinner,Mezze,Garlic Oil,1.46,275,27.25g,1.95g,0g,0mg,2.4mg,4.67g,0.3g,0.14g,0.9g,25.56mg,0.24mg,56.62mg,True,True,True,
-Dinner,Mezze,Paprika Garlic Spread,1.18,227,24.29g,3.32g,0g,21.81mg,209.45mg,1.59g,0.86g,0.23g,0.39g,7.36mg,0.5mg,57.13mg,True,False,True,"soy,eggs"
-Dinner,Mezze,Hummus,,10,0.63g,0.09g,0g,0mg,20.04mg,0.69g,0.18g,0.11g,0.26g,1.4mg,0.03mg,3.53mg,True,True,True,sesame
-Dinner,Mezze,Tzatziki,1.03,20,0.53g,0.09g,0g,1.24mg,12.08mg,1.22g,0.08g,0.9g,2.57g,29.09mg,0.06mg,46.04mg,True,False,True,dairy
-Dinner,Mezze,Muhammara (Spicy Roasted Pepper Dip),1.99,97,8.38g,0.56g,0g,0mg,270.41mg,3.5g,1.06g,2.08g,1.68g,4.82mg,0.42mg,104.32mg,True,True,True,tree_nuts
-Dinner,Mezze,Artichoke Spinach Dip,2.28,120,10.13g,6.26g,0.05g,30.93mg,248.21mg,5.47g,1.67g,1.26g,2.92g,32.84mg,0.18mg,120.85mg,True,False,True,dairy
-Dinner,Mezze,Smoked Mozzarella Spread,1.02,154,14.69g,3.34g,0g,18.47mg,162.66mg,1.8g,0.76g,8.6g,3.17g,64.68mg,0.01mg,8.59mg,True,False,True,"soy,dairy,eggs"
-Dinner,Mezze,Zhug,1.08,137,14.32g,1.04g,0g,0mg,225.43mg,1.73g,0.75g,0.25g,0.48g,16.23mg,0.82mg,80.8mg,True,True,True,
-Dinner,Mezze,Morrocan Spicy Lentil Dip,4.19,190,1.69g,0.24g,0g,0mg,231.5mg,32.65g,5.64g,1.48g,12.44g,25.83mg,3.26mg,353.26mg,True,True,True,
-Dinner,Mezze,"White Bean, Feta, & Za'atar Spread",1.14,56,3.69g,0.84g,0g,2.17mg,276.46mg,3.89g,1.13g,0.52g,1.89g,20.52mg,0.28mg,57.28mg,True,False,True,"sesame,dairy"
-Dinner,Mezze,Garlic Lebneh,8.64,142,0.91g,0.27g,0.02g,11.33mg,1841.78mg,10.18g,0.15g,7.54g,23.43g,259.44mg,0.24mg,348.03mg,True,False,True,dairy
-Dinner,Mezze,Htipiti,1,57,4.44g,1.95g,0g,7.98mg,312.24mg,2.25g,0.58g,0.83g,2.07g,6.91mg,0.13mg,71.65mg,True,False,True,dairy
-Dinner,Mezze,Cauliflower Skordalia Spread,1.21,49,3.25g,0.31g,0g,0mg,63.88mg,3.99g,1.14g,0.63g,1.53g,8.08mg,0.2mg,136.26mg,True,True,True,tree_nuts
-Dinner,Mezze,Fava Bean Dip with Dill,2.13,58,2.45g,0.28g,0g,0mg,242.32mg,7.02g,1.83g,2.56g,2.91g,11.55mg,0.12mg,25.48mg,True,True,True,
-Dinner,Mezze,Tunisian Vegetable Dip,1,33,1.81g,0.23g,0g,0mg,33.15mg,4.21g,0.66g,2.39g,0.44g,9.01mg,0.22mg,70.05mg,True,True,False,tree_nuts
-Dinner,Mezze,Marinated Red Grape Tomatoes,4.7,313,31.69g,2.28g,0g,0mg,293.92mg,4.38g,1.16g,2.99g,0.88g,15.35mg,0.36mg,214.72mg,True,True,False,
-Dinner,Mezze,Pitted Kalamata Olives,1,237,28.2g,0g,0g,0mg,2444.04mg,9.4g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
-Dinner,Mezze,Pickled Vegetables,2.05,15,0.06g,0.01g,0g,0mg,214.43mg,2.44g,0.71g,1.17g,0.31g,12.83mg,0.11mg,88.03mg,True,True,False,
-Dinner,Mezze,Dolma,2.65,94,3.75g,0.47g,0g,0mg,375mg,14.06g,3.75g,0.94g,1.88g,609.38mg,6.75mg,354.38mg,True,True,True,soy
-Dinner,Mezze,Grated Parmesan Cheese,1,95,4.7g,4.7g,0g,23.5mg,211.5mg,0g,0g,0g,9.4g,0mg,0mg,47mg,True,False,True,dairy
-Dinner,Capri Pizza,Cheese Pizza,2.84,196,7.98g,2.26g,0g,8.47mg,408.17mg,23.24g,0.92g,0.46g,7.47g,92.93mg,0.57mg,77.3mg,True,False,True,"gluten,wheat,dairy"
-Dinner,Capri Pizza,Pepperoni Pizza,3.17,215,9.1g,4.3g,0g,20.97mg,547.75mg,23.46g,0.89g,0.43g,8.92g,133.78mg,0.47mg,67.48mg,False,False,False,"gluten,wheat,dairy"
-Dinner,Capri Pizza,Margherita Pizza,3.49,201,8.3g,2.51g,0g,9.51mg,392.67mg,23.68g,1.14g,0.9g,7.47g,104.53mg,0.53mg,120.66mg,True,False,True,"gluten,wheat,dairy"
-Dinner,Capri Pizza,Caesar Salad,3,454,47.72g,6.94g,0g,43.15mg,393.15mg,2.33g,0.2g,0.35g,2.46g,16.12mg,0.25mg,54.99mg,True,False,True,"fish,soy,gluten,wheat,dairy,eggs"
-Dinner,Capri Pizza,Greek Salad,2.02,66,6.76g,0.02g,0g,0mg,581.13mg,4.49g,0.46g,1.2g,0.4g,7.44mg,0.14mg,90.9mg,True,True,False,
-Dinner,Capri Pizza,Moroccan Couscous Salad,2.02,125,5.96g,0.46g,0g,0mg,46.62mg,16.28g,3.41g,4.94g,2.79g,20.75mg,1.1mg,290.88mg,True,True,False,"gluten,tree_nuts,wheat"
-Dinner,Capri Pizza,Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette,2,40,1.38g,0.2g,0g,0mg,66.95mg,6.67g,2.17g,3.22g,0.92g,25.74mg,0.46mg,169.75mg,True,True,False,
-Dinner,Capri Pizza,Honey,,305,0g,0g,0g,0mg,4mg,82.4g,0.2g,82.1g,0.3g,6mg,0.4mg,52mg,False,False,False,
-Dinner,Capri Pizza,Banana Peppers,,18,0g,0g,0g,0mg,1000mg,3.6g,3.6g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Valbresco Feta Cheese,,250,21.4g,16.1g,0g,71.4mg,1071.4mg,0g,0g,0g,14.3g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Black Olives,,115,10.7g,1.4g,0g,0mg,735mg,6.3g,3.2g,0g,0.8g,88mg,3.3mg,8mg,False,False,False,
-Dinner,Capri Pizza,Gala Apple,,57,0.1g,0g,0g,0mg,1mg,13.7g,2.3g,10.4g,0.3g,7mg,0.1mg,108mg,False,False,False,
-Dinner,Capri Pizza,Granny Smith Apple,,58,0.2g,0g,0g,0mg,1mg,13.6g,2.8g,9.6g,0.4g,5mg,0.2mg,120mg,False,False,False,
-Dinner,Capri Pizza,Oranges,,48,0.1g,0g,0g,0mg,0mg,11.8g,2.4g,9.4g,0.9g,40mg,0.1mg,181mg,False,False,False,
-Dinner,Capri Pizza,Bananas,,89,0.3g,0.1g,0g,0mg,1mg,22.8g,2.6g,12.2g,1.1g,5mg,0.3mg,358mg,False,False,False,
-Dinner,Capri Pizza,Watermelon,,31,0.2g,0g,0g,0mg,1mg,7.6g,0.4g,6.2g,0.6g,7mg,0.2mg,112mg,False,False,False,
-Dinner,Capri Pizza,Clementine Tangerine,,54,0.3g,0g,0g,0mg,2mg,13.3g,1.8g,10.6g,0.8g,37mg,0.2mg,166mg,False,False,False,
-Dinner,Capri Pizza,Coffee,,354,0.5g,0.2g,0g,0mg,37mg,75.4g,0g,0g,12.2g,141mg,4.4mg,3535mg,False,False,False,
-Dinner,Capri Pizza,Coffee Espresso,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
-Dinner,Capri Pizza,Espresso Coffee Bean (Decaf),,352,0.2g,0.1g,0g,0mg,23mg,76g,0g,0g,11.6g,140mg,3.8mg,3501mg,False,False,False,
-Dinner,Capri Pizza,Coffee Rainforest,,354,0.5g,0.2g,0g,0mg,37mg,75.4g,0g,0g,12.2g,141mg,4.4mg,3535mg,False,False,False,
-Dinner,Capri Pizza,Rainforest Coffee (Decaf),,354,0.5g,0.2g,0g,0mg,37mg,75.4g,0g,0g,12.2g,141mg,4.4mg,3535mg,False,False,False,
-Dinner,Capri Pizza,Apple Cinnamon Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Chamomile Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Earl Grey Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Mint Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Cranberry Apple Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,White Orange Spice Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Green Tea,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Iced Blueberry Hibiscus Tea,,1,0g,0g,0g,0mg,1mg,0g,0g,0g,0.2g,0mg,0mg,8mg,False,False,False,
-Dinner,Capri Pizza,Tropical Iced Tea,,33,0g,0g,0g,0mg,4mg,8.1g,0g,7.8g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Lemon Tea,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
-Dinner,Capri Pizza,Granulated Sugar,,375,0g,0g,0g,0mg,0mg,100g,0g,100g,0g,0mg,0mg,0mg,False,False,False,
-Dinner,Capri Pizza,Pizza Dough,18,1094,5.2g,0.77g,0g,0.56mg,2421.97mg,219.39g,7.35g,1.17g,36.28g,91.02mg,2.86mg,305.46mg,False,False,True,"gluten,wheat"
-Dinner,Capri Pizza,White Hoagie Torpedo Roll,5.98,547,9.5g,1.25g,0.03g,1.1mg,1377.34mg,98.42g,2.71g,4.78g,14.55g,41.99mg,1.12mg,126.81mg,True,True,True,"gluten,wheat"
-Dinner,Capri Pizza,Panini Roll,65.75,4255,27.59g,3.54g,0g,2.05mg,2668.17mg,840.81g,27.59g,11g,137.74g,239.32mg,10.62mg,1151.7mg,True,True,True,"gluten,wheat"
-Dinner,Capri Pizza,Fluffy Potato Bun,2.25,168,3.85g,2.2g,0.01g,24.75mg,278.33mg,26.66g,1.17g,3.43g,5.26g,34.58mg,1.35mg,60.77mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
-Dinner,Capri Pizza,Focaccia,3.94,265,5.76g,0.83g,0g,0.03mg,482.87mg,44.95g,1.48g,0.21g,7.42g,10.99mg,0.57mg,62.11mg,True,True,True,"gluten,wheat"
