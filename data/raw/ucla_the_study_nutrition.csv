@@ -46,6 +46,7 @@ All Day,PASTRIES & VERRINES,Red Velvet Cake,6.06,873,55.05g,13.62g,0.29g,98.38mg
 All Day,PASTRIES & VERRINES,Strawberry Hibiscus Lemonade,20,312,0.62g,0.06g,0g,0mg,16.21mg,81.58g,4.14g,74.83g,1.47g,38.38mg,0.91mg,332.71mg,True,True,False,
 All Day,PASTRIES & VERRINES,Mango Mint,18.29,350,0.98g,0.26g,0g,0mg,31.1mg,89.68g,6.48g,82.53g,3.21g,150.96mg,7.88mg,514.51mg,True,True,False,
 All Day,PASTRIES & VERRINES,Beets Booster,6.02,72,0.32g,0.07g,0g,0mg,51.35mg,17.28g,3.51g,11.36g,1.83g,34.94mg,0.94mg,360.43mg,True,True,False,
+All Day,PASTRIES & VERRINES,Vitamin C Booster,6.09,77,0.33g,0.07g,0g,0mg,4.54mg,19.46g,3.16g,12.52g,1.24g,39.62mg,0.67mg,238.21mg,True,True,False,
 All Day,PASTRIES & VERRINES,Greens & More Booster,12.63,136,0.61g,0.11g,0g,0mg,86.24mg,32.76g,3.69g,22.38g,2.69g,77.79mg,1.25mg,725.49mg,True,True,False,
 All Day,Kombucha on Tap,Pink Lady Apple Kombucha,16.68,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
 All Day,Kombucha on Tap,Pomegranate Kombucha,16,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
@@ -65,7 +66,7 @@ All Day,Market Entrées,Apple & Peanut Butter Box,9.66,846,60.54g,12.4g,0g,0mg,5
 All Day,Market Entrées,Waffle with Caramel & Seasonal Fresh Fruit,7.14,849,35.28g,20.53g,0.04g,224.39mg,354.83mg,114.26g,4.23g,53.23g,15.01g,93.54mg,4.39mg,164.57mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
 All Day,Market Sandwiches,Peanut Butter & Strawberry Preserves Sandwich,6,676,39.61g,11.65g,0g,53.5mg,536.47mg,59.06g,4.23g,32.23g,20.43g,31.59mg,0.39mg,88.47mg,True,False,False,"gluten,peanuts,wheat,dairy,eggs"
 All Day,Market Sandwiches,Caprese Sandwich,13.67,758,36.65g,18.09g,0g,61.02mg,604.5mg,75g,5g,6.39g,32.12g,38.31mg,1.74mg,497.54mg,True,False,False,"soy,gluten,wheat,dairy,alcohol"
-All Day,Market Sandwiches,Egg Salad Sandwich,12,500,24.86g,5g,0g,313.37mg,991.12mg,48.7g,3.54g,2.18g,19.45g,114.99mg,3.47mg,608.44mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
+All Day,Market Sandwiches,Egg Salad Sandwich,12,500,24.86g,5g,0g,313.37mg,1000.74mg,48.67g,3.5g,2.18g,19.45g,113.93mg,3.44mg,607.93mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
 All Day,Market Sandwiches,Chicken Salad Sandwich,11,455,15.49g,1.93g,0g,44.04mg,1029.58mg,51.15g,4.18g,2.49g,24.13g,126.77mg,3.37mg,626.49mg,False,False,False,"soy,gluten,wheat,eggs"
 All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,14.99,1172,75.89g,21.12g,0g,113.49mg,2030.55mg,77.37g,8.29g,8.63g,44.1g,38.79mg,2.72mg,545.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1019,62.8g,24.81g,0g,153.98mg,2760.9mg,57.58g,4.16g,9.12g,53.18g,47.29mg,1.5mg,305.29mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
@@ -75,6 +76,7 @@ All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,13.28,886,56.65g,21.72g,
 All Day,Market Sandwiches,Ham & Swiss Croissant Sandwich,9.76,809,53.94g,22.46g,0g,141.18mg,1375.17mg,55.79g,2.19g,9.54g,29.49g,304.45mg,1.94mg,462.14mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Market Sandwiches,Pesto Turkey Bacon Wrap,11.52,770,51g,7.9g,0g,58.05mg,1635.01mg,49.76g,2.81g,6.24g,28.41g,186.11mg,4.7mg,415.99mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Market Sandwiches,Vegan Chicken Caesar Wrap,11.18,753,43.18g,6.3g,0g,0mg,1705.21mg,68.14g,7g,7.32g,26.26g,227.49mg,4.56mg,556.52mg,True,True,False,"soy,gluten,wheat,alcohol"
+All Day,Market Sandwiches,Roast Beef Sandwich,16.98,1160,60.11g,18.1g,0.14g,114.26mg,3481.77mg,109.26g,6.5g,9.05g,43.8g,98.76mg,3.99mg,841.7mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 All Day,Market Salads,Chicken Caesar Salad,11,632,43.83g,7.92g,0g,110.25mg,688.92mg,15.24g,2.46g,1.62g,41.8g,165.73mg,1.81mg,406.24mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 All Day,Market Salads,Tarragon Chicken Salad,9.51,416,21.37g,2.1g,0g,61.01mg,854.42mg,28.89g,4.93g,5.47g,25.82g,91.31mg,2.21mg,488.85mg,False,False,False,"soy,gluten,wheat,sesame,eggs"
 All Day,Market Salads,Louie Shrimp & Avocado Salad,14.72,758,60.24g,8.84g,0g,339.31mg,796.18mg,33.13g,8.84g,5.97g,26.16g,104.51mg,2.46mg,1049.38mg,False,False,False,"fish,soy,shellfish,gluten,wheat,sesame,eggs"
