@@ -1,19 +1,15 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,CONDIMENTS,Steak Nachos,22.47,865,61.78g,18.79g,5.16g,120.82mg,1351.57mg,38.15g,13.63g,5.73g,44.2g,103.94mg,4.14mg,1230.62mg,False,False,False,"soy,dairy"
-All Day,CONDIMENTS,Vegetarian Nachos,15.88,464,31.87g,6.48g,4.23g,18.77mg,828.72mg,35.74g,13.5g,5.09g,12.74g,82.86mg,2.84mg,940.48mg,True,False,False,"soy,dairy"
-All Day,CONDIMENTS,Chicken Nachos w/ Cheese Sauce,28.44,1009,70.3g,16.61g,5.16g,91.99mg,3440.14mg,54.5g,13.71g,5.48g,43.78g,207.76mg,3.22mg,1030.65mg,False,False,False,"soy,dairy"
+All Day,CONDIMENTS,Cheese Quesadilla,8.88,766,49.62g,27.53g,0g,119.51mg,1293.78mg,46.29g,4.25g,3.52g,36.86g,108.82mg,2.79mg,321.07mg,True,False,False,"soy,gluten,wheat,dairy"
+All Day,CONDIMENTS,Chicken Quesadilla,12.72,902,53.21g,29.6g,0g,151.01mg,2901.99mg,52.74g,6.24g,3.89g,56.45g,123.72mg,3.32mg,614.9mg,False,False,False,"soy,gluten,wheat,dairy"
 All Day,SUSHI BOWLS,Build-Your-Own Poke Bowl,14.5,863,16.03g,0.74g,0g,33.17mg,470.88mg,145.08g,3.86g,3.12g,37.65g,77.8mg,1.64mg,793.6mg,False,False,False,"fish,soy,gluten,wheat,sesame,alcohol"
 All Day,Base,Brown Rice,2.99,162,1.19g,0.24g,0g,0mg,34.77mg,33.92g,1.52g,0g,3.34g,15.92mg,0.8mg,119.37mg,True,True,False,
 All Day,Base,Sticky Rice,6,647,1.6g,0.26g,0g,0mg,17mg,139.94g,3.23g,0.09g,13.29g,37.4mg,10.71mg,45.9mg,True,True,False,
-All Day,Base,Vegetable Yakisoba,10.79,286,6.94g,0.7g,0g,0mg,407.45mg,49.6g,5.6g,10.12g,7.55g,105.1mg,1.35mg,539.37mg,True,True,False,"soy,sesame"
-All Day,Base,Sansai Mixed Rice,6.18,518,0.07g,0.02g,0g,0mg,948.32mg,113.53g,1.19g,0g,10.56g,7.09mg,0.21mg,43.2mg,True,True,True,
-All Day,Entrée,Chicken Katsu,4.2,297,13.77g,2.8g,0.08g,89.99mg,307.09mg,20.09g,0.98g,0.04g,20.3g,16.96mg,1.59mg,188.59mg,False,False,False,"gluten,wheat,eggs"
-All Day,Entrée,Shrimp Tempura,1,94,7.05g,3.69g,0g,18.47mg,107.09mg,5.71g,0g,0.34g,2.01g,24.81mg,0.07mg,22.49mg,False,False,False,"soy,fish,gluten,wheat"
-All Day,Entrée,Beef Gyudon,6.51,205,9.89g,4.3g,0g,39.04mg,820.38mg,11.94g,0.89g,7.99g,12.49g,32.49mg,1.35mg,258.72mg,False,False,False,"fish,soy,gluten,wheat,alcohol"
-All Day,Entrée,Vegetable Dumplings,2.16,136,6.53g,0.59g,0g,0mg,146.43mg,15.31g,1.33g,1.33g,4.66g,33.28mg,1.33mg,133.11mg,False,False,False,"soy,wheat,sesame"
-All Day,Entrée,Vegetable Tempura,2.72,106,9.15g,0.93g,2.45g,0mg,47.05mg,5.78g,0.89g,1.93g,0.69g,11.26mg,0.13mg,82.95mg,True,False,False,"gluten,wheat,dairy,eggs"
-All Day,Entrée,Spicy Soy Garlic Edamame,5.98,277,18.16g,2.35g,0g,0mg,10.21mg,13.48g,7.37g,3.81g,17.33g,101.54mg,3.29mg,752.05mg,True,True,False,"soy,sesame"
-All Day,Entrée,Japanese Curry,3.87,80,5.75g,3.23g,0g,0mg,744.23mg,5.03g,0.65g,0g,0.89g,2.84mg,0.28mg,50.32mg,True,False,False,"soy,gluten,wheat,dairy"
+All Day,Base,Garlic Fried Rice,8.32,863,4.55g,0.64g,0g,0mg,597.97mg,182.77g,3.04g,0.31g,16.46g,72.06mg,9.86mg,279.05mg,True,True,False,
+All Day,Base,Pilipino Style Bihon Stir-Fried Noodles,2.93,246,1.24g,0.11g,0g,0mg,16.29mg,56.79g,2.05g,2.8g,0.74g,15.75mg,1mg,76.92mg,True,True,False,
+All Day,Entrée,Crispy Pork Belly,6,566,44.39g,15.25g,0g,69.34mg,1198.47mg,20.15g,0.02g,13.89g,22.42g,0.44mg,0.02mg,0.94mg,False,False,False,"soy,gluten,wheat"
+All Day,Entrée,Chicken Adobo,4.07,349,25.99g,7.45g,0g,114.71mg,248.32mg,2.56g,0.05g,2.32g,23.68g,17.28mg,1.43mg,255.17mg,False,False,False,"soy,gluten,wheat"
+All Day,Entrée,Kaldareta Beef,5.68,126,5.39g,1.11g,0g,54.53mg,138.99mg,8.98g,2g,3.2g,10.47g,30.64mg,1.91mg,417.94mg,False,False,False,
+All Day,Entrée,Lumpiang Hubad Stir Fry,6.04,230,14.77g,1.57g,0g,0mg,365.3mg,17.23g,4.83g,1.39g,15.96g,97.17mg,2.84mg,668.01mg,True,True,False,soy
 All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,1.05,12,0.04g,0.01g,0g,0mg,32.04mg,2.59g,0.59g,1.73g,0.22g,7.87mg,0.09mg,74.77mg,True,True,False,
 All Day,ASIAN TOPPING,Salted Cucumber,2.02,9,0.06g,0.02g,0g,0mg,123.36mg,2.06g,0.29g,0.95g,0.37g,9.17mg,0.16mg,83.64mg,True,True,False,
 All Day,ASIAN TOPPING,Marinated Soy Sprouts,1.7,83,6.27g,0.88g,0g,0mg,116.16mg,4.21g,0.51g,0.04g,5.62g,29.91mg,0.92mg,211.45mg,True,True,False,"soy,sesame"

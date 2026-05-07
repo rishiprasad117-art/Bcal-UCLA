@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,.,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,eggs"
+All Day,.,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"eggs,soy"
 All Day,.,Croque Monsieur,12.81,729,34.1g,19.86g,0g,115.79mg,1766.55mg,71.06g,3.23g,5.81g,34.97g,447.88mg,1.38mg,450.39mg,True,False,False,"gluten,wheat,dairy,alcohol"
 All Day,.,Croque Madame,13.85,773,38.58g,20.33g,0.04g,294.81mg,1728.33mg,67.04g,3.06g,5.61g,39.09g,448.24mg,2.16mg,491.61mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
 All Day,.,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,7.24,858,43.15g,25.71g,0.39g,249.61mg,317.03mg,98.89g,4.51g,40.06g,16.07g,94.78mg,4.47mg,240.37mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
@@ -53,7 +53,7 @@ All Day,Kombucha on Tap,Pomegranate Kombucha,16,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0
 All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,16,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
 All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"dairy,gluten,wheat"
 All Day,Kombucha on Tap,Build and Go Frozen Yogurt,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"dairy,gluten,wheat,eggs,soy"
-All Day,Kombucha on Tap,Craft Your Own Salad,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"gluten,wheat,fish,soy,alcohol,eggs,dairy"
+All Day,Kombucha on Tap,Craft Your Own Salad,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"gluten,wheat,soy,alcohol,eggs,dairy,fish"
 All Day,Kombucha on Tap,Craft Your Own Pizza,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,gluten,wheat,sesame,dairy,eggs,fish"
 All Day,Market Entrées,Fresh Fruit Cup,11,139,0.62g,0.09g,0g,0mg,12.47mg,34.88g,3.43g,28.49g,2.18g,30.33mg,0.94mg,517.42mg,True,True,False,
 All Day,Market Entrées,Vegan Muesli,12.72,730,36.23g,27.65g,0g,0mg,8.26mg,94.99g,12.94g,43.37g,10.2g,129.06mg,4.4mg,1141.27mg,True,True,False,gluten
@@ -69,7 +69,7 @@ All Day,Market Sandwiches,Caprese Sandwich,13.67,758,36.65g,18.09g,0g,61.02mg,60
 All Day,Market Sandwiches,Egg Salad Sandwich,12,500,24.86g,5g,0g,313.37mg,1001.42mg,48.67g,3.5g,2.18g,19.45g,113.93mg,3.44mg,606.23mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
 All Day,Market Sandwiches,Chicken Salad Sandwich,11,455,15.49g,1.93g,0g,44.04mg,1029.58mg,51.15g,4.18g,2.49g,24.13g,126.77mg,3.37mg,626.49mg,False,False,False,"soy,gluten,wheat,eggs"
 All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,14.99,1172,75.89g,21.12g,0g,113.49mg,2030.55mg,77.37g,8.29g,8.63g,44.1g,38.79mg,2.72mg,545.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1019,62.8g,24.81g,0g,153.98mg,2760.9mg,57.58g,4.16g,9.12g,53.18g,47.29mg,1.5mg,305.29mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1008,61.77g,24.31g,0g,153.98mg,2791.27mg,55.58g,4.16g,8.09g,52.18g,47.29mg,1.5mg,305.29mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Market Sandwiches,Roast Beef Sandwich,12,509,15.58g,7.82g,0.2g,97.71mg,971.73mg,50.37g,4.42g,3.47g,42.41g,85.6mg,4.35mg,709.58mg,False,False,False,"gluten,wheat,dairy"
 All Day,Market Sandwiches,The Study Sandwich,11.45,479,13.79g,6.1g,0g,72.69mg,1722.84mg,51.4g,4.41g,5.22g,36.67g,299.45mg,2.17mg,485.91mg,False,False,False,"gluten,wheat,dairy,alcohol"
 All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,13.28,886,56.65g,21.72g,0g,198.17mg,2050.89mg,45.58g,3.01g,5.08g,10.54g,147.25mg,3.88mg,396.91mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs,alcohol"
