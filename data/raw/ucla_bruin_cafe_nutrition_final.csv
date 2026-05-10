@@ -1,21 +1,4 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Extended Dinner,Bruin Waffle Plate,Bruin Waffle Plate,8.58,643,34.37g,12.86g,0.05g,390.25mg,521.81mg,63.74g,0.63g,35.74g,19.69g,67.63mg,2.46mg,239.33mg,False,False,False,"gluten,wheat,dairy,eggs,alcohol"
-Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,10,138,1.11g,0.17g,0g,5.67mg,42.51mg,20.83g,5.72g,13.29g,13.06g,155.3mg,0.88mg,400.44mg,True,False,False,dairy
-Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,11.5,277,8.21g,1.11g,0g,2.84mg,39.69mg,45.98g,6.16g,32.59g,7.1g,106.8mg,0.49mg,361.78mg,True,False,False,"gluten,tree_nuts,dairy"
-Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,14,137,0.48g,0.08g,0g,0mg,16.82mg,35g,2.82g,29.28g,2.1g,30.47mg,0.83mg,528.34mg,True,True,False,
-Extended Dinner,Oatmeal,Oatmeal,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"gluten,peanuts"
-Extended Dinner,Instant Oatmeal - Baked Apple,Instant Oatmeal - Baked Apple,1.5,159,1.97g,0.49g,0g,0mg,157.77mg,32.54g,3.94g,10.85g,3.94g,19.72mg,0mg,147.91mg,True,True,False,gluten
-Extended Dinner,Multi Grain Cheerios,Multi Grain Cheerios,2,210,2.31g,0.5g,0g,0mg,226.97mg,46.07g,4.92g,12g,4.7g,195.27mg,15.79mg,273.38mg,True,True,False,
-Extended Dinner,Cheerios Cereal,Cheerios Cereal,1.5,153,2.72g,0.54g,0g,0mg,206.56mg,31.53g,4.35g,2.18g,5.44g,141.33mg,13.7mg,271.8mg,True,True,False,
-Extended Dinner,Honey Nut Cheerios Cereal,Honey Nut Cheerios Cereal,1.5,161,2.29g,0g,0g,0mg,240.65mg,34.38g,3.44g,13.95g,3.44g,180.2mg,8.72mg,174.69mg,True,True,False,"gluten,tree_nuts,wheat"
-Extended Dinner,Lucky Charms Cereal,Lucky Charms Cereal,1,108,1.42g,0.25g,0g,0mg,182.74mg,22.81g,1.41g,10.19g,2.16g,122.39mg,6.28mg,62.6mg,True,True,False,
-Extended Dinner,Cinnamon Toast Crunch Cereal,Cinnamon Toast Crunch Cereal,1.5,187,4.14g,0g,0g,0mg,237.86mg,34.13g,2.07g,12.41g,2.07g,134.44mg,3.72mg,0mg,True,True,False,"soy,gluten,wheat"
-Extended Dinner,Cocoa Puffs,Cocoa Puffs,1,109,1.47g,0.28g,0g,0mg,159.05mg,23.6g,1.61g,10.49g,1.58g,104.34mg,4.71mg,76.7mg,True,True,False,
-Extended Dinner,Trix Cereal,Trix Cereal,1,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
-Extended Dinner,Rice Chex Cereal,Rice Chex Cereal,1,114,0.71g,0g,0g,0mg,232.65mg,24.68g,1.41g,2.12g,2.12g,91.65mg,0mg,0mg,True,True,False,
-Extended Dinner,Crab Roll Sandwich,Crab Roll Sandwich,9.13,723,32.29g,9.36g,0.03g,92.28mg,1115.23mg,80.82g,3.13g,13.87g,25.17g,109.17mg,1.94mg,449.39mg,False,False,False,"soy,fish,gluten,wheat,sesame,dairy,eggs"
-Extended Dinner,Wedge Cut Fries,Wedge Cut Fries,3.01,112,4.05g,1.01g,0g,0mg,360.96mg,17.2g,2.02g,1.01g,2.02g,20.29mg,0.6mg,333.85mg,True,True,False,
-Extended Dinner,Galaxy Wrap,Galaxy Wrap,16,1247,81.4g,14.38g,0g,143.67mg,2177.07mg,78.73g,3.31g,4.13g,45.62g,20.23mg,0.68mg,350.42mg,False,False,False,"soy,gluten,wheat,alcohol"
 Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy"
@@ -43,8 +26,7 @@ Extended Dinner,Mixed Green Salad,Mixed Green Salad,12,523,46.83g,10.1g,0g,22.75
 Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,10.05,475,30.25g,2.08g,0g,0mg,1265mg,45.34g,5.04g,23.27g,9.23g,62.34mg,1.54mg,457.1mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame"
 Extended Dinner,Caesar Salad,Caesar Salad,10,423,30.47g,11.42g,0g,56.68mg,1004mg,10.46g,3.74g,5.16g,47.72g,519.27mg,4.05mg,777.17mg,True,False,False,"soy,gluten,wheat,dairy,alcohol"
 Extended Dinner,Chopped Mediterranean Salad,Chopped Mediterranean Salad,14.5,763,70.69g,6.7g,0g,25.32mg,3264.2mg,34.03g,8.14g,8.26g,10.4g,205.21mg,2.01mg,577.37mg,True,False,False,"dairy,alcohol"
-Extended Dinner,Broccoli Cheddar Soup,Broccoli Cheddar Soup,6,360,30.24g,18.97g,0.58g,94.88mg,547.89mg,12.27g,0.63g,5.56g,9.83g,318.07mg,0.49mg,234.26mg,True,False,False,"soy,gluten,wheat,dairy"
-Extended Dinner,Boston Clam Chowder,Boston Clam Chowder,6,189,7.89g,4.42g,0.19g,42.01mg,951.64mg,15.95g,1.24g,2.36g,12.89g,47.99mg,1.38mg,446.51mg,False,False,False,"fish,soy,shellfish,gluten,wheat,dairy,eggs,alcohol"
+Extended Dinner,Chicken Noodle Soup,Chicken Noodle Soup,6.05,94,1.94g,0.33g,0g,18.6mg,293.68mg,12.15g,0.94g,1.2g,7.76g,10.28mg,0.62mg,185.68mg,False,False,False,
 Extended Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
 Extended Dinner,Peanut Butter & Strawberry Preserves Sandwich,Peanut Butter & Strawberry Preserves Sandwich,9.02,1017,59.55g,17.51g,0g,80.44mg,806.6mg,88.8g,6.36g,48.46g,30.72g,47.49mg,0.59mg,133.01mg,True,False,False,"gluten,peanuts,wheat,dairy,eggs"
 Extended Dinner,Avocado BLT Sandwich,Avocado BLT Sandwich,9.9,716,61.54g,9.54g,0g,52.98mg,699.48mg,33.62g,4.97g,2.36g,8.14g,36.96mg,1.09mg,489.68mg,False,False,False,"soy,gluten,wheat,eggs"
@@ -80,12 +62,10 @@ Extended Dinner,Asian Salad Dressing,Asian Salad Dressing,2.08,201,14.83g,1.41g,
 Extended Dinner,Dole Whip Bowl,Dole Whip Bowl,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"soy,dairy,peanuts,gluten,wheat"
 Extended Dinner,Strawberry Sensation Smoothie,Strawberry Sensation Smoothie,20.16,302,0.4g,0.06g,0g,6.8mg,133.19mg,71.94g,3.94g,55.6g,3.6g,219.02mg,1.49mg,407.69mg,True,False,False,dairy
 Extended Dinner,Mango Madness Smoothie,Mango Madness Smoothie,20,565,2.78g,0.74g,0g,6.8mg,79.76mg,138.83g,2.1g,122.9g,1.13g,14mg,0.11mg,303.23mg,True,False,False,dairy
-Extended Dinner,Caribbean Island Smoothie,Caribbean Island Smoothie,20.08,485,1.94g,0.57g,0g,2.56mg,32.44mg,121.81g,4.44g,103.99g,1.65g,57.43mg,0.97mg,516.09mg,True,False,False,dairy
+Extended Dinner,Caribbean Island Smoothie,Caribbean Island Smoothie,20.08,501,1.94g,0.57g,0g,2.56mg,52.71mg,125g,4.44g,105.59g,1.65g,50.94mg,0.97mg,302.3mg,True,False,False,dairy
 Extended Dinner,Bruin Fresh Smoothie,Bruin Fresh Smoothie,20.08,342,1.08g,0.57g,0g,5.86mg,67.05mg,82.02g,8.94g,61.99g,4.9g,220.11mg,0.8mg,769.79mg,True,False,False,dairy
 Extended Dinner,Smoothie #15: Chocolate Banana,Smoothie #15: Chocolate Banana,20,681,7.09g,0.62g,0g,0mg,208.9mg,140.14g,11.39g,87.25g,21.26g,76.08mg,5.16mg,1091.11mg,True,False,False,"gluten,tree_nuts"
 Extended Dinner,Smoothie #06: Alooooha,Smoothie #06: Alooooha,21.6,245,0.8g,0.37g,0g,7.1mg,90.24mg,57.98g,3.98g,41.26g,2.69g,115.83mg,0.98mg,364.32mg,True,False,False,dairy
-Extended Dinner,Frozen Butter Beer,Frozen Butter Beer,20,617,7.37g,4.25g,0g,22.68mg,264.18mg,115.93g,0g,103.91g,7.14g,263.04mg,0.06mg,299.32mg,False,False,False,dairy
-Extended Dinner,Sakura Bowl,Sakura Bowl,8,892,4.06g,4.06g,0g,0mg,80.95mg,210.51g,0g,194.3g,0g,0mg,0mg,0mg,False,False,False,
 Extended Dinner,Café Latte,Café Latte,16.48,116,0.28g,0.19g,0g,6.82mg,147.56mg,16.86g,0g,17.33g,11.44g,418.47mg,0.09mg,530.58mg,True,False,False,dairy
 Extended Dinner,Vanilla Latte,Vanilla Latte,15.73,377,0.22g,0.13g,0g,5.08mg,111.81mg,70.61g,0g,70.93g,8.6g,314.69mg,0.09mg,397.92mg,True,False,False,dairy
 Extended Dinner,Mocha Latte,Mocha Latte,15.73,118,0.31g,0.18g,0g,6.37mg,160.93mg,18.14g,0g,17.92g,10.65g,463.9mg,0.53mg,498.67mg,True,False,False,dairy
