@@ -1,30 +1,30 @@
 location_id,meal,station,item_name,section_type,reason,date
-bruin_plate,Breakfast,Freshly Bowled,Create-Your-Own Omelet Bar,rotating,zero nutrition,2026-05-23
-bruin_plate,Lunch,Freshly Bowled,Create-Your-Own Omelet Bar,rotating,zero nutrition,2026-05-23
-cafe_1919,Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,static,zero nutrition,2026-05-23
-cafe_1919,Lunch / Dinner,Whipped Cream,Whipped Cream,static,zero nutrition,2026-05-23
-de_neve,Breakfast,Capers,Capers,rotating,zero nutrition,2026-05-23
-de_neve,Lunch,Brunch,Brunch,rotating,zero nutrition,2026-05-23
-de_neve,Lunch,Yogurt Bar,Yogurt Bar,rotating,zero nutrition,2026-05-23
-de_neve,Dinner,Breakfast @ Night,Breakfast @ Night,rotating,zero nutrition,2026-05-23
-de_neve,Dinner,Yogurt Bar,Yogurt Bar,rotating,zero nutrition,2026-05-23
-epicuria_covel,Lunch,Dolce,Yogurt Bar,rotating,zero nutrition,2026-05-23
-epicuria_covel,Dinner,Dolce,Yogurt Bar,rotating,zero nutrition,2026-05-23
-rendezvous,All Day,DRINKS,Fountain Beverage,static,zero nutrition,2026-05-23
-the_study,All Day,.,Craft Your Own Breakfast Skillet,static,zero nutrition,2026-05-23
-the_study,All Day,.,Craft Your Own Breakfast Sandwich,static,zero nutrition,2026-05-23
-the_study,All Day,.,Create Your Own Breakfast Croissant,static,zero nutrition,2026-05-23
-the_study,All Day,Coffee & Tea,Brewed Tea,static,zero nutrition,2026-05-23
-the_study,All Day,Coffee & Tea,Americano,static,zero nutrition,2026-05-23
-the_study,All Day,Coffee & Tea,Espresso,static,zero nutrition,2026-05-23
-the_study,All Day,PASTRIES & VERRINES,Everything Cheese Bagel,static,zero nutrition,2026-05-23
-the_study,All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,Pink Lady Apple Kombucha,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,Pomegranate Kombucha,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,Build and Go Frozen Yogurt,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,Craft Your Own Salad,static,zero nutrition,2026-05-23
-the_study,All Day,Kombucha on Tap,Craft Your Own Pizza,static,zero nutrition,2026-05-23
-the_study,All Day,Market Beverages,Standard Beverage,static,zero nutrition,2026-05-23
-the_study,All Day,Market Beverages,Premium Beverage,static,zero nutrition,2026-05-23
+bruin_plate,Breakfast,Freshly Bowled,Create-Your-Own Omelet Bar,rotating,zero nutrition,2026-05-24
+bruin_plate,Lunch,Freshly Bowled,Create-Your-Own Omelet Bar,rotating,zero nutrition,2026-05-24
+cafe_1919,Lunch / Dinner,Raspberry Pan Sorbet,Raspberry Pan Sorbet,static,zero nutrition,2026-05-24
+cafe_1919,Lunch / Dinner,Whipped Cream,Whipped Cream,static,zero nutrition,2026-05-24
+de_neve,Breakfast,Capers,Capers,rotating,zero nutrition,2026-05-24
+de_neve,Lunch,Brunch,Brunch,rotating,zero nutrition,2026-05-24
+de_neve,Lunch,Yogurt Bar,Yogurt Bar,rotating,zero nutrition,2026-05-24
+de_neve,Dinner,LA Street Food,LA Street Food,rotating,zero nutrition,2026-05-24
+de_neve,Dinner,Yogurt Bar,Yogurt Bar,rotating,zero nutrition,2026-05-24
+epicuria_covel,Dinner,Dolce,Yogurt Bar,rotating,zero nutrition,2026-05-24
+rendezvous,All Day,DRINKS,Fountain Beverage,static,zero nutrition,2026-05-24
+rendezvous,All Day,CONDIMENTS,Nanami Togarashi Spice,static,zero nutrition,2026-05-24
+the_study,All Day,.,Craft Your Own Breakfast Skillet,static,zero nutrition,2026-05-24
+the_study,All Day,.,Craft Your Own Breakfast Sandwich,static,zero nutrition,2026-05-24
+the_study,All Day,.,Create Your Own Breakfast Croissant,static,zero nutrition,2026-05-24
+the_study,All Day,Coffee & Tea,Brewed Tea,static,zero nutrition,2026-05-24
+the_study,All Day,Coffee & Tea,Americano,static,zero nutrition,2026-05-24
+the_study,All Day,Coffee & Tea,Espresso,static,zero nutrition,2026-05-24
+the_study,All Day,PASTRIES & VERRINES,Everything Cheese Bagel,static,zero nutrition,2026-05-24
+the_study,All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,Pink Lady Apple Kombucha,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,Pomegranate Kombucha,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,Build and Go Frozen Yogurt,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,Craft Your Own Salad,static,zero nutrition,2026-05-24
+the_study,All Day,Kombucha on Tap,Craft Your Own Pizza,static,zero nutrition,2026-05-24
+the_study,All Day,Market Beverages,Standard Beverage,static,zero nutrition,2026-05-24
+the_study,All Day,Market Beverages,Premium Beverage,static,zero nutrition,2026-05-24
