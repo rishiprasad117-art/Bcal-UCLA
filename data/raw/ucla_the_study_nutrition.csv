@@ -46,8 +46,8 @@ All Day,PASTRIES & VERRINES,Red Velvet Cake,6.06,873,55.05g,13.62g,0.29g,98.38mg
 All Day,PASTRIES & VERRINES,Strawberry Hibiscus Lemonade,20,312,0.62g,0.06g,0g,0mg,16.21mg,81.58g,4.14g,74.83g,1.47g,38.38mg,0.91mg,332.71mg,True,True,False,
 All Day,PASTRIES & VERRINES,Mango Mint,18.29,350,0.98g,0.26g,0g,0mg,31.1mg,89.68g,6.48g,82.53g,3.21g,150.96mg,7.88mg,514.51mg,True,True,False,
 All Day,PASTRIES & VERRINES,Beets Booster,6.02,72,0.32g,0.07g,0g,0mg,51.35mg,17.28g,3.51g,11.36g,1.83g,34.94mg,0.94mg,360.43mg,True,True,False,
-All Day,PASTRIES & VERRINES,Greens & More Booster,12.63,136,0.61g,0.11g,0g,0mg,86.24mg,32.76g,3.69g,22.38g,2.69g,77.79mg,1.25mg,725.49mg,True,True,False,
 All Day,PASTRIES & VERRINES,Vitamin C Booster,6.09,77,0.33g,0.07g,0g,0mg,4.54mg,19.46g,3.16g,12.52g,1.24g,39.62mg,0.67mg,238.21mg,True,True,False,
+All Day,PASTRIES & VERRINES,Greens & More Booster,12.63,136,0.61g,0.11g,0g,0mg,86.24mg,32.76g,3.69g,22.38g,2.69g,77.79mg,1.25mg,725.49mg,True,True,False,
 All Day,Kombucha on Tap,Pink Lady Apple Kombucha,16.68,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
 All Day,Kombucha on Tap,Pomegranate Kombucha,16,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
 All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,16,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
@@ -69,7 +69,7 @@ All Day,Market Sandwiches,Caprese Sandwich,13.67,758,36.65g,18.09g,0g,61.02mg,60
 All Day,Market Sandwiches,Egg Salad Sandwich,12,500,24.86g,5g,0g,313.37mg,1000.74mg,48.67g,3.5g,2.18g,19.45g,113.93mg,3.44mg,607.93mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
 All Day,Market Sandwiches,Chicken Salad Sandwich,11,455,15.49g,1.93g,0g,44.04mg,1029.58mg,51.15g,4.18g,2.49g,24.13g,126.77mg,3.37mg,626.49mg,False,False,False,"soy,gluten,wheat,eggs"
 All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,14.99,1172,75.89g,21.12g,0g,113.49mg,2030.55mg,77.37g,8.29g,8.63g,44.1g,38.79mg,2.72mg,545.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1019,62.8g,24.81g,0g,153.98mg,2760.9mg,57.58g,4.16g,9.12g,53.18g,47.29mg,1.5mg,305.29mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1008,61.77g,24.31g,0g,153.98mg,2791.27mg,55.58g,4.16g,8.09g,52.18g,47.29mg,1.5mg,305.29mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Market Sandwiches,Roast Beef Sandwich,12,509,15.58g,7.82g,0.2g,97.71mg,971.73mg,50.37g,4.42g,3.47g,42.41g,85.6mg,4.35mg,709.58mg,False,False,False,"gluten,wheat,dairy"
 All Day,Market Sandwiches,The Study Sandwich,11.45,479,13.79g,6.1g,0g,72.69mg,1722.84mg,51.4g,4.41g,5.22g,36.67g,299.45mg,2.17mg,485.91mg,False,False,False,"gluten,wheat,dairy,alcohol"
 All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,13.28,886,56.65g,21.72g,0g,198.17mg,2050.89mg,45.58g,3.01g,5.08g,10.54g,147.25mg,3.88mg,396.91mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs,alcohol"
