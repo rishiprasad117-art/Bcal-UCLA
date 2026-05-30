@@ -1,20 +1,4 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Extended Dinner,Bruin Waffle Plate,Bruin Waffle Plate,8.58,481,39.36g,14.49g,0.05g,397.61mg,996.86mg,63.3g,0.63g,35.3g,28.35g,67.63mg,2.46mg,384.92mg,False,False,False,"gluten,wheat,dairy,eggs,alcohol"
-Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,10,138,1.11g,0.17g,0g,5.67mg,42.51mg,20.83g,5.72g,13.29g,13.06g,155.3mg,0.88mg,400.44mg,True,False,False,dairy
-Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,11.5,277,8.21g,1.11g,0g,2.84mg,39.69mg,45.98g,6.16g,32.59g,7.1g,106.8mg,0.49mg,361.78mg,True,False,False,"gluten,tree_nuts,dairy"
-Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,14,137,0.48g,0.08g,0g,0mg,16.82mg,35g,2.82g,29.28g,2.1g,30.47mg,0.83mg,528.34mg,True,True,False,
-Extended Dinner,Oatmeal,Oatmeal,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"gluten,peanuts"
-Extended Dinner,Instant Oatmeal - Baked Apple,Instant Oatmeal - Baked Apple,1.5,159,1.97g,0.49g,0g,0mg,157.77mg,32.54g,3.94g,10.85g,3.94g,19.72mg,0mg,147.91mg,True,True,False,gluten
-Extended Dinner,Multi Grain Cheerios,Multi Grain Cheerios,2,210,2.31g,0.5g,0g,0mg,226.97mg,46.07g,4.92g,12g,4.7g,195.27mg,15.79mg,273.38mg,True,True,False,
-Extended Dinner,Cheerios Cereal,Cheerios Cereal,1.5,153,2.72g,0.54g,0g,0mg,206.56mg,31.53g,4.35g,2.18g,5.44g,141.33mg,13.7mg,271.8mg,True,True,False,
-Extended Dinner,Honey Nut Cheerios Cereal,Honey Nut Cheerios Cereal,1.5,161,2.29g,0g,0g,0mg,240.65mg,34.38g,3.44g,13.95g,3.44g,180.2mg,8.72mg,174.69mg,True,True,False,"gluten,tree_nuts,wheat"
-Extended Dinner,Lucky Charms Cereal,Lucky Charms Cereal,1,108,1.42g,0.25g,0g,0mg,182.74mg,22.81g,1.41g,10.19g,2.16g,122.39mg,6.28mg,62.6mg,True,True,False,
-Extended Dinner,Cinnamon Toast Crunch Cereal,Cinnamon Toast Crunch Cereal,1.5,187,4.14g,0g,0g,0mg,237.86mg,34.13g,2.07g,12.41g,2.07g,134.44mg,3.72mg,0mg,True,True,False,"soy,gluten,wheat"
-Extended Dinner,Cocoa Puffs,Cocoa Puffs,1,109,1.47g,0.28g,0g,0mg,159.05mg,23.6g,1.61g,10.49g,1.58g,104.34mg,4.71mg,76.7mg,True,True,False,
-Extended Dinner,Trix Cereal,Trix Cereal,1,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
-Extended Dinner,Rice Chex Cereal,Rice Chex Cereal,1,114,0.71g,0g,0g,0mg,232.65mg,24.68g,1.41g,2.12g,2.12g,91.65mg,0mg,0mg,True,True,False,
-Extended Dinner,Crab Roll Sandwich,Crab Roll Sandwich,9.13,723,32.29g,9.36g,0.03g,92.28mg,1115.23mg,80.82g,3.13g,13.87g,25.17g,109.17mg,1.94mg,449.39mg,False,False,False,"soy,fish,gluten,wheat,sesame,dairy,eggs"
-Extended Dinner,Wedge Cut Fries,Wedge Cut Fries,3.01,112,4.05g,1.01g,0g,0mg,360.96mg,17.2g,2.02g,1.01g,2.02g,20.29mg,0.6mg,333.85mg,True,True,False,
 Extended Dinner,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 Extended Dinner,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 Extended Dinner,Smoky BBQ Sandwich,Smoky BBQ Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy"
@@ -37,13 +21,12 @@ Extended Dinner,Vegetarian Chicken Ranch & Swiss Sandwich,Vegetarian Chicken Ran
 Extended Dinner,Vegetarian Pastrami & Swiss Sandwich,Vegetarian Pastrami & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 Extended Dinner,Vegetarian Ham & Swiss Sandwich,Vegetarian Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 Extended Dinner,Chicken Parmesan Sandwich,Chicken Parmesan Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat"
-Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,13.16,370,31.07g,7.09g,0g,228.98mg,559.09mg,12.2g,5.82g,5g,12.79g,102.05mg,2.54mg,767mg,True,False,False,"soy,dairy,eggs"
+Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,13.16,421,35.21g,9.44g,0g,241.89mg,744.51mg,13.2g,6.83g,5g,15.37g,207.35mg,2.54mg,767mg,True,False,False,"soy,dairy,eggs"
 Extended Dinner,Mixed Green Salad,Mixed Green Salad,12,523,46.83g,10.1g,0g,22.75mg,946.57mg,12.31g,4.76g,4.76g,11.87g,66.66mg,1.43mg,708.6mg,True,False,False,"dairy,alcohol"
 Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,10.05,475,30.25g,2.08g,0g,0mg,1265mg,45.34g,5.04g,23.27g,9.23g,62.34mg,1.54mg,457.1mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame"
 Extended Dinner,Caesar Salad,Caesar Salad,10,423,30.47g,11.42g,0g,56.68mg,1004mg,10.46g,3.74g,5.16g,47.72g,519.27mg,4.05mg,777.17mg,True,False,False,"soy,gluten,wheat,dairy,alcohol"
 Extended Dinner,Chopped Mediterranean Salad,Chopped Mediterranean Salad,14.5,763,70.69g,6.7g,0g,25.32mg,3264.2mg,34.03g,8.14g,8.26g,10.4g,205.21mg,2.01mg,577.37mg,True,False,False,"dairy,alcohol"
-Extended Dinner,Broccoli Cheddar Soup,Broccoli Cheddar Soup,6,360,30.24g,18.97g,0.58g,94.88mg,547.89mg,12.27g,0.63g,5.56g,9.83g,318.07mg,0.49mg,234.26mg,True,False,False,"soy,gluten,wheat,dairy"
-Extended Dinner,Boston Clam Chowder,Boston Clam Chowder,6,189,7.89g,4.42g,0.19g,42.01mg,951.64mg,15.95g,1.24g,2.36g,12.89g,47.99mg,1.38mg,446.51mg,False,False,False,"fish,soy,shellfish,gluten,wheat,dairy,eggs,alcohol"
+Extended Dinner,Chicken Noodle Soup,Chicken Noodle Soup,6.05,94,1.94g,0.33g,0g,18.6mg,293.68mg,12.15g,0.94g,1.2g,7.76g,10.28mg,0.62mg,185.68mg,False,False,False,
 Extended Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
 Extended Dinner,Peanut Butter & Strawberry Preserves Sandwich,Peanut Butter & Strawberry Preserves Sandwich,9.02,1017,59.55g,17.51g,0g,80.44mg,806.6mg,88.8g,6.36g,48.46g,30.72g,47.49mg,0.59mg,133.01mg,True,False,False,"gluten,peanuts,wheat,dairy,eggs"
 Extended Dinner,Avocado BLT Sandwich,Avocado BLT Sandwich,9.9,662,63.19g,10.07g,0g,55.45mg,857.91mg,33.48g,4.97g,2.22g,11.03g,36.96mg,1.09mg,538.22mg,False,False,False,"soy,gluten,wheat,eggs"
@@ -57,7 +40,7 @@ Extended Dinner,Gluten Free Avocado BLT Sandwich,Gluten Free Avocado BLT Sandwic
 Extended Dinner,1/2 Turkey & Provolone Sandwich,1/2 Turkey & Provolone Sandwich,8.25,659,41.97g,6.83g,0.02g,50.29mg,1363.17mg,48.84g,1.89g,4.89g,19.48g,161.84mg,1.43mg,168.24mg,False,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 Extended Dinner,1/2 Ham & Swiss Sandwich,1/2 Ham & Swiss Sandwich,8,560,30.51g,7.41g,0.02g,58.51mg,1441.02mg,50.55g,1.88g,6.6g,22.19g,227.65mg,0.79mg,353.99mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 Extended Dinner,Chicken Caesar Salad,Chicken Caesar Salad,8.96,314,13.2g,5.51g,0g,84.52mg,459.28mg,5.15g,2.46g,2.13g,46.18g,258.75mg,2.23mg,436.94mg,False,False,False,"soy,gluten,wheat,dairy,alcohol"
-Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,13.16,370,31.07g,7.09g,0g,228.98mg,559.09mg,12.2g,5.82g,5g,12.79g,102.05mg,2.54mg,767mg,True,False,False,"soy,dairy,eggs"
+Extended Dinner,Vegetarian Cobb Salad,Vegetarian Cobb Salad,13.16,421,35.21g,9.44g,0g,241.89mg,744.51mg,13.2g,6.83g,5g,15.37g,207.35mg,2.54mg,767mg,True,False,False,"soy,dairy,eggs"
 Extended Dinner,Caesar Salad,Caesar Salad,10,423,30.47g,11.42g,0g,56.68mg,1004mg,10.46g,3.74g,5.16g,47.72g,519.27mg,4.05mg,777.17mg,True,False,False,"soy,gluten,wheat,dairy,alcohol"
 Extended Dinner,Asian Chicken Salad,Asian Chicken Salad,10.2,465,24.63g,1.73g,0g,57.01mg,980.95mg,27.41g,4.08g,15.84g,28.94g,49.03mg,1.16mg,355.39mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame"
 Extended Dinner,Asian Wonton Salad,Asian Wonton Salad,10.05,475,30.25g,2.08g,0g,0mg,1265mg,45.34g,5.04g,23.27g,9.23g,62.34mg,1.54mg,457.1mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame"
@@ -70,7 +53,7 @@ Extended Dinner,Peanut Butter and Egg Protein Box,Peanut Butter and Egg Protein 
 Extended Dinner,Crudite Box,Crudite Box,23.19,652,50.15g,3.55g,0g,0mg,3292.09mg,56.46g,14.26g,16.5g,11.83g,184.18mg,3.02mg,1249.46mg,True,True,False,sesame
 Extended Dinner,Caesar Wrap,Caesar Wrap,8.96,537,30.39g,7.77g,0g,30.67mg,773.76mg,49.26g,7.92g,2.39g,20.29g,287.11mg,93.26mg,364.5mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 Extended Dinner,Chicken Caesar Wrap,Chicken Caesar Wrap,10.52,619,31.75g,7.48g,0g,79.5mg,774.34mg,42.66g,6.62g,1.97g,38.54g,260.96mg,81.02mg,297.24mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
-Extended Dinner,Roasted Vegetable & Ricotta Cheese Wrap,Roasted Vegetable & Ricotta Cheese Wrap,10.25,172,7.73g,3.08g,0g,17.58mg,313.94mg,15.75g,3.83g,7.09g,11.13g,226.3mg,2.21mg,682.5mg,True,False,False,"dairy,alcohol"
+Extended Dinner,Roasted Vegetable & Ricotta Cheese Wrap,Roasted Vegetable & Ricotta Cheese Wrap,10.25,193,10.46g,4.79g,0g,35.99mg,370.3mg,16.44g,3.83g,10.52g,10.05g,890.85mg,1.95mg,611.65mg,True,False,False,"dairy,alcohol"
 Extended Dinner,Vegan Caesar Dressing,Vegan Caesar Dressing,2.16,180,20.06g,0.01g,0g,0mg,456.64mg,5.25g,0.17g,3.38g,0.32g,10.49mg,0.16mg,79.52mg,True,True,False,"soy,gluten,wheat,alcohol"
 Extended Dinner,Ranch Dressing,Ranch Dressing,1.96,232,24.59g,3.46g,0g,23.16mg,395.12mg,1.22g,0g,1.22g,0.84g,29.39mg,0.01mg,38.26mg,True,False,False,"soy,dairy,eggs"
 Extended Dinner,Balsamic Vinaigrette,Balsamic Vinaigrette,2.05,373,39.36g,2.81g,0g,0mg,393.26mg,1.23g,0.12g,0.93g,0.05g,2.29mg,0.05mg,6.25mg,True,True,False,alcohol
