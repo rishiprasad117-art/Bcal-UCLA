@@ -1,21 +1,25 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Dinner,Sweets Station,Japchae (Stir-Fried Glass Noodles),4.57,389,5.72g,1.52g,0g,17.51mg,305.53mg,79.88g,1.66g,2.31g,3.42g,74.02mg,1.31mg,88.66mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Dinner,Sweets Station,Korean Veggie Japchae,4.87,461,9.96g,1.44g,0g,10.23mg,593.84mg,90.82g,2.53g,3.89g,1.31g,91.3mg,1.44mg,166.4mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Dinner,Spice Kitchen,Taiwanese Beef Noodle Soup,14.14,288,13.07g,4.49g,0.44g,28.5mg,1751.5mg,29.14g,2.08g,6.21g,12.87g,41.08mg,2.44mg,272.22mg,False,False,False,"fish,alcohol"
-Dinner,Spice Kitchen,Baby Bok Choy & Tofu Stir Fry,5.86,205,17.6g,1.99g,2.86g,0mg,265.04mg,6.99g,1.54g,2.14g,6.77g,96.25mg,0.75mg,235.4mg,True,True,False,"soy,gluten,wheat,sesame"
+Dinner,Sweets Station,Royal Beef Ttokboki,5.36,254,7.2g,1.87g,0g,11.71mg,621.04mg,40.47g,1.31g,6.55g,7.81g,18.85mg,1.58mg,193.1mg,False,False,False,"soy,gluten,wheat,sesame"
+Dinner,Sweets Station,Spicy Korean Rice Cake,13.34,505,2.5g,0.42g,0g,0mg,1429.41mg,110.41g,2.08g,20.61g,8.28g,44.88mg,3.29mg,158.58mg,True,False,False,"soy,gluten,wheat,sesame"
+Dinner,Spice Kitchen,Yaki Sake (Grilled Salmon),5.71,205,9.24g,1.55g,0g,26.79mg,918.34mg,17.51g,2.35g,11.75g,11.62g,39.32mg,0.78mg,363.79mg,False,False,False,"fish,soy,gluten,wheat,sesame,alcohol"
+Dinner,Spice Kitchen,Japanese Vegetable Chawanmushi,4.32,54,2.28g,0.77g,0.01g,84.36mg,617.92mg,4.37g,0.13g,3.7g,2.91g,19.33mg,0.45mg,45.35mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
+Dinner,Spice Kitchen,Sticky Rice,4,203,0g,0g,0g,0mg,2.27mg,44.52g,0g,0g,4.04g,1.7mg,0mg,0mg,True,True,False,
+Dinner,Stone Oven,Bengali Shrimp & Potato,3.97,124,6g,2.72g,0g,55.03mg,50.68mg,8.98g,1.53g,1.79g,8.54g,39.72mg,0.8mg,339.92mg,False,False,False,"fish,dairy"
+Dinner,Stone Oven,Basmati Rice,1.02,48,0g,0g,0g,0mg,0.66mg,10.26g,0.25g,0g,1g,0.5mg,0mg,5.01mg,True,True,True,
+Dinner,Stone Oven,Creamy Spinach w/ Paneer Cheese,6,197,14.48g,8.74g,0.22g,41.45mg,230.21mg,10.01g,2.96g,3.25g,9.88g,294.25mg,2.45mg,484.01mg,True,False,False,dairy
+Dinner,Iron Grill,Crispy Chicken with Honey-Garlic Soy Glaze,6.41,337,19.18g,4.1g,0g,75.18mg,908.65mg,27.53g,0.49g,4.56g,16.47g,25.99mg,1.14mg,298.79mg,False,False,False,"soy,gluten,wheat,sesame"
+Dinner,Iron Grill,Korean Egg Sandwich,5.88,334,18.23g,3.35g,0.03g,214.55mg,2405.12mg,29.75g,1.92g,6.58g,11.75g,80.28mg,1.6mg,206.67mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
 Dinner,Iron Grill,Grilled Lemongrass Chili Chicken,2.99,126,5.95g,0.9g,0g,72.55mg,155.5mg,0.91g,0g,0.48g,15.26g,0.65mg,0.03mg,4.64mg,False,False,False,fish
-Dinner,Iron Grill,Grilled Beef Banh Mi,10.8,694,43.07g,15.55g,0g,138.69mg,1135.54mg,33.03g,1.41g,3.98g,42.64g,38.11mg,4.25mg,608.89mg,False,False,False,"fish,soy,shellfish,gluten,peanuts,wheat,sesame,dairy,eggs"
-Dinner,Iron Grill,Vegetable Egg Roll,1,47,1.49g,0.17g,0g,0mg,149.29mg,6.97g,0.66g,0.66g,1g,8.63mg,0.36mg,59.72mg,True,False,False,"soy,gluten,wheat,sesame,eggs"
-Dinner,Sweets Station,Thai Steamed Cakes,1.68,153,5.98g,0.7g,0g,42.94mg,62.75mg,22.11g,0.28g,13.71g,2.66g,8.9mg,0.63mg,27mg,False,False,False,"gluten,wheat,eggs"
-Dinner,Sweets Station,Vietnamese Coffee Jello Cubes,2.28,76,4.57g,2.9g,0.15g,14.31mg,12.99mg,5.76g,0g,5.7g,3.3g,14.48mg,0.05mg,19.03mg,False,False,False,dairy
-Dinner,Sweets Station,Oreo Mousse,3.98,385,27.87g,16.39g,0.8g,74.47mg,173.5mg,29.88g,8.97g,22.22g,4.37g,57.38mg,0.95mg,115.35mg,True,False,True,"soy,gluten,wheat,dairy"
-Dinner,Sweets Station,Old-Fashioned Oatmeal Raisin Cookie,1.3,152,5.87g,2.02g,0g,0mg,116.93mg,23.02g,1.26g,11.51g,2.1g,8.08mg,0.73mg,70.1mg,True,True,True,"soy,gluten,wheat"
+Dinner,Sweets Station,Butter Mochi,3.97,296,7.14g,4.08g,0g,62.15mg,48.88mg,54.36g,0.1g,36.15g,4.27g,49.67mg,0.22mg,86mg,False,False,False,"dairy,eggs"
+Dinner,Sweets Station,Indian Rice Pudding,3.94,119,4.58g,1.94g,0g,9.73mg,41.85mg,16.58g,0.36g,16.35g,3.66g,110.04mg,0.03mg,150.17mg,False,False,False,"tree_nuts,dairy"
+Dinner,Sweets Station,Fudge Brownie,1.88,197,10.38g,6.06g,0.01g,55.49mg,63.39mg,27.79g,2.08g,19.8g,3.19g,17.83mg,2.42mg,240.46mg,True,False,True,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
+Dinner,Sweets Station,Classic Chocolate Chip Cookie,1.3,162,7.38g,2.96g,0g,0mg,134.72mg,22.79g,0.87g,12.26g,2.31g,3.17mg,1.03mg,25.66mg,True,True,True,"soy,gluten,wheat"
 Dinner,Sweets Station,Tropical Fruits,3,33,0.13g,0.02g,0g,0mg,5.09mg,8.16g,0.76g,6.77g,0.56g,8.21mg,0.21mg,138.11mg,True,True,False,
 Dinner,Sweets Station,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,7.08mg,0.37mg,506.93mg,True,True,False,
 Dinner,Sweets Station,Fuji Apple,5.66,102,0.29g,0g,0g,0mg,1.6mg,24.41g,3.37g,18.73g,0.32g,11.23mg,0.16mg,174.84mg,True,True,False,
 Dinner,Sweets Station,Oranges,5,67,0.17g,0.03g,0g,0mg,0mg,16.64g,3.4g,13.24g,1.33g,56.64mg,0.14mg,256.3mg,True,True,False,
-Dinner,Sweets Station,Thai Coconut Chicken Soup,4.21,39,1.91g,1.18g,0g,17.75mg,239.96mg,1.37g,0.13g,0.45g,3.97g,8.35mg,0.68mg,96.54mg,False,False,False,soy
-Dinner,Sweets Station,Tomato Egg Drop Soup,4.11,17,1.26g,0.28g,0g,21.08mg,300.18mg,4.73g,0.12g,0.21g,0.84g,9.93mg,0.44mg,20mg,False,False,False,"soy,sesame,eggs"
+Dinner,Sweets Station,Seaweed Soup,6.81,49,3.34g,0.56g,0.02g,5.27mg,699.3mg,2.05g,0.37g,0.83g,2.24g,15.96mg,0.29mg,40.39mg,False,False,False,"fish,soy,gluten,wheat,sesame"
+Dinner,Sweets Station,Miso Soup,4.14,41,1.52g,0.26g,0g,0mg,555.86mg,4.41g,1.02g,1.04g,2.83g,14.13mg,0.4mg,36.32mg,True,True,False,"soy,gluten,wheat,sesame"
 Dinner,Sweets Station,Asian Stir Fry,2.85,88,4.04g,0.6g,0g,0mg,127.32mg,10.61g,3.07g,0.01g,2.6g,21.38mg,0.74mg,165.94mg,False,False,False,
 Dinner,Sweets Station,Brown Calrose Rice,2.03,105,0.77g,0.15g,0g,0mg,2.3mg,21.89g,0.98g,0g,2.16g,10.34mg,0.52mg,77.03mg,True,True,True,
 Dinner,Sweets Station,Sticky Rice,4,203,0g,0g,0g,0mg,2.27mg,44.52g,0g,0g,4.04g,1.7mg,0mg,0mg,True,True,False,
