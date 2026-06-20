@@ -1,8 +1,4 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,Cheese Calzone,Cheese Calzone,15,893,39.66g,24.83g,0g,221.01mg,1326.69mg,74.9g,2.72g,2.64g,65.13g,1107mg,3.66mg,542.9mg,False,False,False,"gluten,wheat,dairy,eggs"
-All Day,Sausage and Cheese Calzone,Sausage and Cheese Calzone,17,1096,56.85g,30.88g,0g,256.46mg,1923.92mg,76.94g,2.75g,3.66g,73.23g,1137.43mg,4.77mg,634mg,False,False,False,"gluten,wheat,dairy,eggs"
-All Day,Pepperoni and Cheese Calzone,Pepperoni and Cheese Calzone,17,1177,66.01g,34.93g,0g,281.76mg,2298.43mg,74.92g,2.75g,2.65g,75.26g,1107.08mg,3.66mg,542.94mg,False,False,False,"gluten,wheat,dairy,eggs"
-All Day,"Chicken, Pesto, and Cheese calzone","Chicken, Pesto, and Cheese calzone",17.5,1162,60.56g,30.9g,0.2g,283.46mg,1579.76mg,75.59g,2.18g,2.28g,81.59g,1208.01mg,3.97mg,517.63mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,Chicken Pesto Sandwich,Chicken Pesto Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat"
 All Day,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 All Day,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
