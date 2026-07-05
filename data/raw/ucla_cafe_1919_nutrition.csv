@@ -4,10 +4,10 @@ All Day,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,
 All Day,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 All Day,Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 All Day,Chicken Caesar Sandwich,Chicken Caesar Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,alcohol"
-All Day,Brewed Tea,Brewed Tea,16.16,0,0g,0g,0g,0mg,18.14mg,0g,0g,0g,0g,13.6mg,0mg,0mg,True,True,False,
 All Day,Brewed Coffee,Brewed Coffee,17.38,70,0.1g,0.05g,0g,0mg,26.16mg,14.73g,0g,0g,2.36g,41.77mg,0.89mg,691.31mg,True,True,False,
-All Day,Orange Juice Pint,Orange Juice,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
+All Day,Brewed Tea,Brewed Tea,16.16,0,0g,0g,0g,0mg,18.14mg,0g,0g,0g,0g,13.6mg,0mg,0mg,True,True,False,
 All Day,Milk Nonfat Half Pints,Nonfat Milk,,34,0.1g,0.1g,0g,2mg,42mg,5g,0g,5.1g,3.4g,122mg,0mg,156mg,False,False,False,
+All Day,Orange Juice Pint,Orange Juice,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
 All Day,Butter Croissant,Butter Croissant,3.17,350,16.22g,11.23g,0g,56.13mg,399.11mg,43.65g,1.25g,6.23g,8.73g,32.43mg,1.35mg,103.52mg,True,False,True,"gluten,wheat,dairy,eggs"
 All Day,Chocolate Croissant,Chocolate Croissant,2.89,344,18.47g,11.88g,0g,39.58mg,316.65mg,36.94g,2.64g,13.19g,7.92g,31.66mg,2.64mg,50.14mg,True,False,True,"soy,gluten,tree_nuts,wheat,dairy,eggs"
 All Day,Cheese Danish,Cheese Danish,3.5,392,24.47g,4.9g,4.9g,12.24mg,330.33mg,39.15g,0g,11.01g,4.9g,36.71mg,0.49mg,48.94mg,True,False,True,"gluten,wheat,dairy"
@@ -26,11 +26,11 @@ All Day,Caesar,Caesar,7,143,6.17g,5.73g,0g,28.34mg,296.89mg,5.59g,3.57g,2.02g,24
 All Day,Chicken Caesar,Chicken Caesar,8,257,8.52g,5.74g,0g,77.19mg,357.66mg,3.94g,2.4g,1.38g,43.64g,265.28mg,2.24mg,424.43mg,False,False,False,dairy
 All Day,Pollo Verdura,Pollo Verdura,12.81,340,12.45g,4.94g,0g,69.1mg,402.13mg,21.46g,7.04g,7.84g,31.59g,262.99mg,2.4mg,623.84mg,False,False,False,dairy
 All Day,Gamberetti,Gamberetti,9,424,31.03g,7.68g,0.03g,135.43mg,774.26mg,5.87g,2.58g,1.4g,35.88g,319.87mg,2.58mg,534.23mg,False,False,False,"fish,dairy"
-All Day,Mediterranean Salad,Mediterranean Salad,12.01,459,43.57g,0.14g,0g,0mg,3835.42mg,35.2g,7.11g,8.17g,6.74g,153.86mg,2.55mg,899.98mg,True,True,False,
+All Day,Mediterranean Salad,Mediterranean Salad,12.01,176,8.14g,0.14g,0g,0mg,887.25mg,23.86g,7.11g,8.17g,6.74g,153.86mg,2.55mg,899.98mg,True,True,False,
 All Day,Vegetarian Tagliata Salad,Vegetarian Tagliata Salad,10.5,202,11.28g,5.09g,0g,20.24mg,1265.04mg,17.38g,7.02g,4.52g,10.48g,309.3mg,2.62mg,484.79mg,True,False,False,dairy
 All Day,Insalata Di Salmone,Insalata Di Salmone,11.51,254,13.9g,3.13g,0g,54.44mg,267.45mg,8.81g,3.69g,4.08g,23.98g,92.35mg,2.67mg,1072.06mg,False,False,False,fish
-All Day,Asian Chicken Salad,Asian Chicken Salad,10.2,465,24.63g,1.73g,0g,57.01mg,980.95mg,27.41g,4.08g,15.84g,28.94g,49.03mg,1.16mg,355.39mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame"
-All Day,Asian Wonton Salad,Asian Wonton Salad,10.05,475,30.25g,2.08g,0g,0mg,1265mg,45.34g,5.04g,23.27g,9.23g,62.34mg,1.54mg,457.1mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame"
+All Day,Asian Chicken Salad,Asian Chicken Salad,10.2,474,24.63g,1.73g,0g,57.01mg,978.92mg,29.49g,4.11g,17g,28.97g,49.03mg,1.16mg,355.39mg,False,False,False,"soy,gluten,tree_nuts,wheat,sesame"
+All Day,Asian Wonton Salad,Asian Wonton Salad,10.05,493,30.25g,2.08g,0g,0mg,1260.95mg,49.53g,5.1g,25.6g,9.28g,62.34mg,1.54mg,457.1mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame"
 All Day,Pollo Parma,Pollo Parma,11.78,683,29.75g,13.86g,0g,111.36mg,907.34mg,48.82g,2.54g,3.84g,51.49g,665.6mg,0.9mg,412.43mg,False,False,False,"gluten,wheat,dairy"
 All Day,Florentino,Florentino,12.25,888,55.34g,11.32g,0g,116.87mg,789.95mg,46.28g,2.22g,1.77g,43.12g,353.76mg,1.18mg,290.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Tacchino,Tacchino,15.75,973,60.31g,17.99g,0g,112.81mg,1963.94mg,57.05g,4.73g,6.87g,48.52g,434.53mg,2.99mg,674.87mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
