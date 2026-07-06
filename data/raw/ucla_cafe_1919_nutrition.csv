@@ -1,11 +1,16 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
+All Day,Mon - Polpetta Italiano,Mon - Polpetta Italiano,16.65,1177,51.77g,20.34g,1.6g,159.08mg,2559.59mg,122.98g,5.52g,12.46g,53.42g,529.99mg,4.34mg,871.6mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Tue - Chicken Parmesan,Tue - Chicken Parmesan,17,1009,60.37g,24.48g,0g,126.23mg,2380.86mg,63.65g,5.35g,9.97g,61.24g,979.98mg,3.18mg,861.27mg,False,False,False,"gluten,wheat,dairy"
+All Day,Wed - Italian Sausage Sandwich,Wed - Italian Sausage Sandwich,3.61,210,12.08g,4.82g,0g,32.61mg,594.91mg,14.82g,1.21g,2.04g,12.38g,140.18mg,0.27mg,94.28mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Thu - Lasagna Bolognese,Thu - Lasagna Bolognese,18.74,973,41.27g,21.89g,0.32g,124.99mg,1038.28mg,99.6g,8.98g,33.73g,51.53g,819.64mg,4.99mg,869.95mg,False,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,Fri - Calzone,Fri - Calzone,15,893,39.66g,24.83g,0g,221.01mg,1326.69mg,74.9g,2.72g,2.64g,65.13g,1107mg,3.66mg,542.9mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,Chicken Pesto Sandwich,Chicken Pesto Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat"
 All Day,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 All Day,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
 All Day,Roasted Portobello Mushroom Sandwich,Roasted Portobello Mushroom Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 All Day,Chicken Caesar Sandwich,Chicken Caesar Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,alcohol"
-All Day,Brewed Coffee,Brewed Coffee,17.38,70,0.1g,0.05g,0g,0mg,26.16mg,14.73g,0g,0g,2.36g,41.77mg,0.89mg,691.31mg,True,True,False,
 All Day,Brewed Tea,Brewed Tea,16.16,0,0g,0g,0g,0mg,18.14mg,0g,0g,0g,0g,13.6mg,0mg,0mg,True,True,False,
+All Day,Brewed Coffee,Brewed Coffee,17.38,70,0.1g,0.05g,0g,0mg,26.16mg,14.73g,0g,0g,2.36g,41.77mg,0.89mg,691.31mg,True,True,False,
 All Day,Milk Nonfat Half Pints,Nonfat Milk,,34,0.1g,0.1g,0g,2mg,42mg,5g,0g,5.1g,3.4g,122mg,0mg,156mg,False,False,False,
 All Day,Orange Juice Pint,Orange Juice,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
 All Day,Butter Croissant,Butter Croissant,3.17,350,16.22g,11.23g,0g,56.13mg,399.11mg,43.65g,1.25g,6.23g,8.73g,32.43mg,1.35mg,103.52mg,True,False,True,"gluten,wheat,dairy,eggs"
@@ -91,3 +96,14 @@ All Day,Ciabatta Roll,Ciabatta Roll,4,236,2.86g,0.41g,0g,0.05mg,471.35mg,44.02g,
 All Day,White Hoagie Torpedo Roll,White Hoagie Torpedo Roll,5.98,547,9.5g,1.25g,0.03g,1.1mg,1377.34mg,98.42g,2.71g,4.78g,14.55g,41.99mg,1.12mg,126.81mg,True,True,True,"gluten,wheat"
 All Day,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,3.99,453,17.82g,10.17g,0g,64.99mg,227.07mg,68.42g,3.75g,34.04g,7.22g,32.4mg,2.31mg,220.26mg,True,False,True,"gluten,wheat,dairy,eggs"
 All Day,Chocolate Chip Cookie,Chocolate Chip Cookie,4,471,22.6g,13.31g,0.01g,88.68mg,184.29mg,67.93g,2.98g,43.33g,7.38g,24.8mg,3.51mg,135.01mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,Yogurt Parfait,Yogurt Parfait,12,343,7.82g,2.72g,0.1g,18.47mg,146.28mg,48.46g,4.93g,32.31g,21.12g,231.57mg,0.65mg,465.46mg,True,False,False,"soy,gluten,dairy"
+All Day,Overnight Oats,Overnight Oats,15.52,973,50.02g,9.24g,0.09g,3.3mg,264.78mg,103.2g,18.92g,33.39g,31.28g,411.17mg,4.71mg,978.95mg,True,False,False,"soy,gluten,peanuts,tree_nuts,dairy,alcohol"
+All Day,Chicken Caesar Salad,Chicken Caesar Salad,15.5,787,56.23g,7.82g,0g,117.47mg,808.14mg,23.33g,3.47g,2.64g,41.29g,120.54mg,1.63mg,495.14mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
+All Day,Poached Salmon with Cherry Tomatoes,Poached Salmon with Cherry Tomatoes,15.11,575,44.76g,6.08g,0g,74.74mg,535.25mg,8.82g,2.48g,3.21g,30.2g,81.93mg,1.93mg,930.35mg,False,False,False,"fish,alcohol"
+All Day,Chicken Caprese,Chicken Caprese,16.13,771,31.87g,14.95g,0g,126.64mg,2223mg,57.06g,4.11g,1.83g,55.82g,500.13mg,1.65mg,399.59mg,False,False,False,"gluten,wheat,dairy"
+All Day,Grilled Chicken Pesto Sandwich,Grilled Chicken Pesto Sandwich,13.47,598,29.55g,7.45g,0g,101.06mg,827.09mg,34.29g,5.46g,1.57g,44.17g,354.5mg,1.53mg,456.33mg,False,False,True,"gluten,wheat,dairy"
+All Day,Beef Bulgogi Short Ribs Bowl,Beef Bulgogi Short Ribs Bowl,16.65,351,2.74g,0.28g,0g,0mg,75.6mg,76.26g,5.05g,22.08g,6.23g,60.17mg,0.85mg,315.42mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,Teriyaki Chicken Bowl,Teriyaki Chicken Bowl,17.13,652,8.93g,0.34g,0g,118.12mg,1454.66mg,73.36g,1.46g,23.69g,52.09g,26.07mg,0.29mg,101.18mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,Spaghetti and Meatballs,Spaghetti and Meatballs,17,1217,45.72g,15.75g,2.07g,168.29mg,1077.64mg,150.71g,8.48g,12.77g,51.84g,107.01mg,3.66mg,712.87mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Chicken Pesto Pasta,Chicken Pesto Pasta,15,1567,105g,7.69g,0g,103.89mg,341.95mg,85.96g,4.08g,4.04g,54.92g,56.45mg,4mg,34.39mg,False,False,False,"gluten,wheat,dairy"
+All Day,Baked Mac and Cheese,Baked Mac and Cheese,16.3,1396,51.51g,28.41g,0.46g,154.63mg,2219.31mg,179.86g,8.18g,13.91g,57.29g,825.41mg,0.37mg,259.14mg,True,False,False,"gluten,wheat,dairy"
