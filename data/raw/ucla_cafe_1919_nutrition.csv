@@ -1,4 +1,9 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
+All Day,Mon - Polpetta Italiano,Mon - Polpetta Italiano,16.65,1177,51.77g,20.34g,1.6g,159.08mg,2559.59mg,122.98g,5.52g,12.46g,53.42g,529.99mg,4.34mg,871.6mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Tue - Chicken Parmesan,Tue - Chicken Parmesan,17,1009,60.37g,24.48g,0g,126.23mg,2380.86mg,63.65g,5.35g,9.97g,61.24g,979.98mg,3.18mg,861.27mg,False,False,False,"gluten,wheat,dairy"
+All Day,Wed - Italian Sausage Sandwich,Wed - Italian Sausage Sandwich,3.61,210,12.08g,4.82g,0g,32.61mg,594.91mg,14.82g,1.21g,2.04g,12.38g,140.18mg,0.27mg,94.28mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Thu - Lasagna Bolognese,Thu - Lasagna Bolognese,18.74,973,41.27g,21.89g,0.32g,124.99mg,1038.28mg,99.6g,8.98g,33.73g,51.53g,819.64mg,4.99mg,869.95mg,False,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,Fri - Calzone,Fri - Calzone,15,893,39.66g,24.83g,0g,221.01mg,1326.69mg,74.9g,2.72g,2.64g,65.13g,1107mg,3.66mg,542.9mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,Chicken Pesto Sandwich,Chicken Pesto Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat"
 All Day,Roasted Turkey & Provolone Sandwich,Roasted Turkey & Provolone Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,alcohol"
 All Day,Ham & Swiss Sandwich,Ham & Swiss Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,soy,eggs"
