@@ -14,6 +14,7 @@ All Day,Brewed Coffee,Brewed Coffee,17.38,70,0.1g,0.05g,0g,0mg,26.16mg,14.73g,0g
 All Day,Orange Juice Pint,Orange Juice,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
 All Day,Milk Nonfat Half Pints,Nonfat Milk,,34,0.1g,0.1g,0g,2mg,42mg,5g,0g,5.1g,3.4g,122mg,0mg,156mg,False,False,False,
 All Day,Butter Croissant,Butter Croissant,3.17,350,16.22g,11.23g,0g,56.13mg,399.11mg,43.65g,1.25g,6.23g,8.73g,32.43mg,1.35mg,103.52mg,True,False,True,"gluten,wheat,dairy,eggs"
+All Day,Mango Chia Pudding with Yogurt Mousse,Mango Chia Pudding with Yogurt Mousse,6.44,389,27.47g,18.1g,0.64g,57.09mg,20.08mg,26.13g,2.7g,28.36g,3.36g,93.13mg,0.93mg,255.26mg,False,False,False,dairy
 All Day,Chocolate Croissant,Chocolate Croissant,2.89,344,18.47g,11.88g,0g,39.58mg,316.65mg,36.94g,2.64g,13.19g,7.92g,31.66mg,2.64mg,50.14mg,True,False,True,"soy,gluten,tree_nuts,wheat,dairy,eggs"
 All Day,Cheese Danish,Cheese Danish,3.5,392,24.47g,4.9g,4.9g,12.24mg,330.33mg,39.15g,0g,11.01g,4.9g,36.71mg,0.49mg,48.94mg,True,False,True,"gluten,wheat,dairy"
 All Day,Apple Turnover,Apple Turnover,4,292,14.04g,7.01g,0g,0mg,280.75mg,37.09g,1g,0g,5.01g,0mg,1.44mg,0mg,True,False,True,"soy,gluten,wheat"
@@ -21,7 +22,6 @@ All Day,Blueberry Muffin,Blueberry Muffin,6.99,682,44.57g,7.03g,0.02g,127.87mg,3
 All Day,Mocha Muffin,Mocha Muffin,7.23,759,49.28g,9.47g,0.02g,125.85mg,356.1mg,72.56g,2.48g,47.95g,10.98g,153.06mg,3.63mg,223.07mg,True,False,False,"soy,gluten,wheat,eggs"
 All Day,Banana Walnut Muffin,Banana Walnut Muffin,7.24,808,57.7g,7.1g,0.02g,125.44mg,354.26mg,58.87g,2.3g,36.05g,14.59g,158.21mg,2.71mg,254.22mg,True,False,True,"gluten,tree_nuts,wheat,eggs"
 All Day,Cinnamon Roll with Cream Cheese,Cinnamon Roll with Cream Cheese,5.88,616,29.34g,16.24g,0.05g,52.43mg,479.17mg,82.5g,1.53g,58.31g,14.66g,57.98mg,1.77mg,81.65mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-All Day,Island Chia Pudding,Island Chia Pudding,5.39,311,16.03g,11.44g,0.02g,0.02mg,12.12mg,42.48g,6.25g,33.24g,2.41g,84.93mg,1.36mg,260.84mg,True,True,False,alcohol
 All Day,Pistachio Eclair,Pistachio Eclair,2.14,92,6.91g,3.12g,0.07g,15.51mg,30mg,11.05g,1.76g,8.18g,1.53g,27.76mg,0.57mg,66.7mg,True,False,True,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
 All Day,Chocolate Chip Cookie,Chocolate Chip Cookie,4,471,22.6g,13.31g,0.01g,88.68mg,184.29mg,67.93g,2.98g,43.33g,7.38g,24.8mg,3.51mg,135.01mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 All Day,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,3.99,453,17.82g,10.17g,0g,64.99mg,227.07mg,68.42g,3.75g,34.04g,7.22g,32.4mg,2.31mg,220.26mg,True,False,True,"gluten,wheat,dairy,eggs"
