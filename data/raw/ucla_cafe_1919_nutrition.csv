@@ -30,20 +30,20 @@ All Day,Balsamic Vinaigrette,Balsamic Vinaigrette,2.05,373,39.36g,2.81g,0g,0mg,3
 All Day,Red Wine Vinaigrette,Red Wine Vinaigrette,2.02,326,34.64g,2.48g,0g,0mg,307.32mg,0.35g,0.07g,0.06g,0.06g,1.83mg,0.03mg,6.01mg,True,True,False,alcohol
 All Day,Purple Yam Ube,Purple Yam Ube,8,465,25.75g,15.46g,0g,90.16mg,141.69mg,54.09g,0g,51.53g,126.23g,502.34mg,0mg,0mg,True,False,False,dairy
 All Day,Caramel Sea Salt,Caramel Sea Salt,8,567,28.34g,11.34g,0g,56.68mg,198.36mg,70.84g,2.83g,73.68g,11.34g,294.71mg,0mg,382.56mg,True,False,False,dairy
-All Day,Chocolate Chip Coffee,Chocolate Chip Coffee,8,515,28.34g,20.61g,0g,90.16mg,141.69mg,54.09g,2.58g,51.53g,10.31g,291.11mg,2.58mg,2.58mg,True,False,False,"soy,gluten,tree_nuts,wheat,dairy,eggs"
-All Day,Cookies and Cream,Cookies and Cream,8,567,28.34g,15.46g,0g,77.28mg,257.62mg,64.41g,2.58g,54.09g,10.31g,334.9mg,0.93mg,0mg,True,False,False,"gluten,peanuts,tree_nuts,wheat,dairy,eggs"
-All Day,Dark Chocolate,Dark Chocolate,8,490,23.19g,12.88g,0g,167.44mg,128.81mg,64.41g,5.15g,59.26g,12.88g,265.35mg,2.58mg,324.59mg,True,False,False,"soy,peanuts,tree_nuts,dairy,eggs"
+All Day,Chocolate Chip Coffee,Chocolate Chip Coffee,8,515,28.34g,20.61g,0g,90.16mg,141.69mg,54.09g,2.58g,51.53g,10.31g,291.11mg,2.58mg,2.58mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Cookies and Cream,Cookies and Cream,8,567,28.34g,15.46g,0g,77.28mg,257.62mg,64.41g,2.58g,54.09g,10.31g,334.9mg,0.93mg,0mg,True,False,False,"gluten,peanuts,wheat,dairy,eggs"
+All Day,Dark Chocolate,Dark Chocolate,8,490,23.19g,12.88g,0g,167.44mg,128.81mg,64.41g,5.15g,59.26g,12.88g,265.35mg,2.58mg,324.59mg,True,False,False,"soy,peanuts,dairy,eggs"
 All Day,Mint Chocolate Chip,Mint Chocolate Chip,8,515,18.02g,0g,0g,90.16mg,128.81mg,59.26g,2.58g,56.68g,10.31g,334.9mg,0.93mg,0mg,True,False,False,"soy,dairy"
-All Day,Spumoni,Spumoni,8,429,22.67g,12.6g,0g,100.75mg,125.95mg,50.37g,0g,45.34g,10.07g,261.97mg,0mg,0mg,True,False,False,"soy,gluten,tree_nuts,wheat,dairy,eggs"
-All Day,Peanut Butter Cup,Peanut Butter Cup,8,620,38.65g,18.02g,0g,77.28mg,283.38mg,54.09g,2.58g,48.94g,15.46g,334.9mg,0.93mg,0mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,dairy,eggs"
-All Day,Strawberry Cheesecake,Strawberry Cheesecake,8,490,23.19g,12.88g,0g,90.16mg,167.44mg,59.26g,0g,56.68g,10.31g,293.69mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,dairy,eggs"
-All Day,Vanilla Bean,Vanilla Bean,8,454,25.19g,15.12g,0g,100.75mg,138.54mg,52.89g,0g,50.37g,7.55g,491.19mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,dairy,eggs"
-All Day,Banana Dulce de Leche,Banana Dulce de Leche,8,465,18.02g,11.58g,0g,77.28mg,141.69mg,59.26g,0g,7.73g,7.73g,298.84mg,2.58mg,113.35mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,dairy"
+All Day,Spumoni,Spumoni,8,429,22.67g,12.6g,0g,100.75mg,125.95mg,50.37g,0g,45.34g,10.07g,261.97mg,0mg,0mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Peanut Butter Cup,Peanut Butter Cup,8,620,38.65g,18.02g,0g,77.28mg,283.38mg,54.09g,2.58g,48.94g,15.46g,334.9mg,0.93mg,0mg,True,False,False,"soy,gluten,peanuts,wheat,dairy,eggs"
+All Day,Strawberry Cheesecake,Strawberry Cheesecake,8,490,23.19g,12.88g,0g,90.16mg,167.44mg,59.26g,0g,56.68g,10.31g,293.69mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,wheat,dairy,eggs"
+All Day,Vanilla Bean,Vanilla Bean,8,454,25.19g,15.12g,0g,100.75mg,138.54mg,52.89g,0g,50.37g,7.55g,491.19mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,wheat,dairy,eggs"
+All Day,Banana Dulce de Leche,Banana Dulce de Leche,8,465,18.02g,11.58g,0g,77.28mg,141.69mg,59.26g,0g,7.73g,7.73g,298.84mg,2.58mg,113.35mg,True,False,False,"soy,gluten,peanuts,wheat,dairy"
 All Day,Birthday Cake,Birthday Cake,8,490,12.88g,12.88g,0g,77.28mg,180.34mg,66.99g,0g,66.99g,7.73g,334.9mg,0mg,0mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Raspberry Pan Sorbet,Raspberry Pan Sorbet,8,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,False,False,
 All Day,Strawberry Pan Sorbet,Strawberry Pan Sorbet,8,0,0g,0g,0g,0mg,906.8mg,680.1g,63.48g,22.67g,0g,0mg,0mg,0mg,True,False,False,
 All Day,Alphonso Mango Sorbet,Alphonso Mango Sorbet,8,232,0g,0g,0g,0mg,0mg,59.26g,2.58g,56.68g,0g,0mg,0mg,2.58mg,True,False,False,
-All Day,Pistachio,Pistachio,8,543,30.92g,15.46g,0g,90.16mg,270.5mg,51.53g,0g,48.94g,12.88g,334.9mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,dairy,eggs"
+All Day,Pistachio,Pistachio,8,543,30.92g,15.46g,0g,90.16mg,270.5mg,51.53g,0g,48.94g,12.88g,334.9mg,0mg,0mg,True,False,False,"soy,gluten,peanuts,wheat,dairy,eggs"
 All Day,Granola Clusters,Granola Clusters,2,219,2.72g,0g,0g,0mg,92.52mg,46.8g,4.35g,15.24g,4.35g,0mg,1.57mg,141.5mg,True,True,False,"soy,gluten,wheat"
 All Day,Coconut Flakes,Coconut Flakes,1,132,7.05g,6.04g,0g,0mg,5.04mg,17.12g,4.03g,11.08g,0g,0mg,0mg,0mg,True,True,False,
 All Day,Dried Cranberry,Dried Cranberry,1,65,0g,0g,0g,0mg,0mg,16.32g,0.99g,12.86g,0g,0mg,0mg,0mg,True,True,False,

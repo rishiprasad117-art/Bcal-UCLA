@@ -1,17 +1,16 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Breakfast,Bruin Scramble,Bruin Scramble,4.52,226,17.38g,4.07g,0.04g,298.85mg,375.9mg,3.47g,0.55g,1.57g,12.63g,79.18mg,1.47mg,158.66mg,False,False,False,"dairy,eggs"
-Breakfast,Vegetarian Bruin Scramble,Vegetarian Bruin Scramble,3.48,166,12.84g,3.18g,0.03g,238.84mg,215.25mg,2.66g,0.55g,1.1g,8.86g,70.11mg,1.21mg,138.89mg,True,False,False,"dairy,eggs"
-Breakfast,Potato O'Brien,Potato O'Brien,2.93,82,4.04g,0.31g,0g,0mg,86.28mg,9.98g,1.16g,0.46g,1.39g,6.19mg,0.58mg,208.85mg,True,True,False,
+Breakfast,Breakfast Chilaquiles,Breakfast Chilaquiles,5.23,224,12.11g,2.5g,0.01g,188.11mg,196.02mg,17.75g,2.05g,0.95g,9.48g,80.09mg,1.08mg,168mg,True,False,False,"dairy,eggs"
 Breakfast,Scrambled Eggs,Scrambled Eggs,3.29,157,11.47g,3.24g,0.05g,337.42mg,127.09mg,0.92g,0g,0.22g,11.18g,56.32mg,1.58mg,122.68mg,True,False,False,eggs
-Breakfast,Bacon,Bacon,0.53,62,5.85g,0g,0g,0mg,70.03mg,0.12g,0g,0.12g,1.87g,0.6mg,0.06mg,75.39mg,False,False,False,
-Breakfast,Buttery Hash Browns,Buttery Hash Browns,3.16,135,6.52g,4.01g,0g,17.06mg,258.63mg,17.56g,1.7g,0.83g,1.68g,8.74mg,0.47mg,391.03mg,True,False,False,dairy
 Breakfast,Fried Eggs,Fried Eggs,1.87,56,3.25g,0.23g,0g,0mg,82.56mg,0.37g,0g,0.35g,5.42g,3.48mg,0.04mg,81.07mg,True,False,False,
+Breakfast,Buttery Hash Browns,Buttery Hash Browns,3.16,135,6.52g,4.01g,0g,17.06mg,258.63mg,17.56g,1.7g,0.83g,1.68g,8.74mg,0.47mg,391.03mg,True,False,False,dairy
+Breakfast,Scrambled Egg Whites,Scrambled Egg Whites,3.28,65,2.27g,0.16g,0g,0mg,153.17mg,0.94g,0g,0.22g,9.24g,7.25mg,0.04mg,153.17mg,True,False,False,eggs
+Breakfast,Bacon,Bacon,0.53,62,5.85g,0g,0g,0mg,70.03mg,0.12g,0g,0.12g,1.87g,0.6mg,0.06mg,75.39mg,False,False,False,
 Breakfast,Tomatillo Salsa,Tomatillo Salsa,1.95,24,0.01g,0g,0g,0mg,457.4mg,4g,1.94g,1.9g,1.93g,1.31mg,1.9mg,1100.32mg,True,True,False,
 Breakfast,Belgian Waffles,Belgian Waffles,5.93,328,8.74g,2.74g,0g,0mg,908.81mg,57.83g,1.09g,13.09g,4.37g,144.35mg,2.45mg,76.37mg,True,False,False,"soy,gluten,wheat,dairy"
 Breakfast,Maple Flavored Syrup,Maple Flavored Syrup,1,75,0g,0g,0g,0mg,33.56mg,18.47g,0g,11.99g,0g,0.22mg,0.01mg,6.58mg,True,True,False,
 Breakfast,Bodega Egg & Bacon Roll,Bodega Egg & Bacon Roll,6.81,623,46.26g,9.82g,0.02g,64.29mg,983.34mg,31.86g,1.33g,4.44g,18.08g,43.77mg,1.68mg,265.18mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Breakfast,Tater Tots,Tater Tots,3.81,173,8.63g,2.16g,0g,0mg,356.07mg,20.5g,2.16g,1.08g,2.16g,0mg,0mg,345.28mg,True,True,False,soy
-Breakfast,Smoked Salmon Egg Benedict,Smoked Salmon Egg Benedict,7.41,294,17.22g,9.22g,0g,67.47mg,832.52mg,13.67g,0.65g,1.03g,20.87g,25.54mg,1.11mg,345.39mg,False,False,False,"fish,dairy"
+Breakfast,Avocado Hash Brown Toast,Avocado Hash Brown Toast,6.4,370,28.43g,5.48g,0.02g,189.4mg,517.68mg,18.22g,2.41g,2.19g,10.52g,72.08mg,1.56mg,550.83mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
+Breakfast,Tater Tots,Tater Tots,3.81,173,8.63g,2.16g,0g,0mg,356.07mg,20.5g,2.16g,1.08g,2.16g,0mg,0mg,345.28mg,True,True,True,soy
 Breakfast,Oatmeal,Oatmeal,6.33,99,1.45g,0.29g,0g,0mg,884.82mg,18.48g,2.89g,0.57g,2.89g,20.09mg,1.04mg,96.01mg,True,True,False,gluten
 Breakfast,Cream of Rice Cereal,Cream of Rice Cereal,6,70,0g,0g,0g,0mg,170.61mg,15.67g,0g,0g,1.31g,4.44mg,0mg,0.03mg,True,True,False,
 Breakfast,Plain Bagel,Plain Bagel,4,308,1.34g,0g,0g,0mg,453.2mg,63.98g,2.66g,5.34g,12g,79.98mg,3.6mg,93.3mg,True,True,False,"soy,gluten,wheat"
@@ -31,83 +30,77 @@ Breakfast,Watermelon,Watermelon,5,44,0.21g,0.03g,0g,0mg,1.42mg,10.69g,0.57g,8.78
 Breakfast,Pineapple,Pineapple,3,43,0.1g,0.01g,0g,0mg,0.85mg,11.14g,1.19g,8.36g,0.46g,11.04mg,0.25mg,92.54mg,True,True,False,
 Breakfast,Cantaloupe,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg,True,True,False,
 Breakfast,Mini Croissant,Mini Croissant,1.04,123,6.12g,3.68g,0g,18.38mg,128.63mg,14.7g,0.46g,2.45g,2.45g,0mg,0mg,31.85mg,True,False,True,"gluten,wheat,dairy,eggs"
-Breakfast,Chocolate Croissant,Chocolate Croissant,1.23,147,7.86g,5.05g,0g,16.84mg,134.71mg,15.72g,1.12g,5.61g,3.37g,13.47mg,1.12mg,21.33mg,True,False,True,"soy,gluten,tree_nuts,wheat,dairy,eggs"
-Breakfast,Cinnamon Streusel Coffee Cake,Cinnamon Streusel Coffee Cake,1.7,184,11.57g,2.44g,0g,32.95mg,84.95mg,17.04g,0.51g,9.73g,2.54g,37.95mg,0.63mg,33.18mg,True,False,True,"gluten,wheat,dairy,eggs"
-Lunch,LA Street Food,LA Street Food,0.1,0,0g,0g,0g,0mg,0.11mg,0g,0g,0g,0g,0.08mg,0mg,0mg,False,False,False,
-Lunch,Smash Beef Tacos,Smash Beef Tacos,6.38,384,28.17g,11.14g,1.05g,76.04mg,907.38mg,15.95g,2.6g,3.11g,17.27g,169.19mg,3.27mg,621.55mg,False,False,True,"gluten,wheat,dairy"
-Lunch,Smash Beyond Taco,Smash Beyond Taco,6.64,304,18.57g,5.91g,5.89g,26.28mg,1008.8mg,19.43g,2.69g,3.42g,17.31g,199.33mg,4.8mg,667.34mg,True,False,False,"gluten,wheat,dairy"
-Lunch,Mexican Street Corn with Chorizo,Mexican Street Corn with Chorizo,1.98,133,10.14g,3.14g,0g,14.29mg,97.26mg,7.51g,1.27g,3.75g,1.92g,22.19mg,0.22mg,85.55mg,False,False,False,"soy,dairy,eggs"
-Lunch,Elote (Mexican Street Corn),Elote (Mexican Street Corn),1.88,126,9.37g,3.09g,0g,14.32mg,85.19mg,7.5g,1.27g,3.75g,1.92g,22.17mg,0.22mg,85.38mg,True,False,False,"soy,dairy,eggs"
-Lunch,Pepperoni Pizza,Pepperoni Pizza,3.55,324,20.85g,5.22g,0g,21.44mg,548.97mg,23.42g,0.89g,0.4g,8.97g,131.98mg,0.47mg,68.16mg,False,False,False,"gluten,wheat,dairy"
-Lunch,Three Cheese & Tomato Pizza,Three Cheese & Tomato Pizza,3.34,281,16.55g,3.81g,0g,14.59mg,386.78mg,23.06g,0.94g,0.49g,8.12g,93.3mg,0.38mg,83.7mg,True,False,False,"gluten,wheat,dairy"
-Lunch,Cheese Pizza,Cheese Pizza,3.24,280,16.84g,3.67g,0g,12.19mg,400.9mg,23.39g,0.89g,0.4g,7.44g,131.85mg,0.47mg,68.1mg,True,False,False,"gluten,wheat,dairy"
+Breakfast,Cinnamon Swirl Danish,Cinnamon Swirl Danish,1.5,191,11.16g,5.02g,0g,5.58mg,61.37mg,22.32g,0.53g,8.93g,2.23g,0mg,1.2mg,30.13mg,True,False,True,"gluten,wheat,dairy,eggs"
+Breakfast,Chocolate Cinnamon Cream Cheese Coffee Cake,Chocolate Cinnamon Cream Cheese Coffee Cake,2.23,226,11.87g,2.99g,0.1g,38.24mg,209.44mg,26.68g,0.77g,16.95g,2.77g,9.43mg,0.41mg,37.18mg,True,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
+Lunch,Delta Wetlands,Delta Wetlands,0.1,0,0g,0g,0g,0mg,0.11mg,0g,0g,0g,0g,0.08mg,0mg,0mg,False,False,False,
+Lunch,Avery Island Pasta,Avery Island Pasta,5.87,368,5.49g,1.03g,0g,3.81mg,178.52mg,69.36g,3.68g,4.37g,12.42g,25.89mg,3.14mg,147.14mg,False,False,False,"gluten,wheat,dairy"
+Lunch,Mushroom & Spinach Penne Pasta,Mushroom & Spinach Penne Pasta,6.01,446,4.75g,0.2g,0g,0mg,67.9mg,87.93g,4.77g,4.96g,15.89g,14.49mg,4.21mg,191.45mg,True,True,True,"gluten,wheat"
+Lunch,Cajun Chicken Wings,Cajun Chicken Wings,3.97,319,21.22g,8.59g,0g,83.82mg,704.38mg,12.78g,0.6g,0.01g,17.65g,19.28mg,1.57mg,3.23mg,False,False,False,"gluten,wheat,dairy"
+Lunch,Hush Puppy,Hush Puppy,4,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
+Lunch,Ranch Dressing,Ranch Dressing,1.96,232,24.59g,3.46g,0g,23.16mg,395.12mg,1.22g,0g,1.22g,0.84g,29.39mg,0.01mg,38.26mg,True,False,False,"soy,dairy,eggs"
+Lunch,Blackened BBQ Chicken Pizza,Blackened BBQ Chicken Pizza,4.03,306,16.32g,2.8g,0g,16.26mg,726.53mg,27.95g,0.92g,4.11g,9.45g,90.33mg,0.39mg,55.27mg,False,False,False,"gluten,wheat,dairy"
+Lunch,Mushroom Pizza,Mushroom Pizza,3.47,282,16.89g,3.68g,0g,12.21mg,401.87mg,23.7g,0.98g,0.57g,7.71g,132.28mg,0.51mg,95.23mg,True,False,False,"gluten,wheat,dairy"
+Lunch,Detroit-Style Pepperoni Pizza,Detroit-Style Pepperoni Pizza,4.08,363,24.55g,11.11g,0g,48.32mg,587.43mg,23.76g,0.89g,0.46g,11.21g,213.98mg,0.52mg,80.17mg,False,False,False,"gluten,wheat,dairy"
 Lunch,Bruin Burger,Bruin Burger,8.75,459,21.1g,7.86g,0g,101.95mg,770.46mg,32.12g,2.31g,4.89g,32.66g,71.65mg,5.11mg,574.37mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
 Lunch,Bruin Cheeseburger,Bruin Cheeseburger,9.28,511,25.54g,10.81g,0g,113.04mg,1395.14mg,32.85g,2.31g,4.89g,35.64g,71.88mg,5.13mg,574.42mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
 Lunch,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,9.31,577,27.09g,8.55g,0g,72.04mg,1877.39mg,61.04g,2.8g,17.62g,21.82g,69.51mg,3.06mg,361.27mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Lunch,Patty Melt,Patty Melt,9.45,638,35.22g,16.12g,0g,144.18mg,649.31mg,36.34g,2.52g,5.46g,45.31g,471.09mg,5.2mg,551.59mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
-Lunch,Montreal Morning,Montreal Morning,10.49,773,46.68g,17.3g,0g,110.95mg,1304.61mg,48.82g,2.17g,5.71g,36.03g,63.12mg,2.02mg,437.69mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
+Lunch,Tabasco Beef Burger,Tabasco Beef Burger,10.99,732,45.14g,14.3g,0g,131.98mg,3371.77mg,40.03g,3.46g,5.23g,38.78g,78.72mg,5.7mg,680.91mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
+Lunch,Shrimp Po Boy Sandwich,Shrimp Po Boy Sandwich,8.66,489,28.81g,3.04g,0g,41.37mg,778.73mg,47.12g,2.23g,3.24g,9.42g,42.26mg,1.08mg,265.62mg,False,False,False,"fish,soy,shellfish,gluten,wheat,eggs,alcohol"
 Lunch,Beyond Burger,Beyond Burger,7.78,413,18.7g,4.28g,11.05g,24.76mg,678.85mg,36.29g,1.72g,4.3g,25.78g,113.27mg,6.77mg,447.79mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Lunch,Curly Fries,Curly Fries,4,214,10.66g,2.66g,0g,0mg,559.84mg,26.66g,2.66g,1.34g,2.66g,26.66mg,1.44mg,346.56mg,True,True,False,"soy,gluten,wheat"
-Lunch,Roasted Garlic Chicken Thigh,Roasted Garlic Chicken Thigh,3.12,148,8.35g,1.03g,0g,66.3mg,153.15mg,2.01g,0.27g,0.15g,14.23g,12.21mg,0.19mg,27.28mg,False,False,False,
-Lunch,Barley Pilaf,Barley Pilaf,2.36,93,1.04g,0.06g,0g,0mg,5.2mg,18.69g,2.66g,0.34g,2.55g,9.33mg,0.13mg,91.65mg,True,True,False,gluten
-Lunch,De la Olla Beans,De la Olla Beans,2,192,1.89g,0.22g,0g,0mg,113.68mg,32.43g,8.01g,1.21g,11.04g,58.85mg,2.61mg,720.3mg,True,True,False,
-Lunch,Boston Clam Chowder,Boston Clam Chowder,6,189,7.89g,4.42g,0.19g,42.01mg,951.64mg,15.95g,1.24g,2.36g,12.89g,47.99mg,1.38mg,446.51mg,False,False,False,"fish,soy,shellfish,gluten,wheat,dairy,eggs,alcohol"
-Lunch,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
-Lunch,Fresh Glazed Carrots,Fresh Glazed Carrots,3.13,64,2.78g,1.64g,0g,6.84mg,58.23mg,9.54g,2.35g,5.48g,0.82g,28.63mg,0.27mg,269.67mg,True,False,False,dairy
+Lunch,French Fries,French Fries,4,163,4.04g,1.35g,0g,0mg,377.66mg,26.98g,2.7g,1.35g,2.7g,0mg,0.49mg,391.16mg,True,True,False,soy
+Lunch,Spicy Shrimp and Okra Stew,Spicy Shrimp and Okra Stew,3.88,229,20.64g,10.42g,0.01g,91.68mg,350.13mg,4.31g,0.78g,1.6g,5.32g,38.38mg,0.33mg,145.01mg,False,False,False,"fish,dairy"
+Lunch,Cajun Red Beans & Rice,Cajun Red Beans & Rice,6.04,450,5.77g,0.65g,0g,0mg,76.89mg,87.02g,4.45g,2.79g,9.56g,77.73mg,3.39mg,395.24mg,True,True,False,
+Lunch,Spicy Braised Lentils with Potato,Spicy Braised Lentils with Potato,4.85,123,2.9g,0.23g,0g,0mg,108.77mg,18.95g,3.3g,2.35g,5.81g,35.38mg,1.7mg,341.63mg,True,True,False,
+Lunch,Chicken Tortilla Soup,Chicken Tortilla Soup,6.05,161,4.06g,0.45g,0g,23.07mg,80.76mg,21.65g,1.49g,14.89g,8.91g,25.13mg,0.94mg,202.51mg,False,False,False,
+Lunch,Broccoli Cheddar Soup,Broccoli Cheddar Soup,6,357,29.94g,18.82g,0.61g,94.4mg,548.83mg,12.27g,0.63g,5.56g,9.86g,319.72mg,0.49mg,236.15mg,True,False,False,"soy,gluten,wheat,dairy"
+Lunch,Roasted Fingerling Potato,Roasted Fingerling Potato,1.03,25,0.25g,0.03g,0g,0mg,18.14mg,5.05g,0.61g,0.24g,0.59g,3.81mg,0.24mg,122.73mg,True,True,False,
+Lunch,Roasted Brussels Sprouts,Roasted Brussels Sprouts,2.15,35,1.14g,0.1g,0g,0mg,59mg,5.4g,2.29g,1.32g,2.03g,25.4mg,0.85mg,234.25mg,True,True,False,
 Lunch,Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,2.8,36,1.51g,0.13g,0g,0mg,107.28mg,4.39g,1.05g,2.03g,2.07g,10.16mg,0.42mg,218.54mg,True,True,False,
-Lunch,Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,3.24,85,6.36g,0.48g,0g,0mg,176.3mg,5.21g,1.99g,1.25g,2.65g,45.5mg,0.79mg,281.27mg,True,True,False,
 Lunch,Ranch Dressing,Ranch Dressing,1.01,120,12.63g,1.78g,0g,11.89mg,202.9mg,0.62g,0g,0.62g,0.43g,15.09mg,0.01mg,19.65mg,True,False,False,"soy,dairy,eggs"
 Lunch,Caesar Salad Dressing,Caesar Salad Dressing,2,320,34.05g,4.86g,0g,30.43mg,272.19mg,1.18g,0.07g,0.22g,1.25g,6.36mg,0.13mg,29.45mg,False,False,False,"fish,soy,dairy,eggs"
 Lunch,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,4,165,3.34g,0.02g,0g,65.1mg,86.9mg,0.27g,0.05g,0.05g,26.08g,1.57mg,0.02mg,3.67mg,False,False,False,
 Lunch,Watermelon,Watermelon,1,9,0.04g,0.01g,0g,0mg,0.28mg,2.13g,0.11g,1.75g,0.17g,1.97mg,0.07mg,31.58mg,True,True,False,
 Lunch,Pineapple,Pineapple,1,15,0.03g,0g,0g,0mg,0.28mg,3.7g,0.39g,2.78g,0.15g,3.67mg,0.08mg,30.74mg,True,True,False,
 Lunch,Cantaloupe,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg,True,True,False,
-Lunch,Twinkie Cake,Twinkie Cake,3.05,508,30.47g,5.86g,0g,35.41mg,305.45mg,52.9g,0.84g,33.81g,4.79g,36.07mg,1.3mg,66.1mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
-Lunch,Sugar Cookies,Sugar Cookies,1.3,180,10.65g,6.52g,0g,33.36mg,16.92mg,18.98g,0.44g,7.78g,2.14g,5.25mg,0.7mg,11.43mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-Lunch,White Chocolate Raspberry Pie,White Chocolate Raspberry Pie,3.18,325,20.16g,11.7g,0.23g,58.57mg,138.38mg,30.43g,0.7g,18.91g,6.74g,52.69mg,0.81mg,95.21mg,True,False,False,"dairy,eggs"
-Lunch,Chocolate Tres Leches Cake,Chocolate Tres Leches Cake,5.16,455,24.14g,12.24g,0.12g,105.7mg,289.71mg,50.97g,0.54g,39.53g,8.03g,160.06mg,0.44mg,180.91mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
-Lunch,M&M Brownie Bar,M&M Brownie Bar,2.04,219,11.27g,6.61g,0.01g,55.75mg,66.91mg,30.96g,2.16g,22.72g,3.45g,23.4mg,2.45mg,239.54mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
-Lunch,Chocolate Cream Mousse,Chocolate Cream Mousse,4.07,350,29.55g,18.66g,0.96g,88.5mg,104.36mg,19.96g,2.56g,15.74g,5.51g,81.01mg,3.16mg,452.58mg,True,False,True,"soy,dairy"
+Lunch,Chocolate Cupcake,Chocolate Cupcake,3.69,364,23.16g,12.71g,0.02g,39.23mg,250.36mg,38g,2.45g,20.52g,3.68g,15.48mg,2.28mg,258.53mg,True,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
+Lunch,Classic Chocolate Chip Cookie,Classic Chocolate Chip Cookie,1.3,162,7.38g,2.96g,0g,0mg,134.72mg,22.79g,0.87g,12.26g,2.31g,3.17mg,1.03mg,25.66mg,True,True,True,"soy,gluten,wheat"
 Lunch,Yogurt Bar,Yogurt Bar,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"dairy,soy,gluten,wheat"
-Dinner,LA Street Food,LA Street Food,0.1,0,0g,0g,0g,0mg,0.11mg,0g,0g,0g,0g,0.08mg,0mg,0mg,False,False,False,
-Dinner,Quesabirria Taco,Quesabirria Taco,4,169,12.85g,6.73g,0.28g,48.89mg,377.07mg,1.76g,0.37g,0.65g,12.98g,216.79mg,0.8mg,151.48mg,False,False,False,dairy
-Dinner,Al Pastor-Style Mushroom Taco (Taco de Hongos),Al Pastor-Style Mushroom Taco (Taco de Hongos),3.72,53,3.69g,0.27g,0g,0mg,191.27mg,4.06g,0.93g,2.21g,1.17g,7.95mg,0.23mg,160.47mg,True,True,False,soy
-Dinner,Buffalo Chicken Wings,Buffalo Chicken Wings,5.7,411,35.13g,10.64g,0g,92.36mg,4179.43mg,6.49g,0.73g,4.68g,16.73g,35.11mg,1.2mg,111.77mg,False,False,False,dairy
-Dinner,Fried Buffalo Tofu,Fried Buffalo Tofu,1.28,34,2g,0.33g,0g,0mg,276.27mg,2.18g,0.33g,0g,2.99g,0mg,0mg,14.14mg,True,True,False,soy
-Dinner,Ranch Dressing,Ranch Dressing,1.01,120,12.63g,1.78g,0g,11.89mg,202.9mg,0.62g,0g,0.62g,0.43g,15.09mg,0.01mg,19.65mg,True,False,False,"soy,dairy,eggs"
+Lunch,Coconut Cream Pie,Coconut Cream Pie,4.6,408,22.69g,15.74g,0g,33.68mg,149.15mg,51g,6.72g,27.64g,3.24g,48mg,0.69mg,78.58mg,True,False,False,"dairy,eggs"
+Lunch,Lemon Bar,Lemon Bar,2.56,192,4.97g,2.57g,0.01g,78.02mg,51.27mg,36.66g,0.34g,28.5g,3.42g,13.56mg,0.67mg,39.33mg,True,False,False,"gluten,wheat,dairy,eggs"
+Lunch,Chocolate Cream Mousse,Chocolate Cream Mousse,4.07,350,29.55g,18.66g,0.96g,88.5mg,104.36mg,19.96g,2.56g,15.74g,5.51g,81.01mg,3.16mg,452.58mg,True,False,True,"soy,dairy"
+Dinner,Delta Wetlands,Delta Wetlands,0.1,0,0g,0g,0g,0mg,0.11mg,0g,0g,0g,0g,0.08mg,0mg,0mg,False,False,False,
+Dinner,Blackened Salmon,Blackened Salmon,2.6,126,6.18g,0.79g,0g,44.16mg,169.39mg,2.74g,0.32g,1.81g,15.3g,8.27mg,0.52mg,271.05mg,False,False,False,fish
+Dinner,Cheddar Cheese Grits,Cheddar Cheese Grits,2.03,64,3.23g,2.01g,0.09g,10.02mg,106.95mg,6.55g,0.49g,0.75g,1.92g,44.83mg,0.01mg,45.2mg,False,False,False,dairy
+Dinner,Southern Braised Collard Greens & Cheddar Grits,Southern Braised Collard Greens & Cheddar Grits,10.51,137,6.55g,2.26g,0.09g,10.04mg,329.33mg,15.1g,5.51g,2.09g,5.75g,323.91mg,0.66mg,317.47mg,False,False,False,"soy,gluten,wheat,dairy"
+Dinner,Seafood Jambalaya w/ Andouille,Seafood Jambalaya w/ Andouille,6,137,8.25g,2.77g,0g,44.91mg,520.29mg,6.6g,0.8g,1.17g,8.82g,31.74mg,0.65mg,180.95mg,False,False,False,fish
+Dinner,Vegetable Jambalaya,Vegetable Jambalaya,6.2,301,6.47g,0.76g,0g,0mg,203.09mg,52.29g,3.44g,1.25g,8.75g,69.89mg,2.85mg,282.79mg,True,True,False,"soy,gluten,wheat"
+Dinner,Blackened BBQ Chicken Pizza,Blackened BBQ Chicken Pizza,4.03,306,16.32g,2.8g,0g,16.26mg,726.53mg,27.95g,0.92g,4.11g,9.45g,90.33mg,0.39mg,55.27mg,False,False,False,"gluten,wheat,dairy"
+Dinner,Mushroom Pizza,Mushroom Pizza,3.47,282,16.89g,3.68g,0g,12.21mg,401.87mg,23.7g,0.98g,0.57g,7.71g,132.28mg,0.51mg,95.23mg,True,False,False,"gluten,wheat,dairy"
 Dinner,Pepperoni Pizza,Pepperoni Pizza,3.55,324,20.85g,5.22g,0g,21.44mg,548.97mg,23.42g,0.89g,0.4g,8.97g,131.98mg,0.47mg,68.16mg,False,False,False,"gluten,wheat,dairy"
-Dinner,Three Cheese & Tomato Pizza,Three Cheese & Tomato Pizza,3.34,281,16.55g,3.81g,0g,14.59mg,386.78mg,23.06g,0.94g,0.49g,8.12g,93.3mg,0.38mg,83.7mg,True,False,False,"gluten,wheat,dairy"
-Dinner,Cheese Pizza,Cheese Pizza,3.24,280,16.84g,3.67g,0g,12.19mg,400.9mg,23.39g,0.89g,0.4g,7.44g,131.85mg,0.47mg,68.1mg,True,False,False,"gluten,wheat,dairy"
 Dinner,Bruin Burger,Bruin Burger,8.75,459,21.1g,7.86g,0g,101.95mg,770.46mg,32.12g,2.31g,4.89g,32.66g,71.65mg,5.11mg,574.37mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
 Dinner,Bruin Cheeseburger,Bruin Cheeseburger,9.28,511,25.54g,10.81g,0g,113.04mg,1395.14mg,32.85g,2.31g,4.89g,35.64g,71.88mg,5.13mg,574.42mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
 Dinner,LA Hot Chicken Sandwich,LA Hot Chicken Sandwich,9.31,577,27.09g,8.55g,0g,72.04mg,1877.39mg,61.04g,2.8g,17.62g,21.82g,69.51mg,3.06mg,361.27mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Dinner,Patty Melt,Patty Melt,9.45,638,35.22g,16.12g,0g,144.18mg,649.31mg,36.34g,2.52g,5.46g,45.31g,471.09mg,5.2mg,551.59mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
-Dinner,Montreal Morning,Montreal Morning,10.49,773,46.68g,17.3g,0g,110.95mg,1304.61mg,48.82g,2.17g,5.71g,36.03g,63.12mg,2.02mg,437.69mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
+Dinner,Tabasco Beef Burger,Tabasco Beef Burger,10.99,732,45.14g,14.3g,0g,131.98mg,3371.77mg,40.03g,3.46g,5.23g,38.78g,78.72mg,5.7mg,680.91mg,False,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
+Dinner,Shrimp Po Boy Sandwich,Shrimp Po Boy Sandwich,8.66,489,28.81g,3.04g,0g,41.37mg,778.73mg,47.12g,2.23g,3.24g,9.42g,42.26mg,1.08mg,265.62mg,False,False,False,"fish,soy,shellfish,gluten,wheat,eggs,alcohol"
 Dinner,Beyond Burger,Beyond Burger,7.78,413,18.7g,4.28g,11.05g,24.76mg,678.85mg,36.29g,1.72g,4.3g,25.78g,113.27mg,6.77mg,447.79mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-Dinner,Curly Fries,Curly Fries,4,214,10.66g,2.66g,0g,0mg,559.84mg,26.66g,2.66g,1.34g,2.66g,26.66mg,1.44mg,346.56mg,True,True,False,"soy,gluten,wheat"
-Dinner,Roasted Garlic Chicken Thigh,Roasted Garlic Chicken Thigh,3.12,148,8.35g,1.03g,0g,66.3mg,153.15mg,2.01g,0.27g,0.15g,14.23g,12.21mg,0.19mg,27.28mg,False,False,False,
-Dinner,Barley Pilaf,Barley Pilaf,2.36,93,1.04g,0.06g,0g,0mg,5.2mg,18.69g,2.66g,0.34g,2.55g,9.33mg,0.13mg,91.65mg,True,True,False,gluten
-Dinner,Boston Clam Chowder,Boston Clam Chowder,6,189,7.89g,4.42g,0.19g,42.01mg,951.64mg,15.95g,1.24g,2.36g,12.89g,47.99mg,1.38mg,446.51mg,False,False,False,"fish,soy,shellfish,gluten,wheat,dairy,eggs,alcohol"
-Dinner,De la Olla Beans,De la Olla Beans,2,192,1.89g,0.22g,0g,0mg,113.68mg,32.43g,8.01g,1.21g,11.04g,58.85mg,2.61mg,720.3mg,True,True,False,
-Dinner,Creamy Tomato Basil Soup,Creamy Tomato Basil Soup,6.05,120,8.36g,5.23g,0.27g,25.45mg,235.18mg,10.73g,2.14g,6.1g,2.5g,36.23mg,2.02mg,516.17mg,True,False,True,dairy
-Dinner,Fresh Glazed Carrots,Fresh Glazed Carrots,3.13,64,2.78g,1.64g,0g,6.84mg,58.23mg,9.54g,2.35g,5.48g,0.82g,28.63mg,0.27mg,269.67mg,True,False,False,dairy
+Dinner,French Fries,French Fries,4,163,4.04g,1.35g,0g,0mg,377.66mg,26.98g,2.7g,1.35g,2.7g,0mg,0.49mg,391.16mg,True,True,False,soy
+Dinner,Spicy Shrimp and Okra Stew,Spicy Shrimp and Okra Stew,3.88,229,20.64g,10.42g,0.01g,91.68mg,350.13mg,4.31g,0.78g,1.6g,5.32g,38.38mg,0.33mg,145.01mg,False,False,False,"fish,dairy"
+Dinner,Cajun Red Beans & Rice,Cajun Red Beans & Rice,6.04,450,5.77g,0.65g,0g,0mg,76.89mg,87.02g,4.45g,2.79g,9.56g,77.73mg,3.39mg,395.24mg,True,True,False,
+Dinner,Spicy Braised Lentils with Potato,Spicy Braised Lentils with Potato,4.85,123,2.9g,0.23g,0g,0mg,108.77mg,18.95g,3.3g,2.35g,5.81g,35.38mg,1.7mg,341.63mg,True,True,False,
+Dinner,Chicken Tortilla Soup,Chicken Tortilla Soup,6.05,161,4.06g,0.45g,0g,23.07mg,80.76mg,21.65g,1.49g,14.89g,8.91g,25.13mg,0.94mg,202.51mg,False,False,False,
+Dinner,Broccoli Cheddar Soup,Broccoli Cheddar Soup,6,357,29.94g,18.82g,0.61g,94.4mg,548.83mg,12.27g,0.63g,5.56g,9.86g,319.72mg,0.49mg,236.15mg,True,False,False,"soy,gluten,wheat,dairy"
+Dinner,Roasted Fingerling Potato,Roasted Fingerling Potato,1.03,25,0.25g,0.03g,0g,0mg,18.14mg,5.05g,0.61g,0.24g,0.59g,3.81mg,0.24mg,122.73mg,True,True,False,
+Dinner,Roasted Brussels Sprouts,Roasted Brussels Sprouts,2.15,35,1.14g,0.1g,0g,0mg,59mg,5.4g,2.29g,1.32g,2.03g,25.4mg,0.85mg,234.25mg,True,True,False,
 Dinner,Pan Roasted Mushrooms with Onions,Pan Roasted Mushrooms with Onions,2.8,36,1.51g,0.13g,0g,0mg,107.28mg,4.39g,1.05g,2.03g,2.07g,10.16mg,0.42mg,218.54mg,True,True,False,
-Dinner,Roasted Broccoli w/ Garlic,Roasted Broccoli w/ Garlic,3.24,85,6.36g,0.48g,0g,0mg,176.3mg,5.21g,1.99g,1.25g,2.65g,45.5mg,0.79mg,281.27mg,True,True,False,
 Dinner,Ranch Dressing,Ranch Dressing,1.01,120,12.63g,1.78g,0g,11.89mg,202.9mg,0.62g,0g,0.62g,0.43g,15.09mg,0.01mg,19.65mg,True,False,False,"soy,dairy,eggs"
 Dinner,Caesar Salad Dressing,Caesar Salad Dressing,2,320,34.05g,4.86g,0g,30.43mg,272.19mg,1.18g,0.07g,0.22g,1.25g,6.36mg,0.13mg,29.45mg,False,False,False,"fish,soy,dairy,eggs"
 Dinner,Grilled Rosemary Chicken Breast,Grilled Rosemary Chicken Breast,4,165,3.34g,0.02g,0g,65.1mg,86.9mg,0.27g,0.05g,0.05g,26.08g,1.57mg,0.02mg,3.67mg,False,False,False,
 Dinner,Watermelon,Watermelon,1,9,0.04g,0.01g,0g,0mg,0.28mg,2.13g,0.11g,1.75g,0.17g,1.97mg,0.07mg,31.58mg,True,True,False,
 Dinner,Cantaloupe,Cantaloupe,1,10,0.05g,0.01g,0g,0mg,4.51mg,2.3g,0.25g,2.22g,0.24g,2.54mg,0.06mg,75.29mg,True,True,False,
 Dinner,Pineapple,Pineapple,1,15,0.03g,0g,0g,0mg,0.28mg,3.7g,0.39g,2.78g,0.15g,3.67mg,0.08mg,30.74mg,True,True,False,
-Dinner,Twinkie Cake,Twinkie Cake,3.05,508,30.47g,5.86g,0g,35.41mg,305.45mg,52.9g,0.84g,33.81g,4.79g,36.07mg,1.3mg,66.1mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
-Dinner,Sugar Cookies,Sugar Cookies,1.3,180,10.65g,6.52g,0g,33.36mg,16.92mg,18.98g,0.44g,7.78g,2.14g,5.25mg,0.7mg,11.43mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-Dinner,Chocolate Cream Mousse,Chocolate Cream Mousse,4.07,350,29.55g,18.66g,0.96g,88.5mg,104.36mg,19.96g,2.56g,15.74g,5.51g,81.01mg,3.16mg,452.58mg,True,False,True,"soy,dairy"
-Dinner,White Chocolate Raspberry Pie,White Chocolate Raspberry Pie,3.18,325,20.16g,11.7g,0.23g,58.57mg,138.38mg,30.43g,0.7g,18.91g,6.74g,52.69mg,0.81mg,95.21mg,True,False,False,"dairy,eggs"
-Dinner,Chocolate Tres Leches Cake,Chocolate Tres Leches Cake,5.16,455,24.14g,12.24g,0.12g,105.7mg,289.71mg,50.97g,0.54g,39.53g,8.03g,160.06mg,0.44mg,180.91mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs"
-Dinner,M&M Brownie Bar,M&M Brownie Bar,2.04,219,11.27g,6.61g,0.01g,55.75mg,66.91mg,30.96g,2.16g,22.72g,3.45g,23.4mg,2.45mg,239.54mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
+Dinner,Chocolate Cupcake,Chocolate Cupcake,3.69,364,23.16g,12.71g,0.02g,39.23mg,250.36mg,38g,2.45g,20.52g,3.68g,15.48mg,2.28mg,258.53mg,True,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
+Dinner,Classic Chocolate Chip Cookie,Classic Chocolate Chip Cookie,1.3,162,7.38g,2.96g,0g,0mg,134.72mg,22.79g,0.87g,12.26g,2.31g,3.17mg,1.03mg,25.66mg,True,True,True,"soy,gluten,wheat"
 Dinner,Yogurt Bar,Yogurt Bar,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"dairy,soy,gluten,wheat"
-Dinner,Cheese Pizza,Cheese Pizza,21.92,1554,45.11g,25.04g,0g,100.22mg,2254.7mg,230.5g,10g,50.08g,60.14g,651.37mg,13.54mg,1753.68mg,True,False,False,"soy,gluten,wheat,dairy"
-Dinner,Late Night Chicken Tenders Combo,Late Night Chicken Tenders Combo,16.8,680,32.91g,7.67g,0g,109.43mg,3364.11mg,72.33g,3.38g,12.43g,25.24g,19.91mg,1.81mg,827.45mg,False,False,False,"soy,gluten,wheat,dairy"
-Dinner,Late Night Beyond Tenders Combo,Late Night Beyond Tenders Combo,16.3,848,36.68g,5.64g,0g,0mg,1776.71mg,81.36g,11.27g,17.69g,40.29g,52.76mg,3.23mg,1042.97mg,False,False,False,"soy,gluten,wheat"
-Dinner,Late Night Spicy Nashville Chicken Tenders Combo,Late Night Spicy Nashville Chicken Tenders Combo,16.8,682,31.91g,7.43g,0g,103.86mg,4119.46mg,77.81g,4.57g,14.71g,24.81g,32.62mg,2.19mg,895.73mg,False,False,False,"soy,gluten,wheat,dairy"
-Dinner,Late Night Spicy Nashville Beyond Tenders Combo,Late Night Spicy Nashville Beyond Tenders Combo,16.3,841,35.53g,5.54g,0g,0mg,2511.8mg,86.44g,12.1g,19.73g,39.09g,63.8mg,3.56mg,1100.25mg,True,True,False,"soy,gluten,wheat"
+Dinner,Coconut Cream Pie,Coconut Cream Pie,4.6,408,22.69g,15.74g,0g,33.68mg,149.15mg,51g,6.72g,27.64g,3.24g,48mg,0.69mg,78.58mg,True,False,False,"dairy,eggs"
+Dinner,Lemon Bar,Lemon Bar,2.56,192,4.97g,2.57g,0.01g,78.02mg,51.27mg,36.66g,0.34g,28.5g,3.42g,13.56mg,0.67mg,39.33mg,True,False,False,"gluten,wheat,dairy,eggs"
+Dinner,Chocolate Cream Mousse,Chocolate Cream Mousse,4.07,350,29.55g,18.66g,0.96g,88.5mg,104.36mg,19.96g,2.56g,15.74g,5.51g,81.01mg,3.16mg,452.58mg,True,False,True,"soy,dairy"
