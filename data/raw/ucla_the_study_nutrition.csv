@@ -1,88 +1,87 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
 All Day,.,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,eggs"
-All Day,.,Croque Monsieur,12.81,729,34.1g,19.86g,0g,115.79mg,1766.55mg,71.06g,3.23g,5.81g,34.97g,447.88mg,1.38mg,450.39mg,True,False,False,"gluten,wheat,dairy,alcohol"
-All Day,.,Croque Madame,13.85,773,38.58g,20.33g,0.04g,294.81mg,1728.33mg,67.04g,3.06g,5.61g,39.09g,448.24mg,2.16mg,491.61mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-All Day,.,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,7.24,858,43.15g,25.71g,0.39g,249.61mg,317.03mg,98.89g,4.51g,40.06g,16.07g,94.78mg,4.47mg,240.37mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,7.62,958,45.32g,24.12g,0.04g,217.48mg,322.49mg,119.65g,7.04g,61.49g,17.62g,78.89mg,4.51mg,176.43mg,True,False,False,"soy,gluten,tree_nuts,wheat,dairy,eggs,alcohol"
-All Day,.,Waffle with Caramel & Seasonal Fresh Fruit,7.14,849,35.28g,20.53g,0.04g,224.39mg,354.83mg,114.26g,4.23g,53.23g,15.01g,93.54mg,4.39mg,164.57mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-All Day,.,Irish Oatmeal,9,565,5.53g,0.84g,0g,0mg,180.06mg,121.58g,11.53g,50.54g,13.8g,46.31mg,3.01mg,347.97mg,True,True,False,"soy,gluten,wheat"
-All Day,.,Craft Your Own Breakfast Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"soy,gluten,wheat,sesame,dairy,eggs,fish,alcohol"
+All Day,.,Croque Monsieur,12.81,705,30.97g,18.63g,0.07g,106.17mg,1785.33mg,72.22g,3.3g,5.77g,35.18g,441.82mg,1.38mg,454.82mg,True,False,False,"gluten,wheat,dairy,alcohol"
+All Day,.,Croque Madame,13.85,750,35.64g,19.15g,0.08g,285.78mg,1745.96mg,68.1g,3.1g,5.61g,39.29g,442.5mg,2.16mg,495.77mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
+All Day,.,Whipped Cream & Seasonal Fresh Fruit Belgian Waffle,7.24,876,44.28g,26.74g,0.04g,264.81mg,309.38mg,98.11g,4.51g,39.21g,15.25g,76.07mg,4.45mg,241.79mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
+All Day,.,Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle,7.62,958,45.32g,24.12g,0.04g,217.48mg,322.45mg,119.65g,7.04g,61.47g,17.62g,78.89mg,4.51mg,176.43mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,.,Waffle with Caramel & Seasonal Fresh Fruit,7.14,849,35.28g,20.53g,0.04g,224.39mg,354.81mg,114.26g,4.23g,53.23g,15.01g,93.54mg,4.39mg,164.57mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
+All Day,.,Craft Your Own Breakfast Sandwich,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"soy,gluten,wheat,sesame,dairy,fish,eggs,alcohol"
 All Day,.,Create Your Own Breakfast Croissant,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,dairy,eggs,soy,fish,alcohol"
 All Day,Coffee & Tea,Brewed Tea,16.16,0,0g,0g,0g,0mg,18.14mg,0g,0g,0g,0g,13.6mg,0mg,0mg,True,True,False,
-All Day,Coffee & Tea,Hot Chocolate,15.21,156,0.39g,0.26g,0g,8.62mg,203.39mg,23.71g,0g,23.67g,14.44g,597.38mg,0.6mg,673.81mg,True,False,False,dairy
+All Day,Coffee & Tea,Hot Chocolate,15.21,379,2.85g,1.68g,0g,7.33mg,475.68mg,71.61g,2.37g,60.48g,16.64g,532.97mg,0.86mg,1027.1mg,True,False,False,"soy,dairy"
 All Day,Coffee & Tea,Brewed Coffee,17.38,70,0.1g,0.05g,0g,0mg,26.16mg,14.73g,0g,0g,2.36g,41.77mg,0.89mg,691.31mg,True,True,False,
 All Day,Coffee & Tea,Espresso Decaf,2.25,17,0.01g,0.01g,0g,0mg,3.47mg,3.66g,0g,0g,0.56g,8.5mg,0.18mg,168.49mg,True,True,False,
 All Day,Coffee & Tea,Iced Brewed Coffee,16,107,0g,0g,0g,0mg,44.49mg,21.27g,0g,0g,7.07g,6.8mg,0mg,1984.06mg,True,True,False,
 All Day,Coffee & Tea,Nitro Cold Coffee,16,214,0g,0g,0g,0mg,70.88mg,42.54g,0g,0g,14.19g,0mg,0mg,3968.13mg,True,True,False,
-All Day,Coffee & Tea,Chai Tea Latte,15.24,300,0.04g,0g,0g,0.56mg,12.7mg,59.21g,0g,59.26g,0.95g,35.2mg,0mg,44.23mg,True,False,False,dairy
-All Day,Coffee & Tea,Horchata Latte,14.5,446,26.51g,16.4g,0.7g,84.13mg,111.71mg,45.33g,0.9g,31.11g,6.74g,217.71mg,0.25mg,233.69mg,True,False,False,dairy
-All Day,Coffee & Tea,Americano,16.48,0,0g,0g,0g,0mg,18.31mg,0g,0g,0g,0g,13.73mg,0mg,0mg,True,True,False,
-All Day,Coffee & Tea,Cappuccino,8.64,72,3.82g,2.2g,0g,11.77mg,55.37mg,5.65g,0g,5.95g,3.72g,136.72mg,0.02mg,155.59mg,True,False,False,dairy
-All Day,Coffee & Tea,Café Latte,16.48,116,0.28g,0.19g,0g,6.82mg,147.56mg,16.86g,0g,17.33g,11.44g,418.47mg,0.09mg,530.58mg,True,False,False,dairy
-All Day,Coffee & Tea,Caramel Latte,15.72,499,3.48g,2.01g,0g,13.99mg,161.35mg,94.47g,0g,90.06g,7.66g,304.75mg,0.09mg,371.72mg,True,False,False,dairy
-All Day,Coffee & Tea,Espresso,2.25,0,0g,0g,0g,0mg,2.36mg,0g,0g,0g,0g,1.76mg,0mg,0mg,True,True,False,
-All Day,Coffee & Tea,Mocha Latte,15.73,118,0.31g,0.18g,0g,6.37mg,160.93mg,18.14g,0g,17.92g,10.65g,463.9mg,0.53mg,498.67mg,True,False,False,dairy
-All Day,Coffee & Tea,Vanilla Latte,15.73,377,0.22g,0.13g,0g,5.08mg,111.81mg,70.61g,0g,70.93g,8.6g,314.69mg,0.09mg,397.92mg,True,False,False,dairy
-All Day,Coffee & Tea,White Chocolate Latte,14.13,306,0.16g,0.12g,0g,8.65mg,231.17mg,65.68g,0g,63.8g,13.46g,490.89mg,0.08mg,569.55mg,True,False,False,dairy
-All Day,CAKES & TARTS,Oatmeal Raisin Cookie,3.99,453,17.82g,10.17g,0g,64.99mg,227.07mg,68.42g,3.75g,34.04g,7.22g,32.4mg,2.31mg,220.26mg,True,False,True,"gluten,wheat,dairy,eggs"
-All Day,CAKES & TARTS,Chocolate Chip Cookie,4,471,22.6g,13.31g,0.01g,88.68mg,184.29mg,67.93g,2.98g,43.33g,7.38g,24.8mg,3.51mg,135.01mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
-All Day,CAKES & TARTS,Fudgy Brownie,1.48,152,8.61g,1.6g,0g,0mg,87.83mg,18.32g,1.68g,10.96g,2.26g,16.9mg,1.86mg,162.54mg,True,True,False,"soy,gluten,wheat,dairy,alcohol"
+All Day,Coffee & Tea,Chai Tea Latte,15.24,307,0.04g,0g,0g,0.56mg,25.09mg,60.94g,0g,60.98g,0.95g,45.05mg,0mg,44.23mg,True,False,False,dairy
+All Day,Coffee & Tea,Horchata Latte,14.5,480,28.65g,18.41g,0g,114.59mg,96.95mg,43.94g,0.74g,29.43g,5.1g,176.89mg,0.49mg,243.07mg,True,False,False,dairy
+All Day,Coffee & Tea,Americano,16.48,1,0g,0g,0g,0mg,19.66mg,0.14g,0g,0g,0g,13.92mg,0mg,11.02mg,True,True,False,
+All Day,Coffee & Tea,Cappuccino,8.64,61,2.35g,1.49g,0.1g,9.42mg,61.44mg,5.83g,0g,5.97g,3.89g,145.14mg,0.02mg,176.04mg,True,False,False,dairy
+All Day,Coffee & Tea,Café Latte,16.48,117,0.28g,0.19g,0g,6.82mg,148.91mg,17.05g,0g,17.33g,11.49g,418.66mg,0.09mg,541.6mg,True,False,False,dairy
+All Day,Coffee & Tea,Caramel Latte,15.72,500,3.52g,2.01g,0g,13.99mg,162.69mg,94.65g,0g,90.06g,7.66g,304.92mg,0.09mg,382.73mg,True,False,False,dairy
+All Day,Coffee & Tea,Espresso,2.25,1,0.01g,0.01g,0g,0mg,3.03mg,0.08g,0g,0g,0.01g,1.86mg,0.01mg,5.54mg,True,True,False,
+All Day,Coffee & Tea,Mocha Latte,15.73,342,2.76g,1.65g,0g,5.08mg,434.57mg,66.2g,2.36g,54.79g,12.84g,399.7mg,0.85mg,862.94mg,True,False,False,"soy,dairy"
+All Day,Coffee & Tea,Vanilla Latte,15.73,378,0.22g,0.13g,0g,5.08mg,113.14mg,70.79g,0g,70.93g,8.6g,314.91mg,0.09mg,408.93mg,True,False,False,dairy
+All Day,Coffee & Tea,White Chocolate Latte,14.13,307,0.2g,0.12g,0g,8.65mg,232.53mg,65.84g,0g,63.8g,13.46g,491.09mg,0.08mg,580.56mg,True,False,False,dairy
+All Day,CAKES & TARTS,Oatmeal Raisin Cookie,4.14,469,18.01g,10.21g,0g,65.01mg,227.32mg,71.42g,4.07g,34.06g,7.79g,33.79mg,2.49mg,229.98mg,True,False,True,"gluten,wheat,dairy,eggs"
+All Day,CAKES & TARTS,Chocolate Chip Cookie,4,482,23.08g,13.99g,0.01g,88.68mg,184.29mg,47.33g,2.84g,44.15g,7.24g,14.49mg,3.75mg,98.6mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,CAKES & TARTS,Fudgy Brownie,1.83,195,10.91g,2.2g,0g,0.01mg,108.97mg,22.48g,1.83g,13.47g,2.78g,17.35mg,1.77mg,166.21mg,True,True,False,"soy,gluten,wheat,alcohol"
 All Day,CAKES & TARTS,Passion Fruit Chocolate Tart,2.73,283,16.09g,9.62g,0.01g,99.79mg,45.75mg,32.45g,0.86g,23.97g,3.97g,16.98mg,0.68mg,110.84mg,True,False,True,"soy,gluten,wheat,dairy,eggs"
 All Day,PASTRIES & VERRINES,Blackberry Fan,3.2,331,15.29g,5.88g,0g,11.77mg,147.08mg,38.83g,1.18g,12.95g,4.7g,30.6mg,0mg,81.19mg,True,False,True,"gluten,wheat,dairy,eggs"
-All Day,PASTRIES & VERRINES,Almond Croissant,3.3,375,17.6g,8.8g,0g,44mg,352mg,45.1g,2.2g,16.5g,7.7g,27.5mg,1.1mg,55mg,True,False,True,"gluten,tree_nuts,wheat,dairy,eggs"
-All Day,PASTRIES & VERRINES,Chocolate Croissant,2.89,344,18.47g,11.88g,0g,39.58mg,316.65mg,36.94g,2.64g,13.19g,7.92g,31.66mg,2.64mg,50.14mg,True,False,True,"soy,gluten,tree_nuts,wheat,dairy,eggs"
-All Day,PASTRIES & VERRINES,Cinnamon Raisin Bagel,,271,1.2g,0g,0g,0mg,376.5mg,57.7g,2.4g,8.2g,9.4g,82.4mg,3.1mg,129.4mg,False,False,False,
-All Day,PASTRIES & VERRINES,Everything Cheese Bagel,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
-All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,
+All Day,PASTRIES & VERRINES,Almond Croissant,3.3,375,17.6g,8.8g,0g,44mg,352mg,45.1g,2.2g,16.5g,7.7g,27.5mg,1.1mg,55mg,True,False,True,"gluten,wheat,dairy,eggs"
+All Day,PASTRIES & VERRINES,Chocolate Croissant,2.89,344,18.47g,11.88g,0g,39.58mg,316.65mg,36.94g,2.64g,13.19g,7.92g,31.66mg,2.64mg,50.14mg,True,False,True,"soy,gluten,wheat,dairy,eggs"
+All Day,PASTRIES & VERRINES,Cinnamon Raisin Bagel,,271,1.2g,0g,0g,0mg,376.5mg,57.7g,2.4g,8.2g,9.4g,82.4mg,3.1mg,129.4mg,False,False,False,"soy,gluten,wheat"
+All Day,PASTRIES & VERRINES,Everything Cheese Bagel,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,"soy,gluten,wheat,sesame,dairy"
+All Day,PASTRIES & VERRINES,Everything Jalapeno Cheese Bagel,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,"soy,gluten,wheat,sesame,dairy"
 All Day,PASTRIES & VERRINES,Everything Bagels,1.33,111,1.11g,0g,0g,0mg,256.56mg,21.23g,1.33g,1.77g,3.98g,44.24mg,1.28mg,35.39mg,True,True,False,"soy,gluten,wheat,sesame"
-All Day,PASTRIES & VERRINES,Bacon Cheddar Chive Scone,4.96,461,30.29g,17.79g,0.34g,125.2mg,813.89mg,34.44g,1.32g,1.11g,12.49g,81.8mg,0.76mg,119.35mg,True,False,False,"gluten,wheat,dairy,eggs"
-All Day,PASTRIES & VERRINES,Eclair,1.95,64,5.3g,2.92g,0.07g,15.51mg,29.45mg,8.57g,1.45g,5.81g,0.78g,22.85mg,0.45mg,36.78mg,True,False,False,"soy,gluten,peanuts,tree_nuts,wheat,sesame,dairy,eggs"
-All Day,PASTRIES & VERRINES,Triple Chocolate Mousse Verrine,6.2,644,62.22g,38.97g,1.46g,139.07mg,57.42mg,35g,3.5g,31.77g,7.03g,147.52mg,2.81mg,354.74mg,True,False,True,"soy,gluten,peanuts,tree_nuts,sesame,dairy,eggs"
-All Day,PASTRIES & VERRINES,Island Chia Pudding,5.39,311,16.03g,11.44g,0.02g,0.02mg,12.12mg,42.48g,6.25g,33.24g,2.41g,84.93mg,1.36mg,260.84mg,True,True,False,alcohol
+All Day,PASTRIES & VERRINES,Bacon Cheddar Chive Scone,4.96,477,31.32g,18.74g,0g,139.32mg,806.78mg,33.72g,1.32g,0.35g,11.73g,64.43mg,0.73mg,120.68mg,True,False,False,"gluten,wheat,dairy,eggs"
+All Day,PASTRIES & VERRINES,Eclair,1.95,67,5.52g,3.12g,0g,18.54mg,27.84mg,8.41g,1.45g,5.55g,0.63g,19.03mg,0.45mg,35.52mg,True,False,False,"soy,gluten,peanuts,wheat,sesame,dairy,eggs,alcohol"
+All Day,PASTRIES & VERRINES,Triple Chocolate Mousse Verrine,6.2,714,66.78g,43.2g,0.02g,201.53mg,25.99mg,31.82g,3.5g,28.36g,3.72g,70.7mg,2.69mg,360.55mg,True,False,True,"soy,gluten,peanuts,sesame,dairy,eggs"
+All Day,PASTRIES & VERRINES,Island Chia Pudding,5.39,317,16.03g,11.44g,0.02g,0.02mg,2.02mg,42.36g,6.26g,33.24g,2.41g,84.96mg,1.36mg,260.89mg,True,True,False,alcohol
 All Day,PASTRIES & VERRINES,Croissant,3.55,385,23.82g,14.43g,0g,61.53mg,323.03mg,36.83g,1.14g,6.4g,6.24g,45.94mg,0.4mg,86.01mg,False,False,True,"gluten,wheat,dairy"
-All Day,PASTRIES & VERRINES,Banana Walnut Muffin,7.24,808,57.7g,7.1g,0.02g,125.44mg,354.26mg,58.87g,2.3g,36.05g,14.59g,158.21mg,2.71mg,254.22mg,True,False,True,"gluten,tree_nuts,wheat,eggs"
+All Day,PASTRIES & VERRINES,Banana Walnut Muffin,7.24,808,57.7g,7.1g,0.02g,125.44mg,354.26mg,58.87g,2.3g,36.05g,14.59g,158.21mg,2.71mg,254.22mg,True,False,True,"gluten,wheat,eggs"
 All Day,PASTRIES & VERRINES,Blueberry Muffin,6.99,682,44.57g,7.03g,0.02g,127.87mg,354.2mg,59.39g,1.25g,36.37g,9.55g,145.01mg,2.14mg,142.33mg,True,False,True,"gluten,wheat,dairy,eggs"
-All Day,PASTRIES & VERRINES,Red Velvet Cake,6.06,873,55.05g,13.62g,0.29g,98.38mg,553.44mg,86.38g,1.65g,56.66g,9.84g,93.4mg,2.83mg,225.53mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,PASTRIES & VERRINES,Strawberry Hibiscus Lemonade,20,312,0.62g,0.06g,0g,0mg,16.21mg,81.58g,4.14g,74.83g,1.47g,38.38mg,0.91mg,332.71mg,True,True,False,
+All Day,PASTRIES & VERRINES,Red Velvet Cake,6.06,890,55.87g,14.46g,0g,109.94mg,547.36mg,85.44g,1.49g,55.85g,9.55g,77.45mg,2.49mg,203.88mg,False,False,False,"gluten,wheat,dairy,eggs,alcohol"
+All Day,PASTRIES & VERRINES,Strawberry Hibiscus Lemonade,20,312,0.62g,0.06g,0g,0mg,15.53mg,81.52g,4.14g,74.77g,1.47g,38.72mg,0.91mg,332.71mg,True,True,False,
 All Day,PASTRIES & VERRINES,Mango Mint,18.29,350,0.98g,0.26g,0g,0mg,31.1mg,89.68g,6.48g,82.53g,3.21g,150.96mg,7.88mg,514.51mg,True,True,False,
-All Day,PASTRIES & VERRINES,Beets Booster,6.02,72,0.32g,0.07g,0g,0mg,51.35mg,17.28g,3.51g,11.36g,1.83g,34.94mg,0.94mg,360.43mg,True,True,False,
+All Day,PASTRIES & VERRINES,Beets Booster,6.02,71,0.31g,0.07g,0g,0mg,51.23mg,17.01g,3.41g,11.34g,1.79g,34.26mg,0.85mg,351.93mg,True,True,False,
 All Day,PASTRIES & VERRINES,Greens & More Booster,12.63,136,0.61g,0.11g,0g,0mg,86.24mg,32.76g,3.69g,22.38g,2.69g,77.79mg,1.25mg,725.49mg,True,True,False,
-All Day,PASTRIES & VERRINES,Vitamin C Booster,6.09,77,0.33g,0.07g,0g,0mg,4.54mg,19.46g,3.16g,12.52g,1.24g,39.62mg,0.67mg,238.21mg,True,True,False,
+All Day,PASTRIES & VERRINES,Vitamin C Booster,6.09,76,0.31g,0.05g,0g,0mg,4.4mg,19.13g,3.05g,12.51g,1.19g,38.81mg,0.59mg,228.37mg,True,True,False,
 All Day,Kombucha on Tap,Pink Lady Apple Kombucha,16.68,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
 All Day,Kombucha on Tap,Pomegranate Kombucha,16,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,
 All Day,Kombucha on Tap,Passion Fruit Tangerine Kombucha,16,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
 All Day,Kombucha on Tap,BUILD AND GO BREAKFAST YOGURT,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"dairy,gluten,wheat"
 All Day,Kombucha on Tap,Build and Go Frozen Yogurt,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"dairy,gluten,wheat,eggs,soy"
-All Day,Kombucha on Tap,Craft Your Own Salad,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,False,"gluten,wheat,fish,soy,alcohol,eggs,dairy"
+All Day,Kombucha on Tap,Craft Your Own Salad,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"gluten,wheat,fish,soy,alcohol,eggs,dairy"
 All Day,Kombucha on Tap,Craft Your Own Pizza,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,gluten,wheat,sesame,dairy,eggs,fish"
 All Day,Market Entrées,Fresh Fruit Cup,11,139,0.62g,0.09g,0g,0mg,12.47mg,34.88g,3.43g,28.49g,2.18g,30.33mg,0.94mg,517.42mg,True,True,False,
-All Day,Market Entrées,Vegan Muesli,12.72,730,36.23g,27.65g,0g,0mg,8.26mg,94.99g,12.94g,43.37g,10.2g,129.06mg,4.4mg,1141.27mg,True,True,False,gluten
-All Day,Market Entrées,Bircher Muesli w/ Nuts,8.86,542,14.66g,2.23g,0.05g,7.86mg,33.35mg,87.76g,9.37g,38.79g,20.34g,140.92mg,3.44mg,641.06mg,True,False,False,"gluten,tree_nuts,dairy"
-All Day,Market Entrées,Spiced Apple Caramel Parfait,15.12,863,24.68g,14.4g,0.09g,72.97mg,256.11mg,141.15g,3.56g,101.21g,21.55g,291.68mg,1.5mg,415.3mg,True,False,False,"gluten,wheat,dairy"
-All Day,Market Entrées,Blueberry Strudel Parfait,12.08,456,14.93g,8.7g,0.1g,44.27mg,73.72mg,62.35g,3.87g,35.75g,21.67g,217.56mg,1.54mg,336.68mg,True,False,False,"gluten,wheat,dairy"
-All Day,Market Entrées,Cheese & Cracker Protein Box,11.6,881,53.33g,21.9g,0g,285.89mg,768.34mg,75.46g,7.89g,32.19g,35.28g,327.29mg,3.49mg,563.96mg,True,False,False,"soy,gluten,tree_nuts,wheat,sesame,dairy,eggs,alcohol"
-All Day,Market Entrées,Crudite Plate,14.4,294,24.65g,3.51g,0g,22.69mg,476.38mg,15.47g,5.02g,8.49g,4.24g,106.02mg,1.59mg,732.5mg,True,False,False,"soy,dairy,eggs"
-All Day,Market Entrées,Apple & Peanut Butter Box,9.66,846,60.54g,12.4g,0g,0mg,568.49mg,42.14g,10.46g,29.38g,32.23g,11.23mg,0.16mg,174.88mg,False,False,False,peanuts
-All Day,Market Entrées,Waffle with Caramel & Seasonal Fresh Fruit,7.14,849,35.28g,20.53g,0.04g,224.39mg,354.83mg,114.26g,4.23g,53.23g,15.01g,93.54mg,4.39mg,164.57mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
-All Day,Market Sandwiches,Peanut Butter & Strawberry Preserves Sandwich,6,676,39.61g,11.65g,0g,53.5mg,536.47mg,59.06g,4.23g,32.23g,20.43g,31.59mg,0.39mg,88.47mg,True,False,False,"gluten,peanuts,wheat,dairy,eggs"
+All Day,Market Entrées,Vegan Muesli,12.72,730,36.23g,27.65g,0g,0mg,8.22mg,94.99g,12.94g,43.37g,10.2g,129.06mg,4.4mg,1141.27mg,True,True,False,gluten
+All Day,Market Entrées,Bircher Muesli w/ Nuts,8.86,542,14.66g,2.23g,0.05g,7.86mg,33.32mg,87.76g,9.37g,38.79g,20.34g,140.92mg,3.44mg,641.06mg,True,False,False,"gluten,dairy"
+All Day,Market Entrées,Spiced Apple Caramel Parfait,15.12,866,24.68g,14.4g,0.09g,72.97mg,250.03mg,141.06g,3.56g,101.21g,21.55g,291.72mg,1.5mg,415.35mg,True,False,False,"gluten,wheat,dairy"
+All Day,Market Entrées,Blueberry Strudel Parfait,12.08,462,14.93g,8.7g,0.1g,44.27mg,63.28mg,62.25g,3.87g,35.75g,21.67g,217.56mg,1.54mg,336.72mg,True,False,False,"gluten,wheat,dairy"
+All Day,Market Entrées,Cheese & Cracker Protein Box,11.6,872,49.62g,23.02g,0g,296.02mg,837.16mg,85.75g,8.15g,42.28g,31.37g,436.81mg,2.79mg,377.76mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs,alcohol"
+All Day,Market Entrées,Apple & Peanut Butter Box,9.66,480,32.12g,5.97g,0g,0mg,299.95mg,36.36g,7.34g,24.7g,14.24g,11.23mg,0.96mg,353.86mg,True,True,False,"soy,peanuts"
+All Day,Market Entrées,Chia Pudding Parfait,14.13,717,52.15g,39.61g,0.04g,0mg,6.05mg,56.91g,15.86g,37.89g,5.65g,205.98mg,3.48mg,773.05mg,False,False,False,
+All Day,Market Entrées,"Prosciutto, Melon & Burrata",12.53,398,23.44g,11.43g,0g,40.48mg,2978.93mg,29.33g,2.45g,18.93g,19.92g,35.9mg,0.82mg,621.28mg,False,False,False,"gluten,wheat,dairy,alcohol"
+All Day,Market Sandwiches,Peanut Butter & Strawberry Preserves Sandwich,6,492,25.28g,8.36g,0.02g,53.31mg,402.53mg,56.17g,2.69g,29.9g,11.46g,32.25mg,0.78mg,178.77mg,True,False,False,"soy,gluten,peanuts,wheat,dairy,eggs"
 All Day,Market Sandwiches,Caprese Sandwich,13.67,758,36.65g,18.09g,0g,61.02mg,604.5mg,75g,5g,6.39g,32.12g,38.31mg,1.74mg,497.54mg,True,False,False,"soy,gluten,wheat,dairy,alcohol"
-All Day,Market Sandwiches,Egg Salad Sandwich,12,500,24.86g,5g,0g,313.37mg,1000.74mg,48.67g,3.5g,2.18g,19.45g,113.93mg,3.44mg,607.93mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
+All Day,Market Sandwiches,Egg Salad Sandwich,12,500,24.86g,5g,0g,313.37mg,991.12mg,48.7g,3.54g,2.18g,19.45g,114.99mg,3.47mg,608.44mg,True,False,False,"soy,gluten,wheat,eggs,alcohol"
 All Day,Market Sandwiches,Chicken Salad Sandwich,11,455,15.49g,1.93g,0g,44.04mg,1029.58mg,51.15g,4.18g,2.49g,24.13g,126.77mg,3.37mg,626.49mg,False,False,False,"soy,gluten,wheat,eggs"
-All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,14.99,1172,75.89g,21.12g,0g,113.49mg,2030.55mg,77.37g,8.29g,8.63g,44.1g,38.79mg,2.72mg,545.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1019,62.8g,24.81g,0g,153.98mg,2760.9mg,57.58g,4.16g,9.12g,53.18g,47.29mg,1.5mg,305.29mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,Market Sandwiches,Roast Beef Sandwich,12,509,15.58g,7.82g,0.2g,97.71mg,971.73mg,50.37g,4.42g,3.47g,42.41g,85.6mg,4.35mg,709.58mg,False,False,False,"gluten,wheat,dairy"
-All Day,Market Sandwiches,The Study Sandwich,11.45,479,13.79g,6.1g,0g,72.69mg,1722.84mg,51.4g,4.41g,5.22g,36.67g,299.45mg,2.17mg,485.91mg,False,False,False,"gluten,wheat,dairy,alcohol"
-All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,13.28,886,56.65g,21.72g,0g,198.17mg,2050.89mg,45.58g,3.01g,5.08g,10.54g,147.25mg,3.88mg,396.91mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs,alcohol"
-All Day,Market Sandwiches,Ham & Swiss Croissant Sandwich,9.76,809,53.94g,22.46g,0g,141.18mg,1375.17mg,55.79g,2.19g,9.54g,29.49g,304.45mg,1.94mg,462.14mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,Market Sandwiches,Pesto Turkey Bacon Wrap,11.52,770,51g,7.9g,0g,58.05mg,1635.01mg,49.76g,2.81g,6.24g,28.41g,186.11mg,4.7mg,415.99mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
-All Day,Market Sandwiches,Vegan Chicken Caesar Wrap,11.18,753,43.18g,6.3g,0g,0mg,1705.21mg,68.14g,7g,7.32g,26.26g,227.49mg,4.56mg,556.52mg,True,True,False,"soy,gluten,wheat,alcohol"
-All Day,Market Sandwiches,Roast Beef Sandwich,16.98,1160,60.11g,18.1g,0.14g,114.26mg,3481.77mg,109.26g,6.5g,9.05g,43.8g,98.76mg,3.99mg,841.7mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
-All Day,Market Salads,Chicken Caesar Salad,11,632,43.83g,7.92g,0g,110.25mg,688.92mg,15.24g,2.46g,1.62g,41.8g,165.73mg,1.81mg,406.24mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Chipotle Turkey Club Sandwich,14.99,1161,75.89g,21.12g,0g,118.59mg,1998.98mg,75.29g,8.29g,6.54g,45.17g,38.79mg,1.95mg,745.44mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Ultimate BLT Sandwich,11.75,1027,62.84g,24.81g,0g,154.05mg,3023.11mg,59.21g,4.26g,9.29g,53.45g,51.91mg,1.53mg,308.89mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Roast Beef Sandwich,12,555,20.88g,10.34g,0.34g,84.34mg,1246.26mg,51.97g,4.52g,3.64g,40.47g,81.28mg,3.88mg,365.2mg,False,False,False,"gluten,wheat,dairy"
+All Day,Market Sandwiches,The Study Sandwich,11.45,477,13.86g,6.13g,0g,77.65mg,1951.41mg,50.98g,4.51g,3.37g,37.93g,304.02mg,1.49mg,681.77mg,False,False,False,"gluten,wheat,dairy,alcohol"
+All Day,Market Sandwiches,Tuna Salad Croissant Sandwich,13.28,878,54.28g,21.64g,0.04g,208.71mg,2207.77mg,47.09g,3.01g,5.08g,47.05g,148.45mg,4.97mg,826.91mg,False,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,Market Sandwiches,Ham & Swiss Croissant Sandwich,9.09,735,50.52g,20.09g,0g,129.29mg,1290.73mg,46.55g,1.93g,8.22g,27.64g,297.58mg,1.65mg,440.24mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Pesto Turkey Bacon Wrap,11.52,755,51g,7.9g,0g,65.43mg,1589.43mg,46.72g,2.81g,3.2g,29.91g,186.11mg,3.59mg,704.59mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Market Sandwiches,Vegan Chicken Caesar Wrap,11.18,753,43.18g,6.3g,0g,0mg,1705.08mg,68.14g,7g,7.32g,26.26g,227.56mg,4.56mg,556.52mg,True,True,False,"soy,gluten,wheat,alcohol"
+All Day,Market Salads,Chicken Caesar Salad,11,631,43.79g,7.92g,0g,110.25mg,688.48mg,14.93g,2.43g,1.59g,41.64g,161.99mg,1.81mg,406.24mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 All Day,Market Salads,Tarragon Chicken Salad,9.51,416,21.37g,2.1g,0g,61.01mg,854.42mg,28.89g,4.93g,5.47g,25.82g,91.31mg,2.21mg,488.85mg,False,False,False,"soy,gluten,wheat,sesame,eggs"
-All Day,Market Salads,Louie Shrimp & Avocado Salad,14.72,758,60.24g,8.84g,0g,339.31mg,796.18mg,33.13g,8.84g,5.97g,26.16g,104.51mg,2.46mg,1049.38mg,False,False,False,"fish,soy,shellfish,gluten,wheat,sesame,eggs"
-All Day,Market Salads,Cucumber Dill & Salmon Salad,16,680,53.6g,6.62g,0g,70.75mg,947.36mg,15.06g,3.72g,6.35g,29.3g,115.14mg,2.18mg,1053.39mg,False,False,False,"fish,alcohol"
-All Day,Market Salads,Tuna Salad,8.21,431,26.82g,3.42g,0g,88.62mg,1641.11mg,5.7g,1.21g,0.49g,2.09g,95.25mg,2.58mg,269.35mg,False,False,False,"fish,soy,eggs,alcohol"
-All Day,Market Salads,Vegan Chicken Caesar Salad,13.06,544,33.86g,1.04g,0g,0mg,1329.66mg,31.2g,5.18g,6.62g,21.1g,99.59mg,4.44mg,542.71mg,True,True,False,"soy,gluten,wheat,dairy,alcohol"
+All Day,Market Salads,Louie Shrimp & Avocado Salad,14.72,756,60.41g,8.89g,0g,339.31mg,792.97mg,32.46g,8.59g,6.26g,26.28g,107.43mg,2.46mg,1053.39mg,False,False,False,"fish,soy,shellfish,gluten,wheat,sesame,eggs"
+All Day,Market Salads,Cucumber Dill & Salmon Salad,16,680,53.6g,6.62g,0g,70.75mg,947.23mg,15.06g,3.72g,6.35g,29.3g,115.19mg,2.18mg,1053.39mg,False,False,False,"fish,alcohol"
+All Day,Market Salads,Tuna Salad,8.21,424,24.59g,3.42g,0g,99.76mg,1801.37mg,7.26g,1.21g,0.49g,39.52g,95.32mg,3.7mg,709.13mg,False,False,False,"soy,eggs,alcohol"
+All Day,Market Salads,Vegan Chicken Caesar Salad,13.06,544,33.86g,1.04g,0g,0mg,1329.55mg,31.2g,5.18g,6.62g,21.1g,99.67mg,4.44mg,542.71mg,True,True,False,"soy,gluten,wheat,dairy,alcohol"
+All Day,Market Salads,Pepper Steak Salad,12.8,824,56.27g,11.28g,0g,133.58mg,1203.81mg,28.99g,6.06g,17.74g,51.26g,229.47mg,5.8mg,1100.63mg,False,False,False,"dairy,alcohol"
 All Day,Market Beverages,Standard Beverage,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
 All Day,Market Beverages,Premium Beverage,,0,0,0,0Cholesterol,0,0,0,0,0Includes,0,0,0,0,False,False,False,
 All Day,Sides,Sea Salt Kettle Chips,1.52,231,13g,1.5g,0g,0mg,180mg,25g,2g,0g,3g,0mg,0mg,0mg,True,True,False,
@@ -93,9 +92,9 @@ All Day,Sides,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,7
 All Day,Sides,Oranges,5,67,0.17g,0.03g,0g,0mg,0mg,16.64g,3.4g,13.24g,1.33g,56.64mg,0.14mg,256.3mg,True,True,False,
 All Day,Sides,Orange Juice,8,107,0.27g,0.05g,0g,0mg,0mg,26.64g,5.44g,21.2g,2.13g,90.68mg,0.23mg,410.33mg,True,True,False,
 All Day,Sides,Apple Juice,8,104,0.29g,0.05g,0g,0mg,9.07mg,25.62g,0.45g,21.81g,0.23g,18.14mg,0.27mg,228.97mg,True,True,False,
-All Day,Sides,Lowfat Milk,8,114,4.49g,2.86g,0.2g,18.14mg,106.55mg,10.88g,0g,11.47g,7.48g,272.04mg,0.05mg,317.38mg,True,False,False,dairy
+All Day,Sides,Lowfat Milk,8,96,2.2g,1.43g,0g,11.34mg,99.75mg,11.31g,0g,11.79g,7.64g,283.38mg,0.07mg,340.05mg,True,False,False,dairy
 All Day,Sides,Chocolate Milk,8,171,2.36g,1.41g,0g,13.6mg,226.7mg,27.43g,0g,26.52g,10.38g,378.59mg,0.68mg,0mg,True,False,False,dairy
 All Day,Sides,Nonfat Milk,8,77,0.18g,0.11g,0g,4.53mg,95.21mg,11.24g,0g,11.54g,7.64g,276.57mg,0.07mg,353.65mg,True,False,False,dairy
 All Day,Sides,Soy Milk,8,103,4.51g,0.48g,0g,0mg,113.35mg,7.82g,0.91g,5.74g,6.66g,317.38mg,1.11mg,319.65mg,True,True,False,soy
-All Day,Sides,Assorted Cereal Cups,1.94,199,3.81g,0g,0g,0mg,274.5mg,41.18g,6.1g,3.05g,7.63g,183mg,17.69mg,366mg,True,True,False,"gluten,tree_nuts,wheat"
-All Day,Sides,Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,7.93,351,10.67g,2.92g,0g,48.33mg,312.38mg,55.37g,4.54g,19.71g,8.83g,90.31mg,1.6mg,153.13mg,True,False,False,"soy,gluten,tree_nuts,wheat,dairy,eggs"
+All Day,Sides,Assorted Cereal Cups,1.94,193,1.03g,0g,0g,0mg,199.01mg,46.67g,4.8g,19.22g,3.43g,0mg,0mg,281.36mg,True,True,False,"wheat,dairy"
+All Day,Sides,Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe,7.93,351,10.58g,2.88g,0g,48.18mg,312.69mg,55.37g,4.54g,19.68g,8.83g,90.87mg,1.6mg,153.76mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
