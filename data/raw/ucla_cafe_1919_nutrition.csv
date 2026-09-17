@@ -29,6 +29,11 @@ All Day,Ranch Dressing,Ranch Dressing,1.96,232,24.59g,3.46g,0g,23.16mg,395.12mg,
 All Day,Vegan Caesar Dressing,Vegan Caesar Dressing,2.16,180,20.06g,0.01g,0g,0mg,456.51mg,5.25g,0.17g,3.38g,0.32g,10.56mg,0.16mg,79.52mg,True,True,False,"soy,gluten,wheat,alcohol"
 All Day,Balsamic Vinaigrette,Balsamic Vinaigrette,2.05,373,39.36g,2.81g,0g,0mg,393.26mg,1.23g,0.12g,0.93g,0.05g,2.29mg,0.05mg,6.25mg,True,True,False,alcohol
 All Day,Red Wine Vinaigrette,Red Wine Vinaigrette,2.02,326,34.64g,2.48g,0g,0mg,307.32mg,0.35g,0.07g,0.06g,0.06g,1.83mg,0.03mg,6.01mg,True,True,False,alcohol
+All Day,Salted,Salted,13.43,838,26.11g,13.47g,0.19g,58.08mg,2706.71mg,122.55g,4.95g,3.62g,26.07g,237.88mg,2.47mg,494.63mg,True,False,False,"gluten,wheat,dairy"
+All Day,Jalapeno,Jalapeno,13.42,807,25.68g,13.16g,0.19g,56.6mg,1716.25mg,117.13g,5.4g,4.15g,25.22g,240.26mg,2.89mg,536.14mg,True,False,False,"gluten,wheat,dairy"
+All Day,Pepperoni,Pepperoni,13.58,913,37.1g,17.55g,0.58g,81.1mg,3014.27mg,113.12g,4.62g,3.58g,29.44g,238.75mg,2.69mg,551.52mg,False,False,False,"gluten,wheat,dairy"
+All Day,Marinara Sauce,Marinara Sauce,2.03,35,1.37g,0.1g,0g,0mg,62.12mg,5.13g,0.87g,2.89g,1.29g,11.63mg,0.78mg,248.86mg,True,True,False,
+All Day,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,2.03,154,12.43g,7.78g,0.01g,45.21mg,348.68mg,3.48g,0.22g,1.35g,5.4g,184.63mg,0.16mg,78.93mg,True,False,False,"gluten,wheat,dairy"
 All Day,Purple Yam Ube,Purple Yam Ube,8,465,25.75g,15.46g,0g,90.16mg,141.69mg,54.09g,0g,51.53g,126.23g,502.34mg,0mg,0mg,True,False,False,dairy
 All Day,Caramel Sea Salt,Caramel Sea Salt,8,567,28.34g,11.34g,0g,56.68mg,198.36mg,70.84g,2.83g,73.68g,11.34g,294.71mg,0mg,382.56mg,True,False,False,dairy
 All Day,Chocolate Chip Coffee,Chocolate Chip Coffee,8,515,28.34g,20.61g,0g,90.16mg,141.69mg,54.09g,2.58g,51.53g,10.31g,291.11mg,2.58mg,2.58mg,True,False,False,"soy,gluten,wheat,dairy,eggs"
@@ -67,10 +72,3 @@ All Day,Banana,Banana,5,126,0.47g,0.16g,0g,0mg,1.42mg,32.34g,3.68g,17.32g,1.54g,
 All Day,Oranges,Oranges,5,67,0.17g,0.03g,0g,0mg,0mg,16.64g,3.4g,13.24g,1.33g,56.64mg,0.14mg,256.3mg,True,True,False,
 All Day,Fuji Apple,Fuji Apple,5.66,102,0.29g,0g,0g,0mg,1.6mg,24.41g,3.37g,18.73g,0.32g,11.23mg,0.16mg,174.84mg,True,True,False,
 All Day,Granny Smith Apple,Granny Smith Apple,6.4,105,0.34g,0g,0g,0mg,1.81mg,24.67g,5.08g,17.39g,0.8g,9.07mg,0.27mg,217.56mg,True,True,False,
-All Day,Panini Roll,Panini Roll,65.75,4255,27.59g,3.54g,0g,2.05mg,2668.17mg,840.81g,27.59g,11g,137.74g,239.32mg,10.62mg,1151.7mg,True,True,True,"gluten,wheat"
-All Day,Pizza Dough,Pizza Dough,5,324,2.1g,0.27g,0g,0.17mg,231.18mg,63.96g,2.1g,0.92g,10.46g,18.69mg,0.81mg,87.54mg,True,True,True,"gluten,wheat"
-All Day,Whole Wheat Bread,Whole Wheat Bread,1.59,105,1.48g,0.53g,0g,3.07mg,144.34mg,19.34g,1.09g,2.81g,3.51g,28.62mg,0.41mg,66.09mg,True,False,True,"soy,gluten,wheat,dairy,eggs"
-All Day,Ciabatta Roll,Ciabatta Roll,4,236,2.86g,0.41g,0g,0.05mg,471.35mg,44.02g,1.46g,0.2g,7.27g,18.11mg,0.56mg,60.72mg,True,True,True,"gluten,wheat"
-All Day,White Hoagie Torpedo Roll,White Hoagie Torpedo Roll,5.98,547,9.5g,1.25g,0.03g,1.1mg,1377.34mg,98.42g,2.71g,4.78g,14.55g,41.99mg,1.12mg,126.81mg,True,True,True,"gluten,wheat"
-All Day,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,4.14,469,18.01g,10.21g,0g,65.01mg,227.32mg,71.42g,4.07g,34.06g,7.79g,33.79mg,2.49mg,229.98mg,True,False,True,"gluten,wheat,dairy,eggs"
-All Day,Chocolate Chip Cookie,Chocolate Chip Cookie,4,482,23.08g,13.99g,0.01g,88.68mg,184.29mg,47.33g,2.84g,44.15g,7.24g,14.49mg,3.75mg,98.6mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"

@@ -1,8 +1,8 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
 All Day,SALADS,Caesar Salad,12.1,591,45.19g,9.94g,0g,55.72mg,861.43mg,28.63g,4.77g,2.91g,17.52g,341.36mg,2.33mg,686.83mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 All Day,SALADS,Antipasto Salad,15.91,712,61.73g,11.45g,0.18g,45.5mg,1569.9mg,22.68g,9.38g,6.76g,19.21g,392.15mg,2.75mg,947.12mg,True,False,False,"dairy,alcohol"
-All Day,SALADS,Butternut Squash & Cranberry Salad,13.1,588,33.23g,3.3g,0g,0mg,1214mg,69.84g,9.47g,39.95g,7.28g,200.84mg,3.97mg,1220.8mg,False,False,False,alcohol
-All Day,Salad Add-Ons,Grilled Chicken,8,330,6.69g,0.05g,0g,130.26mg,173.88mg,0.54g,0.09g,0.09g,52.19g,3.15mg,0.05mg,7.35mg,False,False,True,
+All Day,SALADS,Butternut Squash & Cranberry Salad,13.1,586,33.23g,3.3g,0g,0mg,1213.3mg,69.69g,9.47g,39.91g,7.28g,199.83mg,3.97mg,1210.4mg,False,False,False,alcohol
+All Day,Salad Add-Ons,Grilled Chicken,4,165,3.34g,0.02g,0g,65.1mg,86.9mg,0.27g,0.05g,0.05g,26.08g,1.57mg,0.02mg,3.67mg,False,False,False,
 All Day,Salad Add-Ons,Grilled Salmon,4.12,245,15.94g,3.51g,0g,62.25mg,400.91mg,0.41g,0.06g,0.02g,23.19g,13.41mg,0.46mg,417.24mg,False,False,False,fish
 All Day,Salad Add-Ons,Roasted Seitan Skewer,4.28,328,21.74g,1.56g,0g,0mg,858.57mg,7.38g,0.12g,0.02g,27.31g,62.49mg,2.56mg,282.24mg,True,True,False,"soy,gluten,wheat"
 All Day,NEAPOLITAN PIZZAS,Margherita Pizza,18.23,1036,31.52g,19.38g,0g,84.79mg,2492.51mg,133g,5.37g,2.22g,49.81g,737.85mg,2.27mg,385.82mg,True,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
