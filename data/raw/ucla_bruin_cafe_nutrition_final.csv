@@ -87,6 +87,26 @@ Extended Dinner,Hot Vanilla,Hot Vanilla,15.21,415,0.3g,0.17g,0g,7.33mg,154.29mg,
 Extended Dinner,Horchata Latte,Horchata Latte,16,31,0.5g,0.45g,0g,0mg,28.12mg,5.76g,0g,5.44g,0.23g,20.59mg,0mg,39.86mg,True,False,False,"soy,dairy"
 Extended Dinner,Tea Latte,Tea Latte,15.84,299,0g,0g,0g,0.54mg,25.59mg,59.09g,0g,59.09g,0.9g,43.82mg,0mg,42.43mg,True,False,False,dairy
 Extended Dinner,Americano,Americano,16.48,1,0g,0g,0g,0mg,19.66mg,0.14g,0g,0g,0g,13.92mg,0mg,11.02mg,True,True,False,
+Extended Dinner,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,4.14,469,18.01g,10.21g,0g,65.01mg,227.32mg,71.42g,4.07g,34.06g,7.79g,33.79mg,2.49mg,229.98mg,True,False,True,"gluten,wheat,dairy,eggs"
+Extended Dinner,Chocolate Chip Cookie,Chocolate Chip Cookie,4,482,23.08g,13.99g,0.01g,88.68mg,184.29mg,47.33g,2.84g,44.15g,7.24g,14.49mg,3.75mg,98.6mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+Extended Dinner,Chocolate Croissant,Chocolate Croissant,2.89,344,18.47g,11.88g,0g,39.58mg,316.65mg,36.94g,2.64g,13.19g,7.92g,31.66mg,2.64mg,50.14mg,True,False,True,"soy,gluten,wheat,dairy,eggs"
+Extended Dinner,Butter Croissant,Butter Croissant,3.17,350,16.22g,11.23g,0g,56.13mg,399.11mg,43.65g,1.25g,6.23g,8.73g,32.43mg,1.35mg,103.52mg,True,False,True,"gluten,wheat,dairy,eggs"
+Extended Dinner,Apple Turnover,Apple Turnover,4,292,14.04g,7.01g,0g,0mg,280.75mg,37.09g,1g,0g,5.01g,0mg,1.44mg,0mg,True,False,True,"soy,gluten,wheat"
+Extended Dinner,Cheese Danish,Cheese Danish,3.5,392,24.47g,4.9g,4.9g,12.24mg,330.33mg,39.15g,0g,11.01g,4.9g,36.71mg,0.49mg,48.94mg,True,False,False,"gluten,wheat,dairy"
+Extended Dinner,Red Velvet Cake,Red Velvet Cake,6.06,890,55.87g,14.46g,0g,109.94mg,547.36mg,85.44g,1.49g,55.85g,9.55g,77.45mg,2.49mg,203.88mg,False,False,False,"gluten,wheat,dairy,eggs,alcohol"
+Extended Dinner,Banana Walnut Muffin,Banana Walnut Muffin,7.24,808,57.7g,7.1g,0.02g,125.44mg,354.26mg,58.87g,2.3g,36.05g,14.59g,158.21mg,2.71mg,254.22mg,True,False,True,"gluten,wheat,eggs"
+Extended Dinner,Pumpkin Muffin,Pumpkin Muffin,7.24,712,46.52g,7.53g,0.02g,133.03mg,368.21mg,62.22g,1.4g,37.31g,10.05g,157.16mg,2.44mg,183.22mg,True,False,True,"gluten,wheat,dairy,eggs"
+Extended Dinner,Lemon Muffin,Lemon Muffin,7.12,730,48.71g,7g,0.02g,139.76mg,394.14mg,60.99g,0.95g,37.62g,10.37g,168.24mg,2.3mg,153.96mg,True,False,False,"gluten,wheat,eggs"
+Extended Dinner,Blueberry Muffin,Blueberry Muffin,6.99,682,44.57g,7.03g,0.02g,127.87mg,354.2mg,59.39g,1.25g,36.37g,9.55g,145.01mg,2.14mg,142.33mg,True,False,True,"gluten,wheat,dairy,eggs"
+Extended Dinner,Peach Cobbler,Peach Cobbler,7.08,260,9.23g,5.74g,0g,24.43mg,24.05mg,58.05g,1.91g,39.84g,3.21g,6.9mg,0.76mg,200.06mg,True,False,False,"gluten,wheat,dairy"
+Extended Dinner,Praline Eclair,Praline Eclair,3.26,196,17.17g,9.4g,0g,30.66mg,31.53mg,18.95g,2.43g,15.78g,2.33g,45.68mg,0.88mg,110.88mg,True,False,False,"soy,gluten,peanuts,wheat,sesame,dairy,eggs,alcohol"
+Extended Dinner,S'mores Tart,S'mores Tart,3.62,364,23.51g,14.78g,0g,82.52mg,69.88mg,44.8g,2.99g,33.6g,4.81g,37.7mg,1.35mg,160.03mg,True,False,False,"soy,gluten,peanuts,wheat,sesame,dairy,eggs"
+Extended Dinner,Pumpkin Chia Pudding w/ Cloud Cream,Pumpkin Chia Pudding w/ Cloud Cream,6.22,238,14.34g,10.54g,0.02g,0mg,10.91mg,25.99g,6.03g,16.25g,2.24g,71.2mg,1.16mg,353.63mg,True,True,False,
+Extended Dinner,Cinnamon Raisin Bagel,Cinnamon Raisin Bagel,4,308,1.34g,0g,0g,0mg,426.54mg,65.32g,2.66g,9.34g,10.66g,93.3mg,3.47mg,146.62mg,True,True,False,"soy,gluten,wheat"
+Extended Dinner,Plain Bagel,Plain Bagel,1.33,103,0.44g,0g,0g,0mg,150.4mg,21.23g,0.88g,1.77g,3.98g,26.54mg,1.2mg,30.96mg,True,True,False,"soy,gluten,wheat"
+Extended Dinner,Onion Bagel,Onion Bagel,4,320,1.34g,0g,0g,0mg,453.2mg,63.98g,2.66g,5.34g,12g,93.3mg,3.47mg,93.3mg,True,True,False,"soy,gluten,wheat"
+Extended Dinner,Everything Bagels,Everything Bagels,1.33,111,1.11g,0g,0g,0mg,256.56mg,21.23g,1.33g,1.77g,3.98g,44.24mg,1.28mg,35.39mg,True,True,False,"soy,gluten,wheat,sesame"
+Extended Dinner,Whole Wheat Bagel,Whole Wheat Bagel,3,211,1.49g,0g,0g,0mg,319.62mg,43.94g,4.99g,4.99g,8.99g,79.91mg,0.1mg,9.98mg,True,True,False,"soy,gluten,wheat"
 Extended Dinner,Fresh Fruit Cup,Fresh Fruit Cup,14,167,0.6g,0.12g,0g,0mg,31.74mg,42.54g,3.49g,36.03g,2.58g,35.43mg,0.99mg,717.49mg,True,True,False,
 Extended Dinner,Parfait Oatmeal Blueberry & Apple,Parfait Oatmeal Blueberry & Apple,11.5,455,11.83g,1.66g,0g,2.84mg,84.34mg,75.67g,11.08g,32.75g,14.7g,260.26mg,2.8mg,588.18mg,True,False,False,"gluten,dairy"
 Extended Dinner,Parfait Fresh Berry,Parfait Fresh Berry,10,138,1.11g,0.17g,0g,5.67mg,42.51mg,20.83g,5.72g,13.29g,13.06g,155.3mg,0.88mg,400.44mg,True,False,False,dairy
