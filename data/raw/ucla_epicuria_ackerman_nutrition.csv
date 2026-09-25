@@ -1,16 +1,16 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,SALADS,Caesar Salad,12.1,591,45.19g,9.94g,0g,55.72mg,861.43mg,28.63g,4.77g,2.91g,17.52g,341.36mg,2.33mg,686.83mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
+All Day,SALADS,Caesar Salad,12.1,591,45.19g,9.94g,0g,55.72mg,861.47mg,28.63g,4.77g,2.91g,17.52g,341.36mg,2.33mg,686.83mg,False,False,False,"fish,soy,gluten,wheat,dairy,eggs"
 All Day,SALADS,Antipasto Salad,15.91,712,61.73g,11.45g,0.18g,45.5mg,1569.9mg,22.68g,9.38g,6.76g,19.21g,392.15mg,2.75mg,947.12mg,True,False,False,"dairy,alcohol"
 All Day,SALADS,Butternut Squash & Cranberry Salad,13.1,586,33.23g,3.3g,0g,0mg,1213.3mg,69.69g,9.47g,39.91g,7.28g,199.83mg,3.97mg,1210.4mg,False,False,False,alcohol
 All Day,Salad Add-Ons,Grilled Chicken,4,165,3.34g,0.02g,0g,65.1mg,86.9mg,0.27g,0.05g,0.05g,26.08g,1.57mg,0.02mg,3.67mg,False,False,False,
-All Day,Salad Add-Ons,Grilled Salmon,4.12,245,15.94g,3.51g,0g,62.25mg,400.91mg,0.41g,0.06g,0.02g,23.19g,13.41mg,0.46mg,417.24mg,False,False,False,fish
-All Day,Salad Add-Ons,Roasted Seitan Skewer,4.28,328,21.74g,1.56g,0g,0mg,858.57mg,7.38g,0.12g,0.02g,27.31g,62.49mg,2.56mg,282.24mg,True,True,False,"soy,gluten,wheat"
+All Day,Salad Add-Ons,Grilled Salmon,4.12,245,15.94g,3.51g,0g,62.25mg,400.92mg,0.41g,0.06g,0.02g,23.19g,13.41mg,0.46mg,417.24mg,False,False,False,fish
+All Day,Salad Add-Ons,Roasted Seitan Skewer,4.28,328,21.74g,1.56g,0g,0mg,858.58mg,7.38g,0.12g,0.02g,27.31g,62.49mg,2.56mg,282.24mg,True,True,False,"soy,gluten,wheat"
 All Day,NEAPOLITAN PIZZAS,Margherita Pizza,18.23,1036,31.52g,19.38g,0g,84.79mg,2492.51mg,133g,5.37g,2.22g,49.81g,737.85mg,2.27mg,385.82mg,True,False,True,"soy,gluten,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Pepperoni Pizza,19.22,946,27.57g,14.11g,0g,60.96mg,2512.02mg,136.15g,6.1g,4.14g,38.74g,686.34mg,2.67mg,378.15mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Mozzarella Pizza,17.18,1021,34.67g,18.7g,0g,81.21mg,2667.87mg,134.14g,7.21g,2.43g,44.41g,944.34mg,4.28mg,388.59mg,False,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
 All Day,NEAPOLITAN PIZZAS,Tre Funghi Pizza,17.75,1034,39.04g,18.56g,0g,91.72mg,2702.7mg,134.38g,6.39g,2.41g,36.78g,490.12mg,2.97mg,741.87mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
-All Day,"""L.A."" PIZZA PIES",Chicken Pesto Pizza Pie,26.1,1836,97.21g,45.42g,0.07g,346.37mg,4009.12mg,131.02g,5.03g,2.37g,100.39g,1128.2mg,3.85mg,1589.83mg,False,False,False,"gluten,wheat,dairy"
-All Day,"""L.A."" PIZZA PIES",Ortolana Vegetarian Pie,28.26,1498,69.78g,34.05g,0g,134.02mg,3820.37mg,150.29g,15.38g,7.53g,56.32g,1062.5mg,4.33mg,1095.66mg,True,False,True,"gluten,wheat,dairy"
+All Day,"""L.A."" PIZZA PIES",Chicken Pesto Pizza Pie,26.75,1840,97.28g,45.49g,0.08g,346.35mg,4013.08mg,131.78g,5.23g,2.81g,100.69g,1147.54mg,3.94mg,1634.07mg,False,False,False,"gluten,wheat,dairy"
+All Day,"""L.A."" PIZZA PIES",Ortolana Vegetarian Pie,27.26,1550,76.27g,34.08g,0g,133.99mg,3810.72mg,148.9g,14.91g,6.88g,55.56g,1016.33mg,3.94mg,983.26mg,True,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Spaghetti Pomodoro,18.98,325,18.29g,10.33g,0g,46mg,938mg,21.47g,2.96g,6.4g,13.88g,324.79mg,1.83mg,156.93mg,True,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Chicken Fettuccine,21.63,815,56.04g,36.05g,0.06g,249.47mg,1491.3mg,33.97g,2.82g,5.82g,31.7g,311.33mg,2.88mg,762.08mg,False,False,True,"gluten,wheat,dairy"
 All Day,PASTAS,Ricotta Rosa Baked Pasta,20.04,832,50.44g,29.08g,0.06g,481.32mg,2104.95mg,44.59g,2.84g,14.31g,50.32g,3222.72mg,3.58mg,262.93mg,True,False,True,"gluten,wheat,dairy,eggs"
