@@ -1,14 +1,17 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,CONDIMENTS,Cheese Quesadilla,8.88,738,47.28g,27.2g,0g,119.51mg,1260.16mg,44.38g,3.04g,3.12g,36.46g,105.17mg,2.67mg,224.02mg,True,False,False,"soy,gluten,wheat,dairy"
-All Day,CONDIMENTS,Chicken Quesadilla,12.72,919,54.87g,30.32g,0.04g,213.67mg,1813.06mg,48.52g,5.01g,3.42g,59.16g,120.95mg,3.68mg,698.4mg,False,False,False,"soy,gluten,wheat,dairy"
+All Day,CONDIMENTS,California Steak Burrito,12.99,694,30.49g,12.63g,0g,72.28mg,1370.22mg,76.95g,6.85g,7.99g,30.3g,177.77mg,5.15mg,946.64mg,False,False,True,"soy,gluten,wheat,dairy"
+All Day,CONDIMENTS,California Veggie Burrito,20.3,1182,30.27g,12.31g,0g,30.5mg,2227.32mg,190.75g,21.58g,12.77g,39.76g,283.96mg,10.76mg,2236.35mg,True,False,False,"soy,gluten,wheat,dairy"
 All Day,Base,Brown Rice,2.99,162,1.19g,0.24g,0g,0mg,34.77mg,33.92g,1.52g,0g,3.34g,15.92mg,0.8mg,119.37mg,True,True,False,
 All Day,Base,Sticky Rice,6,647,1.6g,0.26g,0g,0mg,17mg,139.94g,3.23g,0.09g,13.29g,37.4mg,10.71mg,45.9mg,True,True,False,
-All Day,Base,Garlic Fried Rice,8.32,863,4.55g,0.64g,0g,0mg,597.97mg,182.77g,3.04g,0.31g,16.46g,72.06mg,9.86mg,279.05mg,True,True,False,
-All Day,Base,Pilipino Style Bihon Stir-Fried Noodles,2.93,251,1.24g,0.11g,0g,0mg,559.3mg,57.32g,2.05g,2.8g,1.27g,15.75mg,1mg,76.92mg,True,True,False,
-All Day,Entrée,Crispy Pork Belly,6,676,62.51g,22.8g,0g,84.88mg,820.08mg,14.59g,0.02g,9.72g,12.63g,6.34mg,0.63mg,219.05mg,False,False,False,"soy,gluten,wheat"
-All Day,Entrée,Chicken Adobo,4.07,349,25.99g,7.45g,0g,114.71mg,239.27mg,2.55g,0.05g,2.08g,23.91g,17.28mg,1.43mg,255.17mg,False,False,False,"soy,gluten,wheat"
-All Day,Entrée,Kaldareta Beef,5.68,126,5.39g,1.11g,0g,54.53mg,138.99mg,8.98g,2g,3.2g,10.47g,30.64mg,1.91mg,417.94mg,False,False,False,
-All Day,Entrée,Lumpiang Hubad Stir Fry,6.04,230,14.78g,1.57g,0g,0mg,364.99mg,17.11g,4.84g,1.37g,15.88g,95.64mg,2.84mg,668.01mg,True,True,False,soy
+All Day,Base,Young Chow Vegetable Fried Rice,6.2,624,13.16g,1.83g,0.02g,99.22mg,2220.18mg,109.71g,2.14g,2.2g,13.07g,72.48mg,7.8mg,226.62mg,True,False,False,"soy,eggs"
+All Day,Base,Chow Mein Noodles,4.59,168,2.99g,0.1g,0g,0mg,764.37mg,27.55g,1.99g,2.44g,5.84g,43.47mg,1.04mg,163.36mg,True,True,False,"soy,gluten,wheat"
+All Day,Entrée,Fish w/ Black Bean Sauce,4.02,116,4.66g,0.52g,0g,38.08mg,239.93mg,4.57g,0.56g,1.01g,13.88g,21.16mg,0.28mg,332.74mg,False,False,False,"fish,soy,gluten,wheat,sesame,eggs,alcohol"
+All Day,Entrée,BBQ Roast Pork,3.08,165,9.75g,3.65g,0g,48.72mg,143.5mg,2.28g,0.02g,1.68g,16.39g,21.66mg,1.19mg,295.39mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,Entrée,Green Bean Stir Fry,2.29,77,6.08g,0.45g,0g,0mg,118.14mg,5.18g,1.59g,2.63g,1.12g,23.48mg,0.65mg,123.55mg,True,True,False,soy
+All Day,Entrée,Chinese Broccoli,5.94,62,1.95g,0.27g,0g,0mg,276.37mg,8.47g,3.55g,1.7g,1.88g,146.1mg,0.89mg,392.74mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,Entrée,Eggplant & Tofu w/ Spicy Garlic Sauce,5.44,156,6.16g,0.94g,0g,0mg,492.15mg,17.14g,2.14g,11.59g,8.66g,17.43mg,0.23mg,121.01mg,True,True,False,"soy,gluten,wheat"
+All Day,Entrée,Beef & Broccoli,3.63,110,4.82g,1.35g,0g,22.36mg,680.39mg,8.6g,1.21g,2.48g,8.52g,25.67mg,1.07mg,169.32mg,False,False,False,"soy,gluten,wheat,eggs"
+All Day,Entrée,Orange Chicken,5.33,298,15.81g,3.37g,0g,60.75mg,567.4mg,28.51g,0.05g,12.52g,12.32g,12.67mg,0.68mg,196.48mg,False,False,False,"soy,gluten,wheat,sesame"
 All Day,ASIAN TOPPING,Vietnamese Pickled Vegetables,1.05,12,0.04g,0.01g,0g,0mg,32.04mg,2.59g,0.59g,1.73g,0.22g,7.87mg,0.09mg,74.77mg,True,True,False,
 All Day,ASIAN TOPPING,Salted Cucumber,2.02,9,0.06g,0.02g,0g,0mg,123.36mg,2.06g,0.29g,0.95g,0.37g,9.17mg,0.16mg,83.64mg,True,True,False,
 All Day,ASIAN TOPPING,Marinated Soy Sprouts,1.7,83,6.27g,0.88g,0g,0mg,116.16mg,4.21g,0.51g,0.04g,5.62g,29.91mg,0.92mg,211.45mg,True,True,False,"soy,sesame"
@@ -42,18 +45,17 @@ All Day,CONDIMENTS,Fried Garlic,1,227,28.2g,0g,0g,0mg,28.2mg,0g,0g,0g,0g,28.2mg,
 All Day,CONDIMENTS,Sweet Chili Mae Ploy Sauce,1,0,0,0,0Cholesterol,0,0,0,0,0,0,0,0,0,True,True,False,
 All Day,CONDIMENTS,Sweet Chili Mayo,1,146,15.91g,2.17g,0g,14.46mg,101.23mg,0g,0g,0g,0g,0mg,0mg,0mg,True,False,False,"soy,eggs"
 All Day,CONDIMENTS,Sweet and Sour Sauce,1,44,0.01g,0g,0g,0mg,152mg,10.77g,0.03g,5.3g,0.08g,2.82mg,0.06mg,27.92mg,True,True,False,
-All Day,CONDIMENTS,Satay Dipping Sauce,1.48,74,4.94g,3.7g,0g,0mg,550.29mg,5.76g,0.75g,3.36g,0.6g,6.1mg,0.16mg,78.63mg,True,True,False,"soy,gluten,peanuts,wheat"
-All Day,CONDIMENTS,Korean Beef Bulgogi Bento Box,16,984,33.06g,8.44g,0g,71.74mg,1533.19mg,132.51g,6.03g,26.3g,40g,93.74mg,9.57mg,620.98mg,False,False,False,"fish,soy,shellfish,gluten,wheat,sesame,eggs"
-All Day,CONDIMENTS,Impossible Mapo Tofu Bento Box,16,684,26.44g,4.31g,0g,6.85mg,1146.86mg,87.48g,9.57g,7.71g,25.12g,97.32mg,5.35mg,843.15mg,True,False,False,"soy,gluten,wheat,sesame,eggs,alcohol"
+All Day,CONDIMENTS,Satay Dipping Sauce,1.48,73,4.94g,3.7g,0g,0mg,494.34mg,5.76g,0.86g,3.36g,0.6g,6.1mg,0.16mg,78.63mg,True,True,False,"soy,gluten,peanuts,wheat"
 All Day,CONDIMENTS,Vegetable Pho Noodle Soup,16,398,2.49g,0.14g,0g,0mg,428.69mg,85.08g,11.88g,3.54g,6.8g,74.37mg,1.04mg,185.75mg,True,False,False,"soy,gluten,wheat,sesame"
-All Day,CONDIMENTS,Beef Pho,16,489,7.17g,2.09g,0g,15.19mg,1018.97mg,93.87g,13.02g,4.94g,11.07g,35.24mg,1.72mg,203.35mg,False,False,False,"fish,soy"
+All Day,CONDIMENTS,Chicken Katsu Bento Box,16,860,24.22g,3.95g,0.05g,63.08mg,2055.22mg,128.93g,8.34g,15.28g,32.06g,145.07mg,8.44mg,795.48mg,False,False,False,"soy,gluten,wheat,sesame,eggs"
+All Day,CONDIMENTS,Crispy Seitan Bento Box,16,726,28.53g,3.58g,1.41g,0mg,1408.07mg,94.55g,6.85g,7.71g,24.4g,144.44mg,3.95mg,688.55mg,True,True,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,CONDIMENTS,Tan Tan Ramen Noodle Soup,16,1194,60.54g,25.4g,0g,137.5mg,5233.3mg,126.66g,4.13g,7.98g,33.01g,93.1mg,9.66mg,178.72mg,False,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,CONDIMENTS,Vegetarian Miso Ramen,16,632,27.89g,12.83g,0g,0mg,3397.67mg,79.27g,5.58g,7.66g,16.55g,89.38mg,6.17mg,226.3mg,True,False,False,"soy,gluten,wheat,dairy"
 All Day,CONDIMENTS,Vegetable Pho,192.79,271,3.28g,0g,0g,0mg,8022.66mg,56.29g,6.01g,37.16g,10.38g,324.64mg,2.19mg,837.85mg,False,False,False,"soy,gluten,wheat"
 All Day,CONDIMENTS,Ramen Soup Broth,16,149,7.44g,2.13g,0g,10.66mg,4227.12mg,12.74g,2.13g,2.13g,6.39g,11.38mg,0mg,63.81mg,False,False,False,"soy,gluten,wheat"
 All Day,CONDIMENTS,Miso Soup,16,124,3.76g,0.63g,0g,0mg,2344.37mg,15.83g,3.36g,3.85g,7.98g,47.35mg,1.54mg,131.2mg,True,True,False,soy
+All Day,CONDIMENTS,Beef Pho,16,489,7.17g,2.09g,0g,15.19mg,1018.97mg,93.87g,13.02g,4.94g,11.07g,35.24mg,1.72mg,203.35mg,False,False,False,"fish,soy"
 All Day,CONDIMENTS,California Roll,7.78,408,10.14g,1.46g,0g,10.39mg,752.81mg,68.95g,3.46g,3.44g,10.32g,25.23mg,0.79mg,256.77mg,False,False,False,"fish,soy,shellfish,gluten,wheat,sesame,eggs"
 All Day,CONDIMENTS,Spicy Tuna Roll,4.87,193,3.53g,0.59g,0g,8.72mg,315.43mg,31.48g,0.65g,1.28g,8.32g,15.01mg,0.57mg,110.79mg,False,False,False,"fish,soy,sesame,eggs"
 All Day,CONDIMENTS,Cucumber & Avocado Roll,12.41,627,18.11g,2.64g,0g,0mg,702.03mg,105.44g,9.18g,3.09g,13.4g,44.63mg,1.48mg,692.57mg,True,True,False,soy
-All Day,CONDIMENTS,Carne Asada Bowl,16,804,28.89g,8.3g,0g,81.04mg,1474.87mg,97.09g,9.21g,7.17g,39.27g,159.63mg,6.3mg,1131.07mg,False,False,False,"soy,dairy"
-All Day,CONDIMENTS,Bean & Cheese Bowl,16,777,19.27g,6.58g,0g,0mg,1450.7mg,133.15g,12.38g,8.25g,18.96g,175.23mg,6.58mg,1065.82mg,True,True,False,
-All Day,CONDIMENTS,Impossible Bowl,16,902,30.48g,3.85g,0g,0mg,1178.6mg,119.5g,10.43g,4.85g,43.35g,132.47mg,12.56mg,1363.49mg,True,True,False,
-All Day,CONDIMENTS,Teriyaki Chicken Bowl,16,654,8.57g,1.09g,0g,88.75mg,1809.78mg,98.27g,3.58g,27.16g,35.46g,25.12mg,0.86mg,195.64mg,False,False,False,"soy,gluten,wheat,sesame,alcohol"
+All Day,CONDIMENTS,Orange Chicken Bowl,16,1100,25.21g,4.63g,0g,68.43mg,876.52mg,185.66g,6.62g,14.97g,30.38g,74.69mg,12.34mg,488.46mg,False,False,False,"soy,gluten,wheat,sesame"
