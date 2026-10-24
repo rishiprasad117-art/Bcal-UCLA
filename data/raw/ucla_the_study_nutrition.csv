@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,Sides,Baked Brownie,5.15,538,28.47g,16.63g,0.01g,152.19mg,173.85mg,76.22g,5.7g,54.29g,8.74g,48.89mg,6.64mg,659.47mg,True,False,False,"soy,gluten,peanuts,wheat,sesame,dairy,eggs"
+All Day,Sides,Mango Chia Pudding,2.86,407,28.54g,9.68g,0.38g,55.38mg,198.67mg,33.16g,0.6g,21.73g,4.23g,54.55mg,0.96mg,95.37mg,False,False,False,"gluten,wheat,dairy,eggs"
 All Day,Sides,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,eggs"
 All Day,Sides,Croque Monsieur,12.81,705,30.97g,18.63g,0.07g,106.17mg,1785.33mg,72.22g,3.3g,5.77g,35.18g,441.82mg,1.38mg,454.82mg,True,False,False,"gluten,wheat,dairy,alcohol"
 All Day,Sides,Croque Madame,13.85,750,35.64g,19.15g,0.08g,285.78mg,1745.96mg,68.1g,3.1g,5.61g,39.29g,442.5mg,2.16mg,495.77mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
