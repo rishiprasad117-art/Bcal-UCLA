@@ -1,4 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
+All Day,Sides,UCLA Cookie,4.1,471,14.19g,8.03g,0g,45.2mg,15.75mg,83.44g,0.77g,58.32g,3.47g,10.5mg,1.02mg,24.93mg,True,False,False,"dairy,gluten,eggs,wheat,alcohol"
 All Day,Sides,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,eggs"
 All Day,Sides,Croque Monsieur,12.81,705,30.97g,18.63g,0.07g,106.17mg,1785.33mg,72.22g,3.3g,5.77g,35.18g,441.82mg,1.38mg,454.82mg,True,False,False,"gluten,wheat,dairy,alcohol"
 All Day,Sides,Croque Madame,13.85,750,35.64g,19.15g,0.08g,285.78mg,1745.96mg,68.1g,3.1g,5.61g,39.29g,442.5mg,2.16mg,495.77mg,True,False,False,"gluten,wheat,dairy,eggs,alcohol"
