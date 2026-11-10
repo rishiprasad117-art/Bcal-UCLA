@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-All Day,Sides,Logo Cookie,1,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,"fish,soy,shellfish,gluten,peanuts,wheat,sesame,dairy,eggs,alcohol"
+All Day,Sides,Jack - Vanilla Cheese Cake with Sour Cream,1,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,False,False,False,"fish,soy,shellfish,gluten,peanuts,wheat,sesame,dairy,eggs,alcohol"
 All Day,Sides,Pumpkin Spice Waffle w/ Spiced Whip,8.62,720,41.63g,17.17g,0.02g,162.65mg,133.61mg,73.68g,5.06g,33.98g,12.26g,61.51mg,3.05mg,345.1mg,False,False,False,"gluten,wheat,dairy,eggs,alcohol"
 All Day,Sides,Craft Your Own Breakfast Skillet,,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,True,True,"soy,eggs"
 All Day,Sides,Croque Monsieur,12.81,705,30.97g,18.63g,0.07g,106.17mg,1785.33mg,72.22g,3.3g,5.77g,35.18g,441.82mg,1.38mg,454.82mg,True,False,False,"gluten,wheat,dairy,alcohol"
