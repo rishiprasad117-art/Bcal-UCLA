@@ -18,22 +18,22 @@ All Day,Pollo Parma,Pollo Parma,11.78,681,29.75g,13.86g,0g,111.36mg,905.07mg,48.
 All Day,Florentino,Florentino,12.25,888,55.34g,11.32g,0g,116.87mg,789.95mg,46.28g,2.22g,1.77g,43.12g,353.76mg,1.18mg,290.4mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Tacchino,Tacchino,15.75,955,60.31g,17.99g,0g,121.38mg,1910.82mg,53.52g,4.73g,3.35g,50.31g,434.53mg,1.7mg,1011.45mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Campania,Campania,10.84,394,11.09g,5.44g,0g,20.34mg,564.97mg,51.95g,4.58g,5.93g,21.23g,330.92mg,1.17mg,547.89mg,True,False,False,"gluten,wheat,dairy"
-All Day,Heirloom Tomato Caprese,Heirloom Tomato Caprese,7.18,346,9.17g,5.51g,0g,22.86mg,486.51mg,49.18g,2.2g,3.86g,15.28g,46.52mg,0.98mg,253.84mg,True,False,False,"gluten,wheat,dairy,alcohol"
+All Day,Heirloom Tomato Caprese,Heirloom Tomato Caprese,7.18,346,9.17g,5.51g,0g,22.86mg,486.51mg,49.18g,2.2g,3.86g,15.28g,46.52mg,0.98mg,253.84mg,True,False,False,"gluten,wheat,dairy"
 All Day,Pepperoni,Pepperoni,12,1031,64.04g,21.63g,0g,100.4mg,1620.54mg,70.23g,2.89g,2.41g,42.41g,552.7mg,2.24mg,237.56mg,False,False,False,"gluten,wheat,dairy"
 All Day,Formaggi,Formaggi,10.75,820,44.36g,14.02g,0g,54.85mg,892.13mg,70.42g,3.02g,2.44g,35.07g,565.28mg,2.47mg,258.51mg,True,False,False,"gluten,wheat,dairy"
 All Day,Genova,Genova,12.5,862,37.52g,19.42g,0.04g,141.05mg,1016.31mg,71.04g,2.34g,1.98g,58.28g,582.5mg,2.48mg,326.81mg,False,False,False,"gluten,wheat,dairy"
 All Day,Margherita,Margherita,12.05,826,44.4g,14.04g,0g,54.81mg,893.6mg,71.89g,3.45g,3.52g,35.24g,559.45mg,2.39mg,342.7mg,True,False,False,"gluten,wheat,dairy"
-All Day,Carnivora,Carnivora,13,915,48.67g,21.4g,0.52g,130.82mg,1770.27mg,75.26g,3.02g,3.76g,39.79g,466.06mg,2.76mg,314.83mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
+All Day,Carnivora,Carnivora,13,915,48.67g,21.4g,0.52g,130.82mg,1770.53mg,75.26g,3.02g,3.76g,39.79g,466.06mg,2.76mg,314.8mg,False,False,False,"soy,gluten,wheat,dairy,eggs"
 All Day,Sundried Tomato & Goat Cheese,Sundried Tomato & Goat Cheese,12,892,47.65g,15.24g,0g,65.98mg,797.09mg,82.88g,6.19g,37.92g,31.26g,464.68mg,2.01mg,216.03mg,True,False,False,"gluten,wheat,dairy"
-All Day,Tiramisu,Tiramisu,1.48,133,9.04g,5.72g,0.01g,92.85mg,19.12mg,11.49g,0.1g,8.95g,3.36g,31.54mg,0.44mg,42.1mg,True,False,True,"gluten,wheat,dairy,eggs"
+All Day,Tiramisu,Tiramisu,1.38,113,8.83g,5.62g,0.01g,70.11mg,13.47mg,10g,0.55g,7.98g,2.82g,27.94mg,0.57mg,63.77mg,True,False,False,"soy,gluten,peanuts,wheat,sesame,dairy,eggs,alcohol"
 All Day,Cheesecake,Cheesecake,3.38,329,21.77g,13g,0.01g,114.16mg,233.76mg,25.81g,0.4g,19.21g,5.75g,9.62mg,0.54mg,55.97mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
 All Day,Ranch Dressing,Ranch Dressing,1.96,232,24.59g,3.46g,0g,23.16mg,395.12mg,1.22g,0g,1.22g,0.84g,29.39mg,0.01mg,38.26mg,True,False,False,"soy,dairy,eggs"
 All Day,Vegan Caesar Dressing,Vegan Caesar Dressing,2.16,180,20.06g,0.01g,0g,0mg,456.64mg,5.25g,0.17g,3.38g,0.32g,10.49mg,0.16mg,79.52mg,True,True,False,"soy,gluten,wheat,alcohol"
 All Day,Balsamic Vinaigrette,Balsamic Vinaigrette,2.05,373,39.36g,2.81g,0g,0mg,393.26mg,1.23g,0.12g,0.93g,0.05g,2.29mg,0.05mg,6.25mg,True,True,False,alcohol
 All Day,Red Wine Vinaigrette,Red Wine Vinaigrette,2.02,326,34.64g,2.48g,0g,0mg,307.32mg,0.35g,0.07g,0.06g,0.06g,1.83mg,0.03mg,6.01mg,True,True,False,alcohol
-All Day,Salted,Salted,13.43,838,26.11g,13.47g,0.19g,58.08mg,2706.71mg,122.55g,4.95g,3.62g,26.07g,237.88mg,2.47mg,494.63mg,True,False,False,"gluten,wheat,dairy"
-All Day,Jalapeno,Jalapeno,13.42,807,25.68g,13.16g,0.19g,56.6mg,1716.25mg,117.13g,5.4g,4.15g,25.22g,240.26mg,2.89mg,536.14mg,True,False,False,"gluten,wheat,dairy"
-All Day,Pepperoni,Pepperoni,13.58,913,37.1g,17.55g,0.58g,81.1mg,3014.27mg,113.12g,4.62g,3.58g,29.44g,238.75mg,2.69mg,551.52mg,False,False,False,"gluten,wheat,dairy"
+All Day,Salted,Salted,13.43,799,23.14g,10.31g,0.19g,41.1mg,2756.38mg,124.95g,4.91g,3.5g,21.12g,61.66mg,2.28mg,414.13mg,True,False,False,"soy,gluten,wheat,dairy"
+All Day,Jalapeno,Jalapeno,13.42,768,22.71g,9.97g,0.19g,39.64mg,1765.93mg,119.52g,5.36g,4.03g,20.28g,63.98mg,2.7mg,455.64mg,True,False,False,"soy,gluten,wheat,dairy"
+All Day,Pepperoni,Pepperoni,13.58,874,34.14g,14.36g,0.58g,64.12mg,3063.96mg,115.51g,4.54g,3.46g,24.52g,62.43mg,2.5mg,471.04mg,False,False,False,"soy,gluten,wheat,dairy"
 All Day,Marinara Sauce,Marinara Sauce,2.03,35,1.37g,0.1g,0g,0mg,62.12mg,5.13g,0.87g,2.89g,1.29g,11.63mg,0.78mg,248.86mg,True,True,False,
 All Day,Jalapeño Cheese Sauce,Jalapeño Cheese Sauce,2.03,154,12.43g,7.78g,0.01g,45.21mg,348.68mg,3.48g,0.22g,1.35g,5.4g,184.63mg,0.16mg,78.93mg,True,False,False,"gluten,wheat,dairy"
 All Day,Purple Yam Ube,Purple Yam Ube,8,465,25.75g,15.46g,0g,90.16mg,141.69mg,54.09g,0g,51.53g,126.23g,502.34mg,0mg,0mg,True,False,False,dairy
@@ -60,11 +60,11 @@ All Day,Oreo Cookie Pieces,Oreo Cookie Pieces,1.5,205,7.85g,2.36g,0g,0mg,164.89m
 All Day,M&M Milk Chocolate Chopped,M&M Milk Chocolate Chopped,2,285,13.22g,8.19g,0.1g,8.49mg,38.49mg,38.71g,1.53g,35.4g,2.71g,65.66mg,0.7mg,0mg,True,True,False,
 All Day,Rainbow Sprinkles,Rainbow Sprinkles,2,272,11.26g,4.67g,3.96g,0mg,2.06mg,41.51g,0.2g,20.79g,0.93g,1.72mg,0.1mg,0mg,True,False,False,soy
 All Day,Dark Chocolate Sauce,Dark Chocolate Sauce,1,105,0.94g,0g,0g,0mg,14.1mg,23.5g,0g,21.62g,0.94g,0mg,1.69mg,121.26mg,True,True,False,
-All Day,Gummy Bears,Gummy Bears,2,57,0g,0g,0g,0mg,11.32mg,12.45g,0g,7.92g,0.57g,2.26mg,0mg,1.13mg,True,True,False,
+All Day,Gummy Bears,Gummy Bears,2,57,0g,0g,0g,0mg,11.32mg,12.45g,0g,7.92g,0.57g,2.26mg,0mg,1.13mg,False,False,False,
 All Day,Whipped Cream,Whipped Cream,1,0,0g,0g,0g,0mg,0mg,0g,0g,0g,0g,0mg,0mg,0mg,True,False,False,
 All Day,Maraschino Cherry,Maraschino Cherry,0.03,2,0g,0g,0g,0mg,0mg,0.32g,0g,0.16g,0g,0mg,0mg,0mg,True,True,False,
-All Day,Chocolate Chip Cookie,Chocolate Chip Cookie,4,482,23.08g,13.99g,0.01g,88.68mg,184.29mg,47.33g,2.84g,44.15g,7.24g,14.49mg,3.75mg,98.6mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
-All Day,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,4.14,469,18.01g,10.21g,0g,65.01mg,227.32mg,71.42g,4.07g,34.06g,7.79g,33.79mg,2.49mg,229.98mg,True,False,True,"gluten,wheat,dairy,eggs"
+All Day,Chocolate Chip Cookie,Chocolate Chip Cookie,4,483,23.08g,13.99g,0.01g,88.68mg,191.71mg,46.82g,2.84g,43.36g,7.27g,36.53mg,3.94mg,133.9mg,True,False,False,"soy,gluten,wheat,dairy,eggs,alcohol"
+All Day,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,4.14,470,18.01g,10.21g,0g,65.01mg,234.03mg,70.97g,4.07g,33.36g,7.82g,53.69mg,2.65mg,261.85mg,True,False,True,"gluten,wheat,dairy,eggs"
 All Day,Sea Salt Kettle Chips,Sea Salt Kettle Chips,1.52,231,13g,1.5g,0g,0mg,180mg,25g,2g,0g,3g,0mg,0mg,0mg,True,True,False,
 All Day,BBQ Kettle Chips,BBQ Kettle Chips,1.5,213,12.11g,1.51g,0g,0mg,302.86mg,25.74g,1.51g,1.51g,3.03g,7.57mg,0.61mg,575.42mg,True,True,False,
 All Day,Smartfood White Cheddar Popcorn,Smartfood White Cheddar Popcorn,1.5,243,15.14g,3.03g,0g,7.57mg,302.86mg,22.71g,3.03g,3.03g,4.54g,54.51mg,0.45mg,151.43mg,True,False,False,dairy
