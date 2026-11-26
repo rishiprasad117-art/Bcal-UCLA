@@ -1,2 +1,2 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Dinner,Fruit,Red Grapes,1,20,0.05g,0.01g,0g,0mg,0.56mg,5.1g,0.25g,4.37g,0.2g,2.82mg,0.1mg,53.86mg,True,True,False,
+Lunch,Simply Grilled,Chicken Shawarma,1.89,165,13.54g,1.2g,0g,35.36mg,129.04mg,0.91g,0.18g,0.45g,8.47g,13.87mg,0.1mg,28.29mg,False,False,False,dairy
