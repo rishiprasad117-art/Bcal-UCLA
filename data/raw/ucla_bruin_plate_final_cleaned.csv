@@ -1,5 +1,5 @@
 Meal,Station,Food Name,Ounces,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrate,Dietary Fiber,Sugars,Protein,Calcium,Iron,Potassium,is_vegetarian,is_vegan,is_halal,allergens
-Breakfast,Fruit,Grapefruit,2,24,0.08g,0.01g,0g,0mg,0mg,6.03g,0.91g,3.9g,0.44g,12.45mg,0.05mg,76.41mg,True,True,False,
-Breakfast,Fruit,Green Grapes,1,20,0.05g,0.01g,0g,0mg,0.56mg,5.1g,0.25g,4.37g,0.2g,2.82mg,0.1mg,53.86mg,True,True,False,
-Lunch,Sweet Bites,Multi-Grain Bread,1.48,97,1.03g,0.27g,0g,1.23mg,143.06mg,18.72g,2.32g,2.25g,3.36g,18.24mg,0.52mg,44.78mg,True,False,True,"soy,gluten,wheat,dairy"
-Dinner,Simply Grilled,Halal Herbs de Provencal Chicken Thigh,1.55,52,1.82g,0.46g,0.01g,36.74mg,40.47mg,0.6g,0.05g,0.06g,7.78g,5.48mg,0.34mg,103.11mg,False,False,True,
+Lunch,Farmstand,Roasted Broccoli,3.21,786,84.76g,6.08g,0g,0mg,112.26mg,4.39g,1.99g,1.25g,2.54g,41.42mg,0.76mg,276.96mg,True,True,True,
+Lunch,Simply Grilled,Grilled Shawarma Halal Chicken Thigh,1.89,164,13.61g,1.29g,0.01g,36.08mg,130.14mg,0.91g,0.18g,0.45g,8.6g,16.52mg,0.41mg,119.85mg,False,False,True,dairy
+Lunch,Simply Grilled,Falafel Stacker,4.22,159,4.04g,0.6g,0g,23.6mg,373.81mg,23.58g,4.39g,3.41g,7.88g,74.5mg,2.04mg,245.93mg,True,False,False,"soy,gluten,wheat,sesame,dairy,eggs"
+Lunch,Sweet Bites,Cacao Butter,1.09,38,0.69g,0.24g,0g,0mg,56.55mg,7.08g,0.7g,2.92g,0.97g,6.42mg,0.39mg,66.74mg,True,False,True,"soy,dairy"
